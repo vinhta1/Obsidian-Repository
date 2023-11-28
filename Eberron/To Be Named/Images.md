@@ -19,3 +19,4 @@
 
 # [[Scene 4 - The Offering]]
 
+![[The Magnificent Mansion - Floor 1 of 3.jpg]]
