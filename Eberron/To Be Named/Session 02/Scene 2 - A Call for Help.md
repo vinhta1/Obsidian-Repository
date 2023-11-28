@@ -20,6 +20,7 @@ The characters need to get inside Oliver's home to look for clues, however, they
 > [!faq] Clues
 >  - DC 15 Investigation (Int) or Perception (Wis)   
 > 	- A piece of wooden, glamerweaved mask.
+> 	- A note that reads: "Grab the girl. Grab the book. Prepare the plaque. Prepare the relic. Twenty-four hours."
 > - Checking Oliver’s Study
 > 	- A piece of wooden, glamerweaved mask.
 > 	- Oliver’s book from the library is missing. A book on exotic languages.
