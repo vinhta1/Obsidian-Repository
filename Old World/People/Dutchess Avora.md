@@ -1,0 +1,2 @@
+[[Book of Names]]
+A vampire who aided the [[Vita Est]] in their quest for artificial vampirism. Died during the trials. Her daughter and last of the line, [[Ariella Avora]], seeks vengeance against those who caused her demise.

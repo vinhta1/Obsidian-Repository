@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"group","id":"ab039340ee70f7af","x":780,"y":-80,"width":1485,"height":580,"color":"#5462c9","label":"Depth 1"},
+		{"type":"group","id":"a7906ae211ba6985","x":780,"y":1140,"width":1485,"height":460,"color":"#5462c9","label":"Depth 3"},
+		{"type":"group","id":"b26d6922122c0c2a","x":780,"y":600,"width":1485,"height":460,"color":"#5462c9","label":"Depth 2"},
+		{"type":"group","id":"04ce72fcaa4ece8c","x":780,"y":-640,"width":1485,"height":460,"color":"#5462c9","label":"Depth 0"},
+		{"type":"file","file":"Locations/Williamsburg, Brooklyn/Domino Sugar Refinery, Williamsburg.md","id":"e38022f4f6306ba4","x":800,"y":640,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"The Infection Club.md","id":"c05ca10a3fc3f603","x":800,"y":-40,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Locations/Lower East Side, Manhattan/Lower East Side Preparatory High School, Lower East Side.md","id":"16546d677f31b715","x":1320,"y":-40,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Locations/Global Genetics Offices, Downtown Brooklyn.md","id":"781e3aac2fca2668","x":1845,"y":-40,"width":400,"height":400,"color":"1"},
+		{"type":"text","text":"Allison Craig calls the crew","id":"f97d08b630286f53","x":1070,"y":-440,"width":250,"height":60,"color":"1"},
+		{"type":"file","file":"Locations/Helix Labs' Abandoned Facility, Silicon Alley.md","id":"72778368a308a076","x":1845,"y":640,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Locations/Lower East Side, Manhattan/The Derelict House, Lower East Side.md","id":"51e206e50dc20694","x":1321,"y":1180,"width":400,"height":400,"color":"1"},
+		{"type":"text","text":"Her daughter, Emily, is missing","id":"cef5320c8f895891","x":1378,"y":-440,"width":285,"height":60,"color":"1"},
+		{"type":"file","file":"Locations/Lower East Side, Manhattan/A Local Coffee Shop, Lower East Side.md","id":"894a665e498153c1","x":1320,"y":640,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"7cdd56df0cfcc8b3","fromNode":"cef5320c8f895891","fromSide":"bottom","toNode":"16546d677f31b715","toSide":"top"},
+		{"id":"3a29af95163c59cd","fromNode":"16546d677f31b715","fromSide":"left","toNode":"c05ca10a3fc3f603","toSide":"right"},
+		{"id":"2f89dbcc3114afd1","fromNode":"cef5320c8f895891","fromSide":"bottom","toNode":"781e3aac2fca2668","toSide":"top"},
+		{"id":"c88079970313a04d","fromNode":"16546d677f31b715","fromSide":"right","toNode":"781e3aac2fca2668","toSide":"left"},
+		{"id":"1b3b58cc5ff62fe0","fromNode":"781e3aac2fca2668","fromSide":"bottom","toNode":"72778368a308a076","toSide":"top"},
+		{"id":"08788d863196aff6","fromNode":"16546d677f31b715","fromSide":"bottom","toNode":"894a665e498153c1","toSide":"top"},
+		{"id":"88ce352513ef862f","fromNode":"894a665e498153c1","fromSide":"left","toNode":"e38022f4f6306ba4","toSide":"right"},
+		{"id":"2f8b58b0fda31fa0","fromNode":"e38022f4f6306ba4","fromSide":"bottom","toNode":"51e206e50dc20694","toSide":"top"},
+		{"id":"dcb6786f05a70ce6","fromNode":"72778368a308a076","fromSide":"bottom","toNode":"51e206e50dc20694","toSide":"top"},
+		{"id":"a7d76f1ceecf541a","fromNode":"f97d08b630286f53","fromSide":"right","toNode":"cef5320c8f895891","toSide":"left"},
+		{"id":"48d86289bb9469a1","fromNode":"894a665e498153c1","fromSide":"top","toNode":"c05ca10a3fc3f603","toSide":"bottom"}
+	]
+}

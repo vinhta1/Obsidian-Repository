@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "318fb7c5c38b1b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0028ab01a7d009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d127153ce7d8663b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26145ad2c2d96a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a6b9549f225905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "602969cd9526ef60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f66adfaaeca0b6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9af273581f32d022",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9446ce536c5e9323",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8da96c6a27e391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f912064caf97082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f3404a95701b05a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9179b95e6912a8e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc453126d48e9386",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d127153ce7d8663b",
+  "lastOpenFiles": [
+    "Session 01/Scene 1 - The Chase.md",
+    "Session 02/Scene 2 - A Call for Help.md",
+    "Session 02/Scene 3 - All Roads.md",
+    "Session 03/Scene 4 - The Offering.md",
+    "Appendix - NPCs.md",
+    "Images.md",
+    "Secrets/Pasted image 20231127233311.png",
+    "Secrets/Draconic Puzzle Question.png",
+    "Secrets/Draconic Puzzle Hints.png",
+    "Secrets",
+    "2023-11-26.md",
+    "Test.md",
+    "Game State.md",
+    "Session 03",
+    "Session 02",
+    "Session 01"
+  ]
+}

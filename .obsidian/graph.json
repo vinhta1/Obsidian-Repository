@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "PC",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "Nyomi",
+      "color": {
+        "a": 1,
+        "rgb": 16484202
+      }
+    },
+    {
+      "query": "Mortui",
+      "color": {
+        "a": 1,
+        "rgb": 5522599
+      }
+    },
+    {
+      "query": "Everthorn",
+      "color": {
+        "a": 1,
+        "rgb": 6718026
+      }
+    },
+    {
+      "query": "Stoltzland",
+      "color": {
+        "a": 1,
+        "rgb": 16772019
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.24607333729216,
+  "lineSizeMultiplier": 2.17718972684086,
+  "collapse-forces": true,
+  "centerStrength": 0.514251781472684,
+  "repelStrength": 14.0855106888361,
+  "linkStrength": 0.675771971496437,
+  "linkDistance": 234,
+  "scale": 0.3513337450593617,
+  "close": false
+}

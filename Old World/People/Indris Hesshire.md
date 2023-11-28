@@ -1,0 +1,1 @@
+Colleague and childhood friend of [[Ludmire Helsing]]. Asking for the assistance in the investigation of Ludmire's murder.

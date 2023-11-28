@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a202a5f76a7a12f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e440c012cf245933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59cddaa547ad4e74",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d4328ed66083b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffad9e0c35c69cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "530993c152e3704a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c356b59babaffeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Manhattan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "971308d0925337f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "2fa424ce7ae164e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f710acbd3a12801b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a294d2cbd324899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c8b16e14fada11a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2a7c79225fa6de6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efd7316654d7b56e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "59cddaa547ad4e74",
+  "lastOpenFiles": [
+    "V is for Going Viral Iceberg.canvas",
+    "Untitled.canvas",
+    "Session 1.md",
+    "Session 0.md",
+    "Player Charcters/Eidon.md",
+    "Player Charcters/Kos.md",
+    "Player Charcters/Tony.md",
+    "The Infection Club.md",
+    "Locations/Astoria, Queens/Rifts Out Fists Out, Astoria.md",
+    "Locations/Astoria, Queens/Santorini Eats, Astoria.md",
+    "Locations/Lower East Side, Manhattan/A Local Coffee Shop, Lower East Side.md",
+    "Locations/Lower East Side, Manhattan/Lower East Side Preparatory High School, Lower East Side.md",
+    "Locations/Lower East Side, Manhattan/The Derelict House, Lower East Side.md",
+    "Locations/Williamsburg, Brooklyn/Domino Sugar Refinery, Williamsburg.md",
+    "Locations/Global Genetics Offices, Downtown Brooklyn.md",
+    "Locations/Helix Labs' Abandoned Facility, Silicon Alley.md",
+    "Locations/The Docks, Edge of the East River.md",
+    "Eidon's Themes.png",
+    "Pasted image 20230629135729.png.md",
+    "Pasted image 20230629135729.png",
+    "Untitled 1.canvas",
+    "Theme Cards.md",
+    "Player Charcters",
+    "Locations/Lower East Side, Manhattan",
+    "2023-06-28.md",
+    "The.md",
+    "Infection.md",
+    "2023-06-27.md",
+    "the Infection Club.md",
+    "Locations/Williamsburg, Brooklyn",
+    "Locations/Astoria, Queens/Astoria, Queens.md",
+    "Locations/Astoria, Queens",
+    "Locations"
+  ]
+}

@@ -1,0 +1,4 @@
+[[Nyomi]]
+
+**Setting**:
+	Pirates

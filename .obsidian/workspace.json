@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "ba2dd65abdf64b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ef73679b6bcc0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b214772569400f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc5353b0dcd19014",
+    "type": "split",
+    "children": [
+      {
+        "id": "64edadf7771d77b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa835a1a5ff50669",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c141e0f8406f5bbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a111636c55d8f4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274
+  },
+  "right": {
+    "id": "2cda79eef51ecdc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba011bee490930bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e2b121e74691ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "aa835a1a5ff50669",
+  "lastOpenFiles": [
+    "Eberron/To Be Named",
+    "Eberron",
+    "New folder",
+    "CoM The Unseen Times/Locations/Astoria, Queens/Astoria, Queens.md",
+    "CoM The Unseen Times/Locations/Astoria, Queens",
+    "CoM The Unseen Times/Locations/Untitled/Astoria, Queens.md",
+    "CoM The Unseen Times/Locations/Untitled/Untitled.md",
+    "CoM The Unseen Times/Locations/Untitled",
+    "CoM The Unseen Times/Untitled",
+    "CoM The Unseen Times/Locations/Untitled.md",
+    "CoM The Unseen Times/Locations",
+    "CoM The Unseen Times/Untitled.md",
+    "CoM The Unseen Times",
+    "Untitled",
+    "Untitled.md",
+    "The Unseen Times",
+    "Old World/People/Yoland Porter.md",
+    "Old World/People/Marcille Boquet.md",
+    "Old World/People/Ariella Avora.md",
+    "Old World/People/Dutchess Avora.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Old World/Vampires.md",
+    "Peter's",
+    "Old World/Quests/A Vampire and a Priest Walk Into a Lab.md",
+    "Old World/People/Ludmire Helsing.md",
+    "Old World/People/Juniper Helsing.md",
+    "Old World/People/Abram Redfeather.md",
+    "Old World/Suppressant Ampule.md",
+    "Old World/Religions/Elihu, The Comforting Fire.md",
+    "Old World/Player Characters/(PC Shae) Viper.md",
+    "Old World/Player Characters/(PC Wuhoo) Chamber.md",
+    "Old World/Player Characters/(PC Alton) Treffy Montbel.md"
+  ]
+}

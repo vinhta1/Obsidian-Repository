@@ -1,0 +1,1 @@
+Adster Merryweather of the Salty Breeze gang. He was paid to steal Ludmire's clothes but never thought he'd die, let alone while Adster was stuck in the cupboard. He's been trapped for hours amongst the commotion, waiting for a time to run away that never came.

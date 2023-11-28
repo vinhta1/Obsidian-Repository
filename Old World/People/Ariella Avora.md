@@ -1,0 +1,1 @@
+Ariella seeks vengeance against those who caused her mother's, [[Dutchess Avora]]'s, demise.
