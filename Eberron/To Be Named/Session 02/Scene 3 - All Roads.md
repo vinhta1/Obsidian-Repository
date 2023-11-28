@@ -15,8 +15,8 @@
 
 > [!faq] Clues
 > - Bribery, Boromar Clan connections, or something adjacent are possible ways someone can escape "unnoticed".
-> - Ebian exited out the front door, escorted by a guard.
 > - Many people saw a man in cuffs and a guard heading towards the lifts.
+> 	-  Ebian exited out the front door, escorted by a guard.
 # The Vantage Point (Ivy Towers or Warden Towers)
 - [ ] *The party knocks the right code (2, X, 3).*
 
@@ -25,6 +25,8 @@
 > - "Blood is knowledge."
 # Morgrave Library (University District)
 *TRUE*
+
+By the time the party arrives to Morgrave Library, it is dark out.
 
 > [!info] Library Sections
 > - **Fourth floor.** Fiction.
