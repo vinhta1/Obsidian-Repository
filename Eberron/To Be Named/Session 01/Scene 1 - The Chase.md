@@ -37,6 +37,8 @@ If players fail a Wisdom (Perception) check twice in a row, they can either lose
 # Dezina Museum of Antiquities (University District)
 *TRUE*
 
+"Attached to Morgrave University, this building displays the relics recovered on the university's many expeditions."
+
 >[!info]  Ebian's Objective
 >Ebian has two goals:
 >- Destroy some of the Draconic display cases, including the one that holds the ritual dagger.
