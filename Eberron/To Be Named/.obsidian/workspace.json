@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0028ab01a7d009",
+        "id": "b1ebbb1932e155e9",
         "type": "tabs",
         "children": [
           {
-            "id": "d127153ce7d8663b",
+            "id": "f88671aa9403f8b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session 03/Scene 4 - The Offering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session 03/Scene 4 - The Offering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session 03/Scene 4 - The Offering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Session 03/Scene 4 - The Offering.md"
+              }
+            }
+          },
+          {
+            "id": "d58b3b0dad543bd4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d127153ce7d8663b",
+  "active": "f88671aa9403f8b8",
   "lastOpenFiles": [
-    "Session 01/Scene 1 - The Chase.md",
-    "Session 02/Scene 2 - A Call for Help.md",
     "Session 02/Scene 3 - All Roads.md",
     "Session 03/Scene 4 - The Offering.md",
+    "Session 02/Scene 2 - A Call for Help.md",
+    "Session 01/Scene 1 - The Chase.md",
     "Appendix - NPCs.md",
     "Images.md",
     "Secrets/Pasted image 20231127233311.png",

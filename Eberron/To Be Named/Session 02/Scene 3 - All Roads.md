@@ -40,8 +40,11 @@
 > [!warning]- Hints from nearby books
 > ![[Draconic Puzzle Hints.png]]
 
+> [!success]
+> "A wooden door appears behind the plaque. It is carved with intricate patterns and gilded with gold. You hear a voice from the walls. It asks with elegance and familiarity, 'Welcome home Sir/Madame. Are you bringing guests?'" 
+> Any person you mention will be able to see the door.
 ---
 
 > [!todo] Exiting the Scene
-> Only after the hidden door is opened, move to the next scene:
+> Only after the draconic puzzle is solved, move to the next scene:
 > [[Scene 4 - The Offering]].
