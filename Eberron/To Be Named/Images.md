@@ -19,4 +19,5 @@
 
 # [[Scene 4 - The Offering]]
 
-![[Pasted image 20231128143015.png]]
+> [!warning]- The theater
+> ![[Pasted image 20231128143015.png]]
