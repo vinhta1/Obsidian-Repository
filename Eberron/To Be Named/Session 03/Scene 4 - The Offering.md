@@ -7,10 +7,15 @@
 
 ![[Pasted image 20231128143015.png]]
 
+To set the stage, roll a d6 twice and 
 |d6|Stage Conditions|
 |---|---|
-|1|***Dim Lighting.*** Many of the everbright lanterns in the Silvermist are missing or failed. There are large stretches of dim illumination.|
-|2|
+|1|**Dim Lighting.** Many of the everbright lanterns in the Silvermist are missing or failed. There are large stretches of dim illumination.|
+|2|**Crumbling Infrastructure.** If someone swings on the chandelier, it will probably come down. Curtains could fall. You could even set a space on the stage that is secretly ready to collapse — a trapdoor that has finally had too much, dropping a character ten feet into a storage pit.
+|3|**Stage weaponry.** There’s a vast array of armor and weaponry. It’s all for show — the armor offers half the usual protection and the weapons inflict half damage — but it could be useful for color.|
+|4|**Trampolines.** The Theater has a few bouncing mats. Anyone who stands on one of these mats can trigger the effect of the jump spell as a free action that lasts one turn.|
+|5|**Explosions!** The Korranor has a variety of illusionary pyrotechnic effects. These could be controlled from a conductor’s podium… or they could be randomly triggered by character action. Any time someone is reduced to 0 hit points, it triggers a mournful tune!|
+|6|**Illusion.** Every surface of the stage can be infused with illusion. The stage could suddenly appear to be on fire, or be transformed into a battlefield scene or a perilous arrangement of pits. Are the player characters willing to walk through the flames?|
 
 ***The Combatants.***
 There are two cultists armed with hand crossbows and scimitars, along with Ebian, Flayo, and Noram, inside the theatre.
