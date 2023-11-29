@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 01/Scene 1 - The Chase.md",
+                "file": "Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f8bd28e4e187f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sharn, City of Towers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 01/Scene 1 - The Chase.md",
+                "file": "Sharn, City of Towers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 01/Scene 1 - The Chase.md",
+                "file": "Sharn, City of Towers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 01/Scene 1 - The Chase.md"
+                "file": "Sharn, City of Towers.md"
               }
             }
           },
@@ -154,14 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f88671aa9403f8b8",
+  "active": "73f8bd28e4e187f3",
   "lastOpenFiles": [
-    "Session 02/Scene 2 - A Call for Help.md",
-    "Session 02/Scene 3 - All Roads.md",
     "Session 03/Scene 4 - The Offering.md",
-    "Appendix - NPCs.md",
+    "Sharn, City of Towers.md",
     "Images.md",
+    "Appendix - NPCs.md",
+    "Session 02/Scene 3 - All Roads.md",
     "Session 01/Scene 1 - The Chase.md",
+    "Session 02/Scene 2 - A Call for Help.md",
     "Secrets/Pasted image 20231128143015.png",
     "The Magnificent Mansion - Floor 1 of 3.jpg.md",
     "Secrets/Pasted image 20231127233311.png",
