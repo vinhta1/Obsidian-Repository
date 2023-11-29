@@ -7,7 +7,7 @@
 
 ![[Pasted image 20231128143015.png]]
 
-To set the stage, roll a d6 twice and 
+To set the stage, roll a d6 twice and consult the table below.
 |d6|Stage Conditions|
 |---|---|
 |1|**Dim Lighting.** Many of the everbright lanterns in the Silvermist are missing or failed. There are large stretches of dim illumination.|
@@ -28,9 +28,5 @@ If Ebian completes the ritual without the characters stopping him, he plunges th
 
 ***Chandeliers.*** Rejoice! There are two chandeliers in the theatre, one above the entrance from the lobby and one directly above the stage. A character that climbs up 10 feet to the entrance chandelier and succeeds on a DC 10 Dexterity (Acrobatics) check can swing right up to the stage with their movement! The first character to swing successfully gains advantage on their next attack on their turn. A failed check means they still swing to the stage, but land prone and are incapacitated until the beginning of their next turn. Only one character may use the chandelier per round.
 
-
-
-
-
-Next to Oliver’s daughter is a book from his study. In the book, a letter “To Oliver Catena”:
-“Only a dragonmark can save your daughter now.”
+***Treasure.*** Unless it was left in the museum, the characters find an obsidian dagger with a black Khyber dragonshard embedded in the hilt worth 150 gp. This is the dagger Ebian was using during the ritual. Ebian’s body also has a wand of entangle on it. Each cultist has 35 sp in their coin purses. One of them is wearing a gold ring set with a pearl worth 100 gp. They do not have identification papers.
+Next to Oliver’s daughter is a book from his study. In the book, a letter “To Oliver Catena”: “Only a dragonmark can save your daughter now.”
