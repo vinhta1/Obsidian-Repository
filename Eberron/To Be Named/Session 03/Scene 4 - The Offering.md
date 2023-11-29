@@ -7,6 +7,11 @@
 
 ![[Pasted image 20231128143015.png]]
 
+|d6|Stage Conditions|
+|---|---|
+|1|***Dim Lighting.*** Many of the everbright lanterns in the Silvermist are missing or failed. There are large stretches of dim illumination.|
+|2|
+
 ***The Combatants.***
 There are two cultists armed with hand crossbows and scimitars, along with Ebian, Flayo, and Noram, inside the theatre.
 - **Ebian.** Ebian attempts the ritual until it is complete or disrupted. They fight until half health. After which, he will attempt to run out of the mansion and out of the extradimensional space.
@@ -16,16 +21,8 @@ They use the stage, curtains, and seats for half cover until they engage in mele
 ***The Ritual.*** Ebian is trying to complete the ritual sacrifice before the characters can save Oliver's daughter. Oliver's daughter is at 0 hit points and is stable (does not require death saves). To complete the ritual Ebian must continue chanting and concentrating for 3 rounds. If he is distracted or takes damage, he needs to roll a successful Constitution saving throw as if concentrating on a spell. On a failure, the ritual stops! However, he angrily joins combat at that point.
 If Ebian completes the ritual without the characters stopping him, he plunges the dagger into Oliver's daughter’s chest, killing her instantly. A wave of dark energy bursts from the altar and hangs over the entire mansion. All characters receive disadvantage on ability checks and attacks while inside the mansion.
 
-***Chandeliers.*** Rejoice! There are two chandeliers in the theatre,
-one above the entrance from the lobby and one directly above
-the stage. A character that climbs up 10 feet to the entrance
-chandelier and succeeds on a DC 10 Dexterity (Acrobatics) check
-can swing right up to the stage with their movement! The first
-character to swing successfully gains advantage on their next
-attack on their turn. A failed check means they still swing to the
-stage, but land prone and are incapacitated until the beginning
-of their next turn. Only one character may use the chandelier per
-round.
+***Chandeliers.*** Rejoice! There are two chandeliers in the theatre, one above the entrance from the lobby and one directly above the stage. A character that climbs up 10 feet to the entrance chandelier and succeeds on a DC 10 Dexterity (Acrobatics) check can swing right up to the stage with their movement! The first character to swing successfully gains advantage on their next attack on their turn. A failed check means they still swing to the stage, but land prone and are incapacitated until the beginning of their next turn. Only one character may use the chandelier per round.
+
 
 
 
