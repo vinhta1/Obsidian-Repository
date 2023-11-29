@@ -2,7 +2,7 @@
 > The players can either start in a chase (loud) or a stalk (stealth).
 
 > [!quote] Intro
-> It's a beautiful day in Sharn, and the city is still hustling and bustling despite the war on the eastern borders of Breland. It is the 934th Year of the Kingdom (YK), and no one knows when the war will end, if it ever does end. But, that's not what is important to you right now.
+> It's a beautiful day in Sharn for those high enough to see the sky, and the city is still hustling and bustling despite the war on the borders of Breland. It is the 934th Year of the Kingdom (YK), and no one knows when the war will end, if it ever does end. But, that's not what is important to you right now.
 # The Rooftops (University District / Platinate)
 - [ ] *The party has the Man in the Glamerweave as a person of interest.*
 
