@@ -100,6 +100,8 @@
 |98|This NPC is always carrying food on a stick, and if asked, will highly recommend the dubious stall they got it from.|
 |99|This NPC insists on carrying things too heavy for them, or taking care of delicate objects they invariably break, or watching over valuables they will definitely lose.|
 |100|This NPC sleeps all day and stays up all night.|
-
 ^Quirks
 
+| dice: d100 | First Name |
+| ---------- | ---------- |
+| 1          |   @         |
