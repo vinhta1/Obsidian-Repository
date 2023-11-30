@@ -124,5 +124,18 @@
 | 18         | Petra      |
 | 19         | Luca       |
 | 20         | Selen      |
-| 21         |            |
+| 21         | Lando      |
+| 22         | Enna       |
+| 23         | Randon     |
+| 24         | Avaliah    |
+|            |            |
 ^FirstNames
+
+| dice:d100 | Last Name |
+| --------- | --------- |
+| 1         | Duran     |
+| 2         | Rainpuff  |
+| 3         | Pendora   |
+| 4         | Alouette  |
+| 5         |           |
+^LastNames
