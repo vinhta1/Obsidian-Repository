@@ -133,9 +133,9 @@
 | 26         | Estel      |
 | 27         | Marior     |
 | 28         | Claire     |
-| 29         | Henson     |
-| 30         | Sophia     |
-| 31         | Hawking    |
+| 29         |      |
+| 30         | Olyphia     |
+| 31         |     |
 | 32         | Selari   |
 | 33         |            |
 | 34         | Ranesior   |
@@ -155,14 +155,17 @@
 |            |            |
 ^FirstNames
 
-| dice:d100 | Last Name |
-| --------- | --------- |
-| 1         | Duran     |
-| 2         | Rainpuff  |
-| 3         | Pendora   |
-| 4         | Alouette  |
-| 5         | Calem     |
-| 6         | Rilworth  |
-| 7         | Lionwhite |
-| 8         | Seaguard          |
+| dice:d100 | Last Name  |
+| --------- | ---------- |
+| 1         | Duran      |
+| 2         | Rainpuff   |
+| 3         | Pendora    |
+| 4         | Alouette   |
+| 5         | Calem      |
+| 6         | Rilworth   |
+| 7         | Lionwhite  |
+| 8         | Seaguard   |
+| 9         | Alluvial   |
+| 10        | Ives |
+|           |            |
 ^LastNames
