@@ -1,105 +1,105 @@
 | dice: 1d100 | Quirks |
-|---|---|
-|1|**Head empty.** This NPC has the mind of a child.|
-|2|**Smells like dog shit.** This NPC doesn’t wash very often or just has some unfortunate pheromones that cause his skin to excrete a smell that is unmistakingly similar to the smell of dog shit.|
-|3|**Nail biter.** This NPC is biting his nails almost all the time. His/Her nails are very short as a result and his/her fingers bleed every now and then.|
-|4|**Eye twitch.** This NPC has a nervous eye twitch. Roll a d6/2 to determine if it’s the 1: Left eye 2: Right eye or 3: Both.|
-|5|**Wig wearer.** This NPCs hair is fake. Flip a coin to determine whether or not the wig is of good quality. Heads means it’s clearly a fake wig, tails means it’s actually very natural looking.|
-|6|**Ring fondler.** This NPC turns his ring around a lot.|
-|7|**Loud thinker.** This NPC thinks out loud most of the time. Intimate thoughts are usually still silent, but every now and then a private thought might creep through.|
-|8|**Multi-names.** This NPC seems to give a different name each time when asked. Maybe he/she doesn’t even know his/her own true name.|
-|9|**Parrot pal.** This NPC has a parrot on his shoulder. The parrot repeats lots of the NPCs sentences, like any good parrot would do.|
-|10|**Mute.** Pretty self-explanatory. Communicates with notes, a chalkboard, or sign language.|
-|11|**Someone’s witness.** This NPC always tries to convince others of the greatness of his/her God during silent moments in normal conversation. Roll on a God table or pick one yourself.|
-|12|**Finger tapper.** Always taps his/her fingers in rhythmic fashion on the counter table or anything that he/she can lay his/her tap-dancing hands on.|
-|13|**Itchy and scratchy.** This NPC itches all over his/her body and can hardly control him/herself in scratching all the time.|
-|14|**Brandy addict.** This NPC is always looking for a bottle of his/her favorite rare brandy, but settles for the cheap kind too.|
-|15|**Dirt dweller.** This NPC is usually covered in a thin layer of dirt. Even if he/she spends his/her days inside the house, dirt always finds this person.|
-|16|**Pants on fire.** This NPC lies all the time, even though it’s pretty clear they are lies and even if the PCs point out the NPC is telling lies, he/she just keeps on lying.|
-|17|**Kinky past.** This NPC has a bite wound on his/her cheek that looks suspiciously like the bite of a human.|
-|18|**Lisper.** Fif NPV talkf wif a very obviouf lifp.|
-|19|**Toothless.** This NPC has no teeth at all, no matter what age he/she is.|
-|20|**Milkstache.** This NPC has a clear fondness for milk, visible by the almost permanent milkstache on his/her upper lips.|
-|21|**Spit sniper.** This NPC likes to spit. A lot. He/she finds or makes targets around him/her and spits on them all day long.|
-|22|**Pregnant or pretending.** This NPC is pregnant. If it’s a male, it’s pretending to be pregnant, no matter how silly it looks or sounds.|
-|23|**Pockmarks.** This NPC has his/her face covered in the permanent impression that the pocks left.|
-|24|**Giggler.** This NPC keeps giggling uncontrollably. Whether it’s the result of a magical experiment or it’s just because of hormones, that’s up to you.|
-|25|**Scarface.** This NPC has a giant scar across the left side of his/her face. As a result, he/she is blind in one eye.|
-|26|**Deaf.** This NPC is deaf. Need I say more? Flip a coin to decide if the NPC can read lips or not.|
-|27|**Big Ear.** This NPC has really large ears.|
-|28|**Clumsy.** This NPC is particularly clumsy. He/she drops things all the time and trips a lot.|
-|29|**Ballscratcher.** This NPC scratches his balls. If it’s a female, she scratches her lady parts.|
-|30|**Finger sniffer.** This NPC sniffs his/her own fingers a lot. For no apparent reason whatsoever.|
-|31|**Neurotic Do-over.** This NPC does everything twice. This includes talking, opening doors, handing over objects, etc.|
-|32|**Fantasy has Acne too!** This NPC has acne. Yes, acne. It’s not just our problem, fantasy worlds have Clearasil potions too!|
-|33|**I can’t stop talking!** This NPC can talk for hours on end. Usually telling the same thing over and over again, this NPC has trouble seeing whether or not their listeners are interested at all.|
-|34|**Nose off.** This NPC has lost his nose. Maybe in a fight, maybe because of a spell-gone-wrong, maybe because of frostbite, or maybe because of something totally different.|
-|35|**Pants down.** This NPC has sagging pants. He/she doesn’t wear a belt and keeps pulling up his/her pants.|
-|36|**Armpit eater.** This NPC often sniffs his armpits, then proceeds to pick something out of it and eat it.|
-|37|**Toe nibbler.** This NPC nibbles his/her toes whenever the opportunity arises.|
-|38|**Heavy smoker.** This NPC talks with a very sore and raspy throat.|
-|39|**Breaks everything.** This NPC breaks everything he/she touches.|
-|40|**Shoes switched.** This NPC always puts his/her shoes on the wrong feet.|
-|41|**Word pukes.** This NPC always pukes when he/she says a certain word, like cow, or house. This is the result of a curse. Try to pick a word that your party actually uses.|
-|42|**Looks like an Orc.** Unless this NPC actually is an Orc, then it looks like a dwarf.|
-|43|**Drunk as f\*ck.** I think this quirk needs no further explanation. |
-|44|**Fake beard.** This NPC wears a fake beard. Bonus points if it’s a dwarf who can’t grow a beard himself.|
-|45|**Curser.** This NPC curses all the damn time.|
-|46|**Amnesiac.** This NPC has a terrible short term memory. He/she keeps forgetting everything that he/she has heard, said, seen or… wait… what was I talking about again?|
-|47|**Flirter.** This NPC flirts quite openly and overtly with anyone from the sex they're attracted to.|
-|48|**Small accident.** This NPC misses a finger on his/her good hand.|
-|49|**Beautiful.** This NPC is incredibly beautiful, and the party will need to do a DC 10 charisma save to not be completely flustered by this NPCs beauty.|
-|50|**Ugly.** The opposite of number 49. The party needs to do a constitution saving throw of DC 10, or they’ll puke.|
-|51|**Magically scarred.** This NPC has a strange face. One eye is a lot bigger than the other, and his/her mouth is above his/her nose. This seems to be the effect of a magical accident.|
-|52|**Carrot Crazy.** This NPC really, really loves carrots. He/She is constantly gnawing on a carrot, and carries a whole bag of them with him/her.|
-|53|**Cross-eyed.** This NPC is cross eyed. Seems pretty self-explanatory to me.|
-|54|**Peg-leg.** This NPC has one wooden leg, just like the classic pirate captains used to have.|
-|55|**Missing eyebrows.** This NPC has no eyebrows. It’s really difficult to see what kind of expression he or she is making, therefore players have disadvantage on wisdom (Insight) checks concerning this NPC.|
-|56|**Musical Madness.** This NPC likes to sing his/her way through life. Everybody kind of hates it, but the high notes hang around like flies when this NPC is singing (which he/she does instead of talking).|
-|57|**Scared of Little People.** This NPC somehow is extremely scared of halflings, gnomes and dwarves. He/She could very well be one of those races him/herself, but they’ll only hang around with larger people. Why this NPC feels this way, I’m not sure. Maybe you know?|
-|58|**Joker of the Town.** This NPC thinks he/she is the funniest of the town/city. He/She always makes the most terrible jokes and always ends them with: “Haha, I’m joking of course.”|
-|59|**I wanted to be a ballerina.** This NPC dislikes whatever occupation it has now. He/She always wanted to be a dancer but never had the chance. He/She is actually pretty good at will dance during conversations with the party if possible.|
-|60|**Ni!** This NPC can’t stand the word ‘it’. Whenever he or she hears it, he/she covers their ears and screams “Ni!”|
-|61|**Seemingly Disturbed.** This NPC looks very disturbed. He/She shakes all the time, constantly watches his/her surroundings and jumps in the air in fright from every little noise.|
-|62|**Apocalypse Now.** This NPC is constantly talking about the end of the world, which, according to him/her, is just around the corner. Hide yo wife, hide yo kids!|
-|63|**Slow Speaker.** This NPC speaks at least twice as slowly as normal people do. All the while seemingly oblivious to the annoyance it raises in others.|
-|64|**Natural Born Trader.** This NPC tries to sell you everything it can. “See this chair? It’s yours for just two gold pieces! See this flower? Yours for a piece of silver, it’s really rare! See my wife/husband? It’s yours for…”|
-|65|**Not a care in the world.** This NPC is unbelievably happy. They only see the good in life and are extremely positive.|
-|66|**Higher than thou.** This NPC feels like the fucking king/queen of the country. They talk down to almost everyone and use a (what they think is) a royal way of speaking.|
-|67|**Just Married.** This NPC just got married and can’t stop talking about their wife/husband.|
-|68|**Peeyou.** This NPC dislikes words that start with the letter P. Each time this NPC hears a word that does indeed start with a P, he/she cringes in disgust.|
-|69|**What’s this for?** This NPC doesn’t use his left arm. He/She just leaves it hanging, doing nothing. There’s nothing wrong with the arm, the NPC just doesn’t use it at all. For nothing.|
-|70|**Classic Tammy.** This NPC has underwear visible above his or her pants. It’s not that his/her pants are really low, but his/her underwear is just really high. Roll a d4 to determine the state of the underwear, 1: Clean, nothing special, 2: Dirty and torn, 3: Obviously way too tight, 4: Very sexy.|
-|71|**First off: nonsense.** This NPC starts every new sentence with one of the following d6 random words (or one you come up with yourself of course); 1: Dangerzone, 2: Beelzebub, 3: Calipers, 4: Possessed, 5: Desire, 6: Synergy.|
-|72|**Genderswap.** This NPC likes to cross dress. Everytime the party leaves and sees this NPC again, they switched clothing and makeup to the other gender.|
-|73|**Weirdest Mutton Chops Ever.** This NPC, whether it’s a he or a she doesn’t matter, has the weirdest mutton chops anyone has ever seen. They are a different color than the rest of his/her hair and they are somehow intricately braided.|
-|74|**Final Countdown.** This NPC counts down after each conversation. The NPC has a conversation with the party, and when they or the NPC leave, the NPC utters: 73. When the party then asks: “What was that?” The NPC will claim to not know what they are talking about, then leaves again saying: 72. Good luck roleplaying this one.|
-|75|**Grumpy face.** This NPC has a face that says: “I hate everything. I hate hating everything.” Basically, his or her face looks incredibly pissed off all the time, even though he or she might be very happy.|
-|76|**Poker face.** This NPC has a poker face. It’s nearly impossible to discern any emotions, all insight checks on this NPC need to be made with disadvantage.|
-|77|**To be or not to be.** This NPC is desperately trying to become an actor/actress. He/She is not very good at it though. In normal conversations this NPC sounds like he or she is talking on stage, it sounds very fake and extremely articulated.|
-|78|**Lip Licker.** This NPC licks his lips, a lot. I mean really, this NPC licks his or her lips constantly. It’s extremely unsettling.|
-|79|**Shaving Sucks.** This NPC is very bad at shaving. If it’s a man, he has a lot of small cuts on his face. With a successful DC8 perception or insight check it’s pretty clear that they are the result of terrible shaving. If the NPC is a woman, it is almost the same, but instead the cuts are located on her legs (Yes, even in D&D some women shave their legs. Trust me!).|
-|80|**Wild Accuser.** This NPC accuses everyone he talks to of minor crimes, like littering, or making too much noise.|
-|81|**Am I hearing this right?** This NPC mishears almost everything. He/She thinks he/she heard everything right, and continues the conversation on whatever subject he/she thinks he/she heard. For example: “Can you tell us where the Inn is?” The NPC hears: “Can you tell us where Theon is?” And responds with: “I have no idea who that is, I’m sorry!” If you still want the NPC to be helpful, make him/her understand every sentence correctly when he/she hears them a second time.|
-|82|**Puppet Pal.** This NPC always has a wooden puppet with him/her. Whatever his relationship with this puppet is, is up to you as a DM. Good luck!|
-|83|**Bless you!** This NPC has a permanent cold. Always a runny nose and sneezing all the time.|
-|84|**Broken down.** This NPC has a broken limb. Roll a d4 to decide which: 1: Their good arm, 2: Their other arm, 3: One leg, 4: Both legs and their good arm.|
-|85|**Permanent Ink.** This NPC has a large tattoo of an animal’s head on their neck. If you can’t think of an animal yourself then it’s a chicken’s head.|
-|86|**Loading, please wait.** This NPC needs some time processing conversations. Whenever you talk to him/her, it takes them 1d6 + 5 full seconds to respond. Even if it’s a short and simple question.|
-|87|**Whispering guide.** This NPC has a small creature hidden in their hair that whispers advice and insight into their ear. The creature is a Sprite, which has the ability to turn invisible and sense if anyone is lying by touching them.|
-|88|**My brother, there art thou!** This NPC is convinced that one of the party members is their long lost brother or sister. He or she will not be easily convinced of the contrary.|
-|89|**Shapeshifter.** This NPC is actually a doppler. The players might notice subtle changes in the NPC’s physical attributes each subsequent visit, like a smaller nose, another eye colour or an extra feet in height.|
-|90|**Lilac and Gooseberries.** This NPC smells like lilac and gooseberries, a particular smell that might be familiar to some of the players.|
-|91|**Mouthful.** This NPC always has something in his/her mouth. It could be food… but they never swallow. And it's too big to be chewing gum. It makes this NPC very hard to understand.|
-|92|**The Narrator.** This NPC always speaks about him or herself in the third person, and he or she narrates everything that happens in their vicinity.|
-|93|**Narcissist.** This NPC is always holding a mirror, looking at him or herself while blowing kisses and winking. It looks away now and then to look at the party but he or she mostly looks at themselves.|
-|94|**Needlessly Shifty.** This NPC comes across as very shifty. He or she laughs sneakily after answering questions or making deals, like he or she is hiding something. But they aren't, it's just a weird mannerism they were born with.|
-|95|**Fungal infection.** This NPC has a small growth of blue green fungus on one of their cheeks. Under close scrutiny the fungus almost seems to pulsate with every heartbeat.|
-|96|**Squinter.** This NPC squints their eyes at the party. It looks like he/she needs a pair of glasses.|
-|97|**Mad hatter.** This NPC wears a really long, really silly pointy hat. It's over 3 feet (1 meter) tall, made up of different kinds of materials and colors. Possible explanation for why the NPC is wearing it: 1. Their kid made it for them and now they are pretty much obligated to wear it. 2. They made it themselves because they believe it will make them a really powerful wizard. 3. It is a cursed hat that can't be removed and someone put it on their head while they were sleeping.|
-|98|**Sketch artist.** This NPC is scribbling on a piece of paper while he or she is talking to the party. After a while they proudly show the sketch they made of one of the party members. Roll 1d6/2 to see how good this NPC is. 1: Very, very bad. 2: Extremely average. 3: Very, very good.|
-|99|**Want a cookie?** This NPC bakes their own cookies and offers to anyone and everyone to try. Roll 1d6/2 to determine the quality. 1: Terrible, bitter and is that a hair? 2: Average, OK cookies. 3: These are amazing, crunchy, sweet and something you can't quite put your finger on but it's awesome.|
-|100|**Juggler.** This NPC is an excellent juggler and will juggle everytime he or she has two or more items in his or her hands. Their limit is 1d6 + 3 items at once.||
+| ----------- | ------ |
+|1|This NPC's pockets are filled with a seemingly infinite supply of sunflower seeds. They discreetly spit the hulls into their hand and toss them when they think no one's watching.|
+|2|This NPC also dreams of being an adventurer, but their parents, spouse, drinking buddies, etc. keep talking them out of it. They are constantly sneaking peeks at your armor and weaponry, trying to hide their jealousy.|
+|3|This NPC is very religious. One of the daily prayers is coming up, and they really want this conversation to end so they can make their way to the temple.|
+|4|This NPC occasionally sneaks sips from a leather-wrapped hip flask. If they like the player, they'll offer them a nip. It's the vilest bathtub moonshine imaginable.|
+|5|This NPC smacks their lips way, way, way too often.|
+|6|This NPC starts laughing out of nowhere. When questioned, they say that they just remembered a joke about a freshly plucked harpy that isn't suitable for polite company.|
+|7|This NPC is a sailor on shore leave. They're trying to pack in as much drinking, gambling, and general chicanery as possible before their crew sets sail.|
+|8|This NPC loves to garden. Their fingernails are always caked in dirt, and they occasionally have bits of twigs stuck in their hair.|
+|9|This NPC has a beloved dog that follows them everywhere. The dog likes snuffling for treats in strangers' pockets.|
+|10|The NPC writes pulpy stories on the side. They're always jotting down notes on a little slate tablet, and will do nearly anything to witness something grim, gritty, or grisly.|
+|11|This NPC just moved into town from a distant land, and everyone thinks they don't know the local language. In reality, they just don't like chatting.|
+|12|This NPC was born in a distant town. Their wagon broke down while passing through town, and they decided to just live there instead of fixing it. The wagon is still there, with a single broken axle.|
+|13|This NPC has lived alone for years, meditating on the purpose of the multiverse. They came back once they found it.|
+|14|This NPC is absolutely obsessed with foraging. They can identify every local plant, know exactly where to find it, and can cook it to perfection.|
+|15|This NPC has a strange accent and refuses to tell the party where they picked it up.|
+|16|This NPC has read every book in town, but never traveled beyond its borders. They think they're ready for anything.|
+|17|This NPC is known across the region for their honesty. Gamblers regularly come into town just so the NPC can deal with their high-stakes games.|
+|18|This NPC has a shed on the edge of their property, where they tinker late into the night.|
+|19|This NPC has an uncanny ability to predict the weather. They often guide the conversation towards temperatures and cloud movements.|
+|20|This NPC's jerky recipe is the pride of the town. They're always willing to buy or trade for fresh meat from the party's adventures.|
+|21|This NPC looks severe and talks in a sneering voice, but is actually kind-hearted and generous.|
+|22|This NPC has nine children, with another on the way. They'd do nearly anything for a night of peace and quiet.|
+|23|This NPC has good taste. They quickly pick out the little flourishes in the party's equipment and sincerely compliment subtle details.|
+|24|This NPC has OCD and is constantly trying to organize things.|
+|25|This NPC has no sense of direction and will always go the wrong way.|
+|26|This NPC is fixated on having the newest cutting edge gadgets, many of which don't work as advertised.|
+|27|This NPC never seems to be paying attention but can recite back anything said to him/her/them word-for-word.|
+|28|This NPC has a lifelong bird watching list and will drop everything to see a bird not on the list.|
+|29|This NPC Whenever someone changes the topic from what they were talking about, they say, "Uh huh. Anyway..." before returning to what they were saying.|
+|30|This NPC peppers their speech with words from other languages.|
+|31|This NPC habitually whistles a tune, a sort of personal theme song.|
+|32|This NPC has been learning a new instrument / writing on their next song, and insists on having the PCs listen to what they've been working on.|
+|33|This NPC prefers if they're the only one holding any sharp tool / weapon in the room, and will insist on handling anything that requires a knife themselves.|
+|34|This NPC has a bit of satyr blood in them, so when speaking they have a goat-like stu-u-u-tter.|
+|35|This NPC is overly secretive of their books / folders, even if they're of no high importance, like their diary.|
+|36|This NPC never swears.|
+|37|This NPC swears every other sentence.|
+|38|This NPC assumes the worst out of any situation presented to them, even something as nice as a picnic could have disastrous effects in their eyes.|
+|39|This NPC goes starkly silent around anyone they find remotely attractive.|
+|40|This NPC talks relentlessly to fill the awkward silence, even if they would like to shut up, around anyone they find remotely attractive.|
+|41|This NPC constantly reminisces about the golden ages or the 'good old days', even if the period they're alluding to wasn't that great.|
+|42|This NPC is scared of gore and faints at the sight of blood.|
+|43|This NPC needs to wear a certain piece of jewelry or clothing in order to feel comfortable or safe.|
+|44|This NPC comments on things they observe in others out loud. Even observations most would keep to themselves.|
+|45|This NPC loves gossiping and any piece of juicy info, or just has a constant curiosity in the goings on of others.|
+|46|This NPC has a tendency to spill secrets, theirs and others', though they don't mean to.|
+|47|This NPC melts and coos at the sight of any remotely 'cute' animal, from cats to dogs to fluffy and lethal owlbears.|
+|48|This NPC has selective mutism. As a result, they have a few different ways of communicating non-verbally whenever they need to.|
+|49|This NPC loves to hear themself talk, and always finds a way to insert their personal stories into a conversation.|
+|50|This NPC loves listening to people talking about their interest, and even if they're not particularly interested in the object of discussion, will ask follow-up questions.|
+|51|This NPC has an unhealthy obsession for tea, drinking an unacceptable amount every day.|
+|52|This NPC is literate, and considers grammar vital for one's success. They will correct and be annoyed by PCs if they're not speaking properly|
+|53|This NPC often loses their train of thought and tends to quickly jump from one topic to the next.|
+|54|This NPC tells inappropriate jokes at the WORST times.|
+|55|This NPC has an interesting story for every occasion. Sometimes, these stories tend to drag on for way too long.|
+|56|This NPC cannot stand the ocean, or any body of water. They are DEATHLY afraid of the open sea.|
+|57|This NPC is very religious and typically likes to adorn their clothing with symbols of their God/Goddess.|
+|58|This NPC wants everyone to think they are an intellectual. They sometimes use big words to sound smart, but they don't always know what they mean.|
+|59|This NPC is very jumpy, and can easily be frightened by loud noises or someone walking up behind them.|
+|60|This NPC sounds sweet but is very passive-aggressive and judgmental, bless their heart.|
+|61|This NPC keeps food in their pockets to feed wildlife.|
+|62|This NPC has a hobby that they are very happy to tell you about if you show even the slightest hint of interest.|
+|63|This NPC is on a diet and is very envious of anyone around them eating delicious food or drink.|
+|64|This NPC is never idle; they can’t just sit and do nothing. They’re usually busy doing something: reading a book, whittling, gathering flowers, etc.|
+|65|This NPC is paranoid, by pretty much anything and anyone. There is always a conspiracy brewing somewhere that involves them.|
+|66|This NPC is patient —too patient for their own good.|
+|67|This NPC is a neat freak, they love to clean. When someone meets them, they’re usually seen with a broom or a cloth, cleaning something or another.|
+|68|This NPC loves to ponder the big questions: who are we and why are we here?|
+|69|This NPC loves to cook and will always offer food to her guests, even if they decline her offer.|
+|70|This NPC is fascinated by phrenology, and desperately wants to measure the heads of every creature she meets.|
+|71|The NPC is gruff and taciturn except when talking to kids because they remind him of his own kids.|
+|72|The NPC can't handle their alcohol. The NPC also loves to indulge.|
+|73|The NPC can't stand being wrong and will try to destroy every reasoning that could show them this. If proven wrong, the NPC will sulk for days on end.|
+|74|The NPC is always doing something with their hands out of nervousness: braiding hair, thrumming fingers on the table, picking at the hem of their shirt.|
+|75|The NPC is an unabashed flirt but will freeze up if approached first.|
+|76|The NPC does not believe in magic and will not believe in magic even if someone invokes Tiamat in front of them.|
+|77|This NPC seems tired and talks and walks slowly and kind of in a slumber.|
+|78|This NPC tries to give the PC advice in the form of sayings from his home country. Sometimes they fit, sometimes they don´t.|
+|79|This NPC tends to daydream. Sometimes he seems far off and is not listening. Even when he seems to listen closely, he asks to repeat the last part.|
+|80|This NPC dislikes violence, but understands that some problems can´t be solved any other way. He may ask for the PCs to come up with a non-violent solution.|
+|81|This NPC distrusts everyone and everything and is pleasantly surprised when something happens just as promised or discussed.|
+|82|The NPC is on a quest to find rare and elusive potion making ingredients. They regularly turn up with new injuries.|
+|83|This NPC doesn't believe in elves.|
+|84|They, the NPC, have been mandated by a nature goddess to find and categorize every type of mushroom. They categorize them very badly, and should not be trusted to make meals.|
+|85|The NPC is a ten thousand year old dragon in disguise, just havin' a right giggle at causing all sorts of trouble.|
+|86|The NPC is always trying to trip on magic mushrooms and they try to hide the fact.|
+|87|This NPC has an intense distrust for the city guard.|
+|88|This NPC is fidgety and frequently looks at the sky or ceiling to check for monsters.|
+|89|This NPC sees any new piece of information as a potential deception.|
+|90|This NPC is quick to get into fights in order to test their own strength.|
+|91|This NPC is not content unless they are the most extravagantly dressed person in the room.|
+|92|This NPC is incredibly helpful, whether you want them to be or not.|
+|93|This NPC often speaks in riddles or rhymes and making sense of it all can be quite challenging.|
+|94|This NPC follows rules to the letter even when it inconveniences them and everyone around them.|
+|95|This NPC speaks to everyone in a calm but condescending voice almost as if they were speaking to a child.|
+|96|This NPC treats their tools/vehicle with more love and affection than their own family.|
+|97|This NPC gives everyone a nickname and refuses to learn their real names.|
+|98|This NPC is always carrying food on a stick, and if asked, will highly recommend the dubious stall they got it from.|
+|99|This NPC insists on carrying things too heavy for them, or taking care of delicate objects they invariably break, or watching over valuables they will definitely lose.|
+|100|This NPC sleeps all day and stays up all night.|
 
 ^Quirks
 
