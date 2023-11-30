@@ -1,22 +1,22 @@
 # Dragonmarked Houses
 
-| **House Title**                | **Year Established** (Estimation) |
-| ------------------------------ | --------------------------------- |
-| House Vol                      | -3200                             |
-| House Phiarlan                 | -3200                             |
-| House Sivis                    | -2800                             |
-| House Deneith (Human, Deneith) | -2600                             |
-| House Cannith (Human, Making)  | -2500                             |
-| House Lyrandar                 | -2000                             |
-| House Orien                    | -1900                             |
-| House Vadalis                  | -1800                             |
-| House Medani                   | -1500                             |
-| House Ghallanda                | -1000                             |
-| House Jorasco                  | -1000                             |
-| House Tarkanan                 | -493                              |
-| House Kundarak                 | 106 YK                            |
-| House Tharashk                 | 498 YK                            |
-| House Thuranni                 | 972 YK                            |
+| **House Title**                         | **Year Established** (Estimation) |
+| --------------------------------------- | --------------------------------- |
+| House Vol (Elven, Death)                | -3200                             |
+| House Phiarlan                          | -3200                             |
+| House Sivis                             | -2800                             |
+| House Deneith (Human, Sentinel)         | -2600                             |
+| House Cannith (Human, Making)           | -2500                             |
+| House Lyrandar (Half-Elven, Storm)      | -2000                             |
+| House Orien                             | -1900                             |
+| House Vadalis                           | -1800                             |
+| House Medani (Half-Elven, Detection)                           | -1500                             |
+| House Ghallanda (Halfling, Hospitality) | -1000                             |
+| House Jorasco (Halfling, Healing)       | -1000                             |
+| House Tarkanan                          | -493 / 990                              |
+| House Kundarak (Dwarven, Warding)       | 106 YK                            |
+| House Tharashk                          | 498 YK                            |
+| House Thuranni                          | 972 YK                            |
 # Sharn, City of Towers
 [5e.tools - Ch. 3: Sharn, City of Towers](https://5e.tools/book.html#erlw,8)
 ## Aftermath of War
