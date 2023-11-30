@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e440c012cf245933",
+        "id": "318eb83de8f8a735",
         "type": "tabs",
         "children": [
           {
-            "id": "59cddaa547ad4e74",
+            "id": "b8b015a422ec518b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59cddaa547ad4e74",
+  "active": "b8b015a422ec518b",
   "lastOpenFiles": [
     "V is for Going Viral Iceberg.canvas",
     "Untitled.canvas",
