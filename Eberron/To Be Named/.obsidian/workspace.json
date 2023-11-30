@@ -11,36 +11,15 @@
             "id": "3f8c5d9edcceb17e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d77872d56983d62f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ba1e031545a153e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC Randomizer/Lookup Tables.md",
+                "file": "Appendix - Sharn, City of Towers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md",
+                "file": "Appendix - Sharn, City of Towers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md",
+                "file": "Appendix - Sharn, City of Towers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md"
+                "file": "Appendix - Sharn, City of Towers.md"
               }
             }
           },
@@ -159,14 +138,6 @@
             }
           },
           {
-            "id": "3249845321d42588",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "f0d0efceb3dc7ffd",
             "type": "leaf",
             "state": {
@@ -175,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,24 +159,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8ba1e031545a153e",
+  "active": "3f8c5d9edcceb17e",
   "lastOpenFiles": [
-    "NPC Randomizer/Randomizer.md",
-    "NPC Randomizer/Lookup Tables.md",
-    "Appendix - Images.md",
     "Appendix - NPCs.md",
-    "Appendix - Sharn, City of Towers.md",
+    "Appendix - Images.md",
     "Session 03/Scene 4 - The Offering.md",
+    "Session 02/Scene 3 - All Roads.md",
+    "Session 02/Scene 2 - A Call for Help.md",
+    "Session 01/Scene 1 - The Chase.md",
+    "Appendix - Sharn, City of Towers.md",
+    "NPC Randomizer/Lookup Tables.md",
+    "NPC Randomizer/Randomizer.md",
     "NPC Randomizer",
     "Secrets/Draconic Puzzle Question.png",
-    "Session 02/Scene 3 - All Roads.md",
-    "Session 01/Scene 1 - The Chase.md",
-    "Session 02/Scene 2 - A Call for Help.md",
     "Secrets/Pasted image 20231128143015.png",
     "The Magnificent Mansion - Floor 1 of 3.jpg.md",
     "Secrets/Pasted image 20231127233311.png",
