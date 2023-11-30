@@ -102,17 +102,27 @@
 |100|This NPC sleeps all day and stays up all night.|
 ^Quirks
 
-| dice: d11 | First Name |
+| dice: d100 | First Name |
 | ---------- | ---------- |
 | 1          | Lerch      |
 | 2          | Braya      |
 | 3          | Saerus     |
 | 4          | Annet      |
 | 5          | Hudd       |
-| 6          | Lizzette      |
+| 6          | Lizzette   |
 | 7          | Ilbert     |
 | 8          | May Lynn   |
 | 9          | Vaughn     |
-| 10         |  Cassandra |
-|       11     |     Villiame       |
+| 10         | Cassandra  |
+| 11         | William    |
+| 12         | Pomu       |
+| 13         | Shu        |
+| 14         | Elira      |
+| 15         | Doppio     |
+| 16         | Finana     |
+| 17         | Ike        |
+| 18         | Petra      |
+| 19         | Luca       |
+| 20         | Selen      |
+| 21         |            |
 ^FirstNames
