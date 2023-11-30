@@ -129,7 +129,7 @@
 | 22         | Enna       |
 | 23         | Randon     |
 | 24         | Avaliah    |
-| 25         |            |
+| 25         |   Ross        |
 | 26         |            |
 | 27         |            |
 | 28         |            |
@@ -142,7 +142,17 @@
 | 35         | Imolwen    |
 | 36         | Elbelin    |
 | 37         | Loralien   |
-| 38           |   @elfma         |
+| 38         | Gilirion   |
+| 39         | Errebeth   |
+| 40         | Caelrias   |
+| 41         | Faye       |
+| 42         | Geldann    |
+| 43         | Innith     |
+| 44         | Andar      |
+| 45         | Eris       |
+| 46         | Cradhun    |
+| 47         | Altrin     |
+|            |            |
 ^FirstNames
 
 | dice:d100 | Last Name |
@@ -151,5 +161,7 @@
 | 2         | Rainpuff  |
 | 3         | Pendora   |
 | 4         | Alouette  |
-| 5         |     Calem      |
+| 5         | Calem     |
+| 6         | Rilworth  |
+|           |           |
 ^LastNames
