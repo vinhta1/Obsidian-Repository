@@ -155,17 +155,17 @@
 |            |            |
 ^FirstNames
 
-| dice:d100 | Last Name  |
-| --------- | ---------- |
-| 1         | Duran      |
-| 2         | Rainpuff   |
-| 3         | Pendora    |
-| 4         | Alouette   |
-| 5         | Calem      |
-| 6         | Rilworth   |
-| 7         | Lionwhite  |
-| 8         | Seaguard   |
-| 9         | Alluvial   |
-| 10        | Ives |
-|           |            |
+| dice:d100 | Last Name |
+| --------- | --------- |
+| 1         | Duran     |
+| 2         | Rainpuff  |
+| 3         | Pendora   |
+| 4         | Alouette  |
+| 5         | Calem     |
+| 6         | Rilworth  |
+| 7         | Lionwhite |
+| 8         | Seaguard  |
+| 9         | Alluvial  |
+| 10        | Iyves     |
+| 11        |           |
 ^LastNames
