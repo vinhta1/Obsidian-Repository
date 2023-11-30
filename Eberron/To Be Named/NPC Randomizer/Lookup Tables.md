@@ -112,7 +112,7 @@
 | 5          | Hudd       |
 | 6          | Lizzette   |
 | 7          | Ilbert     |
-| 8          | May Lynn   |
+| 8          | Mei Lynn   |
 | 9          | Vaughn     |
 | 10         | Cassandra  |
 | 11         | William    |
@@ -129,14 +129,14 @@
 | 22         | Enna       |
 | 23         | Randon     |
 | 24         | Avaliah    |
-| 25         |   Ross        |
-| 26         |            |
-| 27         |            |
-| 28         |            |
-| 29         |            |
-| 30         |            |
-| 31         |            |
-| 32         |            |
+| 25         | Ross       |
+| 26         | Estel      |
+| 27         | Marior     |
+| 28         | Claire     |
+| 29         | Henson     |
+| 30         | Sophia     |
+| 31         | Hawking    |
+| 32         | Selari   |
 | 33         |            |
 | 34         | Ranesior   |
 | 35         | Imolwen    |
