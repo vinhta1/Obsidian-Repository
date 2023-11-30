@@ -1,1 +1,0 @@
-`dice:[[Lookup Tables#^31951c]]`
