@@ -1,4 +1,4 @@
-| dice: d100 | Quirks |
+| dice: 1d100 | Quirks |
 | ----------- | ------ |
 |1|This NPC's pockets are filled with a seemingly infinite supply of sunflower seeds. They discreetly spit the hulls into their hand and toss them when they think no one's watching.|
 |2|This NPC also dreams of being an adventurer, but their parents, spouse, drinking buddies, etc. keep talking them out of it. They are constantly sneaking peeks at your armor and weaponry, trying to hide their jealousy.|
