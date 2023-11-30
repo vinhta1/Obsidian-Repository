@@ -129,8 +129,20 @@
 | 22         | Enna       |
 | 23         | Randon     |
 | 24         | Avaliah    |
-| 25         | Ranesior   |
-| 26           |            |
+| 25         |            |
+| 26         |            |
+| 27         |            |
+| 28         |            |
+| 29         |            |
+| 30         |            |
+| 31         |            |
+| 32         |            |
+| 33         |            |
+| 34         | Ranesior   |
+| 35         | Imolwen    |
+| 36         | Elbelin    |
+| 37         | Loralien   |
+| 38           |   @elfma         |
 ^FirstNames
 
 | dice:d100 | Last Name |
