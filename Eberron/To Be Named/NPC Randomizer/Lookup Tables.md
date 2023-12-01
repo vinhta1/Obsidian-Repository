@@ -132,7 +132,7 @@
 | 25         | Ross       |
 | 26         | Estel      |
 | 27         | Marior     |
-| 28         | Claire     |
+| 28         | Zela       |
 | 29         | Zachary    |
 | 30         | Olyphia    |
 | 31         | Faralin    |
@@ -155,7 +155,25 @@
 | 48         | Rimalros   |
 | 49         | Laroleth   |
 | 50         | Estanion   |
-| 51           |            |
+| 51         | Claresiel  |
+| 52         | Mireldan   |
+| 53         | Calasin    |
+| 54         | Gilvetha   |
+| 55         | Lorad      |
+| 56         | Tuulia     |
+| 57         | Calnar     |
+| 58         | Sohvi      |
+| 59         | Bhelgrun   |
+| 60         | Ritva      |
+| 61         | Arvo       |
+| 62         | Immi       |
+| 63         | Kel        |
+| 64         | Mia        |
+| 65         | Crag       |
+| 66         | Raisa      |
+| 67         | Bardin     |
+| 68         | Snarri     |
+| 69         | Gorek           |
 ^FirstNames
 
 | dice:d100 | Last Name |
