@@ -290,5 +290,15 @@
 | 79        | Claddsek    |
 | 80        | Godeval     |
 | 81        | Novissime   |
-| 82        |             |
+| 82        | Ultimus     |
+| 83        | Black       |
+| 84        | Kira        |
+| 85        | Penbottom   |
+| 86        | Koeff       |
+| 87        | Ulma        |
+| 88        | Yyvanis     |
+| 89        | Quinn       |
+| 90        | Wang        |
+| 91        | Harlowe     |
+| 92        |             |
 ^LastNames
