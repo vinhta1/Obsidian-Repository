@@ -226,5 +226,11 @@
 | 15        | Haystream   |
 | 16        | Feyshire    |
 | 17        | Bongrip     |
-|           |             |
+| 18        | Farefellow  |
+| 19        | Sangred     |
+| 20        | Uforli      |
+| 21        | Daermond    |
+| 22        | Sarwynn     |
+| 23        | Glyndottir  |
+| 24        | Olgrur           |
 ^LastNames
