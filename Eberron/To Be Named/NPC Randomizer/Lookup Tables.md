@@ -243,8 +243,26 @@
 | 32        | Khadgarsson |
 | 33        | Tarawen     |
 | 34        | Irian       |
-| 35        | Alantar     |
-| 36        | Aestra      |
-| 37        | Sylberos    |
+| 35        | Aestra      |
+| 36        | Sylberos    |
+| 37        | Alorenthi   |
+| 38        | Daelian     |
+| 39        | Dyraen      |
+| 40        | Halsen      |
+| 41        | Jholareth   |
+| 42        | Jholyr      |
+| 43        | Maloraen    |
+| 44        | Mendaen     |
+| 45        | Mol         |
+| 46        | Shialaen    |
+| 47        | Thorn       |
+| 48        | Wrighten    |
+| 49        | Ebinor      |
+| 50        | Janus       |
+| 51        | Colworn     |
+| 52        | Faldren     |
+| 53        | Lanner      |
+| 54        | Toppe       |
+| 55        | Nelview     |
 |           |             |
 ^LastNames
