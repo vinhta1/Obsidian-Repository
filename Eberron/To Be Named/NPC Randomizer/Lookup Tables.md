@@ -133,11 +133,11 @@
 | 26         | Estel      |
 | 27         | Marior     |
 | 28         | Claire     |
-| 29         |      |
-| 30         | Olyphia     |
-| 31         |     |
-| 32         | Selari   |
-| 33         |            |
+| 29         | Zachary    |
+| 30         | Olyphia    |
+| 31         | Faralin    |
+| 32         | Selari     |
+| 33         | Melthalor  |
 | 34         | Ranesior   |
 | 35         | Imolwen    |
 | 36         | Elbelin    |
@@ -152,7 +152,10 @@
 | 45         | Eris       |
 | 46         | Cradhun    |
 | 47         | Altrin     |
-|            |            |
+| 48         | Rimalros   |
+| 49         | Laroleth   |
+| 50         | Estanion   |
+| 51           |            |
 ^FirstNames
 
 | dice:d100 | Last Name |
