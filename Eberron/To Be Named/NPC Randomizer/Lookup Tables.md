@@ -271,9 +271,10 @@
 | 60        | Eschus      |
 | 61        | Ghastor     |
 | 62        | Hetrion     |
-| 63        | Mroranon    |
-| 64        | Kolkakrun   |
+| 63        | Fox         |
+| 64        | Wolf        |
 | 65        | Liadon      |
 | 66        | Nailo       |
+| 67        | Black       |
 |           |             |
 ^LastNames
