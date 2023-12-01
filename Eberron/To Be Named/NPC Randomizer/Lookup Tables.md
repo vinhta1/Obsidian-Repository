@@ -194,20 +194,37 @@
 | 87         | Hadne      |
 | 88         | Endo       |
 | 89         | Harzaket   |
-| 90         |            |
+| 90         | Guido      |
+| 91         | Jaala      |
+| 92         | Marmadoc   |
+| 93         | Jaynee     |
+| 94         | Iago       |
+| 95         | Heide      |
+| 96         | Bren       |
+| 97         | Gwiston    |
+| 98         | Mosco      |
+| 99         | Melindy    |
+| 100        | Caludius           |
 ^FirstNames
 
-| dice:d100 | Last Name |
-| --------- | --------- |
-| 1         | Duran     |
-| 2         | Rainpuff  |
-| 3         | Pendora   |
-| 4         | Alouette  |
-| 5         | Calem     |
-| 6         | Rilworth  |
-| 7         | Lionwhite |
-| 8         | Seaguard  |
-| 9         | Alluvial  |
-| 10        | Iyves     |
-| 11        |           |
+| dice:d100 | Last Name   |
+| --------- | ----------- |
+| 1         | Duran       |
+| 2         | Rainpuff    |
+| 3         | Pendora     |
+| 4         | Alouette    |
+| 5         | Calem       |
+| 6         | Rilworth    |
+| 7         | Lionwhite   |
+| 8         | Seaguard    |
+| 9         | Alluvial    |
+| 10        | Iyves       |
+| 11        | Primrose    |
+| 12        | Chubbfield  |
+| 13        | Fumblebloom |
+| 14        | Arnner      |
+| 15        | Haystream   |
+| 16        | Feyshire    |
+| 17        | Bongrip     |
+|           |             |
 ^LastNames
