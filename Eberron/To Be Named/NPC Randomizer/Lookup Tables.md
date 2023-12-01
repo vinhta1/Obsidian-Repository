@@ -239,5 +239,12 @@
 | 28        | Besgrehilde |
 | 29        | Grimsbane   |
 | 30        | Wulfsdottir |
-| 31        |           Kragbeard  |
+| 31        | Kragsbeard  |
+| 32        | Khadgarsson |
+| 33        | Tarawen     |
+| 34        | Irian       |
+| 35        | Alantar     |
+| 36        | Aestra      |
+| 37        | Sylberos    |
+|           |             |
 ^LastNames
