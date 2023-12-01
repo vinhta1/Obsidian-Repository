@@ -232,5 +232,12 @@
 | 21        | Daermond    |
 | 22        | Sarwynn     |
 | 23        | Glyndottir  |
-| 24        | Olgrur           |
+| 24        | Olgrin      |
+| 25        | Gorekkson   |
+| 26        | Dulir       |
+| 27        | Bofdarunn   |
+| 28        | Besgrehilde |
+| 29        | Grimsbane   |
+| 30        | Wulfsdottir |
+| 31        |           Kragbeard  |
 ^LastNames
