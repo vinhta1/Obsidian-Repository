@@ -173,7 +173,28 @@
 | 66         | Raisa      |
 | 67         | Bardin     |
 | 68         | Snarri     |
-| 69         | Gorek           |
+| 69         | Gorek      |
+| 70         | Nogna      |
+| 71         | Sheedra    |
+| 72         | Okk        |
+| 73         | Ziggy      |
+| 74         | Davni      |
+| 75         | Isoza      |
+| 76         | Felver     |
+| 77         | Saphina    |
+| 78         | Calrick    |
+| 79         | Kiskley    |
+| 80         | Hetkock    |
+| 81         | Ela        |
+| 82         | Grung      |
+| 83         | Sekla      |
+| 84         | Bekri      |
+| 85         | Ceyda      |
+| 86         | Malgrim    |
+| 87         | Hadne      |
+| 88         | Endo       |
+| 89         | Harzaket   |
+| 90         |            |
 ^FirstNames
 
 | dice:d100 | Last Name |
