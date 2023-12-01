@@ -271,10 +271,24 @@
 | 60        | Eschus      |
 | 61        | Ghastor     |
 | 62        | Hetrion     |
-| 63        | Fox         |
-| 64        | Wolf        |
+| 63        | Arcadia     |
+| 64        | Raenira     |
 | 65        | Liadon      |
 | 66        | Nailo       |
-| 67        | Black       |
-|           |             |
+| 67        | Doaanrad    |
+| 68        | Serasesh    |
+| 69        | Lonna       |
+| 70        | Wroen       |
+| 71        | Morgana     |
+| 72        | Haylaril    |
+| 73        | Colton      |
+| 74        | Wylee       |
+| 75        | Mervida     |
+| 76        | Welhaura    |
+| 77        | Perna       |
+| 78        | Perrinna    |
+| 79        | Claddsek    |
+| 80        | Godeval     |
+| 81        | Novissime   |
+| 82        |             |
 ^LastNames
