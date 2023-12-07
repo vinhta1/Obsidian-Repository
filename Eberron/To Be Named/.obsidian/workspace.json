@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md",
-                "mode": "source",
+                "file": "NPC Randomizer/Randomizer.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md",
+                "file": "NPC Randomizer/Randomizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md",
+                "file": "NPC Randomizer/Randomizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC Randomizer/Lookup Tables.md"
+                "file": "NPC Randomizer/Randomizer.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "3f8c5d9edcceb17e",
   "lastOpenFiles": [
-    "NPC Randomizer/Randomizer.md",
     "NPC Randomizer/Lookup Tables.md",
+    "NPC Randomizer/Randomizer.md",
     "Appendix - Eberron.md",
     "Appendix - Images.md",
     "Appendix - NPCs.md",
