@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md",
-                "mode": "preview",
+                "file": "Session 01/Scene 1 - The Chase.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md",
+                "file": "Session 01/Scene 1 - The Chase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md",
+                "file": "Session 01/Scene 1 - The Chase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md"
+                "file": "Session 01/Scene 1 - The Chase.md"
               }
             }
           },
@@ -174,22 +174,22 @@
   },
   "active": "3f8c5d9edcceb17e",
   "lastOpenFiles": [
-    "NPC Randomizer/Lookup Tables.md",
+    "Session 02/Scene 2 - A Call for Help.md",
+    "Session 02/Scene 3 - All Roads.md",
+    "Session 03/Scene 4 - The Offering.md",
+    "Session 01/Scene 1 - The Chase.md",
+    "Secrets/Pasted image 20231128143015.png",
+    "Secrets/Pasted image 20231127233311.png",
+    "Secrets/Draconic Puzzle Question.png",
     "NPC Randomizer/Randomizer.md",
+    "NPC Randomizer/Lookup Tables.md",
+    "Secrets/Draconic Puzzle Hints.png",
     "Appendix - Eberron.md",
     "Appendix - Images.md",
     "Appendix - NPCs.md",
-    "Session 03/Scene 4 - The Offering.md",
-    "Session 01/Scene 1 - The Chase.md",
-    "Session 02/Scene 2 - A Call for Help.md",
-    "Session 02/Scene 3 - All Roads.md",
     "NPC Randomizer",
-    "Secrets/Draconic Puzzle Question.png",
-    "Secrets/Pasted image 20231128143015.png",
     "The Magnificent Mansion - Floor 1 of 3.jpg.md",
-    "Secrets/Pasted image 20231127233311.png",
     "Secrets/The Magnificent Mansion - Floor 1 of 3.jpg",
-    "Secrets/Draconic Puzzle Hints.png",
     "Secrets",
     "2023-11-26.md",
     "Game State.md",
