@@ -310,3 +310,19 @@
 | 99        | Dioma       |
 | 100       | Ogawa            |
 ^LastNames
+
+| dice: 1d100 | Interests                                |
+| ----------- | ---------------------------------------- |
+| 1           | "Gently used instruments"                |
+| 2           | "All things that illuminate"             |
+| 3           | "Spell components and magic"             |
+| 4           | "All sorts of trinkets"                  |
+| 5           | "Cartography, calligraphy, and scribing" |
+| 6           | "Footwear and cobbling"                  |
+| 7           | "Knives and Daggers"                     |
+| 8           | "Talentan delicacies"                    |
+| 9           | "Games, cards, and dice"                 |
+| 10          | "Herbalism and alchemy"                  |
+| 11          | "Theatrics and the performing arts"      |
+| 12          | ""                                         |
+^Interests

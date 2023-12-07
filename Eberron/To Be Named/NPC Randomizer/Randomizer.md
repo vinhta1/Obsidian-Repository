@@ -2,4 +2,4 @@ Name: `dice:[[Lookup Tables#^FirstNames]]` `dice:[[Lookup Tables#^LastNames]]`
 
 Quirk: `dice:[[Lookup Tables#^Quirks]]`
 
-Goods and Services:
+Interests, goods, or services: `dice:[[Lookup Tables#^Interests]]`

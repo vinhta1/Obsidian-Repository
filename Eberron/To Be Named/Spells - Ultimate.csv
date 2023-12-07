@@ -1,0 +1,5 @@
+Card Number,Optional - Spell Name,Condition,Action
+1,,"#S: 1, 3, 5, 7; A: 2, 4, 6, 8",
+2,,"#A#A#A, C, #B#B#B, C",
+3,,"A: I4, A: I5, A: I6; #A: O1; B: I8, B: I1, B: I2; #B: O5",
+4,,"#A: I8, #A: I2, A:O8, A:O2, #B:I6, #B:I4, B: O6, B:O4, X: 3, X: 7  ",
