@@ -8,7 +8,7 @@
   "displayFormulaAfter": false,
   "escapeDiceMod": true,
   "signed": false,
-  "displayLookupRoll": false,
+  "displayLookupRoll": true,
   "formulas": {},
   "persistResults": false,
   "results": {},
