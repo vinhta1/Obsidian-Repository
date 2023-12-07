@@ -319,10 +319,25 @@
 | 4           | "All sorts of trinkets"                  |
 | 5           | "Cartography, calligraphy, and scribing" |
 | 6           | "Footwear and cobbling"                  |
-| 7           | "Knives and Daggers"                     |
+| 7           | "Knives and daggers"                     |
 | 8           | "Talentan delicacies"                    |
 | 9           | "Games, cards, and dice"                 |
 | 10          | "Herbalism and alchemy"                  |
 | 11          | "Theatrics and the performing arts"      |
-| 12          | ""                                         |
+| 12          | "Orchestra and musical theater"          |
+| 13          | "Mundane magic"                          |
+| 14          | "Weird art"                              |
+| 15          | "Speed is life"                          |
+| 16          | "Scholarly pursuits"                     |
+| 17          | "Healing at an affordable price"         |
+| 18          | "Luxury items and lifestyle"             |
+| 19          | "Lightly poisoned beverages"             |
+| 20          | "Body transformation"                    |
+| 21          | "Eldeen tastes"                          |
+| 22          | "Religion and relics"                    |
+| 23          | "Masonry, sculpting, and building"       |
+| 24          | "Innkeeping and homeliness"              |
+| 25          | "Dead man's heirlooms"                   |
+| 26          | "Elven artistry"                         |
+| 27          | "D"                                         |
 ^Interests
