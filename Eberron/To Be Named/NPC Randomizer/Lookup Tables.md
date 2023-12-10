@@ -311,58 +311,64 @@
 | 100       | Ogawa            |
 ^LastNames
 
-| dice: 1d100 | Interests and Intrigue                    |
-| ----------- | ----------------------------------------- |
-| 1           | "Gently used instruments"                 |
-| 2           | "All things that illuminate"              |
-| 3           | "Spell components and magic"              |
-| 4           | "All sorts of trinkets"                   |
-| 5           | "Cartography, calligraphy, and scribing"  |
-| 6           | "Footwear and cobbling"                   |
-| 7           | "Weapons and armaments"                   |
-| 8           | "Talentan delicacies"                     |
-| 9           | "Games, cards, and dice"                  |
-| 10          | "Herbalism and alchemy"                   |
-| 11          | "Theatrics and the performing arts"       |
-| 12          | "Orchestra and musical theater"           |
-| 13          | "Mundane magic"                           |
-| 14          | "Exotic or just weird"                    |
-| 15          | "Speed is life"                           |
-| 16          | "Scholarly pursuits"                      |
-| 17          | "Healing and medicine"                    |
-| 18          | "Luxury items and lifestyle"              |
-| 19          | "Lightly poisoned beverages"              |
-| 20          | "Body transformation"                     |
-| 21          | "Eldeen tastes"                           |
-| 22          | "Religion or relics"                      |
-| 23          | "Masonry, sculpting, and building"        |
-| 24          | "Innkeeping and homeliness"               |
-| 25          | "Dead man's heirlooms"                    |
-| 26          | "Elven artistry"                          |
-| 27          | "Dwarven artistry"                        |
-| 28          | "Old history"                             |
-| 29          | "A good read or some good news"           |
-| 30          | "The talk around town"                    |
-| 31          | "Head in the clouds"                      |
-| 32          | "Aereni tradition"                        |
-| 33          | "Brelish comfort"                         |
-| 34          | "Thrifty and affordable"                  |
-| 35          | "Nice things to wear"                     |
-| 36          | "For shifters, by shifters"               |
-| 37          | "Visual art"                              |
-| 38          | "Style over substance"                    |
-| 39          | "Substance over style"                    |
-| 40          | "Some good advice"                        |
-| 41          | "Ruin delving and exploration"            |
-| 42          | "Alcohol"                                 |
-| 43          | "Karrnath comfort"                        |
-| 44          | "Sports!"                                 |
-| 45          | "Gambling"                                |
-| 46          | "Animals, plants and other living things" |
-| 47          | "A sturdy wrench and some elbow grease"   |
-| 48          | "Ceremonies, rituals, and celebrations"   |
-| 49          | "I know a guy (who knows a guy)"          |
-| 50          | "Anything for a silver sovereign"         |
-| 51          | "This is a fine establishment"            |
-|      52       |          ""                                 |
+| dice: 1d100 | Interests and Intrigue                              |
+| ----------- | --------------------------------------------------- |
+| 1           | "Gently used instruments"                           |
+| 2           | "All things that illuminate"                        |
+| 3           | "Spell components and magic"                        |
+| 4           | "All sorts of trinkets"                             |
+| 5           | "Cartography, calligraphy, and scribing"            |
+| 6           | "Footwear and cobbling"                             |
+| 7           | "Weapons and armaments"                             |
+| 8           | "Talentan delicacies"                               |
+| 9           | "Games, cards, and dice"                            |
+| 10          | "Herbalism and alchemy"                             |
+| 11          | "Theatrics and the performing arts"                 |
+| 12          | "Orchestra and musical theater"                     |
+| 13          | "Mundane magic"                                     |
+| 14          | "Exotic or just weird"                              |
+| 15          | "Speed is life"                                     |
+| 16          | "Scholarly pursuits"                                |
+| 17          | "Healing and medicine"                              |
+| 18          | "Luxury items and lifestyle"                        |
+| 19          | "Lightly poisoned beverages"                        |
+| 20          | "Body transformation"                               |
+| 21          | "Eldeen tastes"                                     |
+| 22          | "Religion or relics"                                |
+| 23          | "Masonry, sculpting, and building"                  |
+| 24          | "Innkeeping and homeliness"                         |
+| 25          | "Dead man's heirlooms"                              |
+| 26          | "Elven artistry"                                    |
+| 27          | "Dwarven artistry"                                  |
+| 28          | "History, old or new"                               |
+| 29          | "A good read or some good news"                     |
+| 30          | "The talk around town"                              |
+| 31          | "Head in the clouds"                                |
+| 32          | "Aereni culture"                                    |
+| 33          | "Brelish culture"                                   |
+| 34          | "Thrifty and affordable"                            |
+| 35          | "Nice things to wear"                               |
+| 36          | "For shifters, by shifters"                         |
+| 37          | "Visual art"                                        |
+| 38          | "Style over substance"                              |
+| 39          | "Substance over style"                              |
+| 40          | "Some good advice"                                  |
+| 41          | "Ruin delving and exploration"                      |
+| 42          | "Alcohol"                                           |
+| 43          | "Karrnathian culture"                               |
+| 44          | "Sports!"                                           |
+| 45          | "Gambling"                                          |
+| 46          | "Animals, plants and other living things"           |
+| 47          | "A sturdy wrench and some elbow grease"             |
+| 48          | "Ceremonies, rituals, and celebrations"             |
+| 49          | "I know a guy (who knows a guy)"                    |
+| 50          | "Anything for a silver sovereign"                   |
+| 51          | "This is a fine establishment"                      |
+| 52          | "Fun facts and dumb facts"                          |
+| 53          | "Places, people, and things long gone or forgotten" |
+| 54          | "The bigger, the better"                            |
+| 55          | "Sweating over a forge or a fire"                   |
+| 56          | "Aundairian culture"                                |
+| 57          | "Thranish culture"                                  |
+| 58          | "Cyran culture"                                                    |
 ^InterestsAndIntrigue
