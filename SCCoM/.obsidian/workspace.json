@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5fb6cb0efb9a0d23",
+        "id": "47bc3008fe23afa2",
         "type": "tabs",
         "children": [
           {
-            "id": "a4152de3beae86bb",
+            "id": "e12f0777fe75a6ef",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "SCCoM/.obsidian/workspace.json",
-                "staged": false
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test.md"
+              }
             }
           },
           {
@@ -166,7 +171,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d3bbd6fc860b0ba",
+  "active": "e12f0777fe75a6ef",
   "lastOpenFiles": [
     "Test.md"
   ]
