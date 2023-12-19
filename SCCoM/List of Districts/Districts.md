@@ -1,2 +1,3 @@
 - [[UCSC]]
+	- A public research university nestled in between mountains and redwood forests overlooking the ocean and 
 - [[Downtown]]
