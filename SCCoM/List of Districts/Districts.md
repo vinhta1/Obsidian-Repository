@@ -1,3 +1,7 @@
-- [[UCSC]]
-	- A public research university nestled in between mountains and redwood forests overlooking the ocean and 
+- [[UCSC|University of California, Santa Cruz (UCSC)]]
+	- A public research university nestled in between mountains and redwood forests overlooking the coast, known for its unique combination of academic excellence, natural beauty, and a progressive and alternative culture that makes it distinct within the University of California system.
+	- A lot of students hate it here, but that's like any other school, right?
 - [[Downtown]]
+	- A microcosm of the city's spirit—artsy, diverse, and always buzzing with something interesting.
+	- Metro lines run through all of Santa Cruz and the neighboring cities. You can get anywhere you want for free if you're enrolled in UCSC.
+- 
