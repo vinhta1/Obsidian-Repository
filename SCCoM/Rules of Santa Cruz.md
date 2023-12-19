@@ -1,2 +1,0 @@
-# Every beach is a gateway
-The places where the land meets the water have supernatural qualities that can transport people to somewhere else. Whether it's a cave or the beams under the board walk, anything resembling a arch can lead wanderers to some place familiar or unfamiliar.
