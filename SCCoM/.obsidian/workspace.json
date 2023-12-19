@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e4085bbfa483373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of Districts/Districts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,12 +232,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "037b257ed626f723",
+  "active": "8e4085bbfa483373",
   "lastOpenFiles": [
     "List of Districts/UCSC.md",
     "List of Districts/Districts.md",
-    "Rules of this Santa Cruz.md",
     "List of Districts/Downtown.md",
+    "List of Districts/The Boardwalk.md",
+    "Rules of this Santa Cruz.md",
     "List of Districts/A Test.md",
     "Test.md",
     "List of Districts"

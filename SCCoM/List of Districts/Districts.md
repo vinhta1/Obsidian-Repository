@@ -1,7 +1,8 @@
 - [[UCSC|University of California, Santa Cruz (UCSC)]]
 	- A public research university nestled in between mountains and redwood forests overlooking the coast, known for its unique combination of academic excellence, natural beauty, and a progressive and alternative culture that makes it distinct within the University of California system.
-	- A lot of students hate it here, but that's like any other school, right?
-- [[Downtown]]
-	- A microcosm of the city's spirit—artsy, diverse, and always buzzing with something interesting.
+	- Who knows what goes on in the forests, fields and buildings of this campus?
+- [[Downtown|Downtown, Santa Cruz]]
+	- A microcosm of the city's spirit—artsy, diverse, and always buzzing with something interesting. A hotspot for people, culture, and of course, activity.
 	- Metro lines run through all of Santa Cruz and the neighboring cities. You can get anywhere you want for free if you're enrolled in UCSC.
-- 
+- [[The Boardwalk|The Santa Cruz Beach Boardwalk]]
+	- A seaside amusement park settled along the coastline of Santa Cruz. Come for the amusement rides, the arcades, the attractions, the food, the stores, or the beach.
