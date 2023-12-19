@@ -6,3 +6,4 @@
 	- Metro lines run through all of Santa Cruz and the neighboring cities. You can get anywhere you want for free if you're enrolled in UCSC.
 - [[The Boardwalk|The Santa Cruz Beach Boardwalk]]
 	- A seaside amusement park settled along the coastline of Santa Cruz. Come for the amusement rides, the arcades, the attractions, the food, the stores, or the beach.
+	- 
