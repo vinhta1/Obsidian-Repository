@@ -23,12 +23,8 @@
             "id": "5af39a12aebc1f57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainstorming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Brainstorming.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +179,8 @@
   },
   "active": "5af39a12aebc1f57",
   "lastOpenFiles": [
-    "NPC Randomizer/Randomizer.md",
     "Brainstorming.md",
+    "NPC Randomizer/Randomizer.md",
     "Old/Appendix - Eberron.md",
     "Old",
     "NPC Randomizer/Lookup Tables.md",
