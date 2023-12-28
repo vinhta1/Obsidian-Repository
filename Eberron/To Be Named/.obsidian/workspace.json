@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5af39a12aebc1f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md",
+                "file": "Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md",
+                "file": "Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC Randomizer/Randomizer.md"
+                "file": "Brainstorming.md"
               }
             }
           },
@@ -172,12 +185,13 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "602969cd9526ef60",
+  "active": "5af39a12aebc1f57",
   "lastOpenFiles": [
+    "NPC Randomizer/Randomizer.md",
+    "Brainstorming.md",
     "Old/Appendix - Eberron.md",
     "Old",
     "NPC Randomizer/Lookup Tables.md",
-    "NPC Randomizer/Randomizer.md",
     "Old/Session 01/Scene 1 - The Chase.md",
     "Old/Session 03/Scene 4 - The Offering.md",
     "Old/Session 02/Scene 2 - A Call for Help.md",
