@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,8 +187,8 @@
   },
   "active": "5af39a12aebc1f57",
   "lastOpenFiles": [
-    "Brainstorming.md",
     "NPC Randomizer/Randomizer.md",
+    "Brainstorming.md",
     "Old/Appendix - Eberron.md",
     "Old",
     "NPC Randomizer/Lookup Tables.md",
