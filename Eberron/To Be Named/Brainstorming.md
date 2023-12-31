@@ -1,6 +1,6 @@
+
+Corruption in the Watch. Conspiracies amongst the dragonmarked Houses. Daask pulling the strings from under. The Baromar clan is fighting for control and survival. A group of people all caught in the middle.
 # Shamukaar
-# Echo
-Echo (Blood) from Curtain Call - The leader of a cult and an infiltrator, a warforged with the special property to possess other warforged, who struggles with their metal body and wishes to be alive.
-Goal: to reincarnate as (or possess) a flesh being.
-Echo (Stone) - an ancient artifact that is rumored to contain powerful secrets which had disappeared from House Medani's vaults under mysterious circumstances. It is a docent in reality, the other half of echo, plagued with sentience and immortality.
-Goal: to die.
+"Shamukaar is the most successful tavern in Khyber's Gate. The place is a safe haven for all within it, regardless of species or politics; once you make it through the door, you can breathe easy."
+
+"This is the largest and most successful tavern in the region, and it is the safest place to deal with members of Daask. Shamukaar is simultaneously a slaughterhouse, a butcher shop, a restaurant, and a tavern. It caters to Droaam immigrants, a category that includes many different species; ogres, gnolls, harpies, minotaurs, and even medusas can be found at the bar. The goblin chefs can prepare an astonishing assortment of meals, all of which share one thing in common: they are disgusting to humans. Any nongoblin who eats a meal at Shamukaar must make a DC 15 Fortitude saving throw or suffer 1 point of Constitution damage and become nauseated for 1 hour. A nongoblin who eats at Shamukaar once per day for a week without failing a saving throw gains a +2 bonus on all saving throws to resist the effects of ingested poisons. Despite the monstrous nature of its patrons, Shamu kaar is one of the safest places in Khyber’s Gate. Even the monsters of Daask recognize the need for a neutral ground and a safe haven, and Shamukaar serves that purpose. Unless provoked beyond measure, a resident of Khyber’s Gate will not start a fi ght in Shamukaar. And if anyone does start a fi ght, all other patrons unite together to subdue the aggressor." (Sharn, City of T)
