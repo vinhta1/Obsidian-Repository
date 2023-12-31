@@ -3,5 +3,6 @@
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "checkbox"
-  ]
+  ],
+  "theme": "obsidian"
 }
