@@ -1,6 +1,4 @@
-# The Fireball
-A tavern co-owned by Dante and Virgil. Houses the entrance to a network of tunnels that traverse beneath the city into the Cogs and the ruins within.
-What gets 
+# Shamukaar
 # Echo
 Echo (Blood) from Curtain Call - The leader of a cult and an infiltrator, a warforged with the special property to possess other warforged, who struggles with their metal body and wishes to be alive.
 Goal: to reincarnate as (or possess) a flesh being.
