@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Districts/The Boardwalk.md",
+                "file": "List of Districts/UCSC.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Districts/The Boardwalk.md",
+                "file": "List of Districts/UCSC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Districts/The Boardwalk.md",
+                "file": "List of Districts/UCSC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Districts/The Boardwalk.md"
+                "file": "List of Districts/UCSC.md"
               }
             }
           },
@@ -234,8 +234,8 @@
   },
   "active": "8e4085bbfa483373",
   "lastOpenFiles": [
-    "List of Districts/UCSC.md",
     "List of Districts/The Boardwalk.md",
+    "List of Districts/UCSC.md",
     "List of Districts/Districts.md",
     "List of Districts/Downtown.md",
     "Rules of this Santa Cruz.md",
