@@ -7,4 +7,4 @@ One entrance is located in Earth and Marine Sciences, a door without a handle. T
 Codename is Baskin Engineering 0.
 # True Scholars
 Behind the Global Village Café holds a portal that leads to a mirror of McHenry Library, fractal and infinite in architecture, but retro in design (Think Loki TVA).
-An abundant source of misinformation.
+An abundant source of information.
