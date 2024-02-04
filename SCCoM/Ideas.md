@@ -5,3 +5,5 @@ Go-toe-to-toe results
 - 10+: Checkmate status gains 1-tier. Represents one step closer to checkmating the Grim Reaper.
 - 7-9: Nothing happens.
 - 6-: Death status gains 1-tier. Represents one step closer to you getting checkmated.
+
+
