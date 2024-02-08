@@ -9,9 +9,13 @@ The reality: Increases susceptibility to certain Rifts (hypnotization, influence
 After having enough, they can hear the sirens. (Song stuck in their head status).
 Effects: increased sensitivity, warped perception of time, drowsiness, dilated pupils, reduced anxiety/stillness of mind
 Side effects: depression, anterograde amnesia, narcolepsy, increased blood pressure/heart rate, dullness in mind/emotion/feeling
-
 ### Counterfeit Creators
-There are two brothers trying hard to recreate the drug
+There are two brothers trying hard to recreate the drug.
+They have three friends peddling the drug.
+It's pretty good, but it's not the same (since it doesn't have the mystical properties the real stuff has).
+They make it in a garage.
+
+### Prescriptions and 
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
 If it's being made in a lab, its not this one. In fact, it's just a front with a basement. But, where is it being made then? And what are they making here?
