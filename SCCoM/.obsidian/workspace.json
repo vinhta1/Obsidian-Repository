@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "755189fe75c84fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Districts/Districts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2611c0fcdf6017e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Districts/Districts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bf932a10fcf40bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules of this Santa Cruz.md",
+                "file": "List of Districts/The Boardwalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,16 +83,15 @@
             "id": "a9fe2b52f40945f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md",
-                "mode": "source",
-                "source": false
+                "file": "SCCoM/Cases and Episodes/Siren's Sonata.md",
+                "staged": true
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md",
+                "file": "List of Districts/The Boardwalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md",
+                "file": "List of Districts/The Boardwalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md"
+                "file": "List of Districts/The Boardwalk.md"
               }
             }
           },
@@ -251,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -268,17 +243,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9fe2b52f40945f5",
+  "active": "bf932a10fcf40bea",
   "lastOpenFiles": [
-    "Rules of this Santa Cruz.md",
-    "Cases and Episodes/Siren's Sonata.md",
-    "Cases and Episodes",
-    "Gatekeepers.md",
-    "Ideas.md",
-    "List of Districts/UCSC.md",
     "List of Districts/Downtown.md",
     "List of Districts/The Boardwalk.md",
+    "Gatekeepers.md",
+    "List of Districts/UCSC.md",
+    "Rules of this Santa Cruz.md",
     "List of Districts/Districts.md",
+    "Cases and Episodes/Siren's Sonata.md",
+    "Cases and Episodes",
+    "Ideas.md",
     "List of Districts/A Test.md",
     "Test.md",
     "List of Districts"
