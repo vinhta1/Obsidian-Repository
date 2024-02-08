@@ -2,7 +2,7 @@
 
 # Background
 ## The new drug on the block, Sonata
-Related to Zaleplon (Generic Sonata)? Just a play on the name?
+Related to Zaleplon (Generic Sonata)? Stealing the name?
 People are going walking into the ocean, sinking like rocks.
 The cover: originally built to help with sleep, turns out to be a pretty good depressant when combined with some other choice compounds.
 The reality: Increases susceptibility to certain Rifts (hypnotization, influence).
@@ -15,7 +15,9 @@ They have three friends peddling the drug.
 It's pretty good, but it's not the same (since it doesn't have the mystical properties the real stuff has).
 They make it in a garage.
 
-### Prescriptions and 
+### Prescriptions and Spiked Drinks
+Sonata is starting to roll out in local, smaller pharmacies under a different name: 
+Benzodiazepine
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
 If it's being made in a lab, its not this one. In fact, it's just a front with a basement. But, where is it being made then? And what are they making here?
