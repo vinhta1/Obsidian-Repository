@@ -1,6 +1,9 @@
 #Case
 
 # Background
+
+### Call of the beach
+Someone tried to walk into the ocea
 ## The new drug on the block, Sonata
 Related to Zaleplon (Generic Sonata)? Stealing the name?
 People are going walking into the ocean, sinking like rocks.
@@ -13,11 +16,15 @@ Side effects: depression, anterograde amnesia, narcolepsy, increased blood press
 There are two brothers trying hard to recreate the drug.
 They have three friends peddling the drug.
 It's pretty good, but it's not the same (since it doesn't have the mystical properties the real stuff has).
+Their most recent batch is exactly the same though. They used Lullaby.
 They make it in a garage.
 
 ### Prescriptions and Spiked Drinks
-Sonata is starting to roll out in local, smaller pharmacies under a different name: Sirenonazepam
-A benzodiazepine class
+Sonata is starting to roll out in local, smaller pharmacies under a different name: Sirenonazepam (Generic Lullaby)
+A benzodiazepine class drug given for people with insomnia and other sleep related issues.
+Claimed to be nonaddictive.
+Someone has been caught slipping tablets into drinks at bars. It's Sonata
+All clues lead to Mission Pharma being distributers.
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
 If it's being made in a lab, its not this one. In fact, it's just a front with a basement. But, where is it being made then? And what are they making here?
