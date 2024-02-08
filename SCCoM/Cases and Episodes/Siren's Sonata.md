@@ -10,11 +10,12 @@ After having enough, they can hear the sirens. (Song stuck in their head status)
 Effects: increased sensitivity, warped perception of time, drowsiness, dilated pupils, reduced anxiety/stillness of mind
 Side effects: depression, anterograde amnesia, narcolepsy, increased blood pressure/heart rate, dullness in mind/emotion/feeling
 
+### Counterfeit Creators
+There are two brothers trying hard to recreate the drug
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
-If it's being made in a lab, its not this one. But, what is being made then?
+If it's being made in a lab, its not this one. In fact, it's just a front with a basement. But, where is it being made then? And what are they making here?
 Warehouses full of drug workers that believe that they will be rewarded for what they are doing.
 "Faith in something beyond one's imagination."
 Is it blackmail? Is it manipulation? Is it something beyond the mundane? **This is unanswered.**
 They definitely do NOT take Sonata.
-Two brothers oversee the drug manufacturing and distribution.
