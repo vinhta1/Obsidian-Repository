@@ -16,8 +16,8 @@ It's pretty good, but it's not the same (since it doesn't have the mystical prop
 They make it in a garage.
 
 ### Prescriptions and Spiked Drinks
-Sonata is starting to roll out in local, smaller pharmacies under a different name: 
-Benzodiazepine
+Sonata is starting to roll out in local, smaller pharmacies under a different name: Sirenonazepam
+A benzodiazepine class
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
 If it's being made in a lab, its not this one. In fact, it's just a front with a basement. But, where is it being made then? And what are they making here?
