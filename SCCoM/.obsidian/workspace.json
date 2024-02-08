@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gatekeepers.md",
+                "file": "Rules of this Santa Cruz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9fe2b52f40945f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cases and Episodes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gatekeepers.md",
+                "file": "Cases and Episodes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gatekeepers.md",
+                "file": "Cases and Episodes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gatekeepers.md"
+                "file": "Cases and Episodes/Untitled.md"
               }
             }
           },
@@ -256,14 +268,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5793a67ad98930e6",
+  "active": "a9fe2b52f40945f5",
   "lastOpenFiles": [
+    "Rules of this Santa Cruz.md",
+    "Cases and Episodes/Untitled.md",
+    "Cases and Episodes",
     "Gatekeepers.md",
+    "Ideas.md",
     "List of Districts/UCSC.md",
     "List of Districts/Downtown.md",
     "List of Districts/The Boardwalk.md",
-    "Ideas.md",
-    "Rules of this Santa Cruz.md",
     "List of Districts/Districts.md",
     "List of Districts/A Test.md",
     "Test.md",
