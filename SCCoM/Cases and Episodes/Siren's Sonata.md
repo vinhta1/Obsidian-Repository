@@ -12,7 +12,9 @@ Side effects: depression, anterograde amnesia, narcolepsy, increased blood press
 
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
-If it's being made in a lab, its not this one.
+If it's being made in a lab, its not this one. But, what is being made then?
 Warehouses full of drug workers that believe that they will be rewarded for what they are doing.
-Faith in something beyond one's imagination.
+"Faith in something beyond one's imagination."
 Is it blackmail? Is it manipulation? Is it something beyond the mundane? **This is unanswered.**
+They definitely do NOT take Sonata.
+Two brothers oversee the drug manufacturing and distribution.
