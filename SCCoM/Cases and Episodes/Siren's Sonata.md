@@ -39,4 +39,5 @@ They definitely do NOT take Sonata.
 
 # Dangers
 ### Ursula/Sea Witch
-Logos Con Artist
+Logos - Con Artist (145)
+Mythos - Mind Controller + Witch (153, 154)
