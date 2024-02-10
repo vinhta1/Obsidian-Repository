@@ -38,6 +38,8 @@ The truth: They are all sirens that gave up their voices to live in the city. Th
 They definitely do NOT take Sonata.
 
 # Dangers
-### Ursula/Sea Witch
+### (Ursula/Sea Witch)
 Logos - Con Artist (145)
 Mythos - Mind Controller + Witch (153, 154)
+Contracts and Concoctions
+Build Trust: - / Hurt: 2 / Threaten: 3
