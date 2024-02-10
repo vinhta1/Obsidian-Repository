@@ -31,6 +31,7 @@ All clues lead to Mission Pharma being distributers.
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
 If it's being made in a lab, its not this one. In fact, it's just a front with a basement. But, where is it being made then? And what are they making here?
-Warehouses full of drug workers that believe that they will be rewarded for what they are doing. "Faith in something beyond one's imagination."
+Warehouses full of drug workers that believe that they will be rewarded for what they are doing.
+All mute"Faith in something beyond one's imagination."
 Is it blackmail? Is it manipulation? Is it something beyond the mundane? **This is unanswered.**
 They definitely do NOT take Sonata.
