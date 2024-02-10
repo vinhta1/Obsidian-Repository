@@ -8,7 +8,7 @@ They weren't fully aware of their actions.
 They can be visited at the Dominican hospital, if you can find out which room they're in and convince the staff to let you visit.
 They have insomnia. They've recently developed depression and numbness.
 Amongst their personal belongings is a drug, a small bag of teal capsules/tablets.
-It is called Sonata.
+It is called Sauna/Sonata.
 ## The new drug on the block, Sonata
 Related to Zaleplon (Generic Sonata)? Stealing the name?
 People are going walking into the ocean, sinking like rocks.
