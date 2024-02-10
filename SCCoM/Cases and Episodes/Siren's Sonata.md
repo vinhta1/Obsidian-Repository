@@ -36,3 +36,7 @@ Warehouses full of drug workers that believe that they will be rewarded for what
 Is it blackmail? Is it manipulation? Is it something beyond the mundane? **They cannot and will not say.** They are all mute.
 The truth: They are all sirens that gave up their voices to live in the city. They took an unfair contract that they cannot go back on. Most of them don't express themselves. The ones that do, seem like good enough people.
 They definitely do NOT take Sonata.
+
+# Dangers
+### Ursula/Sea Witch
+Logos Con Artist
