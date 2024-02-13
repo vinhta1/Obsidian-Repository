@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6bbac7cd8b67814e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cases and Episodes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "037b257ed626f723",
             "type": "leaf",
             "state": {
@@ -91,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md",
+                "file": "Cases and Episodes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md",
+                "file": "Cases and Episodes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md"
+                "file": "Cases and Episodes/Untitled.md"
               }
             }
           },
@@ -243,15 +255,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf932a10fcf40bea",
+  "active": "c0f8a0e412cd28d9",
   "lastOpenFiles": [
+    "Cases and Episodes/Siren's Sonata.md",
+    "Cases and Episodes/Untitled.md",
     "List of Districts/The Boardwalk.md",
     "List of Districts/Downtown.md",
     "Gatekeepers.md",
     "List of Districts/UCSC.md",
     "Rules of this Santa Cruz.md",
     "List of Districts/Districts.md",
-    "Cases and Episodes/Siren's Sonata.md",
     "Cases and Episodes",
     "Ideas.md",
     "List of Districts/A Test.md",
