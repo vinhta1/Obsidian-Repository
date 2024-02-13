@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/Burnout's Paradise.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/Burnout's Paradise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/Burnout's Paradise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs.md"
+                "file": "Cases and Episodes/Burnout's Paradise.md"
               }
             }
           },
@@ -269,8 +269,8 @@
   },
   "active": "f5b890321bd50a3c",
   "lastOpenFiles": [
-    "Cases and Episodes/Burnout's Paradise.md",
     "Cases and Episodes/Siren's Sonata.md",
+    "Cases and Episodes/Burnout's Paradise.md",
     "PCs.md",
     "Ideas.md",
     "Gatekeepers.md",

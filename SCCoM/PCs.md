@@ -8,4 +8,6 @@ Is this just the Mist messing with him?
 Warns Icarus when they are disrupting the common order of things.
 
 # Asher
-Tyche is employed by rifts from time to time.
+The rift of Tyche used to be employed by other rifts.
+She was pushed to far and abandoned a previous logos into Asher.
+Tyche is now in hiding.
