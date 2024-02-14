@@ -1,1 +1,1 @@
-#Case Someone loses a slinky, and it turns into a giant fetch quest.
+#Case Someone loses a slinky, and it turns into a giant fetch quest. Which leads into a horrible and ironic turn of events.
