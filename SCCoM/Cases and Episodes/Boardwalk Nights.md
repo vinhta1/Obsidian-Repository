@@ -1,0 +1,1 @@
+#Case Spirited away, friendly ghosts
