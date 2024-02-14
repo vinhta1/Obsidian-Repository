@@ -15,4 +15,4 @@ It is the source of her ailment.
 - Do something she's never done before
 - Have something she's never had before
 - See something she's never seen before
-Each goal that is achieved reduces her swing status: Suicidal-5, by one tier. Her mood shifts with each tier. The trick is to remove it and potentially even turn it into something better.
+Each goal that is achieved reduces her swing status: Suicidal-4, by one tier. Her mood shifts with each tier. The trick is to remove it and potentially even turn it into something better.
