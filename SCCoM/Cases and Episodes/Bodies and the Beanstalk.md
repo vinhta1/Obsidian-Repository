@@ -14,4 +14,4 @@ Early in the morning, at around 3-4 AM, Jack had fell hundreds of feet to his de
 ##### Spectrums
 Hurt or Subdue: 4 | Threaten: 4 | Convince: -
 ##### Custom Moves
-**Giant**: When Grant takes a status that can be countered by his huge size
+**Giant**: When Grant takes a physical harm or subdual status, reduce it by 3.
