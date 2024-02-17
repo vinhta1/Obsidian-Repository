@@ -26,8 +26,9 @@ They make it in a garage.
 ### Prescriptions and Spiked Drinks
 Sonata is starting to roll out in local, smaller pharmacies under a different name: Sirenonazepam (Generic Lullaby)
 A benzodiazepine class drug given for people with insomnia and other sleep related issues.
-"It's just a safer sleeping pill. It is"
-Someone has been caught slipping tablets into drinks at bars. It's Sonata
+"It's just a safer sleeping pill, really."
+Someone has been caught slipping the tablets into drinks at bars.
+Taking an overdose of sirenonazepam or taking alcohol or other CNS depressants with sirenonazepam may lead to **breathing problems and unconsciousness**. Some signs of an overdose include: clumsiness or unsteadiness, confusion, severe drowsiness, low blood pressure, unusual dullness or feeling sluggish, and troubled breathing.
 All clues lead to Mission Pharma being distributers.
 ### Developed by Helix Labs, produced in unmarked warehouses
 Under a cover company: Mission Pharmaceuticals, a pop up lab on Mission St.
