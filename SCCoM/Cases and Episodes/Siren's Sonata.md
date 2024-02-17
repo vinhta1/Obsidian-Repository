@@ -20,7 +20,7 @@ Side effects: depression, anterograde amnesia, narcolepsy, increased blood press
 ### Counterfeit Creators
 There are two brothers trying hard to recreate the drug.
 They have three friends peddling the drug.
-It's pretty good, but it's not the same (since it doesn't have the mystical properties the real stuff has).
+It's pretty good, but it's not the same (since it doesn't have the mystical properties the real stuff has). "Even some psychedelics to try and get those audio hallucinations." 
 Their most recent batch is exactly the same though. They used Lullaby.
 They make it in a garage.
 ### Prescriptions and Spiked Drinks
