@@ -11,3 +11,7 @@ Early in the morning, at around 3-4 AM, Jack had fell hundreds of feet to his de
 ### Giselle (The Giant's Wife)
 
 ### Grant (The Giant)
+##### Spectrums
+Hurt or Subdue: 4 | Threaten: 4 | Convince: -
+##### Custom Moves
+**Giant**: When Grant takes a status that can be countered by his huge size
