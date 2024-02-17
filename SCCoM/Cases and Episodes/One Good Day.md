@@ -1,4 +1,4 @@
-#Case The black company
+#Case The Black Company
 
 # Background
 ### The office lady life
