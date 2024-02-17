@@ -8,3 +8,6 @@ The climbing didn't stop at the top of the tree. In fact, it extended past the t
 Early in the morning, at around 3-4 AM, Jack had fell hundreds of feet to his death. At around 6-7 AM, the dead body was called in. Police are on the scene are investigating, and will most likely categorize this as a death from misadventure.
 
 # Dangers
+### Giselle (The Giant's Wife)
+
+### Grant (The Giant)
