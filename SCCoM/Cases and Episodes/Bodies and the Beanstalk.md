@@ -13,6 +13,9 @@ Early in the morning, at around 3-4 AM, Jack had fell hundreds of feet to his de
 ### Grant (The Giant)
 ##### Spectrums
 Hurt or Subdue: 4 | Threaten: 4 | Convince: -
-##### Custom Moves
+##### **Custom Moves**
 **Good Sense of Smell**: When Grant enters the scene and can smell someone, give him Alert: 2.
 **Giant**: When Grant takes a physical harm or subdual status, reduce it by 3. When the MC makes a hard move with Grant, he can hit two targets or a single target for +1 tier.
+
+##### Hard Moves
+##### Soft Moves
