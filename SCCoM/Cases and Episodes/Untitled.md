@@ -1,1 +1,1 @@
-Danny Song is lying in an alley, 
+Danny Song is lying in an alley in a pool of their blood, organs missing from their carved abdomen.
