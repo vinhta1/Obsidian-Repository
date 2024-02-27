@@ -1,10 +1,15 @@
-# Found Chinatown, Gatekeepers
+# New Chinatown, Gatekeepers
 ### Goal: Maintain the Mist, Attend to the Ghosts
-They've been stretched thin since their founding, about a decade after they lost the Last Chinatown. Established underneath UCSC, they take the time to protect and assist the Mist and the natural order of things. Most rifts operate just fine, since their dealings look like everyday happenings at best. There's enough evil in the world to justify anything nowadays. But when things get a little too weird, they're there to uproot the weeds. Order and ordinary is everything to the Gatekeepers. They don't want a repeat of history. Thus, the Gatekeepers and Avatars have a mutu
+They've been stretched thin since their founding, about a decade after they lost the Last Chinatown. Established underneath UCSC, they take the time to protect and assist the Mist and the natural order of things. Most rifts operate just fine, since their dealings look like everyday happenings at best. There's enough evil in the world to justify anything nowadays. But when things get a little too weird, they're there to uproot the weeds. Order and ordinary is everything to the Gatekeepers. They don't want a repeat of history. Thus, the Gatekeepers and Avatars have a mutual yet bitter and fragile agreement.
+
+New Chinatown is also the home of the ghosts of their ancestors and relatives. Thus, is it also the Gateke priority to attend to them
 ### Grey Suits and Old Tradition
 Business/business casual to casual/plainclothes attire
 When in proper uniform, gatekeepers will usually will stick to grey but sometimes will dress in colors pertaining to the [Wuxing](https://en.wikipedia.org/wiki/Color_in_Chinese_culture). Of course, the higher up's clothes will match whatever the crowd is wearing, almost changing at a dime. Blink and you'll miss it, stare and you'll forget it.
 ### DMO: Distract, Mask, Obliviate
+If someone saw something they shouldn't have, they didn't. Using their vast intelligence network and methods of divination, Gatekeepers can put agents on the scene before anything happens. These agents follow the DMO motto and take proper precautions to make sure no one realizes something is off, lest they awaken. Their job isn't to stop crime, it's to stop Rifts from waking up others. Thus much to many Gatekeeper's chagrin, if it looks normal enough, it's not their priority.
+
+
 
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
 ### Goal: Make Money, Send a Message
