@@ -20,3 +20,4 @@ Most members of this gang stick to any old meat cleaver they can get their hands
 # Helix Labs
 https://cityofmist.co/blogs/news/helix-labs-in-city-of-mist-ttrpg
 
+### Goal:
