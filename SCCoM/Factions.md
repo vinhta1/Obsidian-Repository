@@ -19,5 +19,5 @@ Most members of this gang stick to any old meat cleaver they can get their hands
 
 # The Black Company
 
-### Goal: Work. Profit. Work. Profit.
-The Black Company isn't one faction. It is more like a comg
+### Goal: Work. Profit. Influence. Profit.
+The Black Company isn't one faction. It is more like an entity. A meat grinder that young and aspiring people walk into willingly, only to come out without a will to live. That isn't to say that this company isn't necessary. In fact, it has led to many revolutions in every field: medical advancements, 
