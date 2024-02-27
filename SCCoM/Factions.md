@@ -19,5 +19,7 @@ Most members of this gang stick to any old meat cleaver they can get their hands
 
 # The Black Company
 
-### Goal: Work. Profit. Influence. Profit.
-The Black Company isn't one faction. It is more like an entity. A meat grinder that young and aspiring people walk into willingly, only to come out without a will to live. That isn't to say that this company isn't necessary. In fact, it has led to many revolutions in every field: medical advancements, 
+### Goal: Work. Advance. Profit.
+
+
+The Black Company isn't one faction. It is more like a conglomerate. A meat grinder that young and aspiring people walk into willingly, only to come out without a will to live. That isn't to say that this company isn't necessary. In fact, it has led to many revolutions in every field: medical advancements, technological breakthroughs, you name it. Behind closed doors and buried underneath paperwork and bureaucracy, things that shouldn't exist are contained in concrete and linoleum cells. Research on Rifts, Relics, and further anomalies are performed in the pursuit of progress, often citing it's "for the good of everyone." Once again, it isn't a faction, or even a singular entity. But if you want to find where all the weird is happening, the headquarters can be found right in the middle of Santa Cruz: a towering pure black monolith that no one can seem to see.
