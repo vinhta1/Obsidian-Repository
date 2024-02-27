@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "45cc65fdb1d94e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "037b257ed626f723",
             "type": "leaf",
             "state": {
@@ -163,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/Untitled.md",
+                "file": "Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/Untitled.md",
+                "file": "Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cases and Episodes/Untitled.md"
+                "file": "Factions.md"
               }
             }
           },
@@ -315,20 +327,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db518d9f55d3ba70",
+  "active": "45cc65fdb1d94e72",
   "lastOpenFiles": [
-    "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Untitled.md",
+    "Cases and Episodes/The Slinky.md",
+    "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Forbidden Arizona.md",
     "Cases and Episodes/One Good Day.md",
     "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/Blood in the Alleys.md",
     "Cases and Episodes/Siren's Sonata.md",
-    "Cases and Episodes/The Slinky.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Rules of this Santa Cruz.md",
     "Cases and Episodes/Someone's Eating the Children.md",
-    "Gatekeepers.md",
+    "Factions.md",
     "Ideas.md",
     "PCs.md",
     "List of Districts/The Boardwalk.md",
