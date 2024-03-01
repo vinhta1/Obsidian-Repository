@@ -10,7 +10,8 @@ It always started with a debt. Someone who owed a little too much money to the w
 
 ### Susan, Judge of the Dead
 "Their heart's missing again." Missing organs usually aren't a problem for most morticians, sure. The cut's so clean, it's as if they were never opened in the first place, and maybe a prosthetic can be used in place of the missing pieces. But their hearts; they need their hearts to move on. Susan closes her eyes, and blue fire filters through her eyelids like they were being snuffed out and raged against it.
-The man in front of her disappeared, as the 
+The man in front of her disappeared, and the table he occupied sank as it turned into grains of sand. The still-air howled into winds that blew around her, peacefully, solemnly. A desert filled with white evening primroses surrounded her. Nothing had changed in reality: she stares down at the cadaver.
+In the desert, the man is nowhere to be seen
 # Dangers
 ### Susan Rashad
 Mortician and Athlete
