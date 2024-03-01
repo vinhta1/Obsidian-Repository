@@ -47,6 +47,9 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 - Some newer organ donors were violent offenders, who came in on the brink of death. "Nasty stuff, both them and their wounds." They almost always never made it.
 
 # Showdown
+The clues should have pointed to the hospital and that one of the workers, likely a skilled practitioner, was behind these recent killings. Isabel will only reveal herself when forced into a corner or when hunting dealers at night. Because of how little she can control herself when she gives into her hunger, she will prefer to be away from the public. It is in the crew's best interests to confront her in an isolated place. The more access she has to helpless people, the stronger she is. She cannot control whether or not she transforms. When she does, it's a fight to the death or until the sun rises.
+# Aftermath
+
 # Dangers
 ### Susan Rashad
 Mortician
