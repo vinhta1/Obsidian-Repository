@@ -47,9 +47,11 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 - Some newer organ donors were violent offenders, who came in on the brink of death. "Nasty stuff, both them and their wounds." They almost always never made it.
 
 # Showdown
-The clues should have pointed to the hospital and that one of the workers, likely a skilled practitioner, was behind these recent killings. Isabel will only reveal herself when forced into a corner or when hunting dealers at night. Because of how little she can control herself when she gives into her hunger, she will prefer to be away from the public. It is in the crew's best interests to confront her in an isolated place. The more access she has to helpless people, the stronger she is. She cannot control whether or not she transforms. When she does, it's a fight to the death or until the sun rises.
+The clues should have pointed to the hospital and that one of the workers, likely a skilled practitioner, was behind these recent killings. Isabel will only reveal herself when forced into a corner or when hunting dealers at night. Because of how little she can control herself when she gives into her hunger, she will prefer to be away from the public. It is in the crew's best interests to confront her in an isolated place as well. The more access she has to helpless people, the stronger she is. She cannot control whether or not she transforms. When she does, it's a fight to the death or until the sun rises.
 # Aftermath
-
+- How does Susan feel about the party now? Will she continue to help the crew or the city?
+- If Isabel's alive, will she be brought to justice? What are the implications for the city and its crime rings? What about their citizens?
+- If the case ends up having too much collateral damage, how do the **Gatekeepers** respond?
 # Dangers
 ### Susan Rashad
 Mortician
@@ -94,7 +96,7 @@ Hurt or Subdue: 1 | Starve or Feed: 3
 Cannibal Surgeon
 Itzpapalotl
 #### Spectrums
-Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3 | Outrun: 4
+Hurt or Subdue: 5 | Satiate: - | Humanity: 3 | Outrun or Catch: 4
 #### Moves
 - **Obsidian Wings**: When The Clawed Butterfly enters the scene, give her either **flying** or **frenzy**. As a soft move, The Clawed Butterfly can switch between *flying* or *frenzy*. This tag can be renewed as a hard move.
 - **Bladed Skin**: When The Clawed Butterfly takes a physical harm or subdue status, reduce the tier of the status by 2. When you make a move too close to her, you take *cut-1* from the obsidian shards flying around.
