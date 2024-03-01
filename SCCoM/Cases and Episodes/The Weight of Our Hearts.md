@@ -32,9 +32,12 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 
 
 # Investigation
-##### At the **alleyway**:
-- Scratchy's body is missing a leg (stone sword), 
-
+##### At the **alleyway**, where Susan is watching:
+- Scratchy's body is missing a leg and his organs.
+- Details about Izzy's modus operandi, like the injections, and the drilling.
+- Nearby, Izzy might have ate one of the organs. On the bodies, there might be some black volcanic rock shards.
+##### At the **morgue**, where Susan works:
+- The 
 
 # Dangers
 ### Susan Rashad
