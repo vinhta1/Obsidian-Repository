@@ -9,18 +9,20 @@ Sometime later, she sees the same wealthy man from before, healthier than ever. 
 It always started with a debt. Someone who owed a little too much money to the wrong people. Or maybe it was a pair of relatives or friends who couldn't afford a hospital transplant. Just one kidney, they think. Just a piece of their liver, they think. Some of them never opened their eyes after they went under; those were the people who were deemed loners. They wouldn't have been missed. At least, that was the best justification the traffickers could give after seeing their entrails pulled out in front of them. It was sloppy, but it worked. From then on, she hunted organ traffickers. She'll make sure to eat every last one of them.
 
 ### Susan, Judge of the Dead
-"Their heart's missing again." Missing organs usually aren't a problem for most morticians, sure. The cut's so clean, it's as if they were never opened in the first place, and maybe a prosthetic can be used in place of the missing pieces. They're criminals anyways. Do they really deserve any less? But their hearts; they need their hearts to be judged. Susan closes her eyes, and blue fire filters through her eyelids like they were being snuffed out and raged against it.
+"Their heart's missing again." Missing organs usually aren't a problem for most morticians, sure. The cut's so clean, it's as if they were never opened in the first place, and maybe a prosthetic can be used in place of the missing pieces. But their hearts; they need their hearts to be judged. Susan closes her eyes, and blue fire filters through her eyelids like they were being snuffed out and raged against it.
 The man in front of her disappears, and the table he occupies turns to sand and sinks into the grains. The still-air howls and shifts. The new winds blow around her, peacefully, solemnly. A desert filled with white evening primroses surrounds her. Nothing had changed in reality: she stares down at the cadaver.
-In the desert, the man is nowhere to be seen. The ones without hearts can never be found. She stands and waits, just in case.
+In the desert, the man is nowhere to be seen. The ones without hearts can never be found. Maybe the have moved on to paradise. Maybe their souls have been devoured. Maybe they're just taking their time. She stands and waits, just in case.
 She finishes up the last of the bodies and throws away her gloves. She zips up her jacket, grabs her cane, and puts on her baseball cap. As she walks out into the night in all black, she pulls her mask up. It's time to judge a killer.
 
 ### The Timeline
-Susan is awakened.
-Izzy is awakened around the same time she starts to eat people.
-Izzy starts targeting organ traffickers.
-Scratchy is ordered to make the deal with Danny, despite fearing that he will be killed.
-At the same time, Susan is trying
-
+**A few years ago**: Susan is awakened.
+**Several months ago**: Izzy is awakened around the same time she starts to eat people.
+**A few months ago**: Susan starts trying to find out who is stealing people's organs.
+**A couple months ago**: Izzy starts targeting organ traffickers.
+**A week ago**: Scratchy is ordered to make the deal with Danny, despite fearing that he will be killed.
+**8PM**: Danny and Scratchy make the deal, only to be killed by Izzy. Danny survives, but because they are sedated they stay asleep for a while longer. Her heart isn't taken, because it's "tainted." Their body heals naturally.
+**8:30PM**: Susan finds the bodies, but is too late. She assumes they're both dead. She waits to see if the killer returns.
+**11:30PM**: Jerri steps out of Motiv, and notices the bodies in the darkness after seeing a hint of blood shimmer in the light.
 # Dangers
 ### Susan Rashad
 Mortician and Athlete
