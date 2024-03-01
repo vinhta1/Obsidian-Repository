@@ -24,7 +24,7 @@ Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 Cannibal Surgeon
 Itzpapalotl
 #### Spectrums
-Hurt or Subdue: 1 | Starve or Feed: 3 
+Hurt or Subdue: 1 | Starve or Feed: 3
 #### Moves
 - When Isabel enters the scene, give them *Hungry-1*.
 - **Transform**: As a soft move, if any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**.
@@ -63,7 +63,12 @@ Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3 | Outrun: 4
 
 ### Tzitzimimeh
 #### Spectrums
-Hurt or Subdue: 3
+Hurt or Subdue: 3 | Convince: -
 #### Moves
 - **Star Strike**: Tzitzimimeh can enter the scene as an meteor strike. Give itself up to two *combust-2* statuses to create an *incoming-meteor-strike* tag for each one. After each player moves they activate, giving an *orbital-impact-2* status each.
-- **Bodyguard**: If The Clawed Butterfly takes a status involving physical harm, the Tzitzimimitl take the status instead, if applicable.
+- **Queen's Guard**: If The Clawed Butterfly takes a status involving physical harm, the Tzitzimitl take the status instead, if applicable.
+- ---
+- **Talon Strike**: Attempt to tear through flesh and bone (*Rend-2*).
+- ---
+- Enter the atmosphere in a fiery blaze.
+- Land gracefully, ready to protect their queen.
