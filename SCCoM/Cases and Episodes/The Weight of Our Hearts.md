@@ -34,19 +34,19 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 # Investigation
 ##### At the **alleyway**, where Susan is watching:
 - Scratchy's body is missing a leg and his organs.
+- A second body, in a similar state.
+- There wasn't a struggle, but there are gashes in the ground where their limbs were severed.
 - Nearby, Izzy might have ate one of the organs. On the bodies, there might be some black volcanic rock shards.
 ##### At the hospital **morgue**, where Susan works:
-- Out of the people who've come in recently without organs, organ traffickers are the most common ones, then organ donors, then violent criminals.
+- Out of the people who've come in recently without organs, organ traffickers are the most common ones, then violent criminals, then organ donors.
 - Those marked as donors are not missing limbs.
-- Someone with appropriate contacts can learn that the victims lose their organs by the time authorities arrive UNLESS they are donors.
+- Someone with appropriate contacts can learn that the victims lose their organs by the time authorities arrive UNLESS they are donors, in which they have died in the hospital instead.
 ##### At the **hospital ward**, where Izzy works:
 - Izzy is a surgeon, overseeing many invasive surgeries. She's great at her job, but she can't save everyone.
 - An inventory check and gossip shows that someone has been stealing medical supplies, including sedatives and tranquilizers.
+- Some newer organ donors were violent offenders, who came in on the brink of death. "Nasty stuff, both them and their wounds." They almost always never made it.
 
-
-
-- 
-
+# Showdown
 # Dangers
 ### Susan Rashad
 Mortician
