@@ -29,9 +29,11 @@ Hurt or Subdue: 1 | Starve or Feed: 3
 - **Transform**: As a soft move, if any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**
 - ---
 - **Cannibal**: In the presence of human organs or fresh corpses, Isabel hungers (*Crave-1*)
-- **Tranquillizer Dart**: 
+- **Tranquillizer Darts**: Once per session, Isabel can shoot tranquillizer darts at multiple people (*Slipping-Under-4*, ongoing) as a soft move.
+- **IO Bore Sedation**: Isabel drills an IO line into the patient's leg, pumping them with sedatives (*Fully-Sedated-5*, ongoing)
+- **Surgery**: Operate on someone with a linoleum knife or medical tools (*Dissect-3*)
 - ---
-- 
+- Isabel's stomach growls inappropriately
 
 ### The Clawed Butterfly
 Cannibal Surgeon
@@ -42,5 +44,6 @@ Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 - **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
 ---
 - An obsidian-taloned limb tears through a wound
+- Cackle wildly when eating flesh
 - Thrash when their morals are appealed to or when they hear something they don't want to
 - 
