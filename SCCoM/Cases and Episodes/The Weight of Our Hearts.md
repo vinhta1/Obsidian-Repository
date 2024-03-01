@@ -1,7 +1,9 @@
 #Case Danny's Case, Anubis, Itzpapalotl
 
 # Background
-Izzy doesn't know what came first: her hunger for flesh or her awakening. Ever since the day she carved into the man that invaded her apartment, she was never the same. During the day, she would save lives in the hospital where she attends as a surgeon. During the night, she would stalk criminals in dark corners where no one would see them. 
+Izzy doesn't know what came first: her hunger for flesh or her awakening. Ever since the day she carved into the man that invaded her apartment, she was never the same. During the day, she would save lives in Dominican Hospital as a surgeon. During the night, she would stalk criminals in dark corners where no one would see them. Then, she'd strike.
+Her modus operandi is constant. First, tranquilize the targets from afar with a blowgun so they can't fight back. Then, drill straight into their leg bone with an IO needle and inject them with sedatives, so they fall into a deep sleep. Third, carve open their chest to extract their organs, especially their still-beating heart. If she can't help it, she'll eat right then and there. Lastly, take a limb to cook at home.
+The guilt eats away at her,  b
 # Dangers
 ### Susan Rashad
 Mortician and Athlete
