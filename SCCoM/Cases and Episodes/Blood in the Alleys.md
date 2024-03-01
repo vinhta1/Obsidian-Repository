@@ -45,17 +45,17 @@ Cannibal Surgeon
 Itzpapalotl
 #### Spectrums
 Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
-
 #### Moves
 - **Obsidian Wings**: When The Clawed Butterfly enters the scene, give her either **flying** or **frenzy**. As a soft move, The Clawed Butterfly can switch between *flying* or *frenzy*. This tag can be renewed as a hard move.
 - **Bladed Skin**: When The Clawed Butterfly takes a physical harm status, reduce the tier of the status by 1. When you make a move too close to her, you take *cut-1 from the obsidian shards flying around.
 - ---
 - **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (add new Danger: Tzitzimitl).
-- ****
+- **Claw and Slash**: Slash with talons and stone swords (*Eviscerate-4*).
 - **Food Found**: Twice per scene, involve an bystander (*Bystander*).
 - **Revitalize**: Eat an organ (reduce 3 tiers of a physical harm status).
 ---
 - An obsidian-taloned limb tears through a wound.
 - Cackle wildly when eating flesh.
 - Thrash when their morals are appealed to or when they hear something they don't want to.
-- Look for someone nearby to eat.
+- Their eyes dart, their ears perk up, the nostrils flare as they recognize fresh meat is nearby.
+- Secure themselves, look  and inhale deeply and sharply.
