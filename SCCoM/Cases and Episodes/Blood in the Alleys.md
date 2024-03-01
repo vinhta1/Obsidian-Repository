@@ -22,3 +22,6 @@ Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 ### Isabel Lotero
 Cannibal Surgeon
 Itzpapalotl
+
+#### Moves
+- **Queen of the Tzitzimimeh**: If the stars are out, summon a Tzitzimitl
