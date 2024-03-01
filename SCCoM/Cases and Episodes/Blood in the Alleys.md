@@ -8,7 +8,7 @@ Nasus and Anubis
 Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 #### Moves
 - **Arbiter of Souls**: When Susan enters the scene, give them *Judge-2*. If the target has any guilt-related status, increase the tier of any status Susan gives them by that status' tier.
-- **Rooftop Runner**: If Susan is to take a status she can physically dodge or hide from, she reduces its tier by 2.
+- **Rooftop Runner**: If Susan takes a status she can physically dodge or hide from, she reduces its tier by 2.
 - ---
 - **Your Heart's Showing**: Force someone to look inwards. They consider their biggest regrets. If they are found guilty or wanting, they feel it intensely (*Heavy-Hearted-2*). If they have no regrets, they feel relieved (*Light-Hearted-2*)
 - **Cane Strike**: Swing their cane at someone (*Whack-2*)
@@ -47,12 +47,12 @@ Itzpapalotl
 Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 
 #### Moves
-- **Obsidian Wings**: As a soft move, The Clawed Butterfly can switch between *flying* and *frenzy*.
-- ****
+- **Obsidian Wings**: When The Clawed Butterfly enters the scene, give her either **flying** or **frenzy**. As a soft move, The Clawed Butterfly can switch between *flying* or *frenzy*. This tag can be renewed as a hard move.
+- **Bladed Skin**: When 
 - ---
 - **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
 - **Search for Food**: Involve an bystander
-- **Revitalize**: Eat an organ to remove a physical harm status 
+- **Revitalize**: Eat an organ (reduce 3 tiers of a physical harm status)
 ---
 - An obsidian-taloned limb tears through a wound
 - Cackle wildly when eating flesh
