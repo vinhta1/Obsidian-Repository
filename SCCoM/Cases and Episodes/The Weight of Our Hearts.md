@@ -1,6 +1,8 @@
 #Case Danny's Case, Anubis, Itzpapalotl
 
 # Background
+**Isabel Lotero** is a surgeon who has started eating criminals alive. In fact, eating these people is empowering her, allowing her to deliver justice further. She starts to develop a craving she worries she can't contain or sustain. So, she eases up and eats less. However, she has recently started targeting organ traffickers after witnessing the deaths of many patients who couldn't get an organ in time and after seeing how the donors are treated by these traffickers. After fully giving in, she might have crossed a point of no return.
+**Susan Rashad** is a mortician who works at the same hospital as Isabel, who finds themselves guiding the dead to a better place. For those who are found wanting or guilty, she attempts to complete their last will or wish so that they may finally move on. However, with 
 ### Izzy, the Organ Hunter
 Izzy doesn't know what came first: her hunger for flesh or her awakening. Ever since the day she carved into the man that invaded her apartment, she was never the same. During the day, she would save lives in Dominican Hospital as a surgeon. During the night, she would stalk criminals in dark corners where no one would see them. Then, she'd strike.
 Her modus operandi is constant. First, tranquilize the targets from afar with a blowgun so they can't fight back. Then, drill straight into their leg bone with an IO needle and inject them with sedatives, so they fall into a deep sleep. Third, carve open their chest to extract their organs, especially their still-beating heart. If she can't help it, she'll eat right then and there. Lastly, take a limb to cook at home.
@@ -22,8 +24,6 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 **A week ago**: Scratchy is ordered to make the deal with Danny, despite fearing that he will be killed.
 **8PM**: Danny and Scratchy make the deal, only to be killed by Izzy. Danny survives, but because they are sedated they stay asleep for a while longer. Her heart isn't taken, because it's "tainted." Their body heals naturally.
 **8:30PM**: Susan finds the bodies, but is too late. She assumes they're both dead. She waits to see if the killer returns.
-
-
 
 # Dangers
 ### Susan Rashad
