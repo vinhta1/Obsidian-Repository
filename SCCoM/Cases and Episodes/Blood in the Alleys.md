@@ -30,11 +30,11 @@ Hurt or Subdue: 1 | Starve or Feed: 3
 - **Transform**: As a soft move, if any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**.
 - ---
 - **Cannibal**: In the presence of human organs or fresh corpses, Isabel hungers (*Crave-1*).
-- **Tranquillizer Darts**: Once per session, Isabel can shoot tranquillizer darts at multiple people (*Slipping-Under-4*, ongoing) as a soft move.
 - **IO Bore Sedation**: Isabel drills an IO line into the patient's leg, pumping them with sedatives (*Fully-Sedated-5*, ongoing).
 - **Surgery**: Operate on someone with a linoleum knife or medical tools (*Dissect-3*).
 - **Bedside Manner**: Calm someone down with a friendly and confident exterior (*Soothe-2*).
 - ---
+- **Tranquillizer Darts**: Once per session, Isabel can shoot tranquillizer darts at multiple people (*Slipping-Under-4*, ongoing) as a soft move.
 - Isabel's stomach growls inappropriately.
 - Get a bit feisty.
 - Explain how her methods aren't hurting anyone who doesn't deserve it.
@@ -47,7 +47,8 @@ Itzpapalotl
 Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 #### Moves
 - **Obsidian Wings**: When The Clawed Butterfly enters the scene, give her either **flying** or **frenzy**. As a soft move, The Clawed Butterfly can switch between *flying* or *frenzy*. This tag can be renewed as a hard move.
-- **Bladed Skin**: When The Clawed Butterfly takes a physical harm status, reduce the tier of the status by 1. When you make a move too close to her, you take *cut-1 from the obsidian shards flying around.
+- **Bladed Skin**: When The Clawed Butterfly takes a physical harm status, reduce the tier of the status by 1. When you make a move too close to her, you take *cut-1* from the obsidian shards flying around.
+- **Sunlight Sensitivity**: When exposed to sunlight, The Clawed Butterfly's powers start to neutralize (*Sunlight-3*).
 - ---
 - **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (add new Danger: Tzitzimitl).
 - **Claw and Slash**: Slash with talons and stone swords (*Eviscerate-4*).
@@ -58,4 +59,6 @@ Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 - Cackle wildly when eating flesh.
 - Thrash when their morals are appealed to or when they hear something they don't want to.
 - Their eyes dart, their ears perk up, the nostrils flare as they recognize fresh meat is nearby.
-- Secure themselves, look  and inhale deeply and sharply.
+- Secure themselves, look up, and inhale deeply and sharply after giggling.
+
+### Tzitzimitl
