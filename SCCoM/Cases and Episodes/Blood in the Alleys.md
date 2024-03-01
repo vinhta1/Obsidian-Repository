@@ -13,4 +13,4 @@ Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 - ---
 - **Grasping Hands**: A patch of spectral cerulean hands reach up from the ground. While anyone is inside, they either take *Grabbed-2*, *Scratched-2*, or *Distracted-2*.
 - **Cane Strike**: *Whack-2*. Increase the tier if the target has any guilt-related status to that status' tier.
-- 
+- **Your Heart's Showing**: Susan's eyes seem to bring out Ask someone about their regrets. give them Heavy-Hearted
