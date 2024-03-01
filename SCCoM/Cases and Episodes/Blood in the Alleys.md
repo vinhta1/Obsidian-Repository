@@ -18,4 +18,7 @@ Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 - Raise their hand up to start forming a flaming blue circle underneath an individual or the guilty
 - Give a piercing stare
 - Reason with someone
-- 
+- Inspect the dead, and possibly even guide them to their destination
+### Isabel Lotero
+Cannibal Surgeon
+Itzpapalotl
