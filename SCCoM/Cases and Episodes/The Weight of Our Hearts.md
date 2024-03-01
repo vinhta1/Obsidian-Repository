@@ -29,8 +29,6 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 **A week ago**: Scratchy is extorted to make an organ trade by the traffickers, despite fearing that he will be killed.
 **8PM**: Danny and Scratchy make the deal, only to be killed by Izzy. Danny survives, but because they are sedated they stay asleep for a while longer. Her heart isn't taken, because it's "tainted." Their body heals naturally.
 **8:30PM**: Susan finds the bodies, but is too late. She assumes they're both dead. She waits to see if the killer returns.
-
-
 # Investigation
 ##### At the **alleyway**, where Susan is watching:
 - Scratchy's body is missing a leg and his organs.
@@ -47,11 +45,11 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 - Some newer organ donors were violent offenders, who came in on the brink of death. "Nasty stuff, both them and their wounds." They almost always never made it.
 
 # Showdown
-The clues should have pointed to the hospital and that one of the workers, likely a skilled practitioner, was behind these recent killings. Isabel will only reveal herself when forced into a corner or when hunting dealers at night. Because of how little she can control herself when she gives into her hunger, she will prefer to be away from the public. It is in the crew's best interests to confront her in an isolated place as well. The more access she has to helpless people, the stronger she is. She cannot control whether or not she transforms. When she does, it's a fight to the death or until the sun rises.
+The clues should have pointed to the hospital and that one of the workers, likely a skilled practitioner, was behind these recent killings. Isabel will only reveal herself when forced into a corner or when hunting dealers at night. Because of how little she can control herself when she gives into her hunger, she will prefer to be away from the public. It is in the crew's best interests to confront her in an isolated place as well. The more access she has to helpless people, the stronger she is. She cannot control whether or not she transforms. When she does, it's a fight to the death or until the sun rises. Thus, let the crew know that they can set up where the showdown will ultimately take place.
 # Aftermath
 - How does Susan feel about the party now? Will she continue to help the crew or the city?
 - If Isabel's alive, will she be brought to justice? What are the implications for the city and its crime rings? What about their citizens?
-- If the case ends up having too much collateral damage, how do the **Gatekeepers** respond?
+- If the case ends up having too much collateral damage or too many witnesses, how do the **Gatekeepers** respond?
 # Dangers
 ### Susan Rashad
 Mortician
