@@ -9,9 +9,10 @@ Sometime later, she sees the same wealthy man from before, healthier than ever. 
 It always started with a debt. Someone who owed a little too much money to the wrong people. Or maybe it was a pair of relatives or friends who couldn't afford a hospital transplant. Just one kidney, they think. Just a piece of their liver, they think. Some of them never opened their eyes after they went under; those were the people who were deemed loners. They wouldn't have been missed. At least, that was the best justification the traffickers could give after seeing their entrails pulled out in front of them. It was sloppy, but it worked. From then on, she hunted organ traffickers. She'll make sure to eat every last one of them.
 
 ### Susan, Judge of the Dead
-
+"Their heart's missing again." Missing organs usually aren't a problem for most morticians, sure. The cut's so clean, it's as if they were never opened in the first place, and maybe a prosthetic can be used in place of the missing pieces. But their hearts; they need their hearts to move on. Susan closes her eyes, and blue fire filters through her eyelids like they were being snuffed out and raged against it.
+The man in front of her disappeared, as the 
 # Dangers
-### Susan Rashad (Paid by the organ traffickers as well)
+### Susan Rashad
 Mortician and Athlete
 Nasus and Anubis
 #### Spectrums
