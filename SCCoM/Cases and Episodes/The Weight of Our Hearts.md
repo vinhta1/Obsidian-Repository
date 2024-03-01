@@ -23,6 +23,8 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 **8PM**: Danny and Scratchy make the deal, only to be killed by Izzy. Danny survives, but because they are sedated they stay asleep for a while longer. Her heart isn't taken, because it's "tainted." Their body heals naturally.
 **8:30PM**: Susan finds the bodies, but is too late. She assumes they're both dead. She waits to see if the killer returns.
 **11:30PM**: Jerri steps out of Motiv, and notices the bodies in the darkness after seeing a hint of blood shimmer in the light.
+
+
 # Dangers
 ### Susan Rashad
 Mortician and Athlete
