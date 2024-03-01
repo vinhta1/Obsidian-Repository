@@ -10,7 +10,7 @@ Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 - **Arbiter of Souls**: When Susan enters the scene, give them *Judge-2*. If the target has any guilt-related status, increase the tier of any status Susan gives them by that status' tier.
 - **Rooftop Runner**: If Susan is to take a status she can physically dodge or hide from, she reduces its tier by 2.
 - ---
-- **Your Heart's Showing**: Force someone to look inwards. They consider their biggest regrets. If they are found guilty or wanting, they feel it intensely (*Heavy Hearted-2*). If they have no regrets, they feel relieved (*Light Hearted-2*)
+- **Your Heart's Showing**: Force someone to look inwards. They consider their biggest regrets. If they are found guilty or wanting, they feel it intensely (*Heavy-Hearted-2*). If they have no regrets, they feel relieved (*Light-Hearted-2*)
 - **Cane Strike**: Swing their cane at someone (*Whack-2*)
 - **Storm of Sand**: Create a swirling storm of sand (*sandstorm*) around them
 - **Grasping Hands**: Create a patch of spectral cerulean hands (*grasping hands*) reach up from the ground. While anyone is inside, they are attacked (*Grabbed-2*, *Scratched-2*, or *Distracted-2*, temporary)
@@ -25,9 +25,13 @@ Itzpapalotl
 #### Spectrums
 Hurt or Subdue: 1 | Starve or Feed: 3 
 #### Moves
-- **Transform**: If it is night and any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**
+- When Isabel enters the scene, give them *Hungry-1*.
+- **Transform**: As a soft move, if any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**
+- ---
 - **Cannibal**: In the presence of human organs or fresh corpses, Isabel hungers (*Crave-1*)
-- Tr
+- **Tranquillizer Dart**: 
+- ---
+- 
 
 ### The Clawed Butterfly
 Cannibal Surgeon
@@ -39,3 +43,4 @@ Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 ---
 - An obsidian-taloned limb tears through a wound
 - Thrash when their morals are appealed to or when they hear something they don't want to
+- 
