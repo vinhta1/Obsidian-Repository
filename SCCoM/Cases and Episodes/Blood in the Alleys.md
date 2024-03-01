@@ -46,10 +46,14 @@ Itzpapalotl
 #### Spectrums
 Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 
-- **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
+#### Moves
 - **Obsidian Wings**: As a soft move, The Clawed Butterfly can switch between *flying* and *frenzy*.
+- ---
+- **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
+- **Search for Food**: Involve an bystander
+- **Revitalize**: Eat an organ to remove a physical status 
 ---
 - An obsidian-taloned limb tears through a wound
 - Cackle wildly when eating flesh
 - Thrash when their morals are appealed to or when they hear something they don't want to
-- Look for someone to eat
+- Look for someone nearby to eat
