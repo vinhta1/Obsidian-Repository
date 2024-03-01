@@ -1,5 +1,7 @@
-#Case Is vengeance the same as justice? Where is the line drawn between right and wrong? Between good and evil?
+#Case Danny's Case, Anubis, Itzpapalotl
 
+# Background
+Izzy doesn't know what came first: her hunger for flesh or her awakening. Ever since the day she carved into the man that invaded her apartment, she was never the same. During the day, she would save lives in the hospital where she attends as a surgeon. During the night, she would stalk criminals in dark corners where no one would see them. 
 # Dangers
 ### Susan Rashad
 Mortician and Athlete
