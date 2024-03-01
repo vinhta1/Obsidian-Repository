@@ -35,11 +35,13 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 ##### At the **alleyway**, where Susan is watching:
 - Scratchy's body is missing a leg and his organs.
 - Nearby, Izzy might have ate one of the organs. On the bodies, there might be some black volcanic rock shards.
-##### At the **morgue**, where Susan works:
+##### At the hospital **morgue**, where Susan works:
 - The people who come in without organs either have a violent criminal record, are organ traffickers, or are marked as donors.
 - Those marked as donors are not missing limbs.
-- Izzy is only targeting criminals.
-#####
+- Only organ traffickers are being targeted at the moment, usually missing their organs at the scene of.
+##### At the **hospital ward**, where Izzy works:
+- Izzy is a surgeon, overseeing many invasive surgeries. She's great at her job, but she can't save everyone.
+- An inventory check and gossip shows that someone has been stealing medical supplies, including sedatives and tranquilizers.
 
 
 
