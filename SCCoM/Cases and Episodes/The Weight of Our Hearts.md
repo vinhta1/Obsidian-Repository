@@ -1,13 +1,15 @@
 #Case Danny's Case, Anubis, Itzpapalotl
 
 # Background
+### Izzy, the Organ Hunter
 Izzy doesn't know what came first: her hunger for flesh or her awakening. Ever since the day she carved into the man that invaded her apartment, she was never the same. During the day, she would save lives in Dominican Hospital as a surgeon. During the night, she would stalk criminals in dark corners where no one would see them. Then, she'd strike.
 Her modus operandi is constant. First, tranquilize the targets from afar with a blowgun so they can't fight back. Then, drill straight into their leg bone with an IO needle and inject them with sedatives, so they fall into a deep sleep. Third, carve open their chest to extract their organs, especially their still-beating heart. If she can't help it, she'll eat right then and there. Lastly, take a limb to cook at home.
 One day, a wealthy man came to the hospital looking for a heart transplant. There was a long list ahead of him, there was simply not enough time for an organ to become available for him, nor anyone on that list for that matter. He demands to be moved higher, quoting his importance. Months pass. People die. Organs become available just for people with higher priorities outside the City to take them from those waiting for months. More people die. She'd give them the organs she was eating in a heart beat. But how could she explain were she got them from? How would they even react if they ever found out where they came from? Could they live with that? Could she live with that? She takes another bite out of her meal, and eats away her turmoil.
 Sometime later, she sees the same wealthy man from before, healthier than ever. Was it a miracle, or was it a price tag? She talks to a coworker who knew the wealthy man, and not before long she makes contact with a transplant center, hidden in the heart of Santa Cruz Suburbia. Dealers, traffickers, amateur surgeons. The operation was sloppy, but it worked. But then she found out where the organs where coming from.
-Debtors, victims, 
+It always started with a debt. Someone who owed a little too much money to the wrong people. Or maybe it was a pair of relatives or friends who couldn't afford a hospital transplant. Just one kidney, they think. Just a piece of their liver, they think. Some of them never opened their eyes after they went under; those were the people who were deemed loners. They wouldn't have been missed. At least, that was the best justification the traffickers could give after seeing their entrails pulled out in front of them. It was sloppy, but it worked. From then on, she hunted organ traffickers. She'll make sure to eat every last one of them.
+
 # Dangers
-### Susan Rashad
+### Susan Rashad (Paid by the organ traffickers as well)
 Mortician and Athlete
 Nasus and Anubis
 #### Spectrums
