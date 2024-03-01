@@ -44,10 +44,10 @@ Hurt or Subdue: 1 | Starve or Feed: 3
 Cannibal Surgeon
 Itzpapalotl
 #### Spectrums
-Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
+Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3 | Outrun: 4
 #### Moves
 - **Obsidian Wings**: When The Clawed Butterfly enters the scene, give her either **flying** or **frenzy**. As a soft move, The Clawed Butterfly can switch between *flying* or *frenzy*. This tag can be renewed as a hard move.
-- **Bladed Skin**: When you make a move too close to her, you take *cut-1* from the obsidian shards flying around.
+- **Bladed Skin**: When The Clawed Butterfly takes a physical harm or subdue status, reduce the tier of the status by 2. When you make a move too close to her, you take *cut-1* from the obsidian shards flying around.
 - **Sunlight Sensitivity**: When exposed to sunlight, The Clawed Butterfly's powers start to neutralize (*Sunlight-3*).
 - ---
 - **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (add new Danger: Tzitzimimeh).
@@ -65,4 +65,5 @@ Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 #### Spectrums
 Hurt or Subdue: 3
 #### Moves
-- **Hard Landing**: Tzitzimimeh can enter the scene as an meteor strike. Give itself a tier of (combust)
+- **Star Strike**: Tzitzimimeh can enter the scene as an meteor strike. Give itself up to two *combust-2* statuses to create an *incoming-meteor-strike* tag for each one. After each player moves they activate, giving an *orbital-impact-2* status each.
+- **Bodyguard**: If The Clawed Butterfly takes a status involving physical harm, the Tzitzimimitl take the status instead, if applicable.
