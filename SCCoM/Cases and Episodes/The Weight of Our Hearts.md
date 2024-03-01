@@ -8,6 +8,8 @@ One day, a wealthy man came to the hospital looking for a heart transplant. Ther
 Sometime later, she sees the same wealthy man from before, healthier than ever. Was it a miracle, or was it a price tag? She talks to a coworker who knew the wealthy man, and not before long she makes contact with a transplant center, hidden in the heart of Santa Cruz Suburbia. Dealers, traffickers, amateur surgeons. The operation was sloppy, but it worked. But then she found out where the organs where coming from.
 It always started with a debt. Someone who owed a little too much money to the wrong people. Or maybe it was a pair of relatives or friends who couldn't afford a hospital transplant. Just one kidney, they think. Just a piece of their liver, they think. Some of them never opened their eyes after they went under; those were the people who were deemed loners. They wouldn't have been missed. At least, that was the best justification the traffickers could give after seeing their entrails pulled out in front of them. It was sloppy, but it worked. From then on, she hunted organ traffickers. She'll make sure to eat every last one of them.
 
+### Susan, Judge of the Dead
+
 # Dangers
 ### Susan Rashad (Paid by the organ traffickers as well)
 Mortician and Athlete
