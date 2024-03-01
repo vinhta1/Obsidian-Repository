@@ -26,6 +26,8 @@ Itzpapalotl
 Hurt or Subdue: 1 | Starve or Feed: 3 
 #### Moves
 - **Transform**: If it is night and any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**
+- **Cannibal**: In the presence of human organs or fresh corpses, Isabel hungers (*Crave-1*)
+- Tr
 
 ### The Clawed Butterfly
 Cannibal Surgeon
@@ -33,6 +35,7 @@ Itzpapalotl
 #### Spectrums
 Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
 
-- **Queen of the Tzitzimimeh**: If the stars are out, summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
+- **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
 ---
-- Grow a obsidian-taloned limb from a wound
+- An obsidian-taloned limb tears through a wound
+- Thrash when their morals are appealed to or when they hear something they don't want to
