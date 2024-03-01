@@ -22,6 +22,17 @@ Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 ### Isabel Lotero
 Cannibal Surgeon
 Itzpapalotl
-
+#### Spectrums
+Hurt or Subdue: 1 | Starve or Feed: 3 
 #### Moves
-- **Queen of the Tzitzimimeh**: If the stars are out, summon a Tzitzimitl
+- **Transform**: If it is night and any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**
+
+### The Clawed Butterfly
+Cannibal Surgeon
+Itzpapalotl
+#### Spectrums
+Hurt or Subdue: 5 | Satiate: 5 | Humanity: 3
+
+- **Queen of the Tzitzimimeh**: If the stars are out, summon a Tzitzimitl (*add new Danger: Tzitzimitl*).
+---
+- Grow a obsidian-taloned limb from a wound
