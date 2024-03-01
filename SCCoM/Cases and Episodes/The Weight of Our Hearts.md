@@ -1,10 +1,10 @@
 #Case Danny's Case, Anubis, Itzpapalotl
 
 # Background
-Organ trafficking isn't rampant by any means, but it creates a mass of victims all the same. Donors are manipulated and harmed. People lose more organs than they agreed to, or find themselves still deep in debt after using the money they received, unable to go back to work. Recipients are conned and sometimes left worse than they were before. Sometimes it's being charged tens or hundreds of thousands of dollars, and sometimes it's faulty organs that don't work well or are incompatible, leading to their deaths shortly after. The transplant centers are nowhere to be found the next day and the middlemen pocket all the money. There are only two places to reliably get a transplant in this city: the hospital, or **Viktor**'s clinic (Cyberpunk 2077).
+Organ trafficking isn't rampant by any means, but it creates a mass of victims all the same. Donors are manipulated and harmed. People lose more organs than they agreed to, or find themselves still deep in debt after using the money they received, unable to go back to work. Recipients are conned and sometimes left worse than they were before. Sometimes it's being charged tens or hundreds of thousands of dollars, and sometimes it's faulty organs that don't work well or are incompatible, leading to their deaths shortly after. The transplant centers are nowhere to be found the next day and the middlemen pocket all the money. There are only two places to reliably get a transplant in this city: the hospital, or **Viktor (Cyberpunk 2077)**'s clinic.
 **Isabel Lotero (Itzpapalotl)** is a surgeon who has been eating criminals alive. In fact, eating these people is empowering her, allowing her to deliver justice further. She starts to develop a craving she worries she can't contain or sustain. So, she eases up and eats less. However, she has recently started targeting organ traffickers after witnessing the deaths of many patients who couldn't get an organ in time and after seeing how the donors are treated by these traffickers. After fully giving in, she might have crossed a point of no return.
 **Susan Rashad (Nasus/Anubis)** is a mortician who works at the same hospital as Isabel, who finds themselves guiding the dead to a better place. For those who are found wanting or guilty, she attempts to complete their last will or wish so that they may finally move on. However, with the increase of dead people coming into the morgue without hearts, Susan is concerned. She sets out to find the person taking people's hearts.
-**Scratchy (Sleeper)** has recently been extorted to make an organ trade by opposing organ traffickers, despite the news of traffickers and dealers being targeted. Of course, Isabel is waiting. It is too late when Susan arrives on the scene, but maybe she can still find suspects.
+**Scratchy (Sleeper)** has recently been extorted to make an organ trade by opposing organ traffickers, despite the news of traffickers and dealers being targeted and working exclusively with Viktor. Of course, Isabel is waiting. It is too late when Susan arrives on the scene, but maybe she can still find suspects.
 Scratchy is dead, and his organs have been removed.
 Isabel wants to end the organ trafficking ring.
 Susan wants to stop whoever is taking people's hearts.
@@ -26,9 +26,15 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 **Several months ago**: Izzy is awakened around the same time she starts to eat people.
 **A few months ago**: Susan starts trying to find out who is stealing people's organs.
 **A couple months ago**: Izzy starts targeting organ traffickers.
-**A week ago**: Scratchy is extorted to make the deal with Danny by the traffickers, despite fearing that he will be killed.
+**A week ago**: Scratchy is extorted to make an organ trade by the traffickers, despite fearing that he will be killed.
 **8PM**: Danny and Scratchy make the deal, only to be killed by Izzy. Danny survives, but because they are sedated they stay asleep for a while longer. Her heart isn't taken, because it's "tainted." Their body heals naturally.
 **8:30PM**: Susan finds the bodies, but is too late. She assumes they're both dead. She waits to see if the killer returns.
+
+
+# Investigation
+##### At the **alleyway**:
+- Scratchy's body is missing a leg (stone sword), 
+
 
 # Dangers
 ### Susan Rashad
