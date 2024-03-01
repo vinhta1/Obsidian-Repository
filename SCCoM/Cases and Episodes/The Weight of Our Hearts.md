@@ -34,19 +34,25 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 # Investigation
 ##### At the **alleyway**, where Susan is watching:
 - Scratchy's body is missing a leg and his organs.
-- Details about Izzy's modus operandi, like the injections, and the drilling.
 - Nearby, Izzy might have ate one of the organs. On the bodies, there might be some black volcanic rock shards.
 ##### At the **morgue**, where Susan works:
-- The 
+- The people who come in without organs either have a violent criminal record, are organ traffickers, or are marked as donors.
+- Those marked as donors are not missing limbs.
+- Izzy is only targeting criminals.
+#####
+
+
+
+- 
 
 # Dangers
 ### Susan Rashad
-Mortician and Athlete
+Mortician
 Nasus and Anubis
 #### Spectrums
 Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 #### Moves
-- **Arbiter of Souls**: When Susan enters the scene, give them *Judge-2*. If the target has any guilt-related status, increase the tier of any status Susan gives them by that status' tier.
+- **Arbiter of Souls**: When Susan enters the scene, give them *Judge-2*. She can refresh this with a hard move. If the target has any guilt-related status, increase the tier of any status Susan gives them by that status' tier.
 - **Rooftop Runner**: If Susan takes a status she can physically dodge or hide from, she reduces its tier by 2.
 - ---
 - **Your Heart's Showing**: Force someone to look inwards. They consider their biggest regrets. If they are found guilty or wanting, they feel it intensely (*Heavy-Hearted-2*). If they have no regrets, they feel relieved (*Light-Hearted-2*).
