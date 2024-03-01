@@ -8,5 +8,7 @@ Nasus and Anubis
 #### Spectrums
 Hurt or Subdue: 3 | Same-Side: 2 | Outrun or Catch: 4
 #### Moves
-- When Susan enters the scene, give them Judge: 2.
-- If Susan is to take a status she can physically dodge, she reduces it by 2.
+- **Arbiter of Hearts**: When Susan enters the scene, give them Judge-2.
+- **Rooftop Runner**: If Susan is to take a status she can physically dodge or hide from, she reduces its tier by 2.
+- ---
+- **Grasping Hands**: 
