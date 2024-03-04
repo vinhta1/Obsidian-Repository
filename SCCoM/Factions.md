@@ -10,7 +10,11 @@ When in proper uniform, gatekeepers will usually will stick to grey but sometime
 If someone saw something they shouldn't have, they didn't. Using their vast intelligence network and methods of divination, Gatekeepers can put agents on the scene before anything happens. These agents follow the DMO motto and take proper precautions to make sure no one realizes something is off, lest they awaken. Their job isn't to stop crime, it's to stop Rifts from waking up others. Thus much to many Gatekeeper's chagrin, if it looks normal enough, it's not their priority.
 
 # Boardwalk Boys Conglomerate
-### Goal: Have a Good Time and Use Everyone
+### Goal: Have a Good Time and Exploit Everyone to do it
+These brats are spoiled and they use it to get whatever they want. Whether it's their parents or the kids at their school, they're gonna milk them dry and make sure no one stops them. They're popular, they're cunning, and they're ruthless.
+
+### Thrones Built on the Backs of Others
+The BBC are made up of a collective of powerful factions around Santa Cruz: The Bikers, The Aces, 
 
 
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
