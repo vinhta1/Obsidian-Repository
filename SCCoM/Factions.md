@@ -10,7 +10,8 @@ When in proper uniform, gatekeepers will usually will stick to grey but sometime
 If someone saw something they shouldn't have, they didn't. Using their vast intelligence network and methods of divination, Gatekeepers can put agents on the scene before anything happens. These agents follow the DMO motto and take proper precautions to make sure no one realizes something is off, lest they awaken. Their job isn't to stop crime, it's to stop Rifts from waking up others. Thus much to many Gatekeeper's chagrin, if it looks normal enough, it's not their priority.
 
 # Boardwalk Boys Conglomerate
-### Goal: 
+### Goal: Have a Good Time and Use Everyone
+
 
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
 ### Goal: Make Money, Send a Message
