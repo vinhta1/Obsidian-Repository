@@ -9,6 +9,9 @@ When in proper uniform, gatekeepers will usually will stick to grey but sometime
 ### DMO: Distract, Mask, Obliviate
 If someone saw something they shouldn't have, they didn't. Using their vast intelligence network and methods of divination, Gatekeepers can put agents on the scene before anything happens. These agents follow the DMO motto and take proper precautions to make sure no one realizes something is off, lest they awaken. Their job isn't to stop crime, it's to stop Rifts from waking up others. Thus much to many Gatekeeper's chagrin, if it looks normal enough, it's not their priority.
 
+# Boardwalk Boys Conglomerate
+### Goal: 
+
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
 ### Goal: Make Money, Send a Message
 Extort money from businesses and the locals, pay off the cops, recruit members, rinse and repeat. If the threats of violence won't convince someone, the actualization of violence will. Pure brutality speaks loud here. But when people are a little tougher than expected, they'll break legendary martial artists out of prisons or hire pricey assassins.
