@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions.md",
+                "file": "PCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions.md",
+                "file": "PCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions.md",
+                "file": "PCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions.md"
+                "file": "PCs.md"
               }
             }
           },
@@ -317,9 +317,9 @@
   },
   "active": "45cc65fdb1d94e72",
   "lastOpenFiles": [
+    "Factions.md",
     "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
-    "Factions.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/Siren's Sonata.md",
