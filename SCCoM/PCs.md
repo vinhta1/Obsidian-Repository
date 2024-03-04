@@ -12,6 +12,7 @@ Where is Ewan's parents?
 - Just an accident? Replaced by a copy? They meant to abandon him?
 # Asmodeus
 Not a popular kid in school, but has fans all over SC who know of his online presence.
+# Danny
 # Ewan
 The rift of Tyche used to be employed by other rifts.
 She was pushed to far and abandoned a previous logos into Asher.
@@ -32,3 +33,4 @@ The real Nero, head of the Gatekeepers
 Managed to save a lot of old residents of the Last Chinatown, and moved them to New Chinatown
 Old lady, maybe in her late 70s
 # Jerri
+# Moonshadow
