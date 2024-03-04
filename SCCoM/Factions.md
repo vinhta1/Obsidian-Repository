@@ -17,9 +17,10 @@ The BBC are made up of a collective of powerful factions around Santa Cruz: the 
 ## The Bikers
 All you need to join the bikers is a bike. There is little catch to this. As such it's the easiest group of the BBC to join. The bikes of choice are motorized, typically dirt bikes. Of course, off-road helmets are required; you wouldn't want to get caught hitting someone with a metal pipe. The speed demons, the thrill-seekers, these are the people who you can't run from or catch up to.
 For those who rather stay unmotorized, they're typically the silent type. Just as capable and unhinged as their loud counterparts, they however tend to stay in the shadows and on elevated ground.
-Their job is movement, transportation, and hits.
+Their job is movement, transportation, finding debtors, and hits.
 ## The Aces
-Some bullies get others to do their homework. The Aces however do everyone else's homework, for a price. Nothing's half assed, in fact, they take extensive care to make sure whatever you turn in looks as legit as it gets. Writing assignments, quiz answers, changing grades on records, 
+Some bullies get others to do their homework. The Aces, however, do everyone else's homework. Nothing's half assed, in fact, they take extensive care to make sure whatever you turn in looks as legit as it gets. No one can tell it's not yours, including yourself. Writing assignments, quiz answers, changing grades on records, anything that requires some semblance of brains, forgery, and organization you can think of. The catch? You have to pay for their services. But if you don't have the cash, you can take out debt or pay in favors. That's how they get you. Most kids who don't pay up front are stuck being the fall guys and servants for the BBC.
+Their job is making money, overseeing operations, and sp
 
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
 ### Goal: Make Money, Send a Message
