@@ -12,14 +12,14 @@ If someone saw something they shouldn't have, they didn't. Using their vast inte
 # Boardwalk Boys Conglomerate
 ### Goal: Have a Good Time and Exploit Everyone to do it
 These brats are spoiled and they use it to get whatever they want. Whether it's their parents or the kids at their school, they're gonna milk them dry and make sure no one stops them. They're popular, they're cunning, and they're ruthless.
-
 ### Thrones Built on the Backs of Others
 The BBC are made up of a collective of powerful factions around Santa Cruz: the Bikers, the Aces, and the Bricks. These factions are built on a fragile alliance after days of negotiations, and this joint operation can break at any moment. If that were to happen, it'd be all out war.
-
 ## The Bikers
-All you need to join the bikers is a bike. There is little catch to this, beyond the fact that if you're slow, you're out. As such it's the easiest group of the BBC to join, but the hardest to stay in. The bikes of choice are motorized, typically dirt bikes. Of course, helmets are required. You wouldn't want to get caught hitting someone with a metal pipe.
-
-
+All you need to join the bikers is a bike. There is little catch to this. As such it's the easiest group of the BBC to join. The bikes of choice are motorized, typically dirt bikes. Of course, off-road helmets are required; you wouldn't want to get caught hitting someone with a metal pipe. The speed demons, the thrill-seekers, these are the people who you can't run from or catch up to.
+For those who rather stay unmotorized, they're typically the silent type. Just as capable and unhinged as their loud counterparts, they however tend to stay in the shadows and on elevated ground.
+Their job is movement, transportation, and hits.
+## The Aces
+Some bullies get others to do their homework. The Aces however do everyone else's homework, for a price. Nothing's half assed, in fact, they take extensive care to make sure whatever you turn in looks as legit as it gets. Writing assignments, quiz answers, changing grades on records, 
 
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
 ### Goal: Make Money, Send a Message
