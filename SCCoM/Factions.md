@@ -14,7 +14,11 @@ If someone saw something they shouldn't have, they didn't. Using their vast inte
 These brats are spoiled and they use it to get whatever they want. Whether it's their parents or the kids at their school, they're gonna milk them dry and make sure no one stops them. They're popular, they're cunning, and they're ruthless.
 
 ### Thrones Built on the Backs of Others
-The BBC are made up of a collective of powerful factions around Santa Cruz: The Bikers, The Aces, 
+The BBC are made up of a collective of powerful factions around Santa Cruz: the Bikers, the Aces, and the Bricks. These factions are built on a fragile alliance after days of negotiations, and this joint operation can break at any moment. If that were to happen, it'd be all out war.
+
+## The Bikers
+All you need to join the bikers is a bike. There is little catch to this, beyond the fact that if you're slow, you're out. As such it's the easiest group of the BBC to join, but the hardest to stay in. The bikes of choice are motorized, typically dirt bikes. Of course, helmets are required. You wouldn't want to get caught hitting someone with a metal pipe.
+
 
 
 # Cleaver Gang, Axe Gang from Kung Fu Hustle
