@@ -1,15 +1,3 @@
-## PLAYER LORE
-Why did Michael come down from their avatar state?
-- How is it related to Jerri, who woke up about the same time?
-- Is it related to the Cult? Is it related to the Gatekeepers?
-**Michael renewed the prophecy, renewing all the Archangels.**
-- After the prophecy was fulfilled, an evil force was supposed to be erased for good.
-- That evil force was not eliminated.
-- After years of work, Michael realized that the prophecy was never fulfilled.
-- Thus, using the rest of their powers of Avatarhood, Michael has reawakened the rifts of the Archangels. Nero denies Lucifer, and thus a new rift was chosen instead: Jerri. Shortly after, Icarus is back in control.
-Where is Ewan's parents?
-**This is to be left unknown until an answer is stumbled upon.**
-- Just an accident? Replaced by a copy? They meant to abandon him?
 # Asmodeus
 Not a popular kid in school, but has fans all over SC who know of his online presence.
 # Danny
@@ -34,3 +22,4 @@ Managed to save a lot of old residents of the Last Chinatown, and moved them to 
 Old lady, maybe in her late 70s
 # Jerri
 # Moonshadow
+

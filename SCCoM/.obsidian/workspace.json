@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cases and Episodes/One Good Day.md",
+                "file": "Rules of this Santa Cruz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17cbe9fb219e9025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/One Good Day.md",
+                "file": "PCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/One Good Day.md",
+                "file": "PCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cases and Episodes/One Good Day.md"
+                "file": "PCs.md"
               }
             }
           },
@@ -315,25 +327,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45cc65fdb1d94e72",
+  "active": "17cbe9fb219e9025",
   "lastOpenFiles": [
-    "PCs.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
-    "Cases and Episodes/Siren's Sonata.md",
-    "Cases and Episodes/The Witch in the Woods.md",
-    "Cases and Episodes/One Good Day.md",
     "Cases and Episodes/The Slinky.md",
+    "Cases and Episodes/The Witch in the Woods.md",
+    "Factions.md",
+    "Ideas.md",
+    "Notes.md",
+    "Rules of this Santa Cruz.md",
+    "PCs.md",
     "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Forbidden Arizona.md",
-    "Factions.md",
-    "Ideas.md",
+    "Cases and Episodes/One Good Day.md",
+    "Cases and Episodes/Siren's Sonata.md",
     "List of Districts/Districts.md",
     "List of Districts/Downtown.md",
     "List of Districts/The Boardwalk.md",
     "List of Districts/UCSC.md",
     "Cases and Episodes/Untitled.md",
-    "Rules of this Santa Cruz.md",
     "Cases and Episodes/Someone's Eating the Children.md",
     "Cases and Episodes",
     "List of Districts/A Test.md",
