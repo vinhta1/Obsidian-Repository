@@ -22,13 +22,14 @@ Managed to save a lot of old residents of the Last Chinatown, and moved them to 
 Old lady, maybe in her late 70s
 # Jerri
 ### Sarah
+- Jerri's roommate from Freshman year
+- Dated Jack Benson before he died
 # Moonshadow
 ### The Tent
 - Welcoming, calming, environment
 - People there at night, campfire pit in the tent
 - Never hot or cold, never too bright or dark
 - The inside reflects the color of the tent (like a kaleidoscope?)
-
 ### Czhewy - Bodyguard/Tripsitter/Second-in-command.
 - Always sober
 ### John from Frezno - Homeless guy that grows mushrooms

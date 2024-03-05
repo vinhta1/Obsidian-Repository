@@ -11,10 +11,11 @@ Where is Ewan's parents?
 **This is to be left unknown until an answer is stumbled upon.**
 - Just an accident? Replaced by a copy? They meant to abandon him?
 
-# Bodies and the Beanstalk
+# Session Log
+## Bodies and the Beanstalk
 Jolly Ranchers missing from the crime scene, no other evidence connected to crew.
 Who's hiding the rift evidence?
-# The Weight of Our Hearts
+## The Weight of Our Hearts
 Jerri was on break, but did not see the bodies? -> Suspect
 - If Jerri or the crew can find an out, no problem. Otherwise, throw a bone/turn it into a case.
 	- Bones: Kenneth calls a fixer, Nero is taking care of the crew, The Cult is helping Jerri, Motiv manager looking out for Jerri
