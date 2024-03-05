@@ -21,5 +21,18 @@ The real Nero, head of the Gatekeepers
 Managed to save a lot of old residents of the Last Chinatown, and moved them to New Chinatown
 Old lady, maybe in her late 70s
 # Jerri
+### Sarah
 # Moonshadow
+### The Tent
+- Welcoming, calming, environment
+- People there at night, campfire pit in the tent
+- Never hot or cold, never too bright or dark
+- The inside reflects the color of the tent (like a kaleidoscope?)
 
+### Czhewy - Bodyguard/Tripsitter/Second-in-command.
+- Always sober
+### John from Frezno - Homeless guy that grows mushrooms
+- Moonshadow gives John from Frezno a place to stay
+- Penis envy?
+### Featherz - Tent regular
+- Chill guy that trips, nothing special
