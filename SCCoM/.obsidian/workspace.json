@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -329,14 +329,14 @@
   },
   "active": "17cbe9fb219e9025",
   "lastOpenFiles": [
+    "PCs.md",
+    "Notes.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/The Slinky.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Factions.md",
     "Ideas.md",
-    "Notes.md",
     "Rules of this Santa Cruz.md",
-    "PCs.md",
     "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Forbidden Arizona.md",

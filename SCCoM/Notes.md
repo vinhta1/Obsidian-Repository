@@ -13,6 +13,7 @@ Where is Ewan's parents?
 
 # Bodies and the Beanstalk
 Jolly Ranchers missing from the crime scene, no other evidence connected to crew.
+Who's hiding the rift evidence?
 # The Weight of Our Hearts
 Jerri was on break, but did not see the bodies? -> Suspect
 - If Jerri or the crew can find an out, no problem. Otherwise, throw a bone/turn it into a case.
