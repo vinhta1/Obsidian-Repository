@@ -127,3 +127,22 @@ Hurt or Subdue: 3 | Convince: -
 - ---
 - Enter the atmosphere in a fiery blaze.
 - Land gracefully, ready to protect their queen.
+
+### 
+These common crooks are hired to threaten
+
+snoopy reporters, beat up rebellious neighbor-
+hood residents, hit the opposition with a drive-
+by shooting, or guard their boss and her illegal
+
+operations. Some of them work for the highest
+bidder while others are loyal to whomever they
+serve, driven by fear or criminal affiliation.
+HURT OR SUBDUE 3 / THREATEN 4
+• Collective: This collective has a handful of
+members and a size factor of 1.
+• Bully (threatened-2), beat up (broken-arm-3),
+or shower with bullets (gunshot-wound-3)
+
+• Eliminate a vulnerable target (shot-in-the-
+gut-4)
