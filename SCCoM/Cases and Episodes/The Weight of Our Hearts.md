@@ -117,6 +117,7 @@ Hurt or Subdue: 5 | Satiate: - | Humanity: 3 | Outrun or Catch: 4
 - Secure themselves, look up, and inhale deeply and sharply after giggling.
 
 ### Tzitzimimeh
+Skeletal skirted women that rain down from the stars.
 #### Spectrums
 Hurt or Subdue: 3 | Convince: -
 #### Moves
@@ -128,21 +129,85 @@ Hurt or Subdue: 3 | Convince: -
 - Enter the atmosphere in a fiery blaze.
 - Land gracefully, ready to protect their queen.
 
-### 
-These common crooks are hired to threaten
+### Hired Thugs
+#### Spectrums
+Hurt or Subdue: 3 | Threaten 4
+#### Moves
+• **Collective**: This collective has a handful of members and a size factor of 1.
+- ---
+• Bully (threatened-2), beat up (broken-arm-3), or shower with bullets (gunshot-wound-3)
+• Eliminate a vulnerable target (shot-in-the-gut-4)
 
-snoopy reporters, beat up rebellious neighbor-
-hood residents, hit the opposition with a drive-
-by shooting, or guard their boss and her illegal
+### Con Artist
+#### Spectrums
+Build Trust: – / Hurt: 2 / Threaten: 3
+#### Moves
+• Fool someone (remove up to two tiers of alertness statuses from others or give confused-2)
+• Steal something undetected (burn a tag that describes an item or Deny Them Something They Want)
+• Pull out a hidden weapon and attack (nasty-cut-2 or flesh-wound-2)
+• Act friendly and build rapport with some-one
 
-operations. Some of them work for the highest
-bidder while others are loyal to whomever they
-serve, driven by fear or criminal affiliation.
-HURT OR SUBDUE 3 / THREATEN 4
-• Collective: This collective has a handful of
-members and a size factor of 1.
-• Bully (threatened-2), beat up (broken-arm-3),
-or shower with bullets (gunshot-wound-3)
+Normally, a deception should be played out
+within the story and without using rules
 
-• Eliminate a vulnerable target (shot-in-the-
-gut-4)
+(because they reveal the existence of false-
+hood). Alternatively, you can use the con
+
+artist’s moves to try to fool the players. The
+Build Trust move is deceptive: the con artist
+pretends to be suspicious and the players try
+
+to build trust with her. Then, at a critical mo-
+ment, the con artist betrays the crew and flips
+
+the status to her favor, allowing her to escape
+with the money or shoot a crew member in
+the back. Note that unless she has the ability
+to resist Mythos powers, the con artist cannot
+flip trust statuses created by mythical means.
+• (optional) Build Trust: When you do
+something that makes trust
+you, she takes trust-2. When you try to
+Convince , you can choose to give
+her a trust status if she refuses you. If you
+use her trust against her, you lose her trust
+and remove this status. Once you build
+enough trust, she may open up to you.
+• (optional) Abuse Trust: When
+betrays you, the trust you thought you built
+with her becomes her advantage. The MC
+will change the tag trust into an appropriate
+
+positive status for her such as underesti-
+mated or overlooked. After she betrays you,
+
+remove the status.
+
+SMUGGLER yy
+
+Smugglers make their money running contra-
+band or stolen goods through borders and law
+
+enforcement undetected. Unsavory and sly,
+they have an ever-growing repertoire of shell
+game tricks that ensure they are never caught or
+incriminated.
+BRIBE 4 / HURT OR SUBDUE 4 / THREATEN 5
+• Sneaky Bastard: When the Smuggler enters
+the scene, give her sneaky-2. If the Smuggler
+loses this status, the MC can renew it as a hard
+move.
+• (optional) Fleet: The Smuggler commands a
+smuggling vehicle (use Getaway Vehicle) and
+can call an additional vehicle as a hard move.
+
+• Open a crate and pull out an over-the-top fire-
+arm, proceed to use it (pumped-full-of-lead-4)
+
+• Use the environment to block and delay pur-
+suers (blocked-3 or outrun-3)
+
+• Even if captured, make her contraband arrive
+at its destination nonetheless (Deny them
+Something They Want)
+• Get away (Deny them Something They Want)
