@@ -25,7 +25,7 @@ Old lady, maybe in her late 70s
 - Jerri's roommate from Freshman year
 - Dated Jack Benson before he died
 # Moonshadow
-Before their wook journey, Moonshadow Starship was a normal person. They lived a mundane life with a normal job, probably as a service worker. 
+Before their wook journey, Moonshadow Starship was a normal person. They lived a mundane life with a normal job, probably as a service worker.
 ### The Tent
 - Welcoming, calming, environment
 - People there at night, campfire pit in the tent
