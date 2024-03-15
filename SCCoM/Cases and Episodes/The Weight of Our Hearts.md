@@ -44,8 +44,10 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 - Vik doesn't like working with organic transplants. Works in metal and wiring.
 - Does not trust the main organ trafficking ring. "Con artists and twisted fucks, the likes of them."
 - Vik is a medical expert, and would be able to tell that the body was performed on by a medical expert.
-##### At a popup transplant operation:
-This should be difficult to find unless the players 
+##### At a popup transplant operation site:
+This should be difficult to find unless the players find clues that lead them to an operation site.
+- The traffickers have been sending out bait to kill whoever's been gutting their men.
+- Any of them who has tried to apprehend the killer goes missing. So instead, they just operate and move with the time they have.
 ##### At the **hospital ward**, where Izzy works:
 - Izzy is a surgeon, overseeing many invasive surgeries. She's great at her job, but she can't save everyone.
 - An inventory check and gossip shows that someone has been stealing medical supplies, including sedatives and tranquilizers.
