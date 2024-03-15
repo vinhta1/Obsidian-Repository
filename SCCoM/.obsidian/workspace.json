@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47bc3008fe23afa2",
+        "id": "1b74f2e78f312046",
         "type": "tabs",
         "children": [
           {
-            "id": "e12f0777fe75a6ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Districts/Districts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf932a10fcf40bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/Siren's Sonata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bbac7cd8b67814e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/One Good Day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b890321bd50a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/Boardwalk Nights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e03d84fcc556bdfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/The Witch in the Woods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2c8ae69b21f869f",
+            "id": "3a4ed5b9dbfd3748",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,106 +16,10 @@
                 "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1a878f46077cb13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45cc65fdb1d94e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules of this Santa Cruz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17cbe9fb219e9025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "037b257ed626f723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Districts/Districts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e4085bbfa483373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules of this Santa Cruz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3377b6fe3c81d2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Districts/UCSC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5793a67ad98930e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules of this Santa Cruz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9fe2b52f40945f5",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "SCCoM/Cases and Episodes/Siren's Sonata.md",
-                "staged": true
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs.md"
+                "file": "Cases and Episodes/The Weight of Our Hearts.md"
               }
             }
           },
@@ -327,25 +171,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17cbe9fb219e9025",
+  "active": "c0f8a0e412cd28d9",
   "lastOpenFiles": [
-    "Notes.md",
-    "PCs.md",
-    "Cases and Episodes/The Weight of Our Hearts.md",
-    "Cases and Episodes/The Slinky.md",
+    "Rules of this Santa Cruz.md",
+    "List of Districts/UCSC.md",
+    "List of Districts/Districts.md",
+    "Cases and Episodes/Siren's Sonata.md",
+    "Cases and Episodes/One Good Day.md",
+    "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/The Witch in the Woods.md",
+    "Cases and Episodes/The Weight of Our Hearts.md",
+    "PCs.md",
+    "Notes.md",
+    "Cases and Episodes/The Slinky.md",
     "Factions.md",
     "Ideas.md",
-    "Rules of this Santa Cruz.md",
-    "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Forbidden Arizona.md",
-    "Cases and Episodes/One Good Day.md",
-    "Cases and Episodes/Siren's Sonata.md",
-    "List of Districts/Districts.md",
     "List of Districts/Downtown.md",
     "List of Districts/The Boardwalk.md",
-    "List of Districts/UCSC.md",
     "Cases and Episodes/Untitled.md",
     "Cases and Episodes/Someone's Eating the Children.md",
     "Cases and Episodes",

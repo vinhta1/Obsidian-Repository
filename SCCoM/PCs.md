@@ -42,7 +42,13 @@ Before their wook journey, Moonshadow Starship was a normal person. They lived a
 - Moonshadow's best friend, a guy that's totally into the stoner culture even though he does not partake in drugs.
 ### John from Frezno - Homeless guy that grows mushrooms
 - Moonshadow gives John from Frezno a place to stay
-- Jo
+- John from Frezno is all about the business aspect, Moonshadow prefers to just spread the shrooms
 - Penis envy?
 ### Featherz - Tent regular
 - Chill guy that trips, nothing special
+
+### PC Relationships
+##### Icarus
+- Moonshadow knew icarus when he was homeless and high
+- Icarus crash landed in the tent the first time they met
+- Moonshadow's the shaman in Icarus's story, guiding him through his rut.
