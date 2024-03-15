@@ -44,6 +44,8 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 - Vik doesn't like working with organic transplants. Works in metal and wiring.
 - Does not trust the main organ trafficking ring. "Con artists and twisted fucks, the likes of them."
 - Vik is a medical expert, and would be able to tell that the body was performed on by a medical expert.
+##### At a popup transplant operation:
+This should be difficult to find unless the players 
 ##### At the **hospital ward**, where Izzy works:
 - Izzy is a surgeon, overseeing many invasive surgeries. She's great at her job, but she can't save everyone.
 - An inventory check and gossip shows that someone has been stealing medical supplies, including sedatives and tranquilizers.
@@ -145,69 +147,23 @@ Build Trust: – / Hurt: 2 / Threaten: 3
 • Fool someone (remove up to two tiers of alertness statuses from others or give confused-2)
 • Steal something undetected (burn a tag that describes an item or Deny Them Something They Want)
 • Pull out a hidden weapon and attack (nasty-cut-2 or flesh-wound-2)
-• Act friendly and build rapport with some-one
+- ---
+• Act friendly and build rapport with someone
+- ---
+Normally, a deception should be played out within the story and without using rules (because they reveal the existence of falsehood). Alternatively, you can use the con artist’s moves to try to fool the players. The Build Trust move is deceptive: the con artist pretends to be suspicious and the players try to build trust with her. Then, at a critical moment, the con artist betrays the crew and flips the status to her favor, allowing her to escape with the money or shoot a crew member in the back. Note that unless she has the ability to resist Mythos powers, the con artist cannot flip trust statuses created by mythical means.
 
-Normally, a deception should be played out
-within the story and without using rules
+• **(optional) Build Trust**: When you do something that makes trust you, she takes trust-2. When you try to Convince , you can choose to give her a trust status if she refuses you. If you use her trust against her, you lose her trust and remove this status. Once you build enough trust, she may open up to you.
+• **(optional) Abuse Trust**: When betrays you, the trust you thought you built with her becomes her advantage. The MC will change the tag trust into an appropriate
+ positive status for her such as underestimated or overlooked. After she betrays you,
+ remove the status.
 
-(because they reveal the existence of false-
-hood). Alternatively, you can use the con
-
-artist’s moves to try to fool the players. The
-Build Trust move is deceptive: the con artist
-pretends to be suspicious and the players try
-
-to build trust with her. Then, at a critical mo-
-ment, the con artist betrays the crew and flips
-
-the status to her favor, allowing her to escape
-with the money or shoot a crew member in
-the back. Note that unless she has the ability
-to resist Mythos powers, the con artist cannot
-flip trust statuses created by mythical means.
-• (optional) Build Trust: When you do
-something that makes trust
-you, she takes trust-2. When you try to
-Convince , you can choose to give
-her a trust status if she refuses you. If you
-use her trust against her, you lose her trust
-and remove this status. Once you build
-enough trust, she may open up to you.
-• (optional) Abuse Trust: When
-betrays you, the trust you thought you built
-with her becomes her advantage. The MC
-will change the tag trust into an appropriate
-
-positive status for her such as underesti-
-mated or overlooked. After she betrays you,
-
-remove the status.
-
-SMUGGLER yy
-
-Smugglers make their money running contra-
-band or stolen goods through borders and law
-
-enforcement undetected. Unsavory and sly,
-they have an ever-growing repertoire of shell
-game tricks that ensure they are never caught or
-incriminated.
-BRIBE 4 / HURT OR SUBDUE 4 / THREATEN 5
-• Sneaky Bastard: When the Smuggler enters
-the scene, give her sneaky-2. If the Smuggler
-loses this status, the MC can renew it as a hard
-move.
-• (optional) Fleet: The Smuggler commands a
-smuggling vehicle (use Getaway Vehicle) and
-can call an additional vehicle as a hard move.
-
-• Open a crate and pull out an over-the-top fire-
-arm, proceed to use it (pumped-full-of-lead-4)
-
-• Use the environment to block and delay pur-
-suers (blocked-3 or outrun-3)
-
-• Even if captured, make her contraband arrive
-at its destination nonetheless (Deny them
-Something They Want)
+### Smuggler
+#### Spectrum
+Bribe: 4 / Hurt or Subdue: 4 / Threaten: 5
+#### Moves
+• **Sneaky Bastard**: When the Smuggler enters the scene, give her sneaky-2. If the Smuggler loses this status, the MC can renew it as a hard move.
+• **(optional) Fleet**: The Smuggler commands a smuggling vehicle (use Getaway Vehicle) and can call an additional vehicle as a hard move.
+- --- 
+• Use the environment to block and delay pursuers (blocked-3 or outrun-3)
+• Even if captured, make her contraband arrive at its destination nonetheless (Deny them Something They Want)
 • Get away (Deny them Something They Want)
