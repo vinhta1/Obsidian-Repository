@@ -39,9 +39,11 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 - Out of the people who've come in recently without organs, organ traffickers are the most common ones, then violent criminals, then organ donors.
 - Those marked as donors are not missing limbs.
 - Someone with appropriate contacts can learn that the victims lose their organs by the time authorities arrive UNLESS they are donors, in which they have died in the hospital instead.
-
 ##### At Vik's Clinic:
-- Vik told Scratchy 
+- Vik told Scratchy not to make anymore deals, since traffickers have been going missing
+- Vik doesn't like working with organic transplants. Works in metal and wiring.
+- Does not trust the main organ trafficking ring. "Con artists and twisted fucks, the likes of them"
+- Vik is a medical expert, and would be able to tell that the body was performed on by a medical exper
 ##### At the **hospital ward**, where Izzy works:
 - Izzy is a surgeon, overseeing many invasive surgeries. She's great at her job, but she can't save everyone.
 - An inventory check and gossip shows that someone has been stealing medical supplies, including sedatives and tranquilizers.
