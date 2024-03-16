@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/Boardwalk Nights.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/Boardwalk Nights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs.md",
+                "file": "Cases and Episodes/Boardwalk Nights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs.md"
+                "file": "Cases and Episodes/Boardwalk Nights.md"
               }
             }
           },
@@ -171,23 +171,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d3bbd6fc860b0ba",
+  "active": "3a4ed5b9dbfd3748",
   "lastOpenFiles": [
-    "Rules of this Santa Cruz.md",
-    "Cases and Episodes/The Weight of Our Hearts.md",
-    "List of Districts/UCSC.md",
-    "List of Districts/Districts.md",
-    "Cases and Episodes/Siren's Sonata.md",
-    "Cases and Episodes/One Good Day.md",
-    "Cases and Episodes/Boardwalk Nights.md",
-    "Cases and Episodes/The Witch in the Woods.md",
-    "PCs.md",
-    "Notes.md",
-    "Cases and Episodes/The Slinky.md",
-    "Factions.md",
-    "Ideas.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Forbidden Arizona.md",
+    "Cases and Episodes/One Good Day.md",
+    "Cases and Episodes/Siren's Sonata.md",
+    "Cases and Episodes/The Slinky.md",
+    "Cases and Episodes/The Witch in the Woods.md",
+    "Cases and Episodes/The Weight of Our Hearts.md",
+    "Cases and Episodes/Boardwalk Nights.md",
+    "PCs.md",
+    "Rules of this Santa Cruz.md",
+    "List of Districts/UCSC.md",
+    "List of Districts/Districts.md",
+    "Notes.md",
+    "Factions.md",
+    "Ideas.md",
     "List of Districts/Downtown.md",
     "List of Districts/The Boardwalk.md",
     "Cases and Episodes/Untitled.md",
