@@ -11,12 +11,8 @@
             "id": "3a4ed5b9dbfd3748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/Boardwalk Nights.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/Boardwalk Nights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/Boardwalk Nights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cases and Episodes/Boardwalk Nights.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,19 +165,19 @@
   },
   "active": "3a4ed5b9dbfd3748",
   "lastOpenFiles": [
+    "Notes.md",
+    "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Forbidden Arizona.md",
     "Cases and Episodes/One Good Day.md",
     "Cases and Episodes/Siren's Sonata.md",
+    "PCs.md",
     "Cases and Episodes/The Slinky.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
-    "Cases and Episodes/Boardwalk Nights.md",
-    "PCs.md",
     "Rules of this Santa Cruz.md",
     "List of Districts/UCSC.md",
     "List of Districts/Districts.md",
-    "Notes.md",
     "Factions.md",
     "Ideas.md",
     "List of Districts/Downtown.md",

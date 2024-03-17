@@ -1,8 +1,4 @@
-# Player Expectations
-Peter wants to be OP, contractually cannot lose a fight. Always thinking about fight scenes. Jason Statham, Raid, John Wick, big battles all the time.
-- More fights, clear trash and big mobs. Bombastic, cinematic, one against many, one against the world.
-Kayley wants me to capture childhood wonder. The feeling when everything in life is the funniest thing. Jubilee, amazement, joy, wanderlust.
-- Worlds within the city. Enclaves and events with awesome sights and interesting characters. Think animated movies and anime.
+
 # Asmodeus
 Not a popular kid in school, but has fans all over SC who know of his online presence.
 # Danny
