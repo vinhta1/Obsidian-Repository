@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "263d5a6347d2156b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs In Depth/Jerri Braun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs In Depth/Jerri Braun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PCs In Depth/Jerri Braun.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a4ed5b9dbfd3748",
+  "active": "263d5a6347d2156b",
   "lastOpenFiles": [
     "PCs.md",
     "PCs In Depth/Jerri Braun.md",

@@ -22,6 +22,7 @@ The real Nero, head of the Gatekeepers
 Managed to save a lot of old residents of the Last Chinatown, and moved them to New Chinatown
 Old lady, maybe in her late 70s
 # Jerri
+[[Jerri Braun]]
 ### Sarah
 - Jerri's roommate from Freshman year
 - Dated Jack Benson before he died
