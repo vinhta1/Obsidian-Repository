@@ -9,4 +9,4 @@ Extra-Fortified Sugar
 # Background
 **Will Wilson (Willy Wonka)** is an employee working at Marini's at the Beach. He likes to make new candies at home when he has the time. He's been working on a candy, a recreation of the everlasting gobstopper, the candy marble. Unfortunately, he is missing just one ingredient: **Extra-Fortified Sugar**. Thus, he must make a perilous trip to **Candy Island**.
 
-There are a few unspoken rules of Candy Island. The wildlife are intelligent and are not to be harmed. Also, anyone who comes are intruders, and should not feel entitled to anything on the island. Take only what is needed, and nothing more.
+There are a few unspoken rules of Candy Island. The wildlife are intelligent and are not to be harmed. Also, anyone who comes are intruders, and should not feel entitled to anything on the island. Take only what is needed, and nothing more. and
