@@ -7,4 +7,4 @@ Candy animals, insects, spiders, and plants that get bigger and more dangerous t
 Extra-Fortified Sugar
 
 # Background
-**Will Wilson (Willy Wonka)** is an employee working at Marini's at the Beach. He likes to make new candies at home when he has the time. 
+**Will Wilson (Willy Wonka)** is an employee working at Marini's at the Beach. He likes to make new candies at home when he has the time. He's been working on a new candy, 
