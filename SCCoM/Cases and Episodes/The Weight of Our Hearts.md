@@ -3,8 +3,9 @@
 # Playthrough Notes
 Susan is sorry about not confronting Moonshadow and Czhewy before attacking them.
 - "I judge the dead better than the living."
-Consider introducing some red herrings, along with Isabel.
+Consider introducing some red herrings, along with Isabel. Probably not, if strapped for time.
 - Isabel Lotero, Transplant Surgeon
+- Jeremy Sands, Anesthesiologist
 - 
 
 # Background
