@@ -3,7 +3,8 @@
 # Playthrough Notes
 Susan is sorry about not confronting Moonshadow and Czhewy before attacking them.
 - "I judge the dead better than the living."
-Consider introducing some red herrings, along with Isabel. Probably not, if strapped for time.
+- "No one exists outside impunity. They are simply justified in their hearts. With that being said, it is best not to live with guilt."
+Consider introducing some red herrings, along with Isabel. Probably not, if strapped for time (which you are).
 - Isabel Lotero, Transplant Surgeon
 - Jeremy Sands, Anesthesiologist
 - Lionel Tree, Hospital Cook
