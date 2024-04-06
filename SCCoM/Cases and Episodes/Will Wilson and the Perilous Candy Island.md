@@ -11,10 +11,18 @@ Extra-Fortified Sugar
 
 There are a few unspoken rules of Candy Island. The wildlife are intelligent and are not to be harmed. Also, anyone who comes are intruders, and should not feel entitled to anything on the island. Take only what is needed, and nothing more. Candy Island is a dangerous and beautiful place, plan accordingly.
 
+# A Map and a Riddle
+## The Map from the Bottle
+Caramel Volcano, Cinnamon Swamp, Marshmallow Fields, Licorice Jungle, Chocolate Canyon
+## The Riddle from the Bottle
+Beware what is warm and sweet
+For it may reveal itself a dark treat
+What you know to be cold and nice
+Betrays an eternal vice
 # Investigation
 Warm and Sweet > Caramel Volcano, Cinnamon Swamp, or Marshmallow Fields?
-A Dark Treat > Black Licorice Jungle or Dark Chocolate, ?
-Cold and Nice > Mint Forest or Candy Cane Spires
+A Dark Treat > Licorice Jungle or Chocolate Canyon?
+Cold and Nice > Spearmint Forest or Candy Cane Spires?
 Eternal Vice > The Overgrown Castle (Extra-Fortified Sugar perhaps?)
 # Dangers
 Cotton Candy Spider
