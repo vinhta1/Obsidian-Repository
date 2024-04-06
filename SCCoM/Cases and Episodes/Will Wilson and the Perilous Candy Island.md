@@ -17,8 +17,8 @@ Caramel Volcano, Cinnamon Swamp, Marshmallow Fields, Licorice Jungle, Chocolate 
 ## The Riddle from the Bottle
 Beware what is warm and sweet
 For it may reveal itself a dark treat
-Avoid what is cold and nice
-Betrays an eternal vice
+And avoid what is cold and nice
+Because it betrays an eternal vice
 # Investigation
 Warm and Sweet > Caramel Volcano, Cinnamon Swamp, or Marshmallow Fields?
 A Dark Treat > Licorice Jungle or Chocolate Canyon?
