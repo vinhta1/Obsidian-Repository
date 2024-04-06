@@ -74,7 +74,7 @@ She finishes up the last of the bodies and throws away her gloves. She zips up h
 ##### At the **hospital ward**, where Izzy works:
 - Izzy is a surgeon, overseeing many invasive surgeries. She's great at her job, but she can't save everyone.
 - An inventory check and gossip shows that someone has been stealing medical supplies, including sedatives and tranquilizers.
-- Some newer organ donors were violent offenders, who came in on the brink of death. "Nasty stuff, both them and their wounds." They almost always never made it.
+- Some newer organ donors were violent offenders, who came in on the brink of death. "Nasty stuff, both them and their wounds." They almost always never made it. But they always were better on the inside than the outside.
 
 # Showdown
 The clues should have pointed to the hospital and that one of the workers, likely a skilled practitioner, was behind these recent killings. Isabel will only reveal herself when forced into a corner or when hunting dealers at night. Because of how little she can control herself when she gives into her hunger, she will prefer to be away from the public. It is in the crew's best interests to confront her in an isolated place as well. The more access she has to helpless people, the stronger she is. She cannot control whether or not she transforms. When she does, it's a fight to the death or until the sun rises. Thus, let the crew know that they can set up where the showdown will ultimately take place.
