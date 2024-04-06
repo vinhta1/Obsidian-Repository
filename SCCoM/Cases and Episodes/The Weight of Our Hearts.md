@@ -5,8 +5,6 @@ Susan is sorry about not confronting Moonshadow and Czhewy before attacking them
 - "I judge the dead better than the living."
 Consider introducing some red herrings, along with Isabel. Probably not, if strapped for time.
 - Isabel Lotero, Transplant Surgeon
-- Jeremy Sands, Anesthesiologist
-- 
 
 # Background
 Organ trafficking isn't rampant by any means, but it creates a mass of victims all the same. Donors are manipulated and harmed. People lose more organs than they agreed to, or find themselves still deep in debt after using the money they received, unable to go back to work. Recipients are conned and sometimes left worse than they were before. Sometimes it's being charged tens or hundreds of thousands of dollars, and sometimes it's faulty organs that don't work well or are incompatible, leading to their deaths shortly after. The transplant centers are nowhere to be found the next day and the middlemen pocket all the money. There are only two places to reliably get a transplant in this city: the hospital, or **Viktor (Cyberpunk 2077)**'s clinic.
