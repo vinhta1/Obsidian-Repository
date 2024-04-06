@@ -1,6 +1,12 @@
 #Case Danny's Case, Anubis, Itzpapalotl
 
 # Playthrough Notes
+### New Rules and Reminders
+- Whenever Danny heals, a "Change the Game" must be made. No more instant or guaranteed healing.
+- Don't forget about the jukebox juice, Moonshadow. After this case, they will expire if you don't use them the scene the song comes in.
+- Don't forget about crew themes, feel free to ask questions
+- Peter, I looked up theme improvements, losing the theme isn't a choice written in the book. I'd prefer if you lose a theme naturally.
+### Going Forward
 Susan is sorry about not confronting Moonshadow and Czhewy before attacking them.
 - "I judge the dead better than the living."
 - "No one exists outside impunity. They are simply justified in their hearts. With that being said, it is best not to live with guilt."
@@ -8,7 +14,18 @@ Consider introducing some red herrings, along with Isabel. Probably not, if stra
 - Isabel Lotero, Transplant Surgeon
 - Jeremy Sands, Anesthesiologist
 - Lionel Tree, Hospital Cook
+After the hospital scene is done or about to wrap up, allow some downtime.
+## MONTAGE (DOWNTIME)
+Whenever your character has some downtime, choose one way to spend it:
+• Give **attention to one of your Logos (or extra) themes**. Tell everyone at the table how you do it and mark Attention on that theme.
+• Work the case. Tell everyone at the table how you do it, and **gain 3 Clues** with a
+ method and a source based on your description.
+• Explore your Mythos. Tell everyone at the table which Mystery you explore and how you do it. You gain **1 Clue with a method and a source based on your description. Mark Attention on that Mystery’s theme**.
+• Prepare for your next activity. Tell everyone at the table how you prepare and
+choose one: **recover all your burnt power tags OR gain 3 Juice with a method based on your description**. You can choose from the effect improvements under **Change the Game**.
+• Recover from your last activity. **For each ongoing status still affecting you, the MC will tell you if and how it can be reduced during your downtime and by how many tiers. Alternatively, the MC can allow you to reduce any or some of your statuses by one tier for each relevant tag you have**.
 
+The MC can cue into any of the montage events and continue them as scenes.
 
 # Background
 Organ trafficking isn't rampant by any means, but it creates a mass of victims all the same. Donors are manipulated and harmed. People lose more organs than they agreed to, or find themselves still deep in debt after using the money they received, unable to go back to work. Recipients are conned and sometimes left worse than they were before. Sometimes it's being charged tens or hundreds of thousands of dollars, and sometimes it's faulty organs that don't work well or are incompatible, leading to their deaths shortly after. The transplant centers are nowhere to be found the next day and the middlemen pocket all the money. There are only two places to reliably get a transplant in this city: the hospital, or **Viktor (Cyberpunk 2077)**'s clinic.

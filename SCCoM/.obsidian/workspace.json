@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec192a56402beb0e",
+        "id": "07ed414563b13ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "715815d6ee2d9856",
+            "id": "b6d8a36d403f7da3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md"
+              }
             }
           },
           {
@@ -163,11 +171,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "715815d6ee2d9856",
+  "active": "b6d8a36d403f7da3",
   "lastOpenFiles": [
+    "Cases and Episodes/Siren's Sonata.md",
     "Cases and Episodes/Untitled.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
-    "Cases and Episodes/Siren's Sonata.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Boardwalk Nights.md",
