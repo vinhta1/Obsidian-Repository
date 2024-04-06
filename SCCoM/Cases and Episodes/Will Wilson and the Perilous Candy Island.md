@@ -13,7 +13,7 @@ There are a few unspoken rules of Candy Island. The wildlife are intelligent and
 
 # A Map and a Riddle
 ## The Map from the Bottle
-Caramel Volcano, Cinnamon Swamp, Marshmallow Fields, Licorice Jungle, Chocolate Canyon
+Caramel Volcano, Cinnamon Swamp, Marshmallow Fields, Licorice Jungle, Chocolate Canyon, Sweetmint Forest, Candy Cane Spires
 ## The Riddle from the Bottle
 Beware what is warm and sweet
 For it may reveal itself a dark treat
@@ -22,7 +22,7 @@ Betrays an eternal vice
 # Investigation
 Warm and Sweet > Caramel Volcano, Cinnamon Swamp, or Marshmallow Fields?
 A Dark Treat > Licorice Jungle or Chocolate Canyon?
-Cold and Nice > Spearmint Forest or Candy Cane Spires?
+Cold and Nice > Sweetmint Forest or Candy Cane Spires?
 Eternal Vice > The Overgrown Castle (Extra-Fortified Sugar perhaps?)
 # Dangers
 Cotton Candy Spider
