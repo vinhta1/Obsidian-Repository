@@ -12,3 +12,10 @@ Extra-Fortified Sugar
 There are a few unspoken rules of Candy Island. The wildlife are intelligent and are not to be harmed. Also, anyone who comes are intruders, and should not feel entitled to anything on the island. Take only what is needed, and nothing more. Candy Island is a dangerous and beautiful place, plan accordingly.
 
 # Dangers
+Cotton Candy Spider
+Molten Caramel Lava
+Ferrero Rocher Boulder
+Candy Cane Pitfalls
+Chocolate Bunnies Kangaroos
+Licorice Swamp
+Swedish Fish and Blue Sharks
