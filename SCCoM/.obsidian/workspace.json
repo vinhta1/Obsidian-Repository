@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d01e6c06e21949fd",
+        "id": "3bee7c29915fede1",
         "type": "tabs",
         "children": [
           {
-            "id": "4b70423c90f545ab",
+            "id": "e1fb09225fac2d7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,13 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b70423c90f545ab",
+  "active": "e1fb09225fac2d7e",
   "lastOpenFiles": [
+    "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/Untitled.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Boardwalk Nights.md",
-    "Cases and Episodes/The Weight of Our Hearts.md",
     "PCs In Depth/Jerri Braun.md",
     "Cases and Episodes/Siren's Sonata.md",
     "PCs.md",

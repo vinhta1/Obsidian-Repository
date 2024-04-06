@@ -120,8 +120,8 @@ Hurt or Subdue: 5 | Satiate: - | Humanity: 3 | Outrun or Catch: 4
 - **Food Found**: Twice per scene, involve an bystander (*Bystander*).
 - **Revitalize**: Eat an organ (reduce 3 tiers of a physical harm status).
 ---
-- An obsidian-taloned limb tears through a wound.
-- Cackle wildly when eating flesh.
+- An obsidian-taloned limb is spawned through a wound.
+- Cackle wildly when eating flesh or trying to dig into someone's abdomen.
 - Thrash when their morals are appealed to or when they hear something they don't want to.
 - Their eyes dart, their ears perk up, the nostrils flare as they recognize fresh meat is nearby.
 - Secure themselves, look up, and inhale deeply and sharply after giggling.
