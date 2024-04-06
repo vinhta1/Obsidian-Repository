@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1b74f2e78f312046",
+        "id": "d01e6c06e21949fd",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4ed5b9dbfd3748",
+            "id": "4b70423c90f545ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "PCs In Depth/Jerri Braun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "263d5a6347d2156b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/Untitled.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cases and Episodes/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,15 +165,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "263d5a6347d2156b",
+  "active": "4b70423c90f545ab",
   "lastOpenFiles": [
+    "PCs In Depth/Jerri Braun.md",
+    "Cases and Episodes/Untitled.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/The Witch in the Woods.md",
-    "Cases and Episodes/Untitled.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
     "Cases and Episodes/Siren's Sonata.md",
     "PCs.md",
-    "PCs In Depth/Jerri Braun.md",
     "PCs In Depth",
     "Cases and Episodes/Forbidden Arizona.md",
     "Notes.md",
