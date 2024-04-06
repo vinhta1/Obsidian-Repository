@@ -11,9 +11,11 @@
             "id": "4b70423c90f545ab",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cases and Episodes/The Weight of Our Hearts.md"
+              }
             }
           },
           {
@@ -167,17 +173,17 @@
   },
   "active": "4b70423c90f545ab",
   "lastOpenFiles": [
-    "PCs In Depth/Jerri Braun.md",
     "Cases and Episodes/Untitled.md",
-    "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Cases and Episodes/Bodies and the Beanstalk.md",
+    "Cases and Episodes/Boardwalk Nights.md",
+    "Cases and Episodes/The Weight of Our Hearts.md",
+    "PCs In Depth/Jerri Braun.md",
     "Cases and Episodes/Siren's Sonata.md",
     "PCs.md",
     "PCs In Depth",
     "Cases and Episodes/Forbidden Arizona.md",
     "Notes.md",
-    "Cases and Episodes/Boardwalk Nights.md",
     "Cases and Episodes/One Good Day.md",
     "Cases and Episodes/The Slinky.md",
     "Rules of this Santa Cruz.md",

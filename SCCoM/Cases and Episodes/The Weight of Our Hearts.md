@@ -1,5 +1,27 @@
 #Case Danny's Case, Anubis, Itzpapalotl
 
+# Playthrough Notes
+Previously On:
+9-10pm, on the boardwalk.
+A dead body was found. 
+The crew-- Jerri, Icarus, and Moonshadow meet Danni. Moonshadow takes in a body to the tent. 
+Jerri discovers that Icarus is a rift. 
+Someone is trailing Moonshadow walking into his tent.
+
+Part 2:
+Chewy is clocked in the back of the head by a hooded figure.
+Icarus blinks the endangered area and stows his wings away.
+The dark figure has a baseball cap on, with jackal ears on the hoodie; black grease around the eyes. A black cane is held in their hands.
+A glow begins to emit from the tent area and at lightning speed, Icarus charges to disarm this hooded figure. Spectral blue eyes from this judge fights back. Cascading and compounding inwards, a wave of guilt slams into Icarus as a sandstorm gets pulled all around the fighting pair. Just in time, Jerri swirls in with a contained fire targeting this jackal hooded figure; dark red and dread-filled seeping in. A quick dispersion of flame goes as quickly as it comes. 
+The mask falls. Charred hands and with a burned body, a voice pierces through before Icarus can begin to speak. 
+"Why'd you kill them?"
+Moonshadow shares a trip with this person. The light begins to fade away. 
+It's at this moment Danni enters the scene. As consciousness fades from this body, the sandstorm follows suit. Danni rushes up and slices their wrists. Golden nectar flows from their veins into the Jackal's mouth, and the wounds like strings of fate weave into themselves. 
+As the dust settles, questions begin to swarm. Ewan strolls in. 
+"I am only targeting the person sent to clean up the body without organs"
+- They are on their own, and can bring us into a morgue to investigate the organs. They were looking for the person who did this. Susan Rashad - The Mortician
+At the Mortuary, we find out that Danni was drugged with tranquilizers, drilled into and sawed off a wing.
+
 # Background
 Organ trafficking isn't rampant by any means, but it creates a mass of victims all the same. Donors are manipulated and harmed. People lose more organs than they agreed to, or find themselves still deep in debt after using the money they received, unable to go back to work. Recipients are conned and sometimes left worse than they were before. Sometimes it's being charged tens or hundreds of thousands of dollars, and sometimes it's faulty organs that don't work well or are incompatible, leading to their deaths shortly after. The transplant centers are nowhere to be found the next day and the middlemen pocket all the money. There are only two places to reliably get a transplant in this city: the hospital, or **Viktor (Cyberpunk 2077)**'s clinic.
 **Isabel Lotero (Itzpapalotl)** is a surgeon who has been eating criminals alive. In fact, eating these people is empowering her, allowing her to deliver justice further. She starts to develop a craving she worries she can't contain or sustain. So, she eases up and eats less. However, she has recently started targeting organ traffickers after witnessing the deaths of many patients who couldn't get an organ in time and after seeing how the donors are treated by these traffickers. After fully giving in, she might have crossed a point of no return.
