@@ -3,7 +3,7 @@
 # Playthrough Notes
 ### New Rules and Reminders
 - Whenever Danny heals, a "Change the Game" should be made in order to get rid of statuses.
-- Ongoing statuses as a result of a hard move or a go-toe-to-toe/hit-with-all-you-got should stay longer in general (heavy-hearted-2, for example). Of course, context matters always, but getting rid of them early get's rid of how the characters deal with these status. Temporary statuses however can still disappear when appropriate and .
+- **Ongoing** statuses as a result of a hard move or a go-toe-to-toe/hit-with-all-you-got should stay longer in general (heavy-hearted-2, for example). Of course, context matters always, but getting rid of them early get's rid of how the characters deal with these status. **Temporary** statuses however can still disappear when appropriate and after a move uses it.
 - Don't forget about the jukebox juice, Moonshadow. After this case, they will expire if you don't use them the scene the song comes in.
 - Don't forget about crew themes either, and feel free to ask questions or intrude whenever! Communicate and cooperate to make a cool story. I'll keep trying harder to delay instead of deny moves, to yes-and whenever I can.
 - Peter, I looked up theme improvements, losing the theme isn't a choice written in the book. I'd prefer if you lose a theme naturally.
