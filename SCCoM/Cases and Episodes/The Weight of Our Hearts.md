@@ -131,7 +131,7 @@ Hurt or Subdue: 5 | Satiate: - | Humanity: 3 | Outrun or Catch: 4
 #### Moves
 - **Obsidian Wings**: When The Clawed Butterfly enters the scene, give her either **flying** or **frenzy**. As a soft move, The Clawed Butterfly can switch between *flying* or *frenzy*. This tag can be renewed as a hard move.
 - **Bladed Skin**: When The Clawed Butterfly takes a physical harm or subdue status, reduce the tier of the status by 2. When you make a move too close to her, you take *cut-1* from the obsidian shards flying around.
-- **Sunlight Sensitivity**: When exposed to sunlight, The Clawed Butterfly's powers start to neutralize (*Sunlight-3*).
+- **Sunlight Sensitivity**: When exposed to sunlight, The Clawed Butterfly's powers start to neutralize (*Weakened-2*).
 - ---
 - **Queen of the Tzitzimimeh**: If the stars are out, scream towards the sky and summon a Tzitzimitl (add new Danger: Tzitzimimeh).
 - **Claw and Slash**: Slash with talons and stone swords (*Eviscerate-4*).
