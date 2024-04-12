@@ -3,6 +3,9 @@
 - [Panic Room (Acoustic)](https://youtu.be/FVT9NVHQ7NU?si=YzD_htqlyJdobREM)
 - [Rebecca Black - Do You?](https://www.youtube.com/watch?v=YPDARrwrdMM)
 - [ABBA - The Winner Takes It All (Official Lyric Video)](https://youtu.be/81WhM9dOcYI?si=TY-xeif9Lv7KiuM1)
-	- During and after burning an organization or building to the ground.
+	- During and after burning an organization or building (church) to the ground.
+	- *"My idea was IF Jerri ends up going full avatar and forces Icarus to kill her, then this is the song that would play during their final battle"*
 - [Unlike Pluto - Oh Raven (Sing Me A Happy Song)](https://youtu.be/cl_NE_Si7hI?si=nbJsyOPQBmyFowOF)
+- [Ghost - Mary On A Cross](https://youtu.be/k5mX3NkA7jM?si=S9eQD9rygNrvq5al)
+- [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF)
 - 
