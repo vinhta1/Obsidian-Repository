@@ -3,7 +3,8 @@
 *"Songs that I see for fighting with how Jerri is currently"*
 - [Panic Room - Au/Ra](https://youtu.be/HFD_DURA-N0?si=MFSbAx5Ip819xF2T)
 - [Trust Issues - Emei](https://youtu.be/qejvs16xGZA?si=ZZeeyJNYa2X8V4p9)
-- 
+- [Army of Lovers - Crucified](https://youtu.be/ab-IImsyhNM?si=rU2iyHY3UCM1k8YJ)
+	- Feels like a comeback song, a place of defeat and despair that turns around. Could apply to all fight songs though.
 ## Emotional
 *"\[Songs that] could be applied specifically to Icarus's and Jerri's relationship with the whole lucifer and archangel dichotomy or other general emotional situations"*
 - [Vera Lynn - We'll Meet Again](https://youtu.be/HsM_VmN6ytk?si=eSazsLC-cTzNfXrN)
@@ -17,6 +18,7 @@
 	- Acoustic version of fight music. Maybe when things go wrong, or when Jerri's fighting herself.
 ## Confronting Her Past
 - [Beyoncé - DAUGHTER](https://youtu.be/cjeC0zNqigo?si=lvs_-eIdggFxh1rT)
+	- Reminds me of the inability to escape one's true identity, one's history, one's mythos. Killing someone who pissed you off, and feeling torn about where the fury came from.
 - 
 ## Scene Specific
 - [Rebecca Black - Do You?](https://www.youtube.com/watch?v=YPDARrwrdMM)

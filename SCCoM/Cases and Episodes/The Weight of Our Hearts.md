@@ -16,6 +16,7 @@ Consider introducing some red herrings, along with Isabel. Probably not, if stra
 - Jeremy Sands, Anesthesiologist
 - Lionel Tree, Hospital Cook
 After the hospital scene is done or about to wrap up, allow some downtime.
+If Isabel sees Danny, she MAY OR MAY NOT FREEZE UP. Look concerned, shocked.
 ## MONTAGE (DOWNTIME)
 Whenever your character has some downtime, choose one way to spend it:
 • Give **attention to one of your Logos (or extra) themes**. Tell everyone at the table how you do it and mark Attention on that theme.
