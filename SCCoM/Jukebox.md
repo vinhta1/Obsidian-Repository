@@ -4,6 +4,13 @@
 	- Reminds me of a western, like walking away from a duel or preparing for one.
 - [Kiss - I was Made For Lovin' You](https://youtu.be/kLKr342VKaU?si=b3yDXTU9FJsRNMNF)
 	- Disco rock for when you're beating people up with your romantic interest.
+
+## Investigation Music
+- [Zamilska - Duel 35 Chamber Orchestra](https://youtu.be/6Z5_LUZvnLg?si=8l5yEUC6xNBwBvjV)
+	- An orchestral version of Duel 35, probably good for when hunting clues surrounding \[REDACTED]. Thriller, sins movie vibes.
+## Wildcard
+- [Monster's Inc Theme (Full)](https://youtu.be/aMwSNDRP90o?si=HhDZPy92jEN1qYWW)
+	- I can imagine it being a cold open, or fighting slapstick comedy style. Upbeat jazz.
 # Jerri
 ## Fight Music
 *"Songs that I see for fighting with how Jerri is currently"*
