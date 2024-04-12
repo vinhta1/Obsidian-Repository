@@ -1,4 +1,4 @@
-# Vinh
+# General
 ## Fight Music
 - [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF) 
 	- Reminds me of a western, like walking away from a duel or preparing for one.
@@ -46,3 +46,7 @@
 *"For when Jerri is more out of control and going way to into her powers"*
 - [Fight Fire with Fire (Remastered)](https://youtu.be/8zSODUOoE8w?si=NCuNQd9abdB17Hoa)
 - [Master of Puppets (Remastered)](https://youtu.be/E0ozmU9cJDg?si=popuTDNxwPAM3Abh)
+## Wildcard
+- [Ghost - Mary On A Cross](https://youtu.be/k5mX3NkA7jM?si=S9eQD9rygNrvq5al)
+	- *"\[I don't know] how Mary on a Cross (Ghost) could be used but I think it fits Jerri's character so I have it on there"*
+	- A little playful, feels like giving into the more mischievous/evil side of Lucifer. Maybe after successfully manipulating someone. I can imagine the scene not spotlighting Jerri, but someone enthralled by Jerri.
