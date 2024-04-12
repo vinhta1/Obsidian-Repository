@@ -3,9 +3,8 @@
 - [NieR Gestalt & NieR Replicant - オバアチャン](https://youtu.be/f03IHCr9dJY?si=c7ZcdCDwAtFgZ3b-)
 	- A song of remorse and determination. A mission, and a price. \[REDACTED]'s theme.
 - [Emi Meyer - For Whom The Bell Tolls](https://youtu.be/wUaU5d9xERE?si=iLlnENXPlaKG0yHo)
-	- Definitely a fight song. \[REDACTED]'s combat music.
-- [Nine Inch Nails - Closer](https://youtu.be/ccY25Cb3im0?si=1nmYjbjmhQ3bseWx)
-	- ~~\[REDACTED]Susan Rashad's combat music.
+	- \[REDACTED]'s combat music.
+- 
 ## Fight Music
 - [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF) 
 	- Reminds me of a western, like walking away from a duel or preparing for one.
@@ -13,8 +12,13 @@
 	- Disco rock for when you're beating people up with your romantic interest.
 - [ZAMILSKA - DUEL 35](https://youtu.be/2TvFtRWnskY?si=kQFexprD0-9Rf3WZ)
 	- Codename: Company Layoffs. Probably the theme of \[REDACTED]. If this plays you, or whoever you're protecting, are in trouble.
+- [Nine Inch Nails - Closer](https://youtu.be/ccY25Cb3im0?si=1nmYjbjmhQ3bseWx)
+	- Susan Rashad's combat music. Watch your organs, people.
 
-## Investigation Music
+## Emotional
+- [Piotr Musiał - Streets of New London](https://youtu.be/D-QoQjV0uLI?si=BWczyr7tiaweQyjo)
+	- Codename: Heavy Hearted, for the Case: The Weight of Our Hearts
+## Investigation
 - [Zamilska - Duel 35 Chamber Orchestra](https://youtu.be/6Z5_LUZvnLg?si=8l5yEUC6xNBwBvjV)
 	- An orchestral version of Duel 35, probably good for when hunting clues surrounding \[REDACTED]. Thriller, sinister, espionage vibes.
 - [Trent Reznor - OWL HUNTS RAT](https://youtu.be/vvSFlAsK9vs?si=rhuemc4bcbntwQ4Y)
@@ -27,6 +31,10 @@
 	- Gritty, you saw something you shouldn't have. Something no one should have. Gruesome, terrifying. Do you understand?
 - [Old Future Fox Gang - Guided Meditation](https://youtu.be/UanV1ifs6tk?si=65kmekwuFLxoOE3q)
 	- Hip hop, scoping out a crime scene. Just another day.
+
+## Montage (Downtime)
+- [Nine Inch Nails - Into the Void](https://youtu.be/Q8LEheSUTGE?si=lrkdXLHPZ_r9AmnZ)
+	- Susan Rashad's downtime music of choice. Apply some grease paint and start stalking the guilty.
 ## Wildcard
 - [Monster's Inc Theme (Full)](https://youtu.be/aMwSNDRP90o?si=HhDZPy92jEN1qYWW)
 	- I can imagine it being a cold open, or fighting slapstick comedy style. Upbeat jazz.
