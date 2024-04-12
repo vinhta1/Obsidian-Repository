@@ -7,5 +7,10 @@
 	- *"My idea was IF Jerri ends up going full avatar and forces Icarus to kill her, then this is the song that would play during their final battle"*
 - [Unlike Pluto - Oh Raven (Sing Me A Happy Song)](https://youtu.be/cl_NE_Si7hI?si=nbJsyOPQBmyFowOF)
 - [Ghost - Mary On A Cross](https://youtu.be/k5mX3NkA7jM?si=S9eQD9rygNrvq5al)
-- [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF)
-- 
+- [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF) 
+	- Reminds me of a western, like walking away from a duel or preparing for one.
+- [Vera Lynn - We'll Meet Again](https://youtu.be/HsM_VmN6ytk?si=eSazsLC-cTzNfXrN)
+	- That old-timey vintage jazz sound. Fallout, Watchmen.
+	- Maybe a moment between Jerri, Icarus, and Nero, before they walk away from each other.
+- [Emma Blackery - Icarus](https://youtu.be/TklEhgZql4Q?si=4KmJmtczHhuSPkjK)
+	- "could be applied specifically to Icarus's and Jerri's relationship with the whole lucifer and archangel dichotomy or other general emotional situations"
