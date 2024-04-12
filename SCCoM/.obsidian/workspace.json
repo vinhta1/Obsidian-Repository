@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "07ed414563b13ef0",
+        "id": "c05bdf8737ea935f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d8a36d403f7da3",
+            "id": "b93ef098cf538ebd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cases and Episodes/The Weight of Our Hearts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,11 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6d8a36d403f7da3",
+  "active": "b93ef098cf538ebd",
   "lastOpenFiles": [
+    "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/Will Wilson and the Perilous Candy Island.md",
     "List of Districts/UCSC.md",
-    "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/The Slinky.md",
     "Cases and Episodes/The Witch in the Woods.md",
     "Cases and Episodes/Siren's Sonata.md",
