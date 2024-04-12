@@ -21,12 +21,11 @@
 *"\[Songs that] could be applied specifically to Icarus's and Jerri's relationship with the whole lucifer and archangel dichotomy or other general emotional situations"*
 - [Vera Lynn - We'll Meet Again](https://youtu.be/HsM_VmN6ytk?si=eSazsLC-cTzNfXrN)
 	- That old-timey vintage jazz sound. Fallout, Watchmen.
-> [!question]- Spoiler
-> Maybe a moment between Jerri, Icarus, and Nero, before they walk away from each other.
+	- Maybe a moment between Jerri, Icarus, and \[REDACTED], before they walk away from each other.
 - [Emma Blackery - Icarus](https://youtu.be/TklEhgZql4Q?si=4KmJmtczHhuSPkjK)
 	- Feels like a credits song after Jerri and Icarus has had a heart to heart, but Icarus isn't listening.
 - [ayokay - Don't Wanna Be Your Friend ft. Katie Pearlman](https://youtu.be/yNIzCtbshn0?si=FLg-n1pjBvEsFAmy)
-	- In one way, could be Icarus and Jerri getting closer (romantically?). I also see it like the mythos are trying to take over themselves, losing control of themselves. It could also be a moment between Nero and Jerri.
+	- In one way, could be Icarus and Jerri getting closer (romantically?). I also see it like the mythos are trying to take over themselves, losing control of themselves. It could also be a moment between \[REDACTED], and Jerri.
 - [Hozier - From Eden](https://youtu.be/JmWbBUxSNUU?si=GJNJzfyQPZgs1B1s)
 - [Panic Room (Acoustic)](https://youtu.be/FVT9NVHQ7NU?si=YzD_htqlyJdobREM)
 	- Acoustic version of fight music. Maybe when things go wrong, or when Jerri's fighting herself.
