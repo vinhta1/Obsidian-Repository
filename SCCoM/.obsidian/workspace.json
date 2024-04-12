@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jukebox.md",
+                "file": "Private/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e7749e155beaf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/MC's Jukebox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jukebox.md",
+                "file": "Private/MC's Jukebox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jukebox.md",
+                "file": "Private/MC's Jukebox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jukebox.md"
+                "file": "Private/MC's Jukebox.md"
               }
             }
           },
@@ -171,33 +184,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93ef098cf538ebd",
+  "active": "38e7749e155beaf8",
   "lastOpenFiles": [
-    "Cases and Episodes/The Weight of Our Hearts.md",
-    "PCs In Depth/Jerri Braun.md",
-    "Jukebox.md",
-    "PCs.md",
-    "Ideas.md",
-    "Cases and Episodes/Will Wilson and the Perilous Candy Island.md",
-    "List of Districts/UCSC.md",
-    "Cases and Episodes/The Slinky.md",
-    "Cases and Episodes/The Witch in the Woods.md",
-    "Cases and Episodes/Siren's Sonata.md",
-    "Cases and Episodes/Bodies and the Beanstalk.md",
-    "Cases and Episodes/Boardwalk Nights.md",
-    "PCs In Depth",
-    "Cases and Episodes/Forbidden Arizona.md",
-    "Notes.md",
-    "Cases and Episodes/One Good Day.md",
-    "Rules of this Santa Cruz.md",
-    "List of Districts/Districts.md",
-    "Factions.md",
-    "List of Districts/Downtown.md",
-    "List of Districts/The Boardwalk.md",
+    "Private/Notes.md",
+    "Public/Jukebox.md",
+    "Private/MC's Jukebox.md",
+    "Private",
+    "Public",
+    "Private/Ideas.md",
+    "Private/Cases and Episodes/The Weight of Our Hearts.md",
+    "Private/PCs In Depth/Jerri Braun.md",
+    "Private/PCs.md",
+    "Private/Cases and Episodes/Will Wilson and the Perilous Candy Island.md",
+    "Private/List of Districts/UCSC.md",
+    "Private/Cases and Episodes/The Slinky.md",
+    "Private/Cases and Episodes/The Witch in the Woods.md",
+    "Private/Cases and Episodes/Siren's Sonata.md",
+    "Private/Cases and Episodes/Bodies and the Beanstalk.md",
+    "Private/Cases and Episodes/Boardwalk Nights.md",
+    "Private/PCs In Depth",
+    "Private/Cases and Episodes/Forbidden Arizona.md",
+    "Private/Cases and Episodes/One Good Day.md",
+    "Private/Rules of this Santa Cruz.md",
+    "Private/List of Districts/Districts.md",
+    "Private/Factions.md",
+    "Private/List of Districts/Downtown.md",
+    "Private/List of Districts/The Boardwalk.md",
     "Cases and Episodes/Someone's Eating the Children.md",
-    "Cases and Episodes",
+    "Private/Cases and Episodes",
     "List of Districts/A Test.md",
     "Test.md",
-    "List of Districts"
+    "Private/List of Districts"
   ]
 }
