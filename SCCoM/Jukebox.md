@@ -1,10 +1,17 @@
 # General
+## Character Music
+- [NieR Gestalt & NieR Replicant - オバアチャン](https://youtu.be/f03IHCr9dJY?si=c7ZcdCDwAtFgZ3b-)
+	- A song of remorse and determination. A mission, and a price. \[REDACTED]'s theme.
+- [Emi Meyer - For Whom The Bell Tolls](https://youtu.be/wUaU5d9xERE?si=iLlnENXPlaKG0yHo)
+	- Definitely a fight song. \[REDACTED]'s combat music.
+- [Nine Inch Nails - Closer](https://youtu.be/ccY25Cb3im0?si=1nmYjbjmhQ3bseWx)
+	- ~~\[REDACTED]Susan Rashad's combat music.
 ## Fight Music
 - [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF) 
 	- Reminds me of a western, like walking away from a duel or preparing for one.
 - [Kiss - I was Made For Lovin' You](https://youtu.be/kLKr342VKaU?si=b3yDXTU9FJsRNMNF)
 	- Disco rock for when you're beating people up with your romantic interest.
-- [ZAMILSKA - DUEL 35]
+- [ZAMILSKA - DUEL 35](https://youtu.be/2TvFtRWnskY?si=kQFexprD0-9Rf3WZ)
 	- Codename: Company Layoffs. Probably the theme of \[REDACTED]. If this plays you, or whoever you're protecting, are in trouble.
 
 ## Investigation Music
@@ -71,6 +78,8 @@
 	- A little playful, feels like giving into the more mischievous/evil side of Lucifer. Maybe after successfully manipulating someone. I can imagine the scene not spotlighting Jerri, but someone enthralled by Jerri.
 # Moonshadow
 ## Warp Senses
+- [Glue Trip - Elbow Pain](https://youtu.be/35q7mxtiEjI?si=DaazWxfL1Xp2BAJH)
+- [Blockhead - The Music Scene](https://youtu.be/W-IAC0DYeEw?si=NuO-TT-o-60bWW0Q)
 - 
 # Ewan
 # Icarus
