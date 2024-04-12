@@ -16,6 +16,10 @@
 	- Sounds claustrophobic. Noir that leads into a chase, ramps into breakbeat.
 - [The Orchestra of Mirrored Reflections - Leaving Big Sigh of City Behind](https://youtu.be/nlySgr_b-mQ?si=dCbQK9G4u9H7bQYR)
 	- Gritty, classic noir jazz.
+- [Coconuts - Silver Lights](https://youtu.be/F43446x_nYQ?si=cwdaI-S7zO1ja5xP)
+	- Gritty, you saw something you shouldn't have. Something no one should have. Gruesome, terrifying. Do you understand?
+- [Old Future Fox Gang - Guided Meditation](https://youtu.be/UanV1ifs6tk?si=65kmekwuFLxoOE3q)
+	- Hip hop, scoping out a crime scene. Just another day.
 ## Wildcard
 - [Monster's Inc Theme (Full)](https://youtu.be/aMwSNDRP90o?si=HhDZPy92jEN1qYWW)
 	- I can imagine it being a cold open, or fighting slapstick comedy style. Upbeat jazz.
@@ -65,3 +69,12 @@
 - [Ghost - Mary On A Cross](https://youtu.be/k5mX3NkA7jM?si=S9eQD9rygNrvq5al)
 	- *"\[I don't know] how Mary on a Cross (Ghost) could be used but I think it fits Jerri's character so I have it on there"*
 	- A little playful, feels like giving into the more mischievous/evil side of Lucifer. Maybe after successfully manipulating someone. I can imagine the scene not spotlighting Jerri, but someone enthralled by Jerri.
+# Moonshadow
+## Warp Senses
+- 
+# Ewan
+# Icarus
+# Danny
+# Asmodeus
+# Viktor
+# Itzl
