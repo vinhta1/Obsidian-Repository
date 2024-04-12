@@ -9,9 +9,7 @@
 	- Codename: Company Layoffs. Probably the theme of \[REDACTED]. If this plays you, or whoever you're protecting, are in trouble.
 - [Nine Inch Nails - Closer](https://youtu.be/ccY25Cb3im0?si=1nmYjbjmhQ3bseWx)
 	- Susan Rashad's combat music. Watch your organs, people.
-- [Monster's Inc Theme (Full)](https://youtu.be/aMwSNDRP90o?si=HhDZPy92jEN1qYWW)
-	- Codename: Company Comedy and Mayhem. I can imagine it being a cold open, or fighting slapstick comedy style. Upbeat jazz.
-- [skankfunk - VENDOR POP [Yakuza 5]](https://youtu.be/T3bQ8xAMyjg?si=YncpH65Xt3rilpmI)
+- [skankfunk - VENDOR POP ](https://youtu.be/T3bQ8xAMyjg?si=YncpH65Xt3rilpmI)
 	- Codename: Put 'Em Up. A playful, ballgame sounding fight. Good for a brawl.
 
 ## Emotional
