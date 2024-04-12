@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/MC's Jukebox.md",
+                "file": "Public/Jukebox.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/MC's Jukebox.md",
+                "file": "Public/Jukebox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/MC's Jukebox.md",
+                "file": "Public/Jukebox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/MC's Jukebox.md"
+                "file": "Public/Jukebox.md"
               }
             }
           },
@@ -186,9 +186,10 @@
   },
   "active": "38e7749e155beaf8",
   "lastOpenFiles": [
-    "Private/Notes.md",
-    "Public/Jukebox.md",
     "Private/MC's Jukebox.md",
+    "Private/Rules of this Santa Cruz.md",
+    "Public/Jukebox.md",
+    "Private/Notes.md",
     "Private",
     "Public",
     "Private/Ideas.md",
@@ -205,7 +206,6 @@
     "Private/PCs In Depth",
     "Private/Cases and Episodes/Forbidden Arizona.md",
     "Private/Cases and Episodes/One Good Day.md",
-    "Private/Rules of this Santa Cruz.md",
     "Private/List of Districts/Districts.md",
     "Private/Factions.md",
     "Private/List of Districts/Downtown.md",
