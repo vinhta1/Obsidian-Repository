@@ -11,8 +11,12 @@
             "id": "b93ef098cf538ebd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jukebox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jukebox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Jukebox.md"
+              }
             }
           },
           {
@@ -165,6 +173,7 @@
   },
   "active": "b93ef098cf538ebd",
   "lastOpenFiles": [
+    "Jukebox.md",
     "Cases and Episodes/The Weight of Our Hearts.md",
     "Cases and Episodes/Will Wilson and the Perilous Candy Island.md",
     "List of Districts/UCSC.md",
