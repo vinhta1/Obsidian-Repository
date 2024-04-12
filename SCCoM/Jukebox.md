@@ -1,10 +1,11 @@
 # General
-## Character Music
+## Character Music (SPOILERS)
 - [NieR Gestalt & NieR Replicant - オバアチャン](https://youtu.be/f03IHCr9dJY?si=c7ZcdCDwAtFgZ3b-)
 	- A song of remorse and determination. A mission, and a price. \[REDACTED]'s theme.
 - [Emi Meyer - For Whom The Bell Tolls](https://youtu.be/wUaU5d9xERE?si=iLlnENXPlaKG0yHo)
 	- \[REDACTED]'s combat music.
-- 
+- [Brian Reitzell - Entrée](https://youtu.be/OPRHeh_D8_k?si=A0F8kmAS6NgrdFqG)
+	- For The Weight of Our Hearts. \[REDACTED]'s combat music. Wait until after \[REDACTED].
 ## Fight Music
 - [The Animals - House Of The Rising Sun](https://youtu.be/AEuFaRBGDcw?si=_rJ_nuXxe5is8OJF) 
 	- Reminds me of a western, like walking away from a duel or preparing for one.
@@ -17,18 +18,18 @@
 
 ## Emotional
 - [Piotr Musiał - Streets of New London](https://youtu.be/D-QoQjV0uLI?si=BWczyr7tiaweQyjo)
-	- Codename: Heavy Hearted, for the Case: The Weight of Our Hearts
+	- Codename: Heavy Hearted, for the Case: The Weight of Our Hearts. Dark, orchestral, a grim purpose, a hard choice.
 ## Investigation
 - [Zamilska - Duel 35 Chamber Orchestra](https://youtu.be/6Z5_LUZvnLg?si=8l5yEUC6xNBwBvjV)
 	- An orchestral version of Duel 35, probably good for when hunting clues surrounding \[REDACTED]. Thriller, sinister, espionage vibes.
 - [Trent Reznor - OWL HUNTS RAT](https://youtu.be/vvSFlAsK9vs?si=rhuemc4bcbntwQ4Y)
-	- Technothriller with a saxophone.
+	- Technothriller with a saxophone. Works great as fight music.
 - [Nine Inch Nails - Run Like Hell](https://youtu.be/_-BLflnCUv8?si=RrMUgBBW3XAAsSgH)
 	- Sounds claustrophobic. Noir that leads into a chase, ramps into breakbeat.
 - [The Orchestra of Mirrored Reflections - Leaving Big Sigh of City Behind](https://youtu.be/nlySgr_b-mQ?si=dCbQK9G4u9H7bQYR)
 	- Gritty, classic noir jazz.
 - [Coconuts - Silver Lights](https://youtu.be/F43446x_nYQ?si=cwdaI-S7zO1ja5xP)
-	- Gritty, you saw something you shouldn't have. Something no one should have. Gruesome, terrifying. Do you understand?
+	- Gritty, you saw something you shouldn't have. Something no one should have. Gruesome, terrifying.
 - [Old Future Fox Gang - Guided Meditation](https://youtu.be/UanV1ifs6tk?si=65kmekwuFLxoOE3q)
 	- Hip hop, scoping out a crime scene. Just another day.
 
