@@ -4,10 +4,18 @@
 	- Reminds me of a western, like walking away from a duel or preparing for one.
 - [Kiss - I was Made For Lovin' You](https://youtu.be/kLKr342VKaU?si=b3yDXTU9FJsRNMNF)
 	- Disco rock for when you're beating people up with your romantic interest.
+- [ZAMILSKA - DUEL 35]
+	- Codename: Company Layoffs. Probably the theme of \[REDACTED]. If this plays you, or whoever you're protecting, are in trouble.
 
 ## Investigation Music
 - [Zamilska - Duel 35 Chamber Orchestra](https://youtu.be/6Z5_LUZvnLg?si=8l5yEUC6xNBwBvjV)
-	- An orchestral version of Duel 35, probably good for when hunting clues surrounding \[REDACTED]. Thriller, sins movie vibes.
+	- An orchestral version of Duel 35, probably good for when hunting clues surrounding \[REDACTED]. Thriller, sinister, espionage vibes.
+- [Trent Reznor - OWL HUNTS RAT](https://youtu.be/vvSFlAsK9vs?si=rhuemc4bcbntwQ4Y)
+	- Technothriller with a saxophone.
+- [Nine Inch Nails - Run Like Hell](https://youtu.be/_-BLflnCUv8?si=RrMUgBBW3XAAsSgH)
+	- Sounds claustrophobic. Noir that leads into a chase, ramps into breakbeat.
+- [The Orchestra of Mirrored Reflections - Leaving Big Sigh of City Behind](https://youtu.be/nlySgr_b-mQ?si=dCbQK9G4u9H7bQYR)
+	- Gritty, classic noir jazz.
 ## Wildcard
 - [Monster's Inc Theme (Full)](https://youtu.be/aMwSNDRP90o?si=HhDZPy92jEN1qYWW)
 	- I can imagine it being a cold open, or fighting slapstick comedy style. Upbeat jazz.
