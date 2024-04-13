@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Notes.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Notes.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Notes.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Notes.md"
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md"
               }
             }
           },
@@ -185,10 +185,10 @@
   },
   "active": "b93ef098cf538ebd",
   "lastOpenFiles": [
+    "Private/Notes.md",
     "Public/Jukebox.md",
     "Private/MC's Jukebox.md",
     "Private/Rules of this Santa Cruz.md",
-    "Private/Notes.md",
     "Private",
     "Public",
     "Private/Ideas.md",

@@ -8,6 +8,7 @@
 - Don't forget about crew themes either, and feel free to ask questions or intrude whenever! Communicate and cooperate to make a cool story. I'll keep trying harder to delay instead of deny moves, to yes-and whenever I can.
 - Peter, I looked up theme improvements, losing the theme isn't a choice written in the book. I'd prefer if you lose a theme naturally.
 ### Going Forward
+#### INVOKE SOMEONE'S IDENTITY OR MYSTERY EACH CASE/SESSION
 Susan is sorry about not confronting Moonshadow and Czhewy before attacking them.
 - "I judge the dead better than the living."
 - "No one exists outside impunity. They are simply justified in their hearts. With that being said, it is best not to live with guilt."
@@ -17,6 +18,11 @@ Consider introducing some red herrings, along with Isabel. Probably not, if stra
 - Lionel Tree, Hospital Cook
 After the hospital scene is done or about to wrap up, allow some downtime.
 If Isabel sees Danny, she MAY OR MAY NOT FREEZE UP. Look concerned, shocked.
+Itzpapalotl pushes Danny to give in to her Mythos: "Why won't my wings grow back?"
+- "What is sacrifice without loss? Have you lost anything?"
+- "I saw your wings. They were beautiful. You could fly past the sun. You just have to give in a little."
+- "It's not fair. You have the power to save lives, but you're just as greedy as the rest of them."
+- "I could eat you alive, and you wouldn't feel a thing."
 ## MONTAGE (DOWNTIME)
 Whenever your character has some downtime, choose one way to spend it:
 • Give **attention to one of your Logos (or extra) themes**. Tell everyone at the table how you do it and mark Attention on that theme.
