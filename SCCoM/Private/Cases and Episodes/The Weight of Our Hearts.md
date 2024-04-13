@@ -18,11 +18,14 @@ Consider introducing some red herrings, along with Isabel. Probably not, if stra
 - Lionel Tree, Hospital Cook
 After the hospital scene is done or about to wrap up, allow some downtime.
 If Isabel sees Danny, she MAY OR MAY NOT FREEZE UP. Look concerned, shocked.
-Itzpapalotl pushes Danny to give in to her Mythos: "Why won't my wings grow back?"
+Itzpapalotl pushes Danny to give in to her Mythos: "Why won't my wings grow back?" and stand on her ground: "I've done my time."
+Some quotes:
 - "What is sacrifice without loss? Have you lost anything?"
-- "I saw your wings. They were beautiful. You could fly past the sun. You just have to give in a little."
+- "I saw your wings. They were beautiful. You could feel the sun on your feathers. You just have to give in a little."
 - "It's not fair. You have the power to save lives, but you're just as greedy as the rest of them."
-- "I could eat you alive, and you wouldn't feel a thing."
+- "Do you care about anything?" "I could eat you alive, and you wouldn't feel a thing."
+- "Another warrior. You could have brought me many offerings."
+- "We could blot the world in darkness. You could take the sun's place, ***after I eat it***."
 ## MONTAGE (DOWNTIME)
 Whenever your character has some downtime, choose one way to spend it:
 • Give **attention to one of your Logos (or extra) themes**. Tell everyone at the table how you do it and mark Attention on that theme.
