@@ -121,16 +121,17 @@ Itzpapalotl
 Hurt or Subdue: 1 | Starve or Feed: 3
 #### Moves
 - When Isabel enters the scene, give them *Hungry-1*.
-- **Transform**: As a soft move, if any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**.
+- **Transform**: As a soft move/interruption, if any of Isabel's spectrums are met, she transforms into **The Clawed Butterfly**.
 - ---
-- **Cannibal**: In the presence of human organs or fresh corpses, Isabel hungers (*Crave-1*).
+- **Cannibal**: In the presence of fresh human organs or corpses, Isabel hungers (*Crave-1*).
 - **IO Bore Sedation**: Isabel drills an IO line into the patient's leg, pumping them with sedatives (*Fully-Sedated-5*, ongoing).
 - **Surgery**: Operate on someone with a linoleum knife or medical tools (*Dissect-3*).
 - **Bedside Manner**: Calm someone down with a friendly and confident exterior (*Soothe-2*).
 - ---
 - **Tranquillizer Darts**: Once per session, Isabel can shoot tranquillizer darts at multiple people (*Slipping-Under-4*, ongoing) as a soft move.
 - Isabel's stomach growls inappropriately.
-- Get a bit feisty.
+- Start friendly and upbeat. Gets serious when needed.
+- "I'm busy." or "You're not allowed to be here."
 - Explain how her methods aren't hurting anyone who doesn't deserve it.
 - Reach into her cooler for an organ if she's carrying it.
 
