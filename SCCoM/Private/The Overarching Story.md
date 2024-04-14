@@ -1,0 +1,2 @@
+Before 1955, the Mist hadn't really settled in yet. It was there, but it was weak. You could call Santa Cruz the City of Rifts at the time. You won't find any records of it. Icarus made sure of that.
+He was a kid when he found out he and his best friend had powers. Matching wings and everything. They did what any kid would do. They flew, as high as they could until they wanted to see the ground again or when they thought their parents would worry about them.
