@@ -1,4 +1,4 @@
-# The Last Chinatown
+# The Last Chinatown: Part One
 *04/14/2024*
 "Before 1955, the Mist hadn't really settled in yet. It was there, but it was weak. You could call Santa Cruz the City of Rifts at the time. You won't find any remains of it now though. Icarus made sure of that.
 Icarus was born with his wings. He could fly whenever he wanted, wherever he wanted. Not that anyone could see him do it, nor would they believe it if they could. Nobody, except for his best friend of course. Nero would watch him fly until he wanted to see the ground again or when they thought their parents would worry about them. Well, until they thought Icarus's parents would worry about them.
@@ -8,4 +8,6 @@ In 1955, nine people found each other. Each one with unique traits and personali
 Destiny. It's a fickle thing believe it or not. Anyone's destiny can be molded and broken if you play your cards right. The problem is, you don't know if that's just the thing that will bring destiny about. Whether they liked it or not, betrayal was in the cards.
 You can call it a prophecy. You can call it a bluff. But they all believed, that one of them was going to turn against them all and only one of them was going to live. They couldn't believe it when they heard it. If only they were sleepers, so that maybe they could forget that they did. They were allies. They were friends. A couple of them even lovers. So they make a promise, a vow, of loyalty. And then, they continued on as nothing had changed.
 Rifts have never been on the same side. As long as there were protagonists in a story, there would be antagonists. Good guys versus bad guys, the archangels thought. They fought the corrupt, the evil, the wicked, and all the while met kind and strong people along the way. They had a good thing going. They all thought it could keep going forever. All but one. For you see, the gears were turning. The seed of doubt had sprouted. Maybe she couldn't stop destiny, but maybe she could shape it.
-Everyone thought it was just "the thing that distracts you". It fit the bill. School got harder, work got harder, life got harder. You fail a class, you take another. You lose a job, you find another. What's one bad fever if you have lives to save? Then, Phillip's grandma was murdered in her medicine shop.
+Everyone thought it was just "the thing that distracts you". It fit the bill, and it was there. School got harder, work got harder, life got harder. You fail a class, you take another. You lose a job, you find another. What's one bad fever if you have lives to save? Then, Phillip's grandma was murdered in her medicine shop.
+
+# The Last Chinatown: Part Two
