@@ -11,4 +11,4 @@ Rifts have never been on the same side. As long as there were protagonists in a 
 Everyone thought it was just "the thing that distracts you". It fit the bill, and it was there. School got harder, work got harder, life got harder. You fail a class, you take another. You lose a job, you find another. What's one bad fever if you have lives to save? Then, Phillip's grandma was murdered in her medicine shop."
 
 # New Chinatown
-"The Baskin School of Engineering was built in 1997. "
+"Santa Cruz's University of California was founded in 1965. What people don't know is that while we were building upwards, we were also building downwards."
