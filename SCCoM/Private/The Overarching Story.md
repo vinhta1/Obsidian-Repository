@@ -11,3 +11,4 @@ Rifts have never been on the same side. As long as there were protagonists in a 
 Everyone thought it was just "the thing that distracts you". It fit the bill, and it was there. School got harder, work got harder, life got harder. You fail a class, you take another. You lose a job, you find another. What's one bad fever if you have lives to save? Then, Phillip's grandma was murdered in her medicine shop."
 
 # The Last Chinatown: Part Two
+Philip's grandma was never supposed to die. The shop was the target, not her. 
