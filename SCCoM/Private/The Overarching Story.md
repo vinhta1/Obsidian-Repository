@@ -11,4 +11,5 @@ Rifts have never been on the same side. As long as there were protagonists in a 
 Everyone thought it was just "the thing that distracts you". It fit the bill, and it was there. School got harder, work got harder, life got harder. You fail a class, you take another. You lose a job, you find another. What's one bad fever if you have lives to save? Then, Phillip's grandma was murdered in her medicine shop."
 
 # New Chinatown
-"Santa Cruz's University of California was founded in 1965. The year before while the construction crew was building upwards, they were also building downwards. Levels under levels, deep underneath. A place where no one would find them. The last residents of New Chinatown."
+"Santa Cruz's University of California was founded in 1965. The year before while the construction crew was building upwards, they were also building downwards. Levels under levels, deep underneath. A place where no one would find them. The last residents of New Chinatown.
+"
