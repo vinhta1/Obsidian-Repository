@@ -17,3 +17,5 @@ The Gatekeepers needed a leader. The one they elected refused at first. But they
 
 # A Prophecy, Renewed
 When Michael ascended into avatarhood and destroyed Chinatown, he thought that would fulfill the prophecy. A great evil was supposed to be purged when he was the last one standing. Michael made sure of that. But nothing happened. In the ruins of his hometown, it was silent. So in 2020, after decades of work, Michael had finished a plot that would bring back all the archangels. And then there were nine again. And eventually, there will only be one.
+
+# 
