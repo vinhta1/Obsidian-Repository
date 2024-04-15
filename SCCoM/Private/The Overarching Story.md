@@ -12,4 +12,5 @@ Everyone thought it was just "the thing that distracts you". It fit the bill, an
 
 # New Chinatown
 "Santa Cruz's University of California was being built in 1964. While the construction crew was building upwards, they were also building downwards. Levels under levels, deep underneath. A place where no one would find them. The last residents of New Chinatown.
-In order to protect themselves, they needed the power to do so. So, an agreement between the New Chinatown and the Mist. The Gatekeepers were established."
+In order to protect themselves, they needed the power to do so. So, an agreement between the New Chinatown and the Mist. The Gatekeepers were established.
+The Gatekeepers needed a leader. The one they elected refused at first. But they were the one who saved what remained of the Last Chinatown. And who else better fit to distract the world than the queen of lies. And so, director nero"
