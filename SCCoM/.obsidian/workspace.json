@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/The Overarching Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/The Overarching Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/The Overarching Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Factions.md"
+                "file": "Private/The Overarching Story.md"
               }
             }
           },
@@ -186,9 +186,9 @@
   },
   "active": "b43d34269ef25008",
   "lastOpenFiles": [
+    "Private/Factions.md",
     "Private/The Overarching Story.md",
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
-    "Private/Factions.md",
     "Private/Ideas.md",
     "Private/MC's Jukebox.md",
     "Private/Notes.md",
