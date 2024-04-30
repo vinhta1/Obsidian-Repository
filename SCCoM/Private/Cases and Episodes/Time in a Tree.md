@@ -29,4 +29,5 @@ Two seconds to midnight. One second to midnight."
 ##### From the teenager, if they somehow manage to communicate
 - The teenager feels like they've been in a long dream.
 - They're okay with dying. They await the peace it brings, and it seems like they've already obtained it since the car crash.
-- But actually, 
+- But actually, they aren't at peace. There's so much they haven't done. They know what ever longs for darkness isn't him. He doesn't want to go.
+
