@@ -13,5 +13,7 @@ It is the source of her ailment.
 - Do something she's never done before
 - Have something she's never had before
 - See something she's never seen before
-
+## Hook
+- She approaches one of the characters during their activities and attempts to achieve a goal through them. From there, she can follow or a player can interact.
+- The players see a distressed person, and can choose to help or not.
 # Investigation
