@@ -9,7 +9,21 @@ The themes of this case are:
 - Grief, loss, regret, and acceptance.
 
 # Cold Open
-"The moon glows bright over a lone vehicle rolling through Santa Cruz. A teenage boy cries in his car. The lighting eases into a red glare which pervades the pale light that once hugged him. He takes the time to calm down and stifle his tears. He sits in the silence. The light turns green, and the car churns forward.
+"The moon glows bright over a lone vehicle rolling through Santa Cruz. A teenage boy cries in his car. The lighting eases into a red glare which pervades the pale light that once enveloped him as the car comes to a stop. He takes the time to calm down and stifle his tears, and he sits in the silence. The light turns green, and the car churns forward.
 Tires skid. Plastic crumples plastic. Metal compresses metal. The cage rolls and sheds its skin along the asphalt. The teenager's hand hangs towards the ceiling, and the blood trickles upwards. Crimson fills the cracks on his watch, as it tick, tick, ticks.
 Two seconds to midnight. One second to midnight."
 
+# Investigation
+##### At the Casino Arcade
+- Someone has finally beat Ewan's high scores. It's the same kid each time.
+- In fact, he can beat anyone at any game there (except maybe Ewan).
+
+##### From the kid
+- He knows the day is repeating.
+- 
+##### At the teenager's hospital room
+- He has a small bonsai, with one branch untrimmed.
+- He looks rough. He probably won't see tomorrow.
+
+##### The teenager
+- 
