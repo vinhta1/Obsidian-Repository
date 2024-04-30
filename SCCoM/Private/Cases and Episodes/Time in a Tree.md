@@ -1,7 +1,8 @@
 #Case Groundhog Day, Endless Eight
 # Background
 A teenage boy is suffering emotionally. He is on the precipice of letting go of whatever was ailing him. He gets the catharsis he longs for, before getting into a car accident right before midnight. The loop starts.
-The day repeats. A young boy explores the town and has fun while he can. His older brother lays in a hospital bed, and every time right before midnight, he dies. Then, the day repeats again. From what it seems, the day resets because the boy simply does not want it to end. He knows that when tomorrow comes his brother will be gone for good. He seems to be the only one that is aware of the time reset. However, the crew (and possibly other rifts) becomes aware over time after prolonged contact with the boy.
+A young boy explores the town and has fun while he can. His older brother lays in a hospital bed, and every time right before midnight, he dies. Then, the day repeats.
+From what it seems, the day resets because the boy simply does not want it to end. He knows that when tomorrow comes his brother will be gone for good. He seems to be the only one that is aware of the time reset. However, the crew (and possibly other rifts) becomes aware over time after prolonged contact with the boy. Furthermore, the source of the loop might not be the boy at all. It might be the teenager who has given up on living who needs to be convinced to hold on. It might be both.
 
 The themes of this case are:
 - Moving on from something you're not ready to let go.
@@ -17,13 +18,14 @@ Two seconds to midnight. One second to midnight."
 ##### At the Casino Arcade
 - Someone has finally beat Ewan's high scores. It's the same kid each time.
 - In fact, he can beat anyone at any game there (except maybe Ewan).
-
 ##### From the kid
-- He knows the day is repeating.
-- 
+- He knows the day is repeating. He doesn't mind having more time to do fun things,
+- He doesn't want today to end, citing that it's the best day of his life.
+- In actuality, he's hurting bad. His brother is in the hospital. He knows what will happen to him, but doesn't want to accept it.
 ##### At the teenager's hospital room
 - He has a small bonsai, with one branch untrimmed.
 - He looks rough. He probably won't see tomorrow.
-
-##### The teenager
-- 
+- His phone has a lot of people checking on him, asking if he's okay, well wishes, and promises to see him when he gets out.
+##### From the teenager, if they somehow manage to communicate
+- The teenager feels like they've been in a long dream.
+- They're okay with dying. They await the peace it brings, and it seems like they've already obtained it since the car crash.
