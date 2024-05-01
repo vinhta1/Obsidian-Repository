@@ -46,9 +46,20 @@ Two seconds to midnight. One second to midnight."
 - They're okay with dying. They await the peace it brings, and it seems like they've already obtained it since the car crash.
 - But actually, they aren't at peace. There's so much they haven't done. They know what ever longs for darkness isn't him. He doesn't want to go.
 
+# Complications
+ If neither Phil and Connor are being pursued in the case, there is a jade bracelet buried in the sand. It is cracked and glows green. If it is found and destroyed, the time loop ends.
 # Dangers
 ### Phil Bell
 #### Spectrums
-
+Move-on: 1
+#### Moves
+- Phil starts with a hidden *Grief-4* status. It is a swing spectrum.
+- The day resets if Phil's spectrum is not fulfilled.
 
 ### Connor Bell
+#### Spectrums
+Come-back: 1
+#### Moves
+- Connor starts with *Dying-5*. At the end of the day, Connor dies.
+- If Connor can be communicated with, he becomes active.
+- If active, the day resets if Connor's spectrum is not fulfilled.
