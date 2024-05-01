@@ -25,7 +25,7 @@ Two seconds to midnight. One second to midnight."
 	- A group of bullies (**Cassian**, brunette swept hair) is looking for Ewan to get arcade money and Phil warns Ewan to hide before he arrives. Jerri forgot about an assignment that's due tonight, but it's okay because you don't do it either way since **Professor Deweese** extends the deadline later tonight, but you really should because Icarus is behind on assignments and doesn't want to ask you for help. 
 		- They know a lot of personal information about the group, somehow. They don't say much since they get upset when they do.
 	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food. Someone wins a grand prize or celebrates something. A car nearly hits someone and slams the brakes, and as a result that car gets rear ended. 
-- Doesn't actually know what the PCs will do. Has an idea, but it changes from time to time.
+- Doesn't actually know what the PCs will do. Has an idea, but it changes from time to time.z
 ##### At The Wharf
 - A kid dives into the water from the edge. Sometimes he comes back with someone unconscious. Sometimes he dies. Sometimes he doesn't dive at all.
 - When asked about his knowledge, he responds with "Yeah, I'm a god." or "I just know." Sarcastic, avoidant.
