@@ -20,8 +20,10 @@ Two seconds to midnight. One second to midnight."
 - Random Events
 	- Joanne, the worker/waitress, always wanted to become an actor. She bought a ticket for a plane to Hollywood but lost it the other day. It's in the left pocket of the cardigan with the flowers.
 	- Martin, the regular, helps her find it after they spend a night together. In fact, they don't know that they both like each other until he mentions it.
-	- 
-	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food. Someone wins a grand prize or celebrates something. Someone gasps and then slaps another person and walks away, before yelling ".
+	- Craig, the cranky old man, loves his grandkids and misses them dearly. The last time he saw them both was two years ago for Christmas dinner. He perks up when talking about them.
+		- Maya is in college studying to be a Marine Biologist and Tim's in NYC managing a law firm. Tim's married (Polly) with his own kids (Paula, Pauline, and Paulina), and a dog (Phoebe).
+	- A bully (Jesse) is looking for Ewan and Phil warns Ewan to hide
+	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food. Someone wins a grand prize or celebrates something. A car nearly hits someone and slams the brakes, and as a result that car gets rear ended. 
 - Doesn't actually know what the PCs will do. Has an idea, but it changes from time to time.
 ##### At The Wharf
 - A kid dives into the water from the edge. Sometimes he comes back with someone unconscious. Sometimes he dies. Sometimes he doesn't dive at all.
