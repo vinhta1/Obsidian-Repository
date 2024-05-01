@@ -1,7 +1,7 @@
 #Case Groundhog Day, Endless Eight
 # Background
-It is April 29th. A teenage boy is suffering emotionally. He is on the precipice of letting go of whatever was ailing him. He gets the catharsis he longs for, before getting into a car accident right before midnight. It is April 30th. The loop starts.
-A young boy explores the town and has fun while he can. His older brother lays in a hospital bed, and every time right before midnight, he dies. Then, the day repeats.
+It is April 29th. A teenage boy, **Connor**, is suffering emotionally. He is on the precipice of letting go of whatever was ailing him. He gets the catharsis he longs for, before getting into a car accident right before midnight. It is April 30th. The loop starts.
+A young boy, **Phill**, explores the town and has fun while he can. His older brother lays in a hospital bed, and every time right before midnight, he dies. Then, the day repeats.
 From what it seems, the day resets because the boy simply does not want it to end. He knows that when tomorrow comes his brother will be gone for good. He seems to be the only one that is aware of the time reset. However, the crew (and possibly other rifts) becomes aware over time after prolonged contact with the boy. Furthermore, the source of the loop might not be the boy at all. It might be the teenager who has given up on living who needs to be convinced to hold on. It might be both.
 
 The themes of this case are:
@@ -18,11 +18,11 @@ Two seconds to midnight. One second to midnight."
 
 ##### At any location
 - Random Events
-	- Joanne, the worker/waitress, always wanted to become an actor. She bought a ticket for a plane to Hollywood but lost it the other day. It's in the left pocket of the cardigan with the flowers.
-	- Martin, the regular, helps her find it after they spend a night together. In fact, they don't know that they both like each other until he mentions it.
-	- Craig, the cranky old man, loves his grandkids and misses them dearly. The last time he saw them both was two years ago for Christmas dinner. He perks up when talking about them.
-		- Maya is in college studying to be a Marine Biologist and Tim's in NYC managing a law firm. Tim's married (Polly) with his own kids (Paula, Pauline, and Paulina), and a dog (Phoebe).
-	- A group of bullies (Jesse) is looking for Ewan and Phil warns Ewan to hide before he arrives. Jerri forgot about an assignment that's due tonight, but it's okay because you don't do it either way since Professor Deweese extends the deadline later tonight, but you really should because Icarus is behind on assignments and doesn't want to ask you for help.
+	- **Joanne**, the worker/waitress, always wanted to become an actor. She bought a ticket for a plane to Hollywood but lost it the other day. It's in the left pocket of the cardigan with the flowers.
+	- **Martin**, the regular, helps her find it after they spend a night together. In fact, they don't know that they both like each other until he mentions it.
+	- **Craig**, the cranky old man, loves his grandkids and misses them dearly. The last time he saw them both was two years ago for Christmas dinner. He perks up when talking about them.
+		- **Maya** is in college studying to be a Marine Biologist and **Tim**'s in NYC managing a law firm. Tim's married (**Polly**) with his own kids (**Paula, Pauline, and Paulina**), and a dog (**Phoebe**).
+	- A group of bullies (**Cassian**, brunette swept hair) is looking for Ewan to get arcade money and Phil warns Ewan to hide before he arrives. Jerri forgot about an assignment that's due tonight, but it's okay because you don't do it either way since **Professor Deweese** extends the deadline later tonight, but you really should because Icarus is behind on assignments and doesn't want to ask you for help.
 		- They know a lot of personal information about the group, somehow. They don't say much since they get upset when they do.
 	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food. Someone wins a grand prize or celebrates something. A car nearly hits someone and slams the brakes, and as a result that car gets rear ended. 
 - Doesn't actually know what the PCs will do. Has an idea, but it changes from time to time.
@@ -32,6 +32,7 @@ Two seconds to midnight. One second to midnight."
 ##### At the Casino Arcade
 - Someone has finally beat Ewan's high scores. It's the same kid each time. (PHL)
 - In fact, he can beat anyone at any game there (except maybe Ewan).
+- Cassian is looking for Ewan to play Zombie Shooter 3000.
 ##### From the kid, Phil Bell
 - Extremely experienced and skilled, for someone his age. It's like he's tried everything.
 - He knows the day is repeating. He doesn't mind having more time to do fun things,
