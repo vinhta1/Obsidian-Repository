@@ -22,7 +22,7 @@ Two seconds to midnight. One second to midnight."
 	- Martin, the regular, helps her find it after they spend a night together. In fact, they don't know that they both like each other until he mentions it.
 	- Craig, the cranky old man, loves his grandkids and misses them dearly. The last time he saw them both was two years ago for Christmas dinner. He perks up when talking about them.
 		- Maya is in college studying to be a Marine Biologist and Tim's in NYC managing a law firm. Tim's married (Polly) with his own kids (Paula, Pauline, and Paulina), and a dog (Phoebe).
-	- A bully (Jesse) is looking for Ewan and Phil warns Ewan to hide
+	- A group of bullies (Jesse) is looking for Ewan and Phil warns Ewan to hide before he arrives. Jerri forgot about an assignment that's due tonight, but it's okay because you don't do it either way since Professor Deweese extends the deadline later tonight. 
 	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food. Someone wins a grand prize or celebrates something. A car nearly hits someone and slams the brakes, and as a result that car gets rear ended. 
 - Doesn't actually know what the PCs will do. Has an idea, but it changes from time to time.
 ##### At The Wharf
