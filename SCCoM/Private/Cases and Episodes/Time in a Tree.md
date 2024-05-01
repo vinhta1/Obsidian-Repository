@@ -16,10 +16,16 @@ Two seconds to midnight. One second to midnight."
 
 # Investigation
 
-##### At the Wharf
+##### At any location
+- Random Events
+	- Joanne, the worker/waitress, always wanted to become an actor. She bought a ticket for a plane to Hollywood but lost it the other day. It's in the left pocket of the cardigan with the flowers.
+	- Martin, the co-worker/waiter, helps her find it after they spend a night together
+	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food.
+- Doesn't actually know what the PCs will do.
+
+##### At The Wharf
 - A kid dives into the water from the edge. Sometimes he comes back with someone unconscious. Sometimes he dies. Sometimes he doesn't dive at all.
 - When asked about his knowledge, he responds with "Yeah, I'm a god." or "I just know." Sarcastic, avoidant.
-- 
 ##### At the Casino Arcade
 - Someone has finally beat Ewan's high scores. It's the same kid each time. (PHL)
 - In fact, he can beat anyone at any game there (except maybe Ewan).
@@ -37,4 +43,6 @@ Two seconds to midnight. One second to midnight."
 - But actually, they aren't at peace. There's so much they haven't done. They know what ever longs for darkness isn't him. He doesn't want to go.
 
 # Dangers
+### Phil Bell
 
+### Connor Bell
