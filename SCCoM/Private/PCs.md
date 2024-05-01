@@ -1,3 +1,6 @@
+Icarus wants to focus on Grounded Individual
+Danny wants to possibly abandon her Mission
+Ewan wants to enroll school and possibly lose their Defining Event
 
 # Asmodeus
 Not a popular kid in school, but has fans all over SC who know of his online presence.
