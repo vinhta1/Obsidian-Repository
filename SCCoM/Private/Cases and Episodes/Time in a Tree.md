@@ -19,10 +19,10 @@ Two seconds to midnight. One second to midnight."
 ##### At any location
 - Random Events
 	- Joanne, the worker/waitress, always wanted to become an actor. She bought a ticket for a plane to Hollywood but lost it the other day. It's in the left pocket of the cardigan with the flowers.
-	- Martin, the co-worker/waiter, helps her find it after they spend a night together
-	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food.
-- Doesn't actually know what the PCs will do.
-
+	- Martin, the regular, helps her find it after they spend a night together. In fact, they don't know that they both like each other until he mentions it.
+	- 
+	- A kid knocks over their food. People slip into each others' arms. A seagull steals someone's food. Someone wins a grand prize or celebrates something. Someone gasps and then slaps another person and walks away, before yelling ".
+- Doesn't actually know what the PCs will do. Has an idea, but it changes from time to time.
 ##### At The Wharf
 - A kid dives into the water from the edge. Sometimes he comes back with someone unconscious. Sometimes he dies. Sometimes he doesn't dive at all.
 - When asked about his knowledge, he responds with "Yeah, I'm a god." or "I just know." Sarcastic, avoidant.
@@ -30,6 +30,7 @@ Two seconds to midnight. One second to midnight."
 - Someone has finally beat Ewan's high scores. It's the same kid each time. (PHL)
 - In fact, he can beat anyone at any game there (except maybe Ewan).
 ##### From the kid, Phil Bell
+- Extremely experienced and skilled, for someone his age. It's like he's tried everything.
 - He knows the day is repeating. He doesn't mind having more time to do fun things,
 - He doesn't want today to end, citing that it's the best day of his life.
 - In actuality, he's hurting bad. His brother is in the hospital. He knows what will happen to him, but doesn't want to accept it.
