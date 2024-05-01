@@ -1,7 +1,7 @@
 #Case Groundhog Day, Endless Eight
 # Background
 It is April 29th. A teenage boy, **Connor**, is suffering emotionally. He is on the precipice of letting go of whatever was ailing him. He gets the catharsis he longs for, before getting into a car accident right before midnight. It is April 30th. The loop starts.
-A young boy, **Phill**, explores the town and has fun while he can. His older brother lays in a hospital bed, and every time right before midnight, he dies. Then, the day repeats.
+A young boy, **Phil**, explores the town and has fun while he can. His older brother lays in a hospital bed, and every time right before midnight, he dies. Then, the day repeats.
 From what it seems, the day resets because the boy simply does not want it to end. He knows that when tomorrow comes his brother will be gone for good. He seems to be the only one that is aware of the time reset. However, the crew (and possibly other rifts) becomes aware over time after prolonged contact with the boy. Furthermore, the source of the loop might not be the boy at all. It might be the teenager who has given up on living who needs to be convinced to hold on. It might be both.
 
 The themes of this case are:
