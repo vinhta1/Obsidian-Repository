@@ -1,7 +1,7 @@
-Icarus wants to focus on Grounded Individual
-Danny wants to possibly abandon her Mission
+Icarus wants to focus on Grounded Individual, but might lose it.
+Danny wants to possibly abandon her Mission.
 Ewan wants to enroll school and possibly lose their Defining Event
-
+Jerri's Training is under strain. Giving in to powers a little too much.
 # Asmodeus
 Not a popular kid in school, but has fans all over SC who know of his online presence.
 # Danny
@@ -26,6 +26,7 @@ Managed to save a lot of old residents of the Last Chinatown, and moved them to 
 Old lady, maybe in her late 70s
 # Jerri
 [[Jerri Braun]]
+### DON'T USE TEMPERANCE OR CAIN
 ### Sarah
 - Jerri's roommate from Freshman year
 - Dated Jack Benson before he died
