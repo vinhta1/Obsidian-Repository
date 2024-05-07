@@ -14,13 +14,15 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 - Bianca and Huyen are highly secretive about their real identities as Gatekeepers.
 - They both have Jade bracelets. Huyen carries a fanny pack filled with Xuan paper and some hanging scrolls.
 - Bianca and Huyen will say they're her foster parents and legal guardians, before saying that they are rifts devoted to guiding spirits stuck in the mortal world.
-- They say they're on vacation, before they say they're trying get Ashley to go back home to the other spirits.
-- No, you can't visit. "Maybe some day, but not anytime soon."
+- They say they're on vacation, before they say they're trying get Ashley to go back home to the other ghosts.
+- No, you can't visit. "Maybe some day, but not anytime soon." "We'll come to you." "Are you free August?" "This place is reserved for ghosts and specific people."
 
 **Asking Ashley**
-
+- If Bianca and Huyen are nearby, Ashley is more tight-lipped. This is out of fear that people will forget her.
+- She looks like a normal girl. It takes a long time and a lot of observation to realize she's a ghost. She knows she's a ghost though.
+- She's from Santa Cruz. When pressed, she's from Chinatown.
 # Complications
-If things get out of hand, the Gatekeepers will call Operative Nero, Icarus's handler, onto the scene.
+If things get out of hand, the Gatekeepers will obliviate the scene. If things get out of hand, the Gatekeepers will call Operative Nero, Icarus's handler, onto the scene.
 # Dangers
 ### Ashley
 Hungry Ghost
