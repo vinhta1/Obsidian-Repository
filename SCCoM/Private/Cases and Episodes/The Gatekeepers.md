@@ -10,8 +10,10 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 - Overall just have a good day
 
 # Investigation
-
-
+**Asking Bianca and Huyen**
+- Bianca and Huyen are highly secretive about their real identities as Gatekeepers
+- Bianca and Huyen will say they're her foster parents and legal guardians, before saying that they are rifts devoted to guiding spirits stuck in the mortal world.
+- They both have Jade bracelets. Huyen carries a duffle bag.
 # Complications
 If things get out of hand, the Gatekeepers will call Operative Nero, Icarus's handler, onto the scene.
 # Dangers
