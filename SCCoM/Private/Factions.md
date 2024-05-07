@@ -8,9 +8,9 @@ Business/business casual to casual/plainclothes attire
 When in proper uniform, gatekeepers will usually will stick to grey but sometimes will dress in colors pertaining to the [Wuxing](https://en.wikipedia.org/wiki/Color_in_Chinese_culture). Of course, the higher up's clothes will match whatever the crowd is wearing, almost changing at a dime. Blink and you'll miss it, stare and you'll forget it. 保
 
 All colors have access to shrouding. Colors then align with the Advanced Arts:
-Blue/Green (Wood): 
+Blue/Green (Wood): Anchoring
 Red (Fire): Rupturing
-Yellow (Earth):
+Yellow (Earth): Perching
 White (Metal): Weaving
 Black (Water): Mending
 ### DMO: Distract, Mask, Obliviate
