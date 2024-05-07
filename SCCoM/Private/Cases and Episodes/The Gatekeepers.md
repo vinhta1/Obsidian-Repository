@@ -11,9 +11,14 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 
 # Investigation
 **Asking Bianca and Huyen**
-- Bianca and Huyen are highly secretive about their real identities as Gatekeepers
+- Bianca and Huyen are highly secretive about their real identities as Gatekeepers.
+- They both have Jade bracelets. Huyen carries a fanny pack filled with Xuan paper and some hanging scrolls.
 - Bianca and Huyen will say they're her foster parents and legal guardians, before saying that they are rifts devoted to guiding spirits stuck in the mortal world.
-- They both have Jade bracelets. Huyen carries a duffle bag.
+- They say they're on vacation, before they say they're trying get Ashley to go back home to the other spirits.
+- No, you can't visit. "Maybe some day, but not anytime soon."
+
+**Asking Ashley**
+
 # Complications
 If things get out of hand, the Gatekeepers will call Operative Nero, Icarus's handler, onto the scene.
 # Dangers
