@@ -5,3 +5,4 @@ Operative Accardi and Operative Le
 # Dangers
 ### Operative Bianca Accardi
 ### Operative Huyen Le
+#### Spectrums
