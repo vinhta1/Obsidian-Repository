@@ -2,12 +2,18 @@
 
 # Background
 Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to bring her back home to New Chinatown. This young girl, Ashley, is actually a ghost. Visible to rifts, she just looks like another ordinary girl. When she's had a good day, she'll be ready to go back. The operatives act normal, and are not hostile at all. In fact, they want Ashley to have a good time before bringing her back.
-### Ashley's Goals
+# Ashley's Goals
 - Go somewhere she's never been before
 - Do something she's never done before
 - Have something she's never had before
 - See something she's never seen before
 - Overall just have a good day
+
+# Investigation
+
+
+# Complications
+If things get out of hand, the Gatekeepers will call Operative Nero, Icarus's handler, onto the scene.
 # Dangers
 ### Ashley
 Hungry Ghost
@@ -15,6 +21,13 @@ Hungry Ghost
 One Good Day: 4 | Banish: 1
 #### Moves
 - **Here For a Good Time**: Whenever Ashley accomplishes one of her goals or overall has a good time, increase her *one-good-day* status by 1. When it maxes out, she is ready to go home.
+- ---
+- #### Ashley's Goals
+	- Go somewhere she's never been before
+	- Do something she's never done before
+	- Have something she's never had before
+	- See something she's never seen before
+	- Overall just have a good day
 ### Operative Bianca Accardi
 (Rift Handler 274)
 #### Spectrums
