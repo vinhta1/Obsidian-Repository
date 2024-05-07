@@ -9,11 +9,13 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 - Overall just have a good day
 # Dangers
 ### Ashley
+Hungry Ghost
 #### Spectrums
 One Good Day: 4 | Banish: 1
 #### Moves
-- **Here For a Good Time**: Whenever
-### Operative Bianca Accardi (Rift Handler 274)
+- **Here For a Good Time**: Whenever Ashley accomplishes one of her goals or overall has a good time, increase her *one-good-day* status by 1. 
+### Operative Bianca Accardi
+(Rift Handler 274)
 #### Spectrums
 Hurt or Subdue: 4 | Unmask: 6
 #### Moves
@@ -32,7 +34,8 @@ Hurt or Subdue: 4 | Unmask: 6
 - Look a Rift up and down, gauging them.
 - Approach a Rift with an offer that will serve both parties.
 
-### Operative Huyen Le (PAC Veiler 273)
+### Operative Huyen Le
+(PAC Veiler 273)
 #### Spectrums
 Hurt or Subdue: 3 | DMO The Scene: X
 #### Moves
