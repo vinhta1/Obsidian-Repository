@@ -9,6 +9,11 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 - Overall just have a good time
 # Dangers
 ### Operative Bianca Accardi (Rift Handler 274)
+#### Spectrums
+Hurt or Subdue: 4 | Unmask: 6
+#### Moves
+- **Read the Sitch**: When the Rift Handler enters the scene, give her a status that would best serve her socially such as *seductive-2*, *impressive-2*, *woman-with-a-plan-2*, *here-to-help-2*, *stern-2*, etc.
+- **Seasoned Negotiator**: When you **Convince** Bianca, reduce the tier of the status you give by two. When the Rift Handler makes you a good offer and you refuse, you are **Taking the Risk**
 
 ### Operative Huyen Le (PAC Veiler 273)
 #### Spectrums
