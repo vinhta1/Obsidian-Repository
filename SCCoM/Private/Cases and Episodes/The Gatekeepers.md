@@ -6,8 +6,13 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 - Do something she's never done before
 - Have something she's never had before
 - See something she's never seen before
-- Overall just have a good time
+- Overall just have a good day
 # Dangers
+### Ashley
+#### Spectrums
+One Good Day: 4 | Banish: 1
+#### Moves
+- **Here For a Good Time**: Whenever
 ### Operative Bianca Accardi (Rift Handler 274)
 #### Spectrums
 Hurt or Subdue: 4 | Unmask: 6
@@ -23,7 +28,9 @@ Hurt or Subdue: 4 | Unmask: 6
 - Cause the environment to hush when she or her allies are talking (*all-eyes-on-me-2*) or increase background distraction when her opponents speak (give the audience a temporary *scattered-attention-2*).
 - Obliviate a room (*amnesia-4* to all present) or counter Mythos powers with Shrouding (burn up to 2 Mythos tags).
 - ---
-- Loom out of a 
+- Loom out of the crowd or a dark corner unexpectedly and introduce herself, holding out a calling card.
+- Look a Rift up and down, gauging them.
+- Approach a Rift with an offer that will serve both parties.
 
 ### Operative Huyen Le (PAC Veiler 273)
 #### Spectrums
