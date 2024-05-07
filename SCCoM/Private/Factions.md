@@ -5,14 +5,7 @@ They've been stretched thin since their founding, about a decade after they lost
 New Chinatown is also the home of the ghosts of their ancestors and relatives. Thus, is it also the Gatekeepers' priority to attend to them and bring hungry ghosts home. There's even a sector in the department dedicated to this task.
 ### Grey Suits and Old Tradition
 Business/business casual to casual/plainclothes attire
-When in proper uniform, gatekeepers will usually will stick to grey but sometimes will dress in colors pertaining to the [Wuxing](https://en.wikipedia.org/wiki/Color_in_Chinese_culture). Of course, the higher up's clothes will match whatever the crowd is wearing, almost changing at a dime. Blink and you'll miss it, stare and you'll forget it. 保
-
-All colors have access to shrouding. Colors then align with the Advanced Arts:
-Blue/Green (Wood): Anchoring
-Red (Fire): Rupturing
-Yellow (Earth): Perching
-White (Metal): Weaving
-Black (Water): Mending
+When in proper uniform, gatekeepers will usually will stick to grey. Of course, the higher up's clothes will match whatever the crowd is wearing, almost changing at a dime. Blink and you'll miss it, stare and you'll forget it. 保
 ### DMO: Distract, Mask, Obliviate
 If someone saw something they shouldn't have, they didn't. Using their vast intelligence network and methods of divination, Gatekeepers can put agents on the scene before anything happens. These agents follow the DMO motto and take proper precautions to make sure no one realizes something is off, lest they awaken. Their job isn't to stop crime, it's to stop Rifts from waking up others. Thus much to many Gatekeeper's chagrin, if it looks normal enough, it's not their priority.
 
