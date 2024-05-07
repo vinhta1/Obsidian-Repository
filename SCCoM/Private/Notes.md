@@ -4,6 +4,8 @@ Peter wants to be OP, contractually cannot lose a fight. Always thinking about f
 Kayley wants me to capture childhood wonder. The feeling when everything in life is the funniest thing. Jubilee, amazement, joy, wanderlust.
 - Worlds within the city. Enclaves and events with awesome sights and interesting characters. Think animated movies and anime.
 Jimmy wants classic detective cases, going from clue to clue.
+Ewan wants to enroll in school, sister Kiara
+https://www.sccs.net/parents___students/enrolling
 
 ## PLAYER LORE
 Why did Michael come down from their avatar state?
