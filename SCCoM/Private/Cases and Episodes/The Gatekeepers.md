@@ -12,9 +12,18 @@ Operative Bianca Accardi and Operative Huyen Le are looking for a young girl to 
 #### Spectrums
 Hurt or Subdue: 4 | Unmask: 6
 #### Moves
-- **Read the Sitch**: When the Rift Handler enters the scene, give her a status that would best serve her socially such as *seductive-2*, *impressive-2*, *woman-with-a-plan-2*, *here-to-help-2*, *stern-2*, etc.
+- **Read the Sitch**: When Bianca enters the scene, give her a status that would best serve her socially such as *seductive-2*, *impressive-2*, *woman-with-a-plan-2*, *here-to-help-2*, *stern-2*, etc.
 - **Seasoned Negotiator**: When you **Convince** Bianca, reduce the tier of the status you give by two. When the Rift Handler makes you a good offer and you refuse, you are **Taking the Risk**.
-- **Good Judge of Character**: As a soft move 
+- **Good Judge of Character**: As a soft move, one player whose character is present reads out their Identities and Mysteries. Bianca knows or senses one of them.
+- **Not My First Rodeo**: When Bianca enters the scene, give her *alert-2* and *ready-for-anything-2*. Bianca can renew these statuses as a hard move.
+- **Defensive Shrouding**: Once per scene, Bianca can use her Shrouding hard moves as an intrusion.
+- ---
+- Convince someone to cooperate, using the best approach to sway them (*convinced-3*).
+- Deduce an important fact about the person or social situation she's in (**Complicate Things, Bigtime**, or burn up to two **Convince** leverage tags).
+- Cause the environment to hush when she or her allies are talking (*all-eyes-on-me-2*) or increase background distraction when her opponents speak (give the audience a temporary *scattered-attention-2*).
+- Obliviate a room (*amnesia-4* to all present) or counter Mythos powers with Shrouding (burn up to 2 Mythos tags).
+- ---
+- Loom out of a 
 
 ### Operative Huyen Le (PAC Veiler 273)
 #### Spectrums
