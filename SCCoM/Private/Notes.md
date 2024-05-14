@@ -29,3 +29,4 @@ Jerri was on break, but did not see the bodies? -> Suspect
 - If Jerri or the crew can find an out, no problem. Otherwise, throw a bone/turn it into a case.
 	- Bones: Kenneth calls a fixer, Nero is taking care of the crew, The Cult is helping Jerri, Motiv manager looking out for Jerri
 	- Cases: Jerri extorted, lawyer looking for answers
+

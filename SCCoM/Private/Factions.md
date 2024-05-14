@@ -5,7 +5,7 @@ They've been stretched thin since their founding, about a decade after they lost
 New Chinatown is also the home of the ghosts of their ancestors and relatives. Thus, is it also the Gatekeepers' priority to attend to them and bring hungry ghosts home. There's even a sector in the department dedicated to this task.
 ### Grey Suits and Old Tradition
 Business/business casual to casual/plainclothes attire
-When in proper uniform, gatekeepers will usually will stick to grey. Of course, the higher up's clothes will match whatever the crowd is wearing, almost changing at a dime. Blink and you'll miss it, stare and you'll forget it. 保
+When in proper uniform, gatekeepers will usually will stick to grey or shades of grey. Of course, the higher up's clothes will match whatever the crowd is wearing, almost changing at a dime. Blink and you'll miss it, stare and you'll forget it. 保
 ### DMO: Distract, Mask, Obliviate
 If someone saw something they shouldn't have, they didn't. Using their vast intelligence network and methods of divination, Gatekeepers can put agents on the scene before anything happens. These agents follow the DMO motto and take proper precautions to make sure no one realizes something is off, lest they awaken. Their job isn't to stop crime, it's to stop Rifts from waking up others. Thus much to many Gatekeeper's chagrin, if it looks normal enough, it's not their priority.
 
@@ -25,13 +25,15 @@ Their job is making money, overseeing operations, accruing debtors, and espionag
 The meatheads and the faces of the group. It's always a kid that's bigger than everyone else, or a kid whose parents are high up the ladder. They always use unsavory tactics and they're not afraid of anyone. They tend to exploit the leniency of adults. Classic bullies with a little too much cash and power to have any reason to do otherwise. If they can't punch their way out, they'll talk their way out.
 Their job is extorting and harassing kids, tricking and exploiting adults, and holding territory.
 
-# Cleaver Gang, Axe Gang from Kung Fu Hustle
+# The Cleavers, Axe Gang from Kung Fu Hustle
 ### Goal: Make Money, Send a Message
 Extort money from businesses and the locals, pay off the cops, recruit members, rinse and repeat. If the threats of violence won't convince someone, the actualization of violence will. Pure brutality speaks loud here. But when people are a little tougher than expected, they'll break legendary martial artists out of prisons or hire pricey assassins.
-### Black Suits and Top Hats
-Hoodies and black blazers/coats for casual wear, black top hats when in business.
 ### The Gun's for Looks; the Cleaver's for Business
 Most members of this gang stick to any old meat cleaver they can get their hands on, usually holstered to their back and concealed by their coat. However, when they've got their suit on, they sometimes don't bother with hiding their knives. Officers tend to carry a sidearm as well, but will more often send their goons out if they ever need to protect themselves or end someone.
+
+# The Hustlers, The Apartments from Kung Fu Hustle
+### Goal: Make Money, 
+
 
 # The Black Company
 
