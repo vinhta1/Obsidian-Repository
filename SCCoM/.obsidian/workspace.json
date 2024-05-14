@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a09fad5c9f01eba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Cases and Episodes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/Cases and Episodes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/Cases and Episodes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Factions.md"
+                "file": "Private/Cases and Episodes/Untitled.md"
               }
             }
           },
@@ -171,10 +184,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24c4ae82fa071c61",
+  "active": "a09fad5c9f01eba0",
   "lastOpenFiles": [
-    "Private/Notes.md",
+    "Private/Cases and Episodes/Untitled.md",
     "Private/Factions.md",
+    "Untitled",
+    "Private/Notes.md",
     "Private/Ideas.md",
     "Private/The Overarching Story.md",
     "Private/Rules of this Santa Cruz.md",
@@ -193,7 +208,6 @@
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/Cases and Episodes/Forbidden Arizona.md",
-    "Untitled",
     "Private",
     "Public",
     "Private/List of Districts/UCSC.md",
@@ -203,7 +217,6 @@
     "Private/List of Districts/The Boardwalk.md",
     "Cases and Episodes/Someone's Eating the Children.md",
     "Private/Cases and Episodes",
-    "List of Districts/A Test.md",
     "Private/List of Districts"
   ]
 }

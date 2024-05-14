@@ -37,7 +37,7 @@ Anti-gang gang. Main rivals are The Cleavers. They're trying to protect the loca
 ### Mythical Martial Artists
 Fists, kicks, and wild martial arts. Techniques and abilities straight out of comics.
 ### Ramona and Jules
-Ramona is a bandage, bruise, and cut covered fighter. 
+Ramona is a bandage-and-bruise-covered fighter. Jules is a double-axe-wielding maniac. A protector and an assassin who are in-love with each other. This cannot end well.
 
 # The Black Company
 
