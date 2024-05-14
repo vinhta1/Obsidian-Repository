@@ -32,8 +32,8 @@ Extort money from businesses and the locals, pay off the cops, recruit members, 
 Most members of this gang stick to any old meat cleaver they can get their hands on, usually holstered to their back and concealed by their coat. However, when they've got their suit on, they sometimes don't bother with hiding their knives. Officers tend to carry a sidearm as well, but will more often send their goons out if they ever need to protect themselves or end someone.
 
 # The Hustlers, The Apartments from Kung Fu Hustle
-### Goal: Make Money, 
-
+### Goal: Make Money, Protect their Residents
+Anti-gang gang. 
 
 # The Black Company
 
