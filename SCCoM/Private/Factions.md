@@ -33,7 +33,11 @@ Most members of this gang stick to any old meat cleaver they can get their hands
 
 # The Hustlers, The Apartments from Kung Fu Hustle
 ### Goal: Make Money, Protect their Residents
-Anti-gang gang. 
+Anti-gang gang. Main rivals are The Cleavers. They're trying to protect the local businesses and drive out other gangs, but in doing so have made themselves a target. Might as well, make it a big target. Many residents are upset at the Hustlers, blaming them driving up gang violence and crime.
+### Mythical Martial Artists
+Fists, kicks, and wild martial arts. Techniques and abilities straight out of comics.
+### Ramona and Jules
+Ramona is a bandage, bruise, and cut covered fighter. 
 
 # The Black Company
 
