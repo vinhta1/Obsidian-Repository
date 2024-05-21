@@ -12,5 +12,5 @@ The Hustlers celebrate a small success, before they start being targeted directl
 ### Hooks
 - (If someone knows local businesses) a local business owner asks the crew to check up on a friend who is a part of the Hustlers.
 - (If someone knows Ramona or the Hustlers) a local business is ransacked and in ruins. The crew finds Ramona in the back interrogating a Cleaver.
-- 
+- (If someone knows Jules or the Cleavers) 
 # Investigation
