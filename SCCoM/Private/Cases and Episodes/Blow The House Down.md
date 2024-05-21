@@ -16,8 +16,9 @@ The Hustlers celebrate a small success, before they start being targeted directl
 - VibesUP
 - Pipeline
 - The Last Straw
+	- 
 - Sticks and Stones
-	- New American restaurant,
+	- A nice farm-to-table restaurant, very nice, kinda pricey.
 - BRICKS
 	- Spray paint and graffiti art store
 
