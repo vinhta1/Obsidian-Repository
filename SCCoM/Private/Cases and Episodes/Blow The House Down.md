@@ -15,12 +15,13 @@ The Hustlers celebrate a small success, before they start being targeted directl
 - Homeless Garden Project
 - VibesUP
 - Pipeline
+	- Smoke shop in Downtown
 - The Last Straw
-	- 
+	- A classic bar.
 - Sticks and Stones
-	- A nice farm-to-table restaurant, very nice, kinda pricey.
+	- A nice farm-to-table restaurant, very nice, a bit pricey. 
 - BRICKS
-	- Spray paint and graffiti art store
+	- Spray paint and graffiti art store by Front St and Soquel Ave.
 
 ### Hooks
 - (If someone knows local businesses) a local business owner asks the crew to check up on a friend who is a part of the Hustlers.
