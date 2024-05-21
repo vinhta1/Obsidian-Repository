@@ -5,7 +5,7 @@ The Cleavers and the Hustlers have been at war for as long as the two factions e
 
 The owner of the Last Straw has submitted damning evidence of the Wolf's crimes. The Axes and his twin brother, Räv, suggest he goes to jail in his place. Wolf refuses, and then goes to jail.
 
-The Hustlers celebrate a small success, before they start being targeted directly by the Cleavers. The Cleavers believe the Hustlers submitted the evidence to the police. The Hustlers mistakenly believe that the Cleavers got Wolf out, so the Hustlers send Ramona to kill him. However, someone is getting to them first and leaving a wake of blood. The results of this case will dictate what happens for the follow up case.
+The Hustlers celebrate a small success, before they start being targeted directly by the Cleavers. The Cleavers believe the Hustlers submitted the evidence to the police or at least paid them more than the Cleavers did. The Hustlers mistakenly believe that the Cleavers got Wolf out, so the Hustlers send Ramona to kill him. However, someone is getting to them first and leaving a wake of blood. The results of this case will dictate what happens for the follow up case.
 
 ### Local Businesses
 
