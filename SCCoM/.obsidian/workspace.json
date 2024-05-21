@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09581bb21e5117a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Cases and Episodes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md",
+                "file": "Private/Cases and Episodes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md",
+                "file": "Private/Cases and Episodes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md"
+                "file": "Private/Cases and Episodes/Untitled.md"
               }
             }
           },
@@ -184,8 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a09fad5c9f01eba0",
+  "active": "c0f8a0e412cd28d9",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/Blow The House Down.md",
+    "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/The Black Company.md",
@@ -194,7 +208,6 @@
     "Private/Notes.md",
     "Private/List of Districts/Districts.md",
     "Private/The Overarching Story.md",
-    "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Factions.md",
@@ -215,7 +228,6 @@
     "Private/PCs In Depth",
     "Private/List of Districts/Downtown.md",
     "Private/List of Districts/The Boardwalk.md",
-    "Cases and Episodes/Someone's Eating the Children.md",
     "Private/Cases and Episodes",
     "Private/List of Districts"
   ]
