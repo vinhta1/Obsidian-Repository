@@ -8,6 +8,18 @@ The owner of the Last Straw has submitted damning evidence of the Wolf's crimes.
 The Hustlers celebrate a small success, before they start being targeted directly by the Cleavers. The Cleavers believe the Hustlers submitted the evidence to the police or at least paid them more than the Cleavers did. The Hustlers mistakenly believe that the Cleavers got Wolf out, so the Hustlers send Ramona to kill him. However, someone is getting to them first and leaving a wake of blood. The results of this case will dictate what happens for the follow up case.
 
 ### Local Businesses
+- Jack's Burgers (Jack's Hamburgers)
+- Brazil Coffee (Cafe Brasil)
+- Go Ask Alice
+- Paper Vision
+- Homeless Garden Project
+- VibesUP
+- Pipeline
+- The Last Straw
+- Sticks and Stones
+	- New American restaurant,
+- BRICKS
+	- Spray paint and graffiti art store
 
 ### Hooks
 - (If someone knows local businesses) a local business owner asks the crew to check up on a friend who is a part of the Hustlers.
