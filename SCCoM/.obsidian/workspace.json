@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/Cases and Episodes/Blow The House Down.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/Cases and Episodes/Blow The House Down.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Factions.md",
+                "file": "Private/Cases and Episodes/Blow The House Down.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Factions.md"
+                "file": "Private/Cases and Episodes/Blow The House Down.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   "lastOpenFiles": [
     "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/Blow The House Down.md",
+    "Private/Factions.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/The Black Company.md",
@@ -210,7 +211,6 @@
     "Private/The Overarching Story.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/The Slinky.md",
-    "Private/Factions.md",
     "Private/Ideas.md",
     "Private/MC's Jukebox.md",
     "Private/Rules of this Santa Cruz.md",
