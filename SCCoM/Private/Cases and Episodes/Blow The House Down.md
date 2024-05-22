@@ -63,18 +63,12 @@ Hurt or Subdue: 3 | Threaten 4
 #### Spectrums
 Hurt or Subdue: 3 | Threaten 4
 #### Moves
-- Take the Shot: When get-to-position is maxed
-out, remove any statuses on this spectrum and
-the Hitman attacks her target (fatal-wound-5
-or dead-6).
-- Inscrutable: To ask the MC a question about
-the Hitman, you must spend two Clues instead
-of one. At the MCs option, you may be able to
-combine Clues with another player.
-- (optional) Fateful Hour: The Hitman can use
-“Move to position” (see below) as a soft move.
-- Disable a threat with martial arts or expert
-gunslinging (broken-4)
+- Take the Shot: When get-to-position is maxed out, remove any statuses on this spectrum and the Hitman attacks her target (fatal-wound-5 or dead-6).
+- Inscrutable: To ask the MC a question about the Hitman, you must spend two Clues instead of one. At the MCs option, you may be able to combine Clues with another player.
+- (optional) Fateful Hour: The Hitman can use “Move to position” (see below) as a soft move.
+- ---
+- Disable a threat with martial arts or expert gunslinging (broken-4)
 - Move to position (closing-on-target-1)
 - Flee the scene or swallow a cyanide pill (hard move)
+- ---
 - Betray her presence (but not her exact position) with a subtle clue, e.g., a reflection of her scope or a movement of her shadow
