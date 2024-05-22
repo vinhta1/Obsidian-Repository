@@ -37,4 +37,7 @@ The Hustlers celebrate a small success, before they start being targeted directl
 - Hustler higher-ups ask Ramona to go to an address and kill whoever's inside.
 - They don't tell her who it is, but she doesn't ask.
 - If pressed, it's the El Rio Mobile Home Park.
-	- The higher ups think the Wolf was arrested and is on the loose after escaping capture/being broken out of jail. They think a den would be there
+	- The higher ups think the Wolf was arrested and is on the loose after escaping capture/being broken out of jail.
+	- They're starting to clear out dens in the hope that they find the Wolf, or at least retaliate enough so that they stop attacking Hustler turf.
+
+##### At the El Rio Mobile Home Park
