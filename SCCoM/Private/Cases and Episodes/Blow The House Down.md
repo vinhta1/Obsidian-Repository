@@ -48,3 +48,33 @@ The Hustlers celebrate a small success, before they start being targeted directl
 - A phone with a drafted message unsent. "They have Wolf's add"
 
 ##### At Wolf's Home
+- The Wolf is there, but he's... scared?
+# Dangers
+### Hired Thugs (Hustlers and Cleavers)
+#### Spectrums
+Hurt or Subdue: 3 | Threaten 4
+#### Moves
+- **Collective**: This collective has a handful of members and a size factor of 1.
+- ---
+- Bully (threatened-2), beat up (broken-arm-3), or shower with bullets (gunshot-wound-3)
+- Eliminate a vulnerable target (shot-in-the-gut-4)
+
+### Hitman
+#### Spectrums
+Hurt or Subdue: 3 | Threaten 4
+#### Moves
+- Take the Shot: When get-to-position is maxed
+out, remove any statuses on this spectrum and
+the Hitman attacks her target (fatal-wound-5
+or dead-6).
+- Inscrutable: To ask the MC a question about
+the Hitman, you must spend two Clues instead
+of one. At the MCs option, you may be able to
+combine Clues with another player.
+- (optional) Fateful Hour: The Hitman can use
+“Move to position” (see below) as a soft move.
+- Disable a threat with martial arts or expert
+gunslinging (broken-4)
+- Move to position (closing-on-target-1)
+- Flee the scene or swallow a cyanide pill (hard move)
+- Betray her presence (but not her exact position) with a subtle clue, e.g., a reflection of her scope or a movement of her shadow
