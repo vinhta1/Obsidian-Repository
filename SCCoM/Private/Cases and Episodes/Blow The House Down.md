@@ -31,5 +31,7 @@ The Hustlers celebrate a small success, before they start being targeted directl
 	- Maybe another Hustler site has more information. (Players choose a motel/hotel, Bay Front Inn Hotel)
 - Cleavers want to know who had the dirt on Wolf and turned him in.
 	- Involving the police is a huge more and is looked down upon by both sides.
-	- If no answers here, go back to den to recuperate ()
-##### 
+	- But so is targeting each other on their respective home turf.
+	- If no answers here, go back to den to recuperate (Players choose a location, El Rio Mobile Home Park is Jules' respective area of control)
+##### At the Bay Front Inn Hotel
+- 
