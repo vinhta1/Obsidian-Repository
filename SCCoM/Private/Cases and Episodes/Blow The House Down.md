@@ -20,8 +20,9 @@ The Hustlers celebrate a small success, before they start being targeted directl
 - BRICKS - Spray paint and graffiti art store by Front St and Soquel Ave.
 
 ### Hooks
-- (If someone knows local businesses) a local business owner asks the crew to check up on a friend who is a part of the Hustlers.
+- (If someone knows local businesses) a local business owner asks the crew to check up on a friend who is a part of the Hustlers. They live at a motel.
 - (If someone knows Ramona or the Hustlers) a crew of men with guns drive up to a motel. Romana is fighting off swarms of Cleavers and is trying to drive them away from the motel.
 - (If someone knows Jules or the Cleavers) a crew of men in suits stand by their cars outside in a parking lot of a motel. Jules is clearing out the motel, which is a Hustler hide out. He's looking for the person who talked to the cops about Wolf.
 # Investigation
-##### 
+##### At the motel
+- The Cleavers are actively seeking out
