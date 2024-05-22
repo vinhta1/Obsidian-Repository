@@ -34,4 +34,7 @@ The Hustlers celebrate a small success, before they start being targeted directl
 	- But so is targeting each other on their respective home turf.
 	- If no answers here, go back to den to recuperate (Players choose a location, El Rio Mobile Home Park is Jules' respective area of control)
 ##### At the Bay Front Inn Hotel
-- 
+- Hustler higher-ups ask Ramona to go to an address and kill whoever's inside.
+- They don't tell her who it is, but she doesn't ask.
+- If pressed, it's the El Rio Mobile Home Park.
+	- The higher ups think the Wolf was arrested and is on the loose after escaping capture/being broken out of jail. They think a den would be there
