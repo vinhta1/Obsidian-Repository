@@ -28,7 +28,7 @@ The Hustlers celebrate a small success, before they start being targeted directl
 - The Cleavers are actively seeking out and attacking Hustlers.
 	- Neither the Hustlers or the Cleavers have information about what's going on.
 - Hustlers want to know why the Cleavers are attacking them directly.
-	- Maybe another Hustler site has more information. (Any motel/hotel, Bay Front Inn Hotel)
+	- Maybe another Hustler site has more information. (Players choose a motel/hotel, Bay Front Inn Hotel)
 - Cleavers want to know who had the dirt on Wolf and turned him in.
 	- Involving the police is a huge more and is looked down upon by both sides.
 	- If no answers here, go back to den to recuperate ()
