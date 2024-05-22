@@ -41,3 +41,9 @@ The Hustlers celebrate a small success, before they start being targeted directl
 	- They're starting to clear out dens in the hope that they find the Wolf, or at least retaliate enough so that they stop attacking Hustler turf.
 
 ##### At the El Rio Mobile Home Park
+- Everyone in the den is dead or dying.
+	- If someone from the Cleavers is there, the Ripper (Izzy) is suspect.
+	- An ambush. They broke their phones before they could call for help.
+- A business card, from the Bay Front Inn Hotel.
+- A phone with a drafted message unsent. "They have Wolf's add"
+
