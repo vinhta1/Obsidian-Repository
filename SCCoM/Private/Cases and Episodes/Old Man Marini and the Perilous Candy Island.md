@@ -93,7 +93,7 @@ Hurt or Subdue: 2
 - ---
 **In The Temple:**
 - Light fills a long corridor. Licorice is strung from one end to another. If any are touched, an axe will start to swing from the ceiling. There are three axes, each trying to inflict *Sliced-3*
-- **The dark key.** When taken, the axes will stop swinging. The **[[Old Man Marini and the Perilous Candy Island#Licorice Snakes|licorice]]** that was cut will start to slither towards whoever took the key. The licorice is now watching until they leave the jungle.
+- **The dark key.** When taken, the axes will stop swinging. The **[[Old Man Marini and the Perilous Candy Island#Licorice Snakes|licorice]]** that was cut will start to slither towards whoever took the key. The licorice snakes are now watching until they leave the jungle.
 
 ### Licorice Snakes
 #### Spectrums
@@ -108,8 +108,24 @@ Hurt or Subdue: 1
 - Slither towards a character.
 
 ### Chocolate Canyon
-- Despite its name, it's mostly a savanna with chocolate grass and trees that somehow survive the heat of the sun. The place is teeming with wildlife. They don't seem to eager to greet guests. Add the *Hostile Wildlife* tag.
+- Despite its name, it's mostly a savanna with chocolate grass and trees that somehow survive the heat of the sun. The place is teeming with wildlife. Some of them don't seem to eager to greet guests. Add the *Hostile Wildlife* status.
 - A chocolate river has carved a canyon that has split the savanna in two. On a slowly eroding and melting platform within this canyon, the temple rests.
 - ---
-- **In The Temple:**
+**In The Temple:**
 - 
+- **The dark key**.
+
+### Chocolate Wildlife
+#### Spectrums
+Hurt or Subdue: 3 | Intimidate or Soothe: 3
+#### Moves
+- **Collective**: This starts with a collective of 1.
+- Kangaroos will try to fight physically. Spiders will try to bite. Vultures will hover and dive. If players stay away and or act friendly, they have a better chance of avoiding them.
+- --- 
+- **Kangaroo Strike**: Inflict *Bruised-3*
+- **Spider Lunge**: Inflict *Poisoned-2*
+- **Vulture Swarm**: Increase the collective by 1 (another vulture). The next hard move may be a divebomb, inflicting *Clawed-2*.
+-  ---
+- Size up the characters.
+- Hiss at the characters.
+- Hover over the characters.
