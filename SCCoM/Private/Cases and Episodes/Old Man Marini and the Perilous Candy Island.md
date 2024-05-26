@@ -134,4 +134,9 @@ Hurt or Subdue: 3 | Intimidate or Soothe: 3
 - The temple of ice is found easily after passing over enough hills of ice cream.
 - ---
 **In the Temple:**
-- 
+- It is vast, and looks like a palace. A family and their subjects could live here. However, it is empty and frigid.
+- **The cold key.** It is encased in a block of ice. It can be melted with **the warm key,** among other ways.
+### Candy Cane Caverns
+- Unlike any other area, the entrance is a mouth of a giant cave that leads into a bright red and white mountain. It is minty and sharp, with stalactites and stalagmites throughout. The area echoes and is very claustrophobic. Add the *Sharp Edges* tag. This is the temple.
+- ---
+- Whenever a player makes a loud noise, stalactites will fall from the ceiling for *Cut-2* or *Impale-3*.
