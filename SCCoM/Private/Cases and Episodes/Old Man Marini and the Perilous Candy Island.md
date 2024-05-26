@@ -54,11 +54,12 @@ A Tomb Protected by a Riddle/Puzzle
 
 ### Caramel Pools
 - **Molten Geysers**: Hot caramel erupts in pillars. Add the *Molten Caramel* tag. Anyone who touches the Caramel takes *Burned-2*.
+- The temple is easily spotted from the outskirts and within the area of the geysers. 
 ---
 **In The Temple:**
 - **False Paths**: There's a pool of caramel that needs to be crossed. Only one path is correct.
 - **[[Old Man Marini and the Perilous Candy Island#Golden Slimes|Golden Slimes]]** constantly ooze from the walls and chase the player.
-- **The warm key**.
+- **The warm key**. When taken, the temple will begin to flood.
 
 ### Golden Slimes
 #### Spectrums
@@ -78,6 +79,11 @@ Hurt or Subdue: 2
 **In The Temple:**
 - There is a liquid (worm water) that pools within the worm. It shimmers and looks refreshing. Drinking this feels hot running down, but cures all exhaustion status.
 - The worm has a piece of flesh that dangles and drips with worm water. If agitated, the worm will exhale and thus free whoever is trapped inside. Of course, other methods exist as well.
-- **The warm key**.
+- **The warm key**. When taken, nothing happens.
 ### Marshmallow Fields
-- Warm Storm: Bright and thundering clouds hover over the fields. The smell of toasted marshmallow wafts from the distance. If a player ever rolls snake eyes
+- Warm Storm: Bright and thundering clouds hover over the fields. It is warm. The smell of toasted marshmallow wafts from the distance as lightning strikes from place to place. If a player ever rolls snake eyes, lightning strikes on their position and adds a *Marshmallow Fire* tag.
+- The temple is covered in marshmallows, making a large mound that sticks out like a sore thumb. It is underneath the storm, within the eye.
+- - ---
+**In The Temple:**
+- There is a large chamber that is too deep to climb out of. Marshmallows trickle in, at a snail's pace, and fill the bottom. The are small holes everywhere, which lines the walls.
+- At the bottom of the pit, is **the warm key**. When taken, darts start to fly out from the holes. If the pit is filled with marshmallows, they stop the darts from hitting anything. Marshmallows can also be used to climb out of the pit.
