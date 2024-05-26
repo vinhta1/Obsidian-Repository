@@ -30,11 +30,12 @@ The map and riddle
 
 Cotton Candy Spider
 Molten Caramel Lava
-Ferrero Rocher Boulder
+Truffle Boulder
 Candy Cane Pitfalls
-Chocolate Bunnies Kangaroos
+Chocolate Bunnies/Kangaroos
 Licorice Swamp
 Swedish Fish and Blue Sharks
+Pixy Stix Guards
 
 Pitfalls
 Light Reactive Spikes
@@ -43,4 +44,7 @@ Weight Triggered Stand
 Big Boulder
 Closing Door
 Webs
-A Tomb protected by a riddle/puzzle
+A Tomb Protected by a Riddle/Puzzle
+
+### Caramel Pool Temple
+**Molten Geysers**: Hot caramel erupts in pillars. Add the *Molten Caramel* tag. 
