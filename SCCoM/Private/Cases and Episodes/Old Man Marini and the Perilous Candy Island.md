@@ -108,3 +108,8 @@ Hurt or Subdue: 1
 - Slither towards a character.
 
 ### Chocolate Canyon
+- Despite its name, it's mostly a savanna with chocolate grass and trees that somehow survive the heat of the sun. The place is teeming with wildlife. They don't seem to eager to greet guests. Add the *Hostile Wildlife* tag.
+- A chocolate river has carved a canyon that has split the savanna in two. On a slowly eroding and melting platform within this canyon, the temple rests.
+- ---
+- **In The Temple:**
+- 
