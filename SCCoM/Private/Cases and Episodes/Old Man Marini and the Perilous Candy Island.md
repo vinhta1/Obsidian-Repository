@@ -28,7 +28,7 @@ It betrays an eternal vice
 # Investigation
 The map and riddle
 - Warm and Sweet > Caramel Pools, Cinnamon Desert, or Marshmallow Fields?
-- A Dark Treat > Licorice Jungle or Chocolate Canyon?
+- Dark and Discrete > Licorice Jungle or Chocolate Canyon?
 - Cold and Nice > Cream Hill Zone or Candy Cane Caverns?
 - Eternal Vice > The Overgrown Castle (Extra-Fortified Sugar perhaps?)
 # Dangers
