@@ -47,4 +47,4 @@ Webs
 A Tomb Protected by a Riddle/Puzzle
 
 ### Caramel Pool Temple
-**Molten Geysers**: Hot caramel erupts in pillars. Add the *Molten Caramel* tag. 
+**Molten Geysers**: Hot caramel erupts in pillars. Add the *Molten Caramel* tag. Anyone who touches the Caramel takes *Burned-2*.
