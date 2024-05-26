@@ -59,7 +59,7 @@ A Tomb Protected by a Riddle/Puzzle
 **In The Temple:**
 - **False Paths**: There's a pool of caramel that needs to be crossed. Only one path is correct.
 - **[[Old Man Marini and the Perilous Candy Island#Golden Slimes|Golden Slimes]]** constantly ooze from the walls and chase the player.
-- **The warm key**. When taken, the temple will begin to flood.
+- **The warm key**. When taken, the temple will begin to flood with caramel lava. A door will open which leads to a network of hallways.
 
 ### Golden Slimes
 #### Spectrums
@@ -89,7 +89,22 @@ Hurt or Subdue: 2
 - At the bottom of the pit, is **the warm key**. When taken, lightning begins to strike. If the player does not act fast enough, they take *Electrocuted-4*. However, if the pit is filled with marshmallows, the temple is hit instead.
 ### Licorice Jungle
 - **Twisted and Tangled**: It is incredibly hard to navigate through this jungle. Add a *Twisted Vines* tag.
-- The temple is hidden deep in the Jungle. It will require a clue to find.
+- The temple is hidden deep in the Jungle. It will require a clue to find. 
 - ---
 **In The Temple:**
-- 
+- Light fills a long corridor. Licorice is strung from one end to another. If any are touched, an axe will start to swing from the ceiling. There are three axes, each trying to inflict *Sliced-3*
+- **The dark key.** When taken, the axes will stop swinging. The **[[Old Man Marini and the Perilous Candy Island#Licorice Snakes|licorice]]** that was cut will start to slither towards whoever took the key. The licorice is now watching until they leave the jungle.
+
+### Licorice Snakes
+#### Spectrums
+Hurt or Subdue: 1
+#### Moves
+- The snakes are not active until **the dark key** is taken.
+- **Collective**: This starts with a collective of 2.
+- --- 
+- *Bite-1* or *Choke-1*
+-  ---
+- Turn its head towards a character.
+- Slither towards a character.
+
+### Chocolate Canyon
