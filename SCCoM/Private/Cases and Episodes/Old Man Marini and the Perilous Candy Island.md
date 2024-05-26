@@ -81,11 +81,15 @@ Hurt or Subdue: 2
 - The worm has a piece of flesh that dangles and drips with worm water. If agitated, the worm will exhale and thus free whoever is trapped inside. Of course, other methods exist as well.
 - **The warm key**. When taken, nothing happens.
 ### Marshmallow Fields
-- Warm Storm: Bright and thundering clouds that rain marshmallows swirl over the fields. It is warm. The smell of toasted marshmallow wafts from the distance as lightning strikes from place to place. If a player ever rolls snake eyes, lightning strikes on their position and adds a *Marshmallow Fire* tag.
+- **Warm Storm**: Bright and thundering clouds that rain marshmallows swirl over the fields. It is warm. The smell of toasted marshmallow wafts from the distance as lightning strikes from place to place. If a player ever rolls snake eyes, lightning strikes on their position and adds a *Marshmallow Fire* tag.
 - The winds blow the marshmallows against the temple, creating a sort of mound but not covering it. It is within the center of the storm, in the eye.
 - - ---
 **In The Temple:**
 - There is a large chamber that is too deep to climb out of. Marshmallows trickle in, at a snail's pace, and fill the bottom. 
 - At the bottom of the pit, is **the warm key**. When taken, lightning begins to strike. If the player does not act fast enough, they take *Electrocuted-4*. However, if the pit is filled with marshmallows, the temple is hit instead.
-
-###
+### Licorice Jungle
+- **Twisted and Tangled**: It is incredibly hard to navigate through this jungle. Add a *Twisted Vines* tag.
+- The temple is hidden deep in the Jungle. It will require a clue to find.
+- ---
+**In The Temple:**
+- 
