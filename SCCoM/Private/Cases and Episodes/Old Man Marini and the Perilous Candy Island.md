@@ -57,4 +57,13 @@ A Tomb Protected by a Riddle/Puzzle
 ---
 **In The Temple:**
 - **False Paths**: There's a pool of caramel that needs to be crossed. Only one path is correct.
+- **Golden Slimes**
+
+### Golden Slimes
+#### Spectrums
+Hurt or Subdue: 2
+#### Moves
+- **Collective**: This starts with a collective of 0. Whenever its spectrum is maxed, reset it to 0, reduce its max by 1, and increase the collective by 1. 
+- --- 
+- Merge with another slime, reducing its collective and increasing its spectrum max by 1.
 - 
