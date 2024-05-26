@@ -60,13 +60,6 @@ A Tomb Protected by a Riddle/Puzzle
 - **[[Old Man Marini and the Perilous Candy Island#Golden Slimes|Golden Slimes]]** constantly ooze from the walls and chase the player.
 - **The warm key**.
 
-### Cinnamon Desert
-- **Spiced Sands**: The air is arid and the cinnamon makes it hard to breathe. Players may take a status of *Exhaustion-1* as a hard move while in the Cinnamon Desert.
-- **The Worm**: There is a sandworm that traverses underneath the desert. It can be summoned, if the players wish to (they make up the method). The worm is the temple.
-- ---
-**In The Temple:**
-- There is "wormwater". Drinking this feels hot running down, but cures al.
-
 ### Golden Slimes
 #### Spectrums
 Hurt or Subdue: 2
@@ -78,3 +71,13 @@ Hurt or Subdue: 2
 -  ---
 - Jump towards someone.
 
+### Cinnamon Desert
+- **Spiced Sands**: The air is arid and the cinnamon makes it hard to breathe. Players may take a status of *Exhaustion-1* as a hard move while in the Cinnamon Desert.
+- **The Worm**: There is a sandworm that traverses underneath the desert. It can be summoned, if the players wish to (they make up the method). The worm is the temple.
+- ---
+**In The Temple:**
+- There is a liquid (worm water) that pools within the worm. It shimmers and looks refreshing. Drinking this feels hot running down, but cures all exhaustion status.
+- The worm has a piece of flesh that dangles and drips with worm water. If agitated, the worm will exhale and thus free whoever is trapped inside. Of course, other methods exist as well.
+- **The warm key**.
+### Marshmallow Fields
+- Warm Storm: Bright and thundering clouds hover over the fields. The smell of toasted marshmallow wafts from the distance. If a player ever rolls snake eyes
