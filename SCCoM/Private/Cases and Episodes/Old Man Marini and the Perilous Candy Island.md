@@ -140,3 +140,5 @@ Hurt or Subdue: 3 | Intimidate or Soothe: 3
 - Unlike any other area, the entrance is a mouth of a giant cave that leads into a bright red and white mountain. It is minty and sharp, with stalactites and stalagmites throughout. The area echoes and is very claustrophobic. Add the *Sharp Edges* tag. This is the temple.
 - ---
 - Whenever a player makes a loud noise, stalactites will fall from the ceiling for *Cut-2* or *Impale-3*.
+- Before **the cold key** which is illuminated by a single light, is a large gap that must be jumped across, with a beam hanging above it for a rope or something but too far to grab. Then, there is a thin bridge above a pit of candy cane spikes.
+- When **the cold key** is retrieved, the stalactites start to fall until the players escape.
