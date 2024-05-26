@@ -16,9 +16,9 @@ There are a few unspoken rules of Candy Island. The wildlife are intelligent and
 Caramel Pools, Cinnamon Desert, Marshmallow Fields, Licorice Jungle, Chocolate Canyon, Cream Hill Zone, Sweet Mint Forest, Candy Cane Caverns
 ## The Riddle from the Bottle
 Beware what is warm and sweet
-For it may reveal itself a dark treat
-And avoid what is cold and nice
-Because it betrays an eternal vice
+It hides evil, dark and discrete
+Avoid what is cool and nice
+It betrays an eternal vice
 # Investigation
 The map and riddle
 - Warm and Sweet > Caramel Pools, Cinnamon Desert, or Marshmallow Fields?
@@ -36,10 +36,11 @@ Chocolate Bunnies Kangaroos
 Licorice Swamp
 Swedish Fish and Blue Sharks
 
-Pitfall
+Pitfalls
 Light Reactive Spikes
 Pressure Plates
 Weight Triggered Stand
 Big Boulder
 Closing Door
 Webs
+A Tomb protected by a riddle/puzzle
