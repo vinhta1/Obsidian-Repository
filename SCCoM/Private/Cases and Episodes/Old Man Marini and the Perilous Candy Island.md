@@ -19,7 +19,7 @@ There are a few unspoken rules of Candy Island. The wildlife are intelligent and
 
 # A Map and a Riddle
 ## The Map from the Bottle
-Caramel Pools, Cinnamon Desert, Marshmallow Fields, Licorice Jungle, Chocolate Canyon, Cream Hill Zone, Sweet Mint Forest, Candy Cane Caverns
+Caramel Pools, Cinnamon Desert, Marshmallow Fields, Licorice Jungle, Chocolate Canyon, Cream Hill Zone, Candy Cane Caverns
 ## The Riddle from the Bottle
 Beware what is warm and sweet
 It hides evil, dark and discrete
@@ -29,7 +29,7 @@ It betrays an eternal vice
 The map and riddle
 - Warm and Sweet > Caramel Pools, Cinnamon Desert, or Marshmallow Fields?
 - A Dark Treat > Licorice Jungle or Chocolate Canyon?
-- Cold and Nice > Cream Hill Zone, Sweet Mint Forest or Candy Cane Caverns?
+- Cold and Nice > Cream Hill Zone or Candy Cane Caverns?
 - Eternal Vice > The Overgrown Castle (Extra-Fortified Sugar perhaps?)
 # Dangers
 ### 
@@ -108,19 +108,19 @@ Hurt or Subdue: 1
 - Slither towards a character.
 
 ### Chocolate Canyon
-- Despite its name, it's mostly a savanna with chocolate grass and trees that somehow survive the heat of the sun. The place is teeming with wildlife. Some of them don't seem to eager to greet guests. Add the *Hostile Wildlife* status.
+- Despite its name, it's mostly a savanna with chocolate grass and trees that somehow survive the heat of the sun. The place is teeming with fauna. Some of them don't seem to eager to greet guests. Add the *Hostile Wildlife-2* status.
 - A chocolate river has carved a canyon that has split the savanna in two. On a slowly eroding and melting platform within this canyon, the temple rests.
 - ---
 **In The Temple:**
-- 
-- **The dark key**.
+- A lot of [[Old Man Marini and the Perilous Candy Island#Chocolate Wildlife|Hostile Wildlife]] (Collective 2).
+- **The dark key**. When taken, add a tier to *Hostile-Wildlife*.
 
 ### Chocolate Wildlife
 #### Spectrums
 Hurt or Subdue: 3 | Intimidate or Soothe: 3
 #### Moves
 - **Collective**: This starts with a collective of 1.
-- Kangaroos will try to fight physically. Spiders will try to bite. Vultures will hover and dive. If players stay away and or act friendly, they have a better chance of avoiding them.
+- Kangaroos will try to fight physically. Spiders will try to bite. Vultures will hover and dive. If players stay away and or act friendly, they have a better chance of avoiding them. If the Hostile Wildlife status is removed, these dangers will not attack.
 - --- 
 - **Kangaroo Strike**: Inflict *Bruised-3*
 - **Spider Lunge**: Inflict *Poisoned-2*
@@ -129,3 +129,9 @@ Hurt or Subdue: 3 | Intimidate or Soothe: 3
 - Size up the characters.
 - Hiss at the characters.
 - Hover over the characters.
+### Cream Hill Zone
+- It's snowing over hills of ice cream. An absolutely wonderful place. Should have brought some snow shoes though. Add the *Soft Snow* tag.
+- The temple of ice is found easily after passing over enough hills of ice cream.
+- ---
+**In the Temple:**
+- 
