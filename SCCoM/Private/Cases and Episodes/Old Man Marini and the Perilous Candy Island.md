@@ -6,6 +6,12 @@ Candy animals, insects, spiders, and plants that get bigger and more dangerous t
 
 Extra-Fortified Sugar
 
+# Notes
+Things to stop Icarus from flying
+- Jerri
+- Icarus is bright
+- Must fly fast and move while flying
+- Complicated terrain (Icarus is not ethereal).
 # Background
 **Old Man Marini (Willy Wonka)** is the owner of Marini's at the Beach. He likes to make new candies all the time. He's been working on a candy, a recreation of the everlasting gobstopper, the candy marble. Unfortunately, he is missing just one ingredient: **Extra-Fortified Sugar**. Thus, he must make a perilous trip to **Candy Island**.
 
@@ -46,6 +52,9 @@ Closing Door
 Webs
 A Tomb Protected by a Riddle/Puzzle
 
-### Caramel Pool Temple
-**Molten Geysers**: Hot caramel erupts in pillars. Add the *Molten Caramel* tag. Anyone who touches the Caramel takes *Burned-2*.
-**False Paths**: There's a 
+### Caramel Pools
+- **Molten Geysers**: Hot caramel erupts in pillars. Add the *Molten Caramel* tag. Anyone who touches the Caramel takes *Burned-2*.
+---
+**In The Temple:**
+- **False Paths**: There's a pool of caramel that needs to be crossed. Only one path is correct.
+- 
