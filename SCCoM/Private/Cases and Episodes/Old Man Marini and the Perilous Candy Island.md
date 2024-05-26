@@ -57,7 +57,15 @@ A Tomb Protected by a Riddle/Puzzle
 ---
 **In The Temple:**
 - **False Paths**: There's a pool of caramel that needs to be crossed. Only one path is correct.
-- **Golden Slimes**
+- **[[Old Man Marini and the Perilous Candy Island#Golden Slimes|Golden Slimes]]** constantly ooze from the walls and chase the player.
+- **The warm key**.
+
+### Cinnamon Desert
+- **Spiced Sands**: The air is arid and the cinnamon makes it hard to breathe. Players may take a status of *Exhaustion-1* as a hard move while in the Cinnamon Desert.
+- **The Worm**: There is a sandworm that traverses underneath the desert. It can be summoned, if the players wish to (they make up the method). The worm is the temple.
+- ---
+**In The Temple:**
+- There is "wormwater". Drinking this feels hot running down, but cures al.
 
 ### Golden Slimes
 #### Spectrums
@@ -66,4 +74,7 @@ Hurt or Subdue: 2
 - **Collective**: This starts with a collective of 0. Whenever its spectrum is maxed, reset it to 0, reduce its max by 1, and increase the collective by 1. 
 - --- 
 - Merge with another slime, reducing its collective and increasing its spectrum max by 1.
-- 
+- Cover someone in molten caramel, giving them *Burned-2*.
+-  ---
+- Jump towards someone.
+
