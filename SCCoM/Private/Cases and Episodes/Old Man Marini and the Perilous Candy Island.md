@@ -24,7 +24,7 @@ The map and riddle
 - Warm and Sweet > Caramel Pools, Cinnamon Desert, or Marshmallow Fields?
 - A Dark Treat > Licorice Jungle or Chocolate Canyon?
 - Cold and Nice > Cream Hill Zone, Sweet Mint Forest or Candy Cane Caverns?
-- Eternal Vice > The Overgrown Castle (Extra-Fortified Sugar perhaps?
+- Eternal Vice > The Overgrown Castle (Extra-Fortified Sugar perhaps?)
 # Dangers
 ### 
 
@@ -35,3 +35,11 @@ Candy Cane Pitfalls
 Chocolate Bunnies Kangaroos
 Licorice Swamp
 Swedish Fish and Blue Sharks
+
+Pitfall
+Light Reactive Spikes
+Pressure Plates
+Weight Triggered Stand
+Big Boulder
+Closing Door
+Webs
