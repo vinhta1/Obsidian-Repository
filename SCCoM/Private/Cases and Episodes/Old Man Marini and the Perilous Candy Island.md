@@ -15,6 +15,8 @@ Things to stop Icarus from flying
 - HE BURNT THE TAG THAT FOOL
 
 Pam Frizzle, Fortnite Bus Driver
+Candy Island is holding a wedding. The overgrown castle is no longer abandoned.
+The eight-hour marble can use some work.
 
 # Background
 **Old Man Marini (Willy Wonka)** is the owner of Marini's at the Beach. He likes to make new candies all the time. He's been working on a candy, a recreation of the everlasting gobstopper, the candy marble. Unfortunately, he is missing just one ingredient: **Extra-Fortified Sugar**. Thus, he must make a perilous trip to **Candy Island**.
