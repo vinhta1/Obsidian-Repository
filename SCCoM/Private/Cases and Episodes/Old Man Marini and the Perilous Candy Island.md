@@ -17,7 +17,11 @@ Things to stop Icarus from flying
 Pam Frizzle, Fortnite Bus Driver
 Candy Island is holding a wedding. The overgrown castle is no longer abandoned.
 The eight-hour marble can use some work.
-Icarus is wearing a suit
+Icarus is wearing a formal suit
+Jerri takes the dark key from the Licorice temple
+Icarus and Marini go to the cinnamon desert and finds two wedding bands (but no worm). Leaves Marini behind.
+Ewan enters the marshmallow temple, while Icarus and Jerri regroup and push through the licorice forest and lighting it ablaze, moving towards the Marshmallow Fields
+
 # Background
 **Old Man Marini (Willy Wonka)** is the owner of Marini's at the Beach. He likes to make new candies all the time. He's been working on a candy, a recreation of the everlasting gobstopper, the candy marble. Unfortunately, he is missing just one ingredient: **Extra-Fortified Sugar**. Thus, he must make a perilous trip to **Candy Island**.
 
