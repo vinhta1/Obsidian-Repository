@@ -20,7 +20,7 @@ The eight-hour marble can use some work.
 Icarus is wearing a formal suit
 Jerri takes the dark key from the Licorice temple
 Icarus and Marini go to the cinnamon desert and finds two wedding bands (but no worm). Leaves Marini behind.
-Ewan enters the marshmallow temple, while Icarus and Jerri regroup and push through the licorice forest and lighting it ablaze, moving towards the Marshmallow Fields
+Ewan enters the marshmallow temple while Icarus and Jerri regroup and push through the licorice forest and lighting it ablaze, moving towards the Marshmallow Fields
 
 # Background
 **Old Man Marini (Willy Wonka)** is the owner of Marini's at the Beach. He likes to make new candies all the time. He's been working on a candy, a recreation of the everlasting gobstopper, the candy marble. Unfortunately, he is missing just one ingredient: **Extra-Fortified Sugar**. Thus, he must make a perilous trip to **Candy Island**.
@@ -123,7 +123,7 @@ Hurt or Subdue: 1
 - ---
 **In The Temple:**
 - A lot of [[Old Man Marini and the Perilous Candy Island#Chocolate Wildlife|Hostile Wildlife]] (Collective 2).
-- **The dark key**. When taken, add a tier to *Hostile-Wildlife*.
+- **The dark key**. When taken, add a tier to *Hostile-Wildlife*. Also, a chocolate truffle boulder starts to roll towards the characters. Add a *Chocolate Boulder* story tag.
 
 ### Chocolate Wildlife
 #### Spectrums
@@ -153,3 +153,5 @@ Hurt or Subdue: 3 | Intimidate or Soothe: 3
 - Before **the cold key** which is illuminated by a single light, is a large gap that must be jumped across, with a beam hanging above it for a rope or something but too far to grab. Then, there is a thin bridge above a pit of candy cane spikes.
 - When **the cold key** is retrieved, the stalactites start to fall until the players escape.
 
+### The Candy Castle
+- This area is hidden until the three keys have been found. When put together, fireworks and spotlights will start to 
