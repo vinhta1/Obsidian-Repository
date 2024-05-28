@@ -153,5 +153,6 @@ Hurt or Subdue: 3 | Intimidate or Soothe: 3
 - Before **the cold key** which is illuminated by a single light, is a large gap that must be jumped across, with a beam hanging above it for a rope or something but too far to grab. Then, there is a thin bridge above a pit of candy cane spikes.
 - When **the cold key** is retrieved, the stalactites start to fall until the players escape.
 
-### The Candy Castle
-- This area is hidden until the three keys have been found. When put together, fireworks and spotlights will start to 
+### The Hidden Castle
+- This area is hidden until the three keys have been found. When found, fireworks and spotlights will start to pop into the sky, revealing The Hidden Castle. The keys form to make a wedding invitation.
+- The castle, which once was overgrown and desolate, has found renewed beauty and vigor. The cotton candy cobwebs have been cleaned up and the castle is no longer infested. The denizens of the island have came together to celebrate 
