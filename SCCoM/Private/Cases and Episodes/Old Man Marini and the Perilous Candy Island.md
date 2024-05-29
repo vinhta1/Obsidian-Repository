@@ -155,5 +155,5 @@ Hurt or Subdue: 3 | Intimidate or Soothe: 3
 
 ### The Hidden Castle
 - This area is hidden until the three keys have been found. When found, fireworks and spotlights will start to pop into the sky, revealing The Hidden Castle. The keys form to make a wedding invitation.
-- The castle, which once was overgrown and desolate, has found renewed beauty and vigor. The cotton candy cobwebs have been cleaned up and the castle is no longer infested. The denizens of the island have came together to partake in festivities and celebrate the wedding. Add the story tags, *A Day to Remember*, *Esteemed Guests*, **.
+- The castle, which once was overgrown and desolate, has found renewed beauty and vigor. The cotton candy cobwebs have been cleaned up and the castle is no longer infested. The denizens of the island have came together to partake in festivities and celebrate the wedding. Add the story tags, *A Day to Remember*, *Esteemed Guests*, *Festivities and Formalities*.
 - 
