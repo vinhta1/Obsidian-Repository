@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
+                "file": "Private/Cases and Episodes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef8285267e601a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Cases and Episodes/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
+                "file": "Private/Cases and Episodes/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
+                "file": "Private/Cases and Episodes/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md"
+                "file": "Private/Cases and Episodes/Untitled 1.md"
               }
             }
           },
@@ -184,19 +196,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e819e8159bff842",
+  "active": "ef8285267e601a00",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/Untitled.md",
+    "Private/Cases and Episodes/Untitled 1.md",
+    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
+    "Private/Cases and Episodes/One Good Day.md",
+    "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
-    "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/Cases and Episodes/The Black Company.md",
+    "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
-    "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/The Witch in the Woods.md",
-    "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/Blow The House Down.md",
-    "Private/Cases and Episodes/One Good Day.md",
-    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Rules of this Santa Cruz.md",
@@ -214,7 +227,6 @@
     "Private/Cases and Episodes/Forbidden Arizona.md",
     "Private",
     "Public",
-    "Private/List of Districts/UCSC.md",
     "Private/PCs In Depth",
     "Private/Cases and Episodes",
     "Private/List of Districts"
