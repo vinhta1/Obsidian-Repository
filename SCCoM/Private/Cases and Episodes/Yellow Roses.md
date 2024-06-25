@@ -8,7 +8,7 @@ A withered yellow rose that is alive in spirit. Whoever touches will hear a voic
 
 A kitsune is in the living world. To live normally, it abducts people into the spirit realm, transforming into them, and then living their lives out as them.
 
-A young boy is asleep in a bed, hooked to wires and tubes. He is in his room, guarded by men who patrol the hallways of their nice home. Next to him is an arrangement of yellow roses, one of which is withered. The room in the physical world is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. The room in the spiritual world is a large field, where he is surrounded by other spirits. He is having tea with them.
+A young boy is asleep in a bed, hooked to wires and tubes. He is in his room, guarded by men who patrol the hallways and outskirts of their nice home. Next to him is an arrangement of yellow roses, one of which is withered. The room in the physical world is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. The room in the spiritual world is a large field, where he is surrounded by other spirits. He is having tea with them.
 
 https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 ##### At Sun's Zoo
