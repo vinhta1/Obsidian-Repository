@@ -61,3 +61,8 @@ Before their wook journey, Moonshadow Starship was a normal person. They lived a
 - Moonshadow knew icarus when he was homeless and high
 - Icarus crash landed in the tent the first time they met
 - Moonshadow's the shaman in Icarus's story, guiding him through his rut.
+# Sun
+Age: 16
+
+# Seung-Jin
+Age: 15
