@@ -34,10 +34,15 @@ Spiritual: You enter a large garden. Hedges guide you towards stone steps and tr
 Hurt or Subdue: 4 | See Through: 2 | Convince: 3
 #### Moves
 - **Master of Trickery**: Kitsune can give themselves *Trustworthy-2* or *Without-a-Trace-2* when they enter a scene. They can refresh this with a hard move, but can only have one or the other at any time.
+- **Shapeshifter**: Kitsune can enter a scene disguised perfectly as someone else. Anytime they are asked a question, the MC can ask a question back in order for Kitsune to blend in better. They can change their form with a hard move.
 - **Yokai Resilience**: The tier of any physical, emotional, or mental status inflicted to hurt or subdue them is reduced by 1.
 - ---
-- Draw someone's attention to something they choose. If they look away, give them *Charmed-1*
-- 
+- Draw someone's attention to something Kitsune chooses. If they look away, give them *Charmed-2*.
+- Bless or curse a person, place, or object (*Blessed-3* or *Cursed-3*).
+- Devour one's spiritual energy (*Drained-3*).
+- ---
+- Slip in and out of sight.
+- Blend in.
 
 ### Hired Guards
 #### Spectrums
