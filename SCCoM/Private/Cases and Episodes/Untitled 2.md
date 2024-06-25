@@ -2,7 +2,9 @@
 Scenes
 A host of spirits, described by Pailey, surround a cursed item. When someone touches it, they hear a faint voice that asks, "Would you like a friend?" If they turn around, their body disappears and the object returns to the podium. They are now in the spirit realm.
 
-Huyen reaches into her fanny pack for her phone to grab a portable charger. "Huh, who put this in here? Do I want a what, Bianca?" Bianca turns around to answer. "I didn't say anything. Huyen?" She is completely gone.
+Huyen reaches into her fanny pack for her phone to grab a portable charger. "Huh, who put this in here? Would I like a what, Bianca?" Bianca turns around to answer. "I didn't say anything. Huyen?" She is completely gone.
+
+A withered yellow rose that is alive in spirit. Whoever touches will hear a voice ask "Would you like a friend?" Acknowledging that voice in anyway will transport them into the spirit
 
 https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 ##### At Sun's Zoo
