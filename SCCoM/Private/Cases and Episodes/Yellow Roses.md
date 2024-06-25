@@ -68,11 +68,18 @@ Hurt or Subdue: 3 | DMO The Scene: X
 - Step into a scene affected by a Rift as if nothing is out of the ordinary.
 - Talk to witnesses casually (just before obliviating them).
 
-### Hired Thugs
+### Hired Guards
 #### Spectrums
-Hurt or Subdue: 3 | Threaten 4
+Hurt or Subdue: 3 | Threaten: 3 | Deceive: 3
 #### Moves
-• **Collective**: This collective has a handful of members and a size factor of 1.
+- **Collective**: This collective has a handful of members and a size factor of 1.
+- **Guard**: When a Hired Guard is on the lookout, give her *alert-1*.
+- **Well-Trained**: When a Hired Guard takes a hurt or subdue status they can avoid with martial arts moves, reduce its tier by 1. 
 - ---
-• Bully (threatened-2), beat up (broken-arm-3), or shower with bullets (gunshot-wound-3)
-• Eliminate a vulnerable target (shot-in-the-gut-4)
+- Alert all guards to be on lookout (all guards have *searching-2*)
+- Call for backup (increase size factor by 1).
+- Fire their pistol (*gunshot-wound-3*).
+- Set up an opponent with a knee strike (temporary *vulnerable-2*) and then try to knock out (*broken teeth-2* or *disoriented-3*)
+- ---
+- Reach for their pistol or raise their hands
+- Reach for their radio. "All clear." or "Searching."
