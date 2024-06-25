@@ -16,7 +16,7 @@ A young woman that works at the Arcade, usually staffed behind the prize counter
 The rift of Nemesis.
 Vigilante, a bit brutal, but a bit silly for the most part.
 # Icarus
-Age:
+Age: 19
 ### Nero(s)
 Has dreams, nightmares, and fantasies of Nero.
 Is this just the Mist messing with him?
