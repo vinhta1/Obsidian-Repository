@@ -31,8 +31,14 @@ Spiritual: You enter a large garden. Hedges guide you towards stone steps and tr
 # Dangers
 ### Kitsune
 #### Spectrums
-
+Hurt or Subdue: 4 | See Through: 2 | Convince: 3
 #### Moves
+- **Master of Trickery**: Kitsune can give themselves *Trustworthy-2* or *Without-a-Trace-2* when they enter a scene. They can refresh this with a hard move, but can only have one or the other at any time.
+- **Yokai Resilience**: The tier of any physical, emotional, or mental status inflicted to hurt or subdue them is reduced by 1.
+- ---
+- Draw someone's attention to something they choose. If they look away, give them *Charmed-1*
+- 
+
 ### Hired Guards
 #### Spectrums
 Hurt or Subdue: 3 | Threaten: 3 | Deceive: 3
