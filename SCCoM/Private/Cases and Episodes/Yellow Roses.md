@@ -10,6 +10,8 @@ A kitsune is in the living world. To live normally, it abducts people into the s
 
 A young man (Mars "Kit" Kittleman) is asleep in a bed, hooked to wires and tubes. He is in his room, guarded by men who patrol the hallways and outskirts of their nice home. Next to him is an arrangement of yellow roses, one of which is withered. The room in the physical world is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. The room in the spiritual world is a large garden, where he is surrounded by other spirits. He is having tea with them.
 
+A Kitsune has made a deal with other spirits. They won't eat Kit as long as he stays in the spirit realm where they can feast on his spiritual energy.
+
 https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 # Investigation
 ##### At Sun's Zoo
@@ -21,4 +23,4 @@ Up towards the base of the school are these nice houses. They're new, they're ex
 ##### In Kit's Room
 Physical: The room is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. Like a picture you'd find in a magazine trying to sell you upscale furniture or a thread of rooms you'd want to live in. A young man in his 20s is asleep in his bed, hooked to wires and tubes. A rhythm of beats bounce around the walls. On the other side of the bed away from the monitors is a vase of yellow roses. One of them is withered.
 
-Spiritual: You enter a large garden. Hedges guide you towards stone steps and trimmed green arches. The sky is blue and the clouds are white. There are yellow roses everywhere. Eventually you stumble upon a gazebo where a young man enjoys a cup of tea
+Spiritual: You enter a large garden. Hedges guide you towards stone steps and trimmed green arches. The sky is blue and the clouds are white. There are yellow roses everywhere. Eventually you stumble upon a gazebo where a young man enjoys a cup of tea with Huyen.
