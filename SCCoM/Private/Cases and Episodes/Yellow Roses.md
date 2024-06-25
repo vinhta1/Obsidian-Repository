@@ -33,6 +33,7 @@ Physical: The room is luxurious, modern, and large. The grey linen curtains dark
 Spiritual: You enter a large garden. Hedges guide you towards stone steps and trimmed green arches. The sky is blue and the clouds are white. There are yellow roses everywhere. Eventually you stumble upon a gazebo where a young man enjoys a cup of tea with Huyen.
 
 - Kit believes he's in a dream that he can't wake up from.
+- The spirits love Kit, but that's part of the blessing he received.
 
 
 # Dangers
