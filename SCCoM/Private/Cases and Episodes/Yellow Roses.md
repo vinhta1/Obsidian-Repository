@@ -13,4 +13,6 @@ A young boy is asleep in a bed, hooked to wires and tubes. He is in his room, gu
 https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 # Investigation
 ##### At Sun's Zoo
-Along Highway 1, tucked and hidden between the preserves, the parks, and the ranches, is a zoo.
+Along Highway 1, beyond the hustle and bustle of the boardwalk, past downtown and the college campuses, tucked and hidden between the preserves, the parks, and the ranches, is a zoo. Sun, what exhibit is everyone currently looking at right now?
+
+##### At the House on the Hills
