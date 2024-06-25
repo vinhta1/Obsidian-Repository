@@ -4,6 +4,6 @@ A host of spirits, described by Pailey, surround a cursed item. When someone tou
 
 Huyen reaches into her fanny pack for her phone to grab a portable charger. "Huh, who put this in here? Do I want a what, Bianca?" Bianca turns around to answer. "I didn't say anything. Huyen?" She is completely gone.
 
-
+https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 ##### At Sun's Zoo
 Along Highway 1, tucked and hidden between the preserves, the parks, and the ranches, is a zoo.
