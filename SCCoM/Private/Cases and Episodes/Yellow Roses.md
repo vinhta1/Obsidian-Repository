@@ -6,7 +6,9 @@ Huyen reaches into her fanny pack for her phone to grab a portable charger. "Huh
 
 A withered yellow rose that is alive in spirit. Whoever touches will hear a voice ask "Would you like a friend?" Acknowledging that voice in anyway will transport them into the spirit realm.
 
+A kitsune is stuck in the living world. To live normally, it abducts people into the spirit realm, transforming into them, and then living their lives out as them.
 
+A young boy is asleep in a bed, hooked to wires and tubes. Next to him is a withered yellow rose.
 
 https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 ##### At Sun's Zoo
