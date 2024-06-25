@@ -20,9 +20,11 @@ Along Highway 1, beyond the hustle and bustle of the boardwalk, past downtown an
 ##### At the House on the Hills
 Up towards the base of the school are these nice houses. They're new, they're expensive.
 - There are many rooms in this house, but one is guarded more heavily than others.
-- Two guards stand outside a door, but every thirty minutes they switch with other guards.
+- There are five guards in the house.
+	- Two guards stand outside a room, but every thirty minutes they switch with other guards.
+	- Two guards patrol around the house, away from the room.
+	- One guard is in a security room, watching the cameras.
 - Guards wear suits and earpieces. They are armed.
-
 ##### In Kit's Room
 Physical: The room is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. Like a picture you'd find in a magazine trying to sell you upscale furniture or a thread of rooms you'd want to live in. A young man in his 20s is asleep in his bed, hooked to wires and tubes. A rhythm of beats bounce around the walls. On the other side of the bed away from the monitors is a vase of yellow roses. One of them is withered.
 
