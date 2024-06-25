@@ -16,3 +16,5 @@ https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 Along Highway 1, beyond the hustle and bustle of the boardwalk, past downtown and the college campuses, tucked and hidden between the preserves, the parks, and the ranches, is a zoo. Sun, what exhibit is everyone currently looking at right now?
 
 ##### At the House on the Hills
+Up towards the base of the school are these nice houses. They're new, they're expensive.
+
