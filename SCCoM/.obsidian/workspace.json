@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15ef0e08655b45df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,18 +218,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98537fe77cab5697",
+  "active": "15ef0e08655b45df",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/Yellow Roses.md",
+    "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
-    "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/Cases and Episodes/The Black Company.md",
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/The Witch in the Woods.md",
     "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/Untitled 1.md",
-    "Private/Cases and Episodes/Yellow Roses.md",
     "Private/PCs.md",
     "Private/PCs In Depth/Jerri Braun.md",
     "Private/Cases and Episodes/One Good Day.md",
