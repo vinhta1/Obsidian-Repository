@@ -59,14 +59,34 @@
             "id": "15ef0e08655b45df",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Private/Cases and Episodes/Yellow Roses.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "eede362a2f8cc20e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96cb4fc7c89a16f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Cases and Episodes/Yellow Roses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
+                "file": "Private/Cases and Episodes/Yellow Roses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
+                "file": "Private/Cases and Episodes/Yellow Roses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md"
+                "file": "Private/Cases and Episodes/Yellow Roses.md"
               }
             }
           },
@@ -218,8 +238,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15ef0e08655b45df",
+  "active": "96cb4fc7c89a16f3",
   "lastOpenFiles": [
+    "Private/List of Districts/Districts.md",
     "Private/Cases and Episodes/Yellow Roses.md",
     "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/Cases and Episodes/Phil and Connor.md",
@@ -245,7 +266,6 @@
     "Public/Jukebox.md",
     "Private/List of Districts/Downtown.md",
     "Private/List of Districts/The Boardwalk.md",
-    "Private/List of Districts/UCSC.md",
     "Untitled",
     "Private",
     "Public",
