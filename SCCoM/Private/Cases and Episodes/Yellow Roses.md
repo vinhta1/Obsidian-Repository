@@ -1,4 +1,12 @@
 #Case 
+Notes
+Stories give things meaning. Meaning gives things power. That's how this city operates.
+Belief does so much towards that, but every story is waiting to become real. Even the tiniest of legends are waiting for their time.
+Closet door is a gateway.
+I don't want to be a malevolent being. But maybe that's just who I am. Maybe that's why I'm the way I am.
+Which version of you are you?
+You know we're supposed to be enemies right? Everything we do is to keep you down.
+
 Scenes
 A host of spirits, described by Pailey, surround a cursed item. When someone touches it, they hear a faint voice that asks, "Would you like a friend?" If they turn around, their body disappears and the object returns to the podium. They are now in the spirit realm.
 
