@@ -36,7 +36,7 @@ Up towards the base of the school are these nice houses. They're new, they're ex
 	- One guard is in a security room, watching the cameras.
 - Guards wear suits and earpieces. They are armed.
 ##### In Kit's Room
-Physical: The room is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. Like a picture you'd find in a magazine trying to sell you upscale furniture or a thread of rooms you'd want to live in. A young man in his 20s is asleep in his bed next to his wheelchair, hooked to wires and tubes. A rhythm of beats bounce around the walls. On the other side of the bed away from the monitors is a vase of yellow roses. One of them is withered.
+Physical: The room is luxurious, modern, and large. The grey linen curtains darken the wood slat and marble walls. Like a picture you'd find in a magazine trying to sell you upscale furniture or a thread of rooms you'd want to live in. A young man in his 20s is asleep in his bed next to his wheelchair, hooked to wires and tubes. A rhythm of beats bounce around the walls. On the other side of the bed away from the monitors is a vase of yellow roses. One of them is withered. There's a closet people can enter.
 
 Spiritual: You enter a large garden. Hedges guide you towards stone steps and trimmed green arches. The sky is blue and the clouds are white. There are yellow roses everywhere. Eventually you stumble upon a gazebo where a young man enjoys a cup of tea with Huyen.
 
