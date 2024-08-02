@@ -2,7 +2,7 @@
 Notes
 Stories give things meaning. Meaning gives things power. That's how this city operates.
 Belief does so much towards that, but every story is waiting to become real. Even the tiniest of legends are waiting for their time.
-Closet door is a gateway.
+Closet door is a gateway. Jin can sense it as he gets closer, but everyone can see it
 I don't want to be a malevolent being. But maybe that's just who I am. Maybe that's why I'm the way I am.
 Which version of you are you?
 You know we're supposed to be enemies right? Everything we do is to keep you down.
