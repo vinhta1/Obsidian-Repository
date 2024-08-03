@@ -22,7 +22,7 @@ A Kitsune has made a deal with other spirits. They won't eat Kit as long as he s
 
 https://en.wikipedia.org/wiki/Noppera-b%C5%8D
 # Investigation
-##### At The (Sun's) Zoo
+##### At The (Sun's) Zoo, Zooboomafoo
 Along Highway 1, beyond the hustle and bustle of the boardwalk, past downtown and the college campuses, tucked and hidden between the preserves, the parks, and the ranches, is a zoo. Sun, what exhibit is everyone currently looking at right now?
 - Huyen isn't Huyen. They're actually Kitsune.
 - Where Huyen disappeared is a yellow petal.
