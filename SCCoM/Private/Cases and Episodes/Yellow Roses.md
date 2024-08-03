@@ -52,7 +52,6 @@ Spiritual: You enter a large garden. Hedges guide you towards stone steps and tr
 - The spirits love Kit, but that's part of the blessing he received. Otherwise, they would just overharvest and kill him right away.
 - Kit is tethered to the spirit realm and is an abundant source of spirit essence. If he is returned to the human world, he may not be able to return. It is up to him to leave, which he will the moment he realizes he can (he loses his *dream* status.
 
-
 # Dangers
 ### Kitsune
 #### Spectrums
