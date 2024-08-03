@@ -27,6 +27,13 @@ Along Highway 1, beyond the hustle and bustle of the boardwalk, past downtown an
 - Huyen isn't Huyen. They're actually Kitsune.
 - Where Huyen disappeared is a yellow petal.
 - Kitsune knows where the house is. Other spirits also know, and can lead you there.
+
+##### The Spirit in the Tree
+- The Kitsune is moving towards the hills. Not towards the highway but towards the campus.
+	- In fact, so are many other spirits. Not so much like a pilgrimage, but like a friendly outing.
+- Someone else passed by, looked a lot like you. Didn't look lost, but headed the same way.
+	- I don't know if that's a really good idea. Her spiritual energy isn't as immense as Jin's, but they might just eat her right up.
+
 ##### At the House on the Hills
 Up towards the base of the school are these nice houses. They're new, they're expensive.
 - There are many rooms in this house, but one is guarded more heavily than others.
