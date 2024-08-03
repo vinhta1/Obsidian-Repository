@@ -68,7 +68,19 @@ Hurt or Subdue: 4 | See Through: 2 | Convince: 3
 - ---
 - Slip in and out of sight.
 - Blend in.
-
+### Wicked Spirits
+#### Spectrums
+Hurt or Subdue: 3 | Exorcise: 1 | Convince: 2 | Escape: 3
+#### Moves
+- **Collective:** This collective has a handful of members and a size factor of 1-2.
+- **Yokai Resilience**: The tier of any physical, emotional, or mental status inflicted to hurt or subdue them is reduced by 1.
+- ---
+- Create the *surrounded* tag. While the *surrounded* tag is on, the size factor can increase by 1.
+- Devour one's spiritual energy (*Drained-1).
+- ---
+- Argue amongst themselves.
+- Look at someone hungrily.
+- Start to clamor around the area.
 ### Hired Guards
 #### Spectrums
 Hurt or Subdue: 3 | Threaten: 3 | Deceive: 3
