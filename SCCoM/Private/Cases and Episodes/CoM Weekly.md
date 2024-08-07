@@ -4,3 +4,9 @@
 
 Jerri doing summer classes, for funsies she's taking photography and upper div anthropology
 Jerri still working at Motive, probably until she leaves SC
+Jerri knows people from anthropology, knows less people in photography
+
+Ivy Song
+Chatted a bit, sits next to them
+Bubbly and very chatty, gossips a lot
+Jerri walks
