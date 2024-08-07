@@ -22,10 +22,14 @@ Photography professor
 
 
 Convinced Lincoln to go into forest alone
-Lincoln gave Jerri his phone, revealed he ordered Ivy to be Jumped
+Lincoln gave Jerri his phone, revealed he ordered Ivy to be jumped
 Danny walks in with a basket of mushrooms and herbs and walks away
 
 Danny drops the basket after tripping over a goon running away after
 JERRI LIGHTS HERSELF ON FIRE AND THREATENS LINCOLN
 Then disappears and teleports next to Danny
 Danny sits next to her trampled fungi
+Danny asks about Icarus, Jerri looks sad and angry
+Jerri asks about the wings. Danny knew about the wings
+Jerri tells Danny about Icarus jumping Jerri
+Danny asks, is self-immolation in front of Lincoln Jerri trying to vindicate herself about it?
