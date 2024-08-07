@@ -41,3 +41,9 @@ Jerri explores her mythos
 	"What's your relationship with the angel" -> It had to one of us, why not me?
 	Lucifer sounds like Jerri's voice and two others
 Danny investigates
+	Ewen and Icarus knows people "in the mist", the men in black
+	Danny has her research material
+	Does Jerri know about the men in black?
+	Keep Rifts and the Mist hidden, keep themselves hidden
+	The mist and the rifts exist because and for each other, what came first?
+	There's a way to identify the men in black in media, read between the lines
