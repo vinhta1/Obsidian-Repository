@@ -48,4 +48,7 @@ Danny investigates
 	The mist and the rifts exist because and for each other, what came first?
 	There's a way to identify the men in black in media, read between the lines, don't worry about faces but about body languages
 	The less real it seems, the greater chance there is to see a man in black
-	
+	"Look beyond the mist" -> 
+		Intel agent for mafia, espionage, info stealing
+		Uncanny intuition
+		There're not sure where the mafia went
