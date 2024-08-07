@@ -53,4 +53,6 @@ Danny investigates
 		Uncanny intuition
 		There're not sure where the mafia went, did they go under? Did they hide?
 		It's hard to hard from Danny
-		"Why me?"
+		"Why me?" -> "I was always here", "You looked like you needed guidance", "It's not my end of the road"
+		"What are you trying to prolong?" -> "The people of this City"
+		
