@@ -21,4 +21,6 @@ Got people to jump Ivy, bullying other people
 Photography professor
 
 
-Convinces Lincoln 
+Convinced Lincoln to go into forest alone
+Lincoln gave Jerri his phone, revealed he ordered Ivy to be Jumped
+Danny walks in with a basket of mushrooms and herbs and walks away
