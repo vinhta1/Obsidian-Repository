@@ -51,4 +51,6 @@ Danny investigates
 	"Look beyond the mist" -> 
 		Intel agent for mafia, espionage, info stealing
 		Uncanny intuition
-		There're not sure where the mafia went
+		There're not sure where the mafia went, did they go under? Did they hide?
+		It's hard to hard from Danny
+		"Why me?"
