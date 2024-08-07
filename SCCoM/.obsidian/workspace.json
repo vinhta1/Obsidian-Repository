@@ -4,75 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "282c4ee38a056bab",
+        "id": "0262ad4c30c82a4a",
         "type": "tabs",
-        "dimension": 66.25544267053701,
         "children": [
           {
-            "id": "24c4ae82fa071c61",
+            "id": "95b98fbe0d2ef081",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e819e8159bff842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef8285267e601a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98537fe77cab5697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e61e610407a9192",
-        "type": "tabs",
-        "dimension": 33.744557329462985,
-        "children": [
-          {
-            "id": "15ef0e08655b45df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Yellow Roses.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -141,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Private/Cases and Episodes/Snow in the Summer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,8 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24c4ae82fa071c61",
+  "active": "95b98fbe0d2ef081",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/Yellow Roses.md",
+    "Private/Cases and Episodes/Snow in the Summer.md",
+    "Private/Cases and Episodes/Untitled 1.md",
+    "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/One Good Day.md",
@@ -236,17 +176,13 @@
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/Blow The House Down.md",
-    "Private/Cases and Episodes/Yellow Roses.md",
     "Private/Cases and Episodes/The Black Company.md",
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/The Witch in the Woods.md",
-    "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/PCs.md",
     "Private/MC's Jukebox.md",
     "Private/List of Districts/Districts.md",
-    "Private/Cases and Episodes/Untitled.md",
-    "Private/Cases and Episodes/Untitled 1.md",
     "Private/PCs In Depth/Jerri Braun.md",
     "Private/Notes.md",
     "Private/Ideas.md",
