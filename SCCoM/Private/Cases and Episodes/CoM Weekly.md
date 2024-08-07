@@ -10,10 +10,15 @@ Jerri knows people from anthropology, knows less people in photography
 Chatted a bit, sits next to them
 Bubbly and very chatty, gossips a lot
 Jerri walks over
-Will file a police
+Will file a police report
 ### Lincoln Smith
 Bully
 5'7 BUILT
-Jumped Ivy, bullying other people
-
+Got people to jump Ivy, bullying other people
+#### Jackson
+#### Frank
 ### Katy Perry
+Photography professor
+
+
+Convinces Lincoln 
