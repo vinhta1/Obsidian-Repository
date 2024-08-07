@@ -46,4 +46,6 @@ Danny investigates
 	Does Jerri know about the men in black?
 	Keep Rifts and the Mist hidden, keep themselves hidden
 	The mist and the rifts exist because and for each other, what came first?
-	There's a way to identify the men in black in media, read between the lines
+	There's a way to identify the men in black in media, read between the lines, don't worry about faces but about body languages
+	The less real it seems, the greater chance there is to see a man in black
+	
