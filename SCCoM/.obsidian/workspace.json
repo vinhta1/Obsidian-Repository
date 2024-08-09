@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/CoM Weekly.md",
+                "file": "Private/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md",
+                "file": "Private/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md",
+                "file": "Private/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md"
+                "file": "Private/Notes.md"
               }
             }
           },
@@ -184,8 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0f8a0e412cd28d9",
+  "active": "40ac91e5c675be6d",
   "lastOpenFiles": [
+    "Private/PCs.md",
+    "Private/Rules of this Santa Cruz.md",
     "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
@@ -202,7 +204,6 @@
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/The Witch in the Woods.md",
-    "Private/PCs.md",
     "Private/MC's Jukebox.md",
     "Private/List of Districts/Districts.md",
     "Private/PCs In Depth/Jerri Braun.md",
@@ -211,7 +212,6 @@
     "Private/Factions.md",
     "2024-06-24.md",
     "Public/Jukebox.md",
-    "Private/List of Districts/Downtown.md",
     "Untitled",
     "Private",
     "Public",

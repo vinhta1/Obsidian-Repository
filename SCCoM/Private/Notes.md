@@ -6,6 +6,8 @@ Kayley wants me to capture childhood wonder. The feeling when everything in life
 Jimmy wants classic detective cases, going from clue to clue.
 Ewan wants to enroll in school, sister Kiara
 https://www.sccs.net/parents___students/enrolling
+More logos/mundane, less vigilante/mythos
+More dice rolling, play to find out
 
 ## PLAYER LORE
 Why did Michael come down from their avatar state?
