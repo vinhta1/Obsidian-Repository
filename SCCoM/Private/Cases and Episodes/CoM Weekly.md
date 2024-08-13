@@ -55,4 +55,6 @@ Danny investigates
 		It's hard to hard from Danny
 		"Why me?" -> "I was always here", "You looked like you needed guidance", "It's not my end of the road"
 		"What are you trying to prolong?" -> "This City", "Its people", "The City doesn't what's coming, but maybe we can help"
-		
+
+# Name TBD
+## 9:27 AM Tue Aug 13 2024 82
