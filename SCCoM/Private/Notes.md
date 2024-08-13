@@ -8,6 +8,7 @@ Ewan wants to enroll in school, sister Kiara
 https://www.sccs.net/parents___students/enrolling
 More logos/mundane, less vigilante/mythos
 More dice rolling, play to find out
+"LOGOS + MUNDANE = PROFIT"
 
 ## PLAYER LORE
 Why did Michael come down from their avatar state?
