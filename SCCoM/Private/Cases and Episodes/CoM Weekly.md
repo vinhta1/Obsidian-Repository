@@ -71,4 +71,7 @@ Vince Lancaster
 Jerri saved liqour store from a fire before it got burnt down that same day by an arsonist
 
 Serial Arsonist
-Calling card
+Calling card - Fireside
+Build of person
+Mark on back of hand
+
