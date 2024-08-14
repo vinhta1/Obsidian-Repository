@@ -75,3 +75,6 @@ Calling card - Fireside
 Build of person
 Mark on back of hand
 
+### Downtime
+Jerry -> Explores Mythos -> Hitting the books on lucifer and lucifer-esque figures
+	"Have I ever been able to resist burning too bright?"
