@@ -65,3 +65,8 @@ Grocery night @ grocery outlet
 	Jerri making Chicken Alfredo + some more snacks and ingredients
 Credit score is good
 Jerri uses their fire to snuff out a grill fire
+
+Vince Lancaster
+24, liquor store 
+Jerri saved liqour store from a fire before it got burnt down that same day by an arsonist
+
