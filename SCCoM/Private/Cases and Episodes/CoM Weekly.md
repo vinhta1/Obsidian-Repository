@@ -64,3 +64,4 @@ Less traffic at Motiv during summer
 Grocery night @ grocery outlet
 	Jerri making Chicken Alfredo + some more snacks and ingredients
 Credit score is good
+Jerri uses their fire to snuff out a grill fire
