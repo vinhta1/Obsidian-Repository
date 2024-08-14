@@ -66,14 +66,16 @@ Grocery night @ grocery outlet
 Credit score is good
 Jerri uses their fire to snuff out a grill fire
 
+### At the Bodega
 Vince Lancaster
-24, liquor store 
-Jerri saved liqour store from a fire before it got burnt down that same day by an arsonist
+24, bodega
+Jerri saved bodega from a grill fire before it got burnt down that same day by an arsonist
 
+### At the Bodega, Again
 Serial Arsonist
 Calling card - Fireside
 Build of person
-Mark on back of hand
+Mark on back of hand left side
 
 ### Downtime
 Jerry -> Explores Mythos -> Hitting the books on lucifer and lucifer-esque figures
@@ -81,7 +83,11 @@ Jerry -> Explores Mythos -> Hitting the books on lucifer and lucifer-esque figur
 	Level up! Expression 97, Moments of Truth 241 
 	How bright can I burn? -> How far can I fall? future pivot
 
+### At the bar
+Charlie is there even though 19 "for the vibes"
+Fireside is burnt on the right side
+
 ### At the Burning House
-Katherine
-Serenity
-Billy
+Fireside's family - Wife Katherine, Eldest Serenity, Youngest Billy
+Chose to look for the family instead of evidence of arson
+Found and saved the family
