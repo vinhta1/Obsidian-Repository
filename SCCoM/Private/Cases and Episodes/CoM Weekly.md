@@ -80,4 +80,8 @@ Jerry -> Explores Mythos -> Hitting the books on lucifer and lucifer-esque figur
 	"Have I ever been able to resist burning too bright?"
 	Level up! Expression 97, Moments of Truth 241 
 	How bright can I burn? -> How far can I fall? future pivot
-	
+
+### On the Trail
+Katherine
+Serenity
+Billy
