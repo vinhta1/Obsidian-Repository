@@ -1,5 +1,5 @@
 #case
-# Name TBD
+# 08/06/24
 ## 7:49 PM Tue Aug 06 2024 10
 
 Jerri doing summer classes, for funsies she's taking photography and upper div anthropology
@@ -56,7 +56,7 @@ Danny investigates
 		"Why me?" -> "I was always here", "You looked like you needed guidance", "It's not my end of the road"
 		"What are you trying to prolong?" -> "This City", "Its people", "The City doesn't what's coming, but maybe we can help"
 
-# Name TBD
+# 08/13/24
 ## 9:27 AM Tue Aug 13 2024 82
 
 Less traffic at Motiv during summer
@@ -91,3 +91,6 @@ Fireside is burnt on the right side
 Fireside's family - Wife Katherine, Eldest Serenity, Youngest Billy
 Chose to look for the family instead of evidence of arson
 Found and saved the family
+
+# 08/20/24
+## 9:27 AM Tue Aug 13 2024 82
