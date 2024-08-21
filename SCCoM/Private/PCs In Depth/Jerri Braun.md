@@ -1,4 +1,4 @@
-**Name**: Jeraldine (Jerri) Anne Braun
+**Name**: Chastity Jeraldine (Jerri) Anne Braun
 **Age**: 20
 **Birthday**: 10/08/2003
 **Height**: 5’7

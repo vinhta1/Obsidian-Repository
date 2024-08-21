@@ -93,4 +93,8 @@ Chose to look for the family instead of evidence of arson
 Found and saved the family
 
 # 08/20/24
-## 9:27 AM Tue Aug 13 2024 82
+## 9:27 AM Tue Aug 13 2024 82 (continued)
+
+Jerry gets back from break just a lil late, after her shift ends at 2am, she heads to the charred house.
+
+The house is taped off and the streets are empty. Jerry enters cautiously through the back.
