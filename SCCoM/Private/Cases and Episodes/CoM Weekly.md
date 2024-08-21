@@ -97,4 +97,13 @@ Found and saved the family
 
 Jerry gets back from break just a lil late, after her shift ends at 2am, she heads to the charred house.
 
+Arsonist's family in the hospital
 The house is taped off and the streets are empty. Jerry enters cautiously through the back.
+Fireproof folder of addresses and codes, sent to Kenneth. No leads
+
+Detectives firebombed
+
+9am
+Ewan is in front of the elementary school by UCSC
+Kenneth I need a mom and dad
+
