@@ -114,8 +114,8 @@ Homeroom Ms. Wazowski
 
 Icarus is a Gym bro as a hobby
 Alcoholism, Valorant, Vigilantism, Community volunteer somewhere close to the river (soup, Chinese, adventure)
-Jim Spotter, Icarus' gym spotter
+Jim S. Potter, Icarus' gym spotter
 Things are still awkward with Jerri, Jerri has the right to stew. When Jerri's ready, Icarus is ready to talk (just ghosting in reality)
 Bianca and Huyen angry face group chat
 
-At Verv
+At Verve
