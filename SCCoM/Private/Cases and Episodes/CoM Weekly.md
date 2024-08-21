@@ -109,11 +109,11 @@ Kenneth I need a mom and dad
 
 Bus mom and bus dad, Darcy and Emilio
 Kenneth hires parents
-Ewen is 7th grade at 10 years old, Santa Cruz middle school
+Ewen is 7th grade at 10 years old, Santa Cruz middle school w/ Phil
 Homeroom Ms. Wazowski
 
 Icarus is a Gym bro as a hobby
 Alcoholism, Valorant, Vigilantism, Community volunteer somewhere close to the river (soup, Chinese, adventure)
 Jim Spotter, Icarus' gym spotter
-Things are still awkward with Jerri, Jerri has the right to stew. When Jerri
+Things are still awkward with Jerri, Jerri has the right to stew. When Jerri's ready, Icarus is ready to talk (just ghosting in reality)
 Bianca and Huyen angry face group chat
