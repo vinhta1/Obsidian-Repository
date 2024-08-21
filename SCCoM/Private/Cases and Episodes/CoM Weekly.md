@@ -107,3 +107,6 @@ Detectives firebombed
 Ewan is in front of the elementary school by UCSC
 Kenneth I need a mom and dad
 
+Bus mom and bus dad, Darcy and Emilio
+Kenneth hires parents
+Ewen is 7th grade at 10 years old, Santa Cruz middle scho
