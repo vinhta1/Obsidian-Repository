@@ -63,10 +63,13 @@ Before their wook journey, Moonshadow Starship was a normal person. They lived a
 - Moonshadow's the shaman in Icarus's story, guiding him through his rut.
 # Sun
 Age: 16
+Works at a zoo
 
 # Seung-Jin
 Age: 15
+Aspiring K-Pop idol
 
 # Apu
 Age: Mid-40s
 Missing one very important sock
+Owns a convenience store
