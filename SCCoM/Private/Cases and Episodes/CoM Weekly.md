@@ -118,7 +118,7 @@ Jim S. Potter, Icarus' gym spotter
 Things are still awkward with Jerri, Jerri has the right to stew. When Jerri's ready, Icarus is ready to talk (just ghosting in reality)
 Bianca and Huyen angry face group chat
 
-At Verve Coffee
+### At Verve Coffee
 Danny calls Jerri and Icarus to get coffee and talk, they don't know the other has been invited
 Icarus gets sidetracked after spotting a fireside member and starts tailing them, and thus misses the meetup
 Jerri and Danny meet up, and Danny tries to provoke the mist by cutting themselves open
