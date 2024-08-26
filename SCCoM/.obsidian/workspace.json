@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/PCs.md",
+                "file": "Private/Cases and Episodes/CoM Weekly.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/PCs.md",
+                "file": "Private/Cases and Episodes/CoM Weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/PCs.md",
+                "file": "Private/Cases and Episodes/CoM Weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/PCs.md"
+                "file": "Private/Cases and Episodes/CoM Weekly.md"
               }
             }
           },
@@ -186,13 +186,14 @@
   },
   "active": "40ac91e5c675be6d",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/Ghost Festival.md",
+    "Private/PCs.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/PCs In Depth/Jerri Braun.md",
     "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Notes.md",
-    "Private/PCs.md",
     "Private/Rules of this Santa Cruz.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/Untitled 1.md",
@@ -201,7 +202,6 @@
     "Private/Cases and Episodes/Snow in the Summer.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
     "Private/Cases and Episodes/One Good Day.md",
-    "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Cases and Episodes/The Black Company.md",
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",

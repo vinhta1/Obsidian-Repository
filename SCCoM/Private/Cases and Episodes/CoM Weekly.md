@@ -118,4 +118,6 @@ Jim S. Potter, Icarus' gym spotter
 Things are still awkward with Jerri, Jerri has the right to stew. When Jerri's ready, Icarus is ready to talk (just ghosting in reality)
 Bianca and Huyen angry face group chat
 
-At Verve
+At Verve Coffee
+Danni calls 
+# 08/27/24
