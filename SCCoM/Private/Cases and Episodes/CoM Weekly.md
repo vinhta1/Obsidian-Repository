@@ -119,5 +119,12 @@ Things are still awkward with Jerri, Jerri has the right to stew. When Jerri's r
 Bianca and Huyen angry face group chat
 
 At Verve Coffee
-Danni calls 
+Danny calls Jerri and Icarus to get coffee and talk, they don't know the other has been invited
+Icarus gets sidetracked after spotting a fireside member and starts tailing them, and thus misses the meetup
+Jerri and Danny meet up, and Danny tries to provoke the mist by cutting themselves open
+The mist retaliates with sprinklers and incoming traffic.
+Jerri gets knocked sideways, Danny is split in half
+Icarus is cornered by some goons, but dispatches them easily before getting a signal from Danny. The feather
+He attempts to teleport, but cannot. He is chained down by some, who slinks out of the shadows
+Danny's blood starts to wash away
 # 08/27/24
