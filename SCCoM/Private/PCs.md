@@ -10,6 +10,10 @@ Age: 9-10
 The rift of Tyche used to be employed by other rifts.
 She was pushed to far and abandoned a previous logos into Asher.
 Tyche is now in hiding.
+
+Phil
+
+Bhil
 ### Charlie
 "Charlie, the nice lady I met in the game room, lets me sleep behind the arcade counter sometimes."
 A young woman that works at the Arcade, usually staffed behind the prize counter. Has the keys to the arcade.
