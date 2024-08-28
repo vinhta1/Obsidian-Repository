@@ -76,3 +76,6 @@ Owns a convenience store - Kwikimart
 Sitting at a desk behind the cash register
 Just Apu and a teenage employee on days they can't make it
 Teenager employee gone
+
+# Victor
+Florist girlfriend
