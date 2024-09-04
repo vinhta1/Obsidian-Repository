@@ -133,6 +133,7 @@ Chainman - Keep mythos and logos balanced, experienced, stay low-profile
 Chains is currently the only power they think they have
 Chains knows what powers Icarus has, Icarus over shares a bit
 Chainman looks like 2chains
+Jonathan = Chains
 
 Icarus social engineered chainman
 Suspicious Added
@@ -141,3 +142,7 @@ Boy Loft: Close to the boardwalk
 $2,400 due every month
 Half furnished: fridge, microwave, couch, no lights, no storage, no internet
 Kenneth is between 5'7 - 5'10
+
+Seed used: 9:04 PM Tue Sep 03 2024 84
+Trying for a normal day but something abnormal happens
+Ewen and the Crew looks for furniture
