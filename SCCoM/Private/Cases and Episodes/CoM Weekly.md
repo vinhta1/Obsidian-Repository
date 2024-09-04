@@ -133,3 +133,9 @@ Chainman - Keep mythos and logos balanced, experienced, stay low-profile
 Chains is currently the only power they think they have
 Chains knows what powers Icarus has, Icarus over shares a bit
 Chainman looks like 2chains
+
+Icarus social engineered chainman
+Suspicious Added
+
+Boy Loft: Close to the boardwalk
+Half furnished: fridge, microwave, couch, no lights, no storage, no internet
