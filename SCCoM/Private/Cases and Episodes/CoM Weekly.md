@@ -149,3 +149,5 @@ Ewen and the Crew looks for furniture
 
 Ewen stumbles into Maru Mart
 Beautiful Ornate Picture Frame of his Mom, Dad, and Sister
+
+Hyperrealistic painting of Ewen and Crew - ask for description 
