@@ -146,3 +146,6 @@ Kenneth is between 5'7 - 5'10
 Seed used: 9:04 PM Tue Sep 03 2024 84
 Trying for a normal day but something abnormal happens
 Ewen and the Crew looks for furniture
+
+Ewen stumbles into Maru Mart
+Beautiful Ornate Picture Frame of his Mom, Dad, and Sister
