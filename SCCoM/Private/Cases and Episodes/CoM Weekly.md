@@ -138,6 +138,6 @@ Icarus social engineered chainman
 Suspicious Added
 
 Boy Loft: Close to the boardwalk
+$2,400 due every month
 Half furnished: fridge, microwave, couch, no lights, no storage, no internet
-
 Kenneth is between 5'7 - 5'10
