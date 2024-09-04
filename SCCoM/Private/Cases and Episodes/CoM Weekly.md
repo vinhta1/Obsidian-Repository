@@ -129,3 +129,6 @@ He attempts to teleport, but cannot. He is chained down by some, who slinks out 
 Danny's blood starts to wash away
 # 08/27/24
 Peter and Grace theme improvement
+Chainman - Keep mythos and logos balanced, experienced, stay low-profile
+Chains is currently the only power they think they have
+Chains knows what powers 
