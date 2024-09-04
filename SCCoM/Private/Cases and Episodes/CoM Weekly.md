@@ -153,3 +153,4 @@ Beautiful Ornate Picture Frame of his Mom, Dad, and Sister
 Hyperrealistic painting of Ewen and Crew - ask for description
 21 people
 except ewen who is super abstract
+Caricature of Jerri, Icarus, and Ewen
