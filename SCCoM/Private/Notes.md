@@ -54,14 +54,16 @@ Ewen's parents come back to find him. Turns out to be gods of tricksters
 Moonshadow slowly becomes an eldritch horror/ elder god. His tents spawn sects.
 
 Gatekeepers/New Chinatown
-- Icarus
-- Jerri
+- Icarus (Prophecies, Nero)
+- Jerri (Old New Lucifer)
 
 Angels of Truth
-- Jerri
+- Jerri (Old History, Cults)
 
 The Black Company
-- Danny (Hostile Takeovers/)
+- Danny (Hostile Takeovers/Mythos Manipulation)
 - Victor (Legitimate Business/Law Enforcement)
-- Seung-Jin
+- Seung-Jin (Idol Industry)
 - Moonshadow (Hostile Takeovers/Local Businesses)
+
+The 
