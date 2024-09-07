@@ -47,8 +47,21 @@ The Black Company. Danny has to find the company and stop them from enslaving th
 
 Jerri's old cult comes looking for her. He seeks the power of Lucifer for himself
 
-Icarus finds out Nero is alive. Turns out the real Nero sent doppelgangers
+Icarus finds out Nero is alive. Turns out the real Nero sent doppelgangers.
 
 Ewen's parents come back to find him. Turns out to be gods of tricksters
 
-Moonshadow slowly becomes an eldritch horror/ elder god.
+Moonshadow slowly becomes an eldritch horror/ elder god. His tents spawn sects.
+
+Gatekeepers/New Chinatown
+- Icarus
+- Jerri
+
+Angels of Truth
+- Jerri
+
+The Black Company
+- Danny (Hostile Takeovers/)
+- Victor (Legitimate Business/Law Enforcement)
+- Seung-Jin
+- Moonshadow (Hostile Takeovers/Local Businesses)
