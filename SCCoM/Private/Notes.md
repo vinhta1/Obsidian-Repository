@@ -38,3 +38,17 @@ Jerri is looking for answers to her own mysteries
 What's it like to be Lucifer in the eyes of Lucifer themselves (Nero)?
 Can she stop herself from becoming Lucifer the bad guy or will she have to embrace it?
 the current diary is Phillip's grandma's diary
+
+Danny's mafia still alive? Rather not
+Danny used to do intel/espionage for Mafia
+Danny gets a prophecy about the future of the city.
+Danny gets visions of people. Has to do intel on people around the city.
+The Black Company. Danny has to find the company and stop them from enslaving the city.
+
+Jerri's old cult comes looking for her. He seeks the power of Lucifer for himself
+
+Icarus finds out Nero is alive. Turns out the real Nero sent doppelgangers
+
+Ewen's parents come back to find him. Turns out to be gods of tricksters
+
+Moonshadow slowly becomes an eldritch horror/ elder god.
