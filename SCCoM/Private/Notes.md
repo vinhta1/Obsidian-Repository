@@ -59,6 +59,7 @@ Gatekeepers/New Chinatown
 
 Angels of Truth
 - Jerri (Old History, Cults)
+- Moonshadow (Czhewy, old history)
 
 The Black Company
 - Danny (Hostile Takeovers/Mythos Manipulation)
