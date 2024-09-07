@@ -66,4 +66,14 @@ The Black Company
 - Seung-Jin (Idol Industry)
 - Moonshadow (Hostile Takeovers/Local Businesses)
 
-The 
+The Pantheons
+- Ewen (Trying to get Ewen's favor / War of Gods)
+
+The Bullies
+- Ewen
+- Seung-Jin
+- Sun
+
+The Gangs
+- Danny (Increasing Conflict, Citizens are in Danger)
+- 
