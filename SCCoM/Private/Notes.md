@@ -33,3 +33,8 @@ Jerri was on break, but did not see the bodies? -> Suspect
 	- Bones: Kenneth calls a fixer, Nero is taking care of the crew, The Cult is helping Jerri, Motiv manager looking out for Jerri
 	- Cases: Jerri extorted, lawyer looking for answers
 
+The Diary (blue)
+Jerri is looking for answers to her own mysteries
+What's it like to be Lucifer in the eyes of Lucifer themselves (Nero)?
+Can she stop herself from becoming Lucifer the bad guy or will she have to embrace it?
+the current diary is Phillip's grandma's diary
