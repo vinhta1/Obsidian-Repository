@@ -65,6 +65,7 @@ The Black Company
 - Victor (Legitimate Business/Law Enforcement)
 - Seung-Jin (Idol Industry)
 - Moonshadow (Hostile Takeovers/Local Businesses)
+- 
 
 The Pantheons
 - Ewen (Trying to get Ewen's favor / War of Gods)
