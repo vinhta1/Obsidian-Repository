@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Notes.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Notes.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Notes.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Notes.md"
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "40ac91e5c675be6d",
   "lastOpenFiles": [
+    "Private/Notes.md",
     "Private/PCs.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Ghost Festival.md",
@@ -193,7 +194,6 @@
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/PCs In Depth/Jerri Braun.md",
     "Private/Cases and Episodes/Blow The House Down.md",
-    "Private/Notes.md",
     "Private/Rules of this Santa Cruz.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/Untitled 1.md",
