@@ -11,7 +11,9 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 
 # Investigation
 ##### Fireside's List
-- It is a list of addresses and codes. The addresses are those of local businesses to target.
+- It is a list of addresses and codes.
+	- The addresses are targeted buildings.
+	- .
 
 # Showdown
 # Dangers
