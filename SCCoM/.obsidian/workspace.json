@@ -77,10 +77,14 @@
             "id": "d5a583bc4dd142bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Ghost - Mary on a Cross.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghost - Mary on a Cross"
             }
           }
         ],
@@ -156,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jukebox/Ghost - Mary on a Cross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ghost - Mary on a Cross"
             }
           },
           {
@@ -174,11 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jukebox/Ghost - Mary on a Cross.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ghost - Mary on a Cross"
             }
           },
           {
@@ -199,9 +205,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Jukebox/Ghost - Mary on a Cross.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ghost - Mary on a Cross"
             }
           },
           {
@@ -254,20 +262,26 @@
   },
   "active": "d5a583bc4dd142bc",
   "lastOpenFiles": [
+    "Jukebox/Army of Lovers - Crucified.md",
+    "Jukebox/Ghost - Mary on a Cross.md",
+    "Jukebox/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
     "Jukebox/Beyoncé - DAUGHTER.md",
+    "Jukebox/Vera Lynn - We'll Meet Again.md",
+    "Jukebox/Emma Blackery - Icarus.md",
+    "Jukebox/Hozier - From Eden.md",
+    "Jukebox/Emei - Trust Issues.md",
     "Jukebox/Depeche Mode - Blasphemous Rumors.md",
+    "Jukebox/Duran Duran - Danse Macabre.md",
+    "Jukebox/Kate Bush - Running Up That Hill.md",
+    "Jukebox/David Bowie - Lazarus.md",
+    "Jukebox/Metallica - Master of Puppets.md",
+    "Jukebox/Metallica - Fight Fire With Fire.md",
     "Jukebox/Unlike Pluto - Oh Raven.md",
     "Jukebox/ABBA - The Winner Takes It All.md",
     "Jukebox/Rebecca Black - Do You.md",
-    "Jukebox/Kate Bush - Running Up That Hill.md",
     "Jukebox/AuRa - Panic Room.md",
-    "Jukebox/Army of Lovers - Crucified.md",
     "Jukebox/Fleetwood Mac - The Chain.md",
-    "Jukebox/Metallica - Fight Fire With Fire.md",
-    "Jukebox/Metallica - Master of Puppets.md",
     "Jukebox/Will Wood - Laplace's Angel.md",
-    "Jukebox/Emei - Trust Issues.md",
-    "Jukebox/Duran Duran - Danse Macabre.md",
     "Jukebox",
     "Public/Jukebox.md",
     "Private/The Overarching Story.md",
@@ -277,12 +291,6 @@
     "Untitled.canvas",
     "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Factions.md",
-    "Private/List of Districts/Districts.md",
-    "Private/Cases and Episodes/Yellow Roses.md",
-    "Private/List of Districts/Downtown.md",
-    "Private/List of Districts/The Boardwalk.md",
-    "Private/List of Districts/UCSC.md",
-    "Private/Cases and Episodes/Siren's Sonata.md",
     "Private",
     "Public",
     "Private/PCs In Depth",
