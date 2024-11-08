@@ -39,10 +39,14 @@
             "id": "e621b204cc74ccf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Jukebox - MC/COLDLOVE - House Is on Fire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COLDLOVE - House Is on Fire"
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jukebox/Jukebox - MC/COLDLOVE - House Is on Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for COLDLOVE - House Is on Fire"
             }
           },
           {
@@ -136,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jukebox/Jukebox - MC/COLDLOVE - House Is on Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from COLDLOVE - House Is on Fire"
             }
           },
           {
@@ -161,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Jukebox/Jukebox - MC/COLDLOVE - House Is on Fire.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of COLDLOVE - House Is on Fire"
             }
           },
           {
@@ -216,6 +224,9 @@
   },
   "active": "e621b204cc74ccf9",
   "lastOpenFiles": [
+    "Jukebox/Jukebox - MC/Franz Ferdinand - This fffire.md",
+    "Jukebox/Jukebox - MC/COLDLOVE - House Is on Fire.md",
+    "Jukebox/Jukebox - MC",
     "Jukebox/Jukebox - Jerri/Will Wood - Laplace's Angel.md",
     "Jukebox/Jukebox - Jerri/Vera Lynn - We'll Meet Again.md",
     "Jukebox/Jukebox - Jerri/Hozier - From Eden.md",
@@ -241,8 +252,6 @@
     "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
     "Jukebox/Jukebox - Jerri/Ghost - Crucified.md",
     "Jukebox/Jukebox - Jerri/Unlike Pluto - Oh Raven.md",
-    "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
-    "Jukebox/Jukebox - Jerri/Ghost - Mary on a Cross.md",
     "Jukebox/Jukebox - Jerri",
     "Untitled 1.canvas",
     "Untitled.canvas",
