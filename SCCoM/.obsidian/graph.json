@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Jukebox tag:#Jerri ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,

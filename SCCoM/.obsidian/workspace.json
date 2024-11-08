@@ -44,51 +44,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "ec044077f2738174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jukebox/Will Wood - Laplace's Angel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Will Wood - Laplace's Angel"
-            }
-          },
-          {
-            "id": "07a8a16b916c64f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jukebox/Will Wood - Laplace's Angel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Will Wood - Laplace's Angel"
-            }
-          },
-          {
-            "id": "d5a583bc4dd142bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jukebox/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jukebox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jukebox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -205,11 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jukebox/Untitled.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -260,35 +214,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5a583bc4dd142bc",
+  "active": "e621b204cc74ccf9",
   "lastOpenFiles": [
-    "Jukebox/Miracle Musical - Labyrinth.md",
-    "Jukebox/Untitled.md",
-    "Jukebox/Miracle Musical - The Mind Electric.md",
-    "Jukebox/Will Wood - Laplace's Angel.md",
-    "Jukebox/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
-    "Jukebox/ABBA - The Winner Takes It All.md",
-    "Jukebox/Army of Lovers - Crucified.md",
-    "Jukebox/AuRa - Panic Room.md",
-    "Jukebox/Chappell Roan - HOT TO GO!.md",
-    "Jukebox/Emma Blackery - Icarus.md",
-    "Jukebox/Metallica - Master of Puppets.md",
-    "Jukebox/Fleetwood Mac - The Chain.md",
-    "Jukebox/Duran Duran - Danse Macabre.md",
-    "Jukebox/Emei - Trust Issues.md",
-    "Jukebox/The Beatles - I Want You (She's So Heavy).md",
-    "Jukebox/Depeche Mode - Blasphemous Rumors.md",
-    "Jukebox/David Bowie - Lazarus.md",
-    "Jukebox/Ghost - Crucified.md",
-    "Jukebox/Unlike Pluto - Oh Raven.md",
-    "Jukebox/Kate Bush - Running Up That Hill.md",
-    "Jukebox/Beyoncé - DAUGHTER.md",
-    "Jukebox/Ghost - Mary on a Cross.md",
-    "Jukebox/Hozier - From Eden.md",
-    "Jukebox/Vera Lynn - We'll Meet Again.md",
-    "Jukebox/Metallica - Fight Fire With Fire.md",
-    "Jukebox/Rebecca Black - Do You.md",
+    "Jukebox/Jukebox - Jerri/Will Wood - Laplace's Angel.md",
+    "Jukebox/Jukebox - Jerri/Vera Lynn - We'll Meet Again.md",
+    "Jukebox/Jukebox - Jerri/Hozier - From Eden.md",
+    "Jukebox/Jukebox - Jerri/The Beatles - I Want You (She's So Heavy).md",
+    "Jukebox/Jukebox - Jerri/The Ink Spots - I Don't Want to Set The World On Fire.md",
+    "Jukebox/Jukebox - Jerri/Fleetwood Mac - The Chain.md",
+    "Jukebox/Jukebox - Jerri/Rebecca Black - Do You.md",
+    "Jukebox/Jukebox - Jerri/Sacred Harp Singers - I'm Going Home.md",
+    "Jukebox/Jukebox - Jerri/Duran Duran - Danse Macabre.md",
+    "Jukebox/Jukebox - Jerri/Emma Blackery - Icarus.md",
+    "Jukebox/Jukebox - Jerri/Kate Bush - Running Up That Hill.md",
+    "Jukebox/Jukebox - Jerri/Miracle Musical - The Mind Electric.md",
     "Jukebox",
+    "Jukebox/Jukebox - Jerri/Miracle Musical - Labyrinth.md",
+    "Jukebox/Jukebox - Jerri/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
+    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
+    "Jukebox/Jukebox - Jerri/Army of Lovers - Crucified.md",
+    "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
+    "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
+    "Jukebox/Jukebox - Jerri/Metallica - Master of Puppets.md",
+    "Jukebox/Jukebox - Jerri/Emei - Trust Issues.md",
+    "Jukebox/Jukebox - Jerri/Depeche Mode - Blasphemous Rumors.md",
+    "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
+    "Jukebox/Jukebox - Jerri/Ghost - Crucified.md",
+    "Jukebox/Jukebox - Jerri/Unlike Pluto - Oh Raven.md",
+    "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
+    "Jukebox/Jukebox - Jerri/Ghost - Mary on a Cross.md",
+    "Jukebox/Jukebox - Jerri",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Private",
