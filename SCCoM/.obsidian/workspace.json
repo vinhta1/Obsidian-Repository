@@ -77,14 +77,10 @@
             "id": "d5a583bc4dd142bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jukebox/Metallica - Fight Fire With Fire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metallica - Fight Fire With Fire"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -160,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jukebox/Metallica - Fight Fire With Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metallica - Fight Fire With Fire"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,12 +174,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jukebox/Metallica - Fight Fire With Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metallica - Fight Fire With Fire"
+              "title": "Outgoing links"
             }
           },
           {
@@ -205,11 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jukebox/Metallica - Fight Fire With Fire.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Metallica - Fight Fire With Fire"
+              "title": "Outline"
             }
           },
           {
@@ -262,13 +254,20 @@
   },
   "active": "d5a583bc4dd142bc",
   "lastOpenFiles": [
+    "Jukebox/Beyoncé - DAUGHTER.md",
+    "Jukebox/Depeche Mode - Blasphemous Rumors.md",
+    "Jukebox/Unlike Pluto - Oh Raven.md",
+    "Jukebox/ABBA - The Winner Takes It All.md",
+    "Jukebox/Rebecca Black - Do You.md",
+    "Jukebox/Kate Bush - Running Up That Hill.md",
+    "Jukebox/AuRa - Panic Room.md",
+    "Jukebox/Army of Lovers - Crucified.md",
     "Jukebox/Fleetwood Mac - The Chain.md",
     "Jukebox/Metallica - Fight Fire With Fire.md",
+    "Jukebox/Metallica - Master of Puppets.md",
     "Jukebox/Will Wood - Laplace's Angel.md",
     "Jukebox/Emei - Trust Issues.md",
     "Jukebox/Duran Duran - Danse Macabre.md",
-    "Jukebox/AuRa - Panic Room.md",
-    "Jukebox/Army of Lovers - Crucified.md",
     "Jukebox",
     "Public/Jukebox.md",
     "Private/The Overarching Story.md",
@@ -284,13 +283,6 @@
     "Private/List of Districts/The Boardwalk.md",
     "Private/List of Districts/UCSC.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
-    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
-    "Private/Cases and Episodes/One Good Day.md",
-    "Private/Cases and Episodes/Phil and Connor.md",
-    "Private/Cases and Episodes/Snow in the Summer.md",
-    "Private/Cases and Episodes/The Black Company.md",
-    "Private/Cases and Episodes/The Slinky.md",
-    "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private",
     "Public",
     "Private/PCs In Depth",
