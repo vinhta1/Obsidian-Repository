@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jukebox/Ghost - Mary on a Cross.md",
+                "file": "Jukebox/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghost - Mary on a Cross"
+              "title": "Untitled"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jukebox/Ghost - Mary on a Cross.md",
+                "file": "Jukebox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ghost - Mary on a Cross"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jukebox/Ghost - Mary on a Cross.md",
+                "file": "Jukebox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ghost - Mary on a Cross"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jukebox/Ghost - Mary on a Cross.md"
+                "file": "Jukebox/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ghost - Mary on a Cross"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -262,35 +262,35 @@
   },
   "active": "d5a583bc4dd142bc",
   "lastOpenFiles": [
-    "Jukebox/Army of Lovers - Crucified.md",
-    "Jukebox/Ghost - Mary on a Cross.md",
-    "Jukebox/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
-    "Jukebox/Beyoncé - DAUGHTER.md",
-    "Jukebox/Vera Lynn - We'll Meet Again.md",
-    "Jukebox/Emma Blackery - Icarus.md",
-    "Jukebox/Hozier - From Eden.md",
-    "Jukebox/Emei - Trust Issues.md",
-    "Jukebox/Depeche Mode - Blasphemous Rumors.md",
-    "Jukebox/Duran Duran - Danse Macabre.md",
-    "Jukebox/Kate Bush - Running Up That Hill.md",
-    "Jukebox/David Bowie - Lazarus.md",
-    "Jukebox/Metallica - Master of Puppets.md",
-    "Jukebox/Metallica - Fight Fire With Fire.md",
-    "Jukebox/Unlike Pluto - Oh Raven.md",
-    "Jukebox/ABBA - The Winner Takes It All.md",
-    "Jukebox/Rebecca Black - Do You.md",
-    "Jukebox/AuRa - Panic Room.md",
-    "Jukebox/Fleetwood Mac - The Chain.md",
+    "Jukebox/Miracle Musical - Labyrinth.md",
+    "Jukebox/Untitled.md",
+    "Jukebox/Miracle Musical - The Mind Electric.md",
     "Jukebox/Will Wood - Laplace's Angel.md",
+    "Jukebox/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
+    "Jukebox/ABBA - The Winner Takes It All.md",
+    "Jukebox/Army of Lovers - Crucified.md",
+    "Jukebox/AuRa - Panic Room.md",
+    "Jukebox/Chappell Roan - HOT TO GO!.md",
+    "Jukebox/Emma Blackery - Icarus.md",
+    "Jukebox/Metallica - Master of Puppets.md",
+    "Jukebox/Fleetwood Mac - The Chain.md",
+    "Jukebox/Duran Duran - Danse Macabre.md",
+    "Jukebox/Emei - Trust Issues.md",
+    "Jukebox/The Beatles - I Want You (She's So Heavy).md",
+    "Jukebox/Depeche Mode - Blasphemous Rumors.md",
+    "Jukebox/David Bowie - Lazarus.md",
+    "Jukebox/Ghost - Crucified.md",
+    "Jukebox/Unlike Pluto - Oh Raven.md",
+    "Jukebox/Kate Bush - Running Up That Hill.md",
+    "Jukebox/Beyoncé - DAUGHTER.md",
+    "Jukebox/Ghost - Mary on a Cross.md",
+    "Jukebox/Hozier - From Eden.md",
+    "Jukebox/Vera Lynn - We'll Meet Again.md",
+    "Jukebox/Metallica - Fight Fire With Fire.md",
+    "Jukebox/Rebecca Black - Do You.md",
     "Jukebox",
-    "Public/Jukebox.md",
-    "Private/The Overarching Story.md",
-    "Private/Rules of this Santa Cruz.md",
-    "Private/Cases and Episodes/Into the Fire.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Private/Cases and Episodes/Blow The House Down.md",
-    "Private/Factions.md",
     "Private",
     "Public",
     "Private/PCs In Depth",
