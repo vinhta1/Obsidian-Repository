@@ -51,16 +51,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jukebox/Untitled.md",
+                "file": "Jukebox/Will Wood - Laplace's Angel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Will Wood - Laplace's Angel"
+            }
+          },
+          {
+            "id": "07a8a16b916c64f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Will Wood - Laplace's Angel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Will Wood - Laplace's Angel"
+            }
+          },
+          {
+            "id": "d5a583bc4dd142bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Metallica - Fight Fire With Fire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metallica - Fight Fire With Fire"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jukebox/Untitled.md",
+                "file": "Jukebox/Metallica - Fight Fire With Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Metallica - Fight Fire With Fire"
             }
           },
           {
@@ -151,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jukebox/Untitled.md",
+                "file": "Jukebox/Metallica - Fight Fire With Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Metallica - Fight Fire With Fire"
             }
           },
           {
@@ -178,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jukebox/Untitled.md"
+                "file": "Jukebox/Metallica - Fight Fire With Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Metallica - Fight Fire With Fire"
             }
           },
           {
@@ -232,10 +260,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec044077f2738174",
+  "active": "d5a583bc4dd142bc",
   "lastOpenFiles": [
+    "Jukebox/Fleetwood Mac - The Chain.md",
+    "Jukebox/Metallica - Fight Fire With Fire.md",
+    "Jukebox/Will Wood - Laplace's Angel.md",
+    "Jukebox/Emei - Trust Issues.md",
+    "Jukebox/Duran Duran - Danse Macabre.md",
     "Jukebox/AuRa - Panic Room.md",
-    "Jukebox/Untitled.md",
+    "Jukebox/Army of Lovers - Crucified.md",
     "Jukebox",
     "Public/Jukebox.md",
     "Private/The Overarching Story.md",
@@ -258,11 +291,6 @@
     "Private/Cases and Episodes/The Black Company.md",
     "Private/Cases and Episodes/The Slinky.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
-    "Private/Cases and Episodes/The Witch in the Woods.md",
-    "Private/Cases and Episodes/Untitled.md",
-    "Private/Cases and Episodes/Untitled 1.md",
-    "Private/Cases and Episodes/Bodies and the Beanstalk.md",
-    "Private/Cases and Episodes/CoM Weekly.md",
     "Private",
     "Public",
     "Private/PCs In Depth",
