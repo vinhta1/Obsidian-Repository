@@ -39,36 +39,24 @@
             "id": "e621b204cc74ccf9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ec044077f2738174",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Jukebox/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
-            }
-          },
-          {
-            "id": "9084ade3c1b3cbfa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "6a645c06dd36b2bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md",
+                "file": "Jukebox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blow The House Down"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -163,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md",
+                "file": "Jukebox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blow The House Down"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -190,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Blow The House Down.md"
+                "file": "Jukebox/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Blow The House Down"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -244,8 +232,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9084ade3c1b3cbfa",
+  "active": "ec044077f2738174",
   "lastOpenFiles": [
+    "Jukebox/AuRa - Panic Room.md",
+    "Jukebox/Untitled.md",
+    "Jukebox",
+    "Public/Jukebox.md",
+    "Private/The Overarching Story.md",
+    "Private/Rules of this Santa Cruz.md",
+    "Private/Cases and Episodes/Into the Fire.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Factions.md",
     "Private/List of Districts/Districts.md",
     "Private/Cases and Episodes/Yellow Roses.md",
@@ -253,7 +251,6 @@
     "Private/List of Districts/The Boardwalk.md",
     "Private/List of Districts/UCSC.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
-    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/Phil and Connor.md",
@@ -264,15 +261,8 @@
     "Private/Cases and Episodes/The Witch in the Woods.md",
     "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/Untitled 1.md",
-    "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/CoM Weekly.md",
-    "Private/Cases and Episodes/Ghost Festival.md",
-    "Private/Notes.md",
-    "Private/PCs.md",
-    "Private/PCs In Depth/Jerri Braun.md",
-    "Private/Rules of this Santa Cruz.md",
-    "Untitled",
     "Private",
     "Public",
     "Private/PCs In Depth",
