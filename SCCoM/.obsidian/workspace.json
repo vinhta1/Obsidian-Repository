@@ -48,9 +48,31 @@
               "icon": "lucide-file",
               "title": "Zamilska - Duel 35 Chamber Orchestra"
             }
+          },
+          {
+            "id": "5ce318fb25b19848",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "c799e9c5bb829778",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +244,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e621b204cc74ccf9",
+  "active": "5ce318fb25b19848",
   "lastOpenFiles": [
     "Jukebox/Jukebox - General/Nine Inch Nails - Into The Void.md",
     "Jukebox/Jukebox - General/Idris Elba - Choke Hold.md",
