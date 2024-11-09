@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#jukebox #jerri #emotional",
+  "search": "#jukebox #wrong",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.000000000000001,
+  "scale": 1.0000000000000016,
   "close": false
 }
