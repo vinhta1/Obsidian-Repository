@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Sacred Harp Singers - I'm Going Home"
             }
+          },
+          {
+            "id": "ad982b7ca571d443",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
