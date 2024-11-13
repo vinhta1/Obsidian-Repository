@@ -1,5 +1,7 @@
-#Factions #BlackCompany #
+#Factions #BlackCompany 
 [[Balanced Helix]]
 [[Sunborn Studios]]
-[[JKP Entertainment]]
+[[KP Entertainment]]
 [[Thornton Farms & Concepts]]
+[[J4]]
+[[Vincent Ta, Real Estate and Law]]
