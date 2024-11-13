@@ -1,3 +1,3 @@
-### Netrunner
-Soda City Funk
-Something About Us
+Tim Legend - Soda City Funk
+Daft Punk - Something About Us
+Jane Pop - Pulp Fiction
