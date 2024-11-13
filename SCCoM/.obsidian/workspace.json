@@ -109,12 +109,10 @@
             "id": "ab2f62394df6c7ef",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -179,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Jerri",
+                "query": "tag:#General",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,6 +320,18 @@
   },
   "active": "ab2f62394df6c7ef",
   "lastOpenFiles": [
+    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
+    "Jukebox/Jukebox - Jerri/Army of Lovers - Crucified.md",
+    "Jukebox/Jukebox Glossary.md",
+    "Jukebox/Jukebox - Seung-Jin",
+    "Jukebox/Jukebox - Jerri/Emei - Trust Issues.md",
+    "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
+    "Jukebox/Jukebox - Jerri/Depeche Mode - Blasphemous Rumors.md",
+    "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
+    "Jukebox/Jukebox - Jerri/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
+    "Jukebox/Jukebox - Moonshadow/The Dead Pirates - Ugo.md",
+    "Jukebox/Jukebox - Moonshadow/Blockhead - The Music Scene.md",
+    "Jukebox/Jukebox - Moonshadow/Glue Trip - Elbow Pain.md",
     "Private/Cases and Episodes/Untitled 1.md",
     "Private/Cases and Episodes/Yellow Roses.md",
     "Private/Faction List/The Black Company/The Black Company.md",
@@ -336,18 +346,6 @@
     "Private/Faction List/Factions.md",
     "Private/Faction List/New Chinatown.md",
     "Private/District List/UCSC.md",
-    "Jukebox/Jukebox - General/Nine Inch Nails - Closer.md",
-    "Jukebox/Jukebox - General/COLDLOVE - House Is on Fire.md",
-    "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
-    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
-    "Jukebox/Jukebox - General/Zamilska - Duel 35 Chamber Orchestra.md",
-    "Jukebox/Jukebox - General/Nine Inch Nails - Into The Void.md",
-    "Jukebox/Jukebox - General/Idris Elba - Choke Hold.md",
-    "Jukebox/Jukebox - General/Franz Ferdinand - This fffire.md",
-    "Jukebox/Jukebox - General/Zamilska - Duel 35.md",
-    "Private/Cases and Episodes/One Good Day.md",
-    "Private/Cases and Episodes/Ghost Festival.md",
-    "Private/Ideas.md",
     "Private/Faction List/The Black Company",
     "Private/Faction List",
     "Factions",
@@ -358,7 +356,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Private",
-    "Public",
-    "Private/PCs In Depth"
+    "Public"
   ]
 }
