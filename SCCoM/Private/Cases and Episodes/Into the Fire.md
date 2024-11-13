@@ -21,7 +21,8 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- 3 of the addresses match up with Jerri's list.
 		- 2 are Fireside hideouts. 1 is a Fireside member's home.
 	- The other two are an innocent person's home and a building in construction. No clues can be found here, other than a lack of clues.
-##### Pacific Ave, The Dirt Lot
-##### 
+##### Pacific Ave, The Unfinished Station
+
+##### A Local B
 # Showdown
 # Dangers
