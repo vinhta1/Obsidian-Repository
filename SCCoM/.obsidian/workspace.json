@@ -95,10 +95,14 @@
             "id": "5727d26421c6b8d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Private/Faction List/The Black Company/Sunborn Studios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunborn Studios"
             }
           },
           {
@@ -239,9 +243,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Private/Faction List/The Black Company/Sunborn Studios.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sunborn Studios"
             }
           },
           {
@@ -294,6 +300,7 @@
   },
   "active": "5727d26421c6b8d1",
   "lastOpenFiles": [
+    "Private/District List/UCSC.md",
     "Jukebox/Jukebox - General/Nine Inch Nails - Closer.md",
     "Private/Faction List/Factions.md",
     "Jukebox/Jukebox - General/COLDLOVE - House Is on Fire.md",
@@ -308,7 +315,6 @@
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Faction List/New Chinatown.md",
-    "Private/District List/UCSC.md",
     "Private/Faction List/The Black Company/Balanced Helix.md",
     "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/The Black Company/Sunborn Studios.md",
