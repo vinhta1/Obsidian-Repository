@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Private/Faction List/The Black Company/The Black Company.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "The Black Company"
+            }
+          },
+          {
+            "id": "627d44c73dd4ca16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Faction List/The Black Company/The Black Company.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Black Company"
             }
           },
           {
@@ -41,7 +55,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Private/Faction List/The Black Company/The Black Company.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline of The Black Company"
             }
           },
           {
@@ -213,8 +228,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3818458ba4d71369",
+  "active": "627d44c73dd4ca16",
   "lastOpenFiles": [
+    "Private/Faction List/The Black Company/Sunborn Studios.md",
+    "Private/Faction List/The Black Company/Balanced Helix.md",
+    "Private/Faction List/The Black Company/The Black Company.md",
+    "Private/Faction List/Factions.md",
+    "Private/Faction List/The Black Company",
+    "Private/District List/UCSC.md",
+    "Private/District List/The Boardwalk.md",
+    "Private/District List/Downtown.md",
+    "Private/District List/Districts.md",
+    "Private/Faction List",
+    "Factions",
+    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Blow The House Down.md",
     "Jukebox/Jukebox Glossary.md",
     "Jukebox/Jukebox - Jerri/Sacred Harp Singers - I'm Going Home.md",
@@ -232,25 +259,14 @@
     "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
     "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
     "Jukebox/Jukebox - Jerri/Army of Lovers - Crucified.md",
-    "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
-    "Private/Factions.md",
-    "Jukebox/Jukebox - Moonshadow/Glue Trip - Elbow Pain.md",
-    "Jukebox/Jukebox - Moonshadow/The Dead Pirates - Ugo.md",
-    "Jukebox/Jukebox - Moonshadow/Blockhead - The Music Scene.md",
-    "Jukebox/Jukebox - General/Nine Inch Nails - Closer.md",
-    "Jukebox/Jukebox - General/Zamilska - Duel 35.md",
     "Jukebox/Jukebox - Moonshadow",
     "Jukebox/Jukebox - General",
-    "Jukebox/Jukebox - Jerri/Will Wood - Laplace's Angel.md",
-    "Jukebox/Jukebox - Jerri/Vera Lynn - We'll Meet Again.md",
     "Jukebox",
     "Jukebox/Jukebox - Jerri",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Private",
     "Public",
-    "Private/PCs In Depth",
-    "Private/Cases and Episodes",
-    "Private/List of Districts"
+    "Private/PCs In Depth"
   ]
 }

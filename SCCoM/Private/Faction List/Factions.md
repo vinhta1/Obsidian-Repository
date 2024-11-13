@@ -1,3 +1,4 @@
+#Factions
 # New Chinatown, Gatekeepers
 ### Goal: Maintain the Mist, Attend to the Ghosts
 They've been stretched thin since their founding, about a decade after they lost the Last Chinatown. Established underneath UCSC, they take the time to protect and assist the Mist and the natural order of things. Most rifts operate just fine, since their dealings look like everyday happenings at best. There's enough evil in the world to justify anything nowadays. But when things get a little too weird, they're there to uproot the weeds. Order and ordinary is everything to the Gatekeepers. They don't want a repeat of history. Thus, the Gatekeepers and Avatars have a mutual yet bitter and fragile agreement.
@@ -39,7 +40,7 @@ Fists, kicks, and wild martial arts. Techniques and abilities straight out of co
 ### Ramona and Jules
 Ramona is a bandage-and-bruise-covered fighter. Jules is a double-axe-wielding maniac. A protector and an assassin who are in-love with each other. This cannot end well.
 
-# The Black Company
+# [[The Black Company]]
 
 ### Goal: Work. Advance. Profit.
 The Black Company isn't one faction. It is more like a conglomerate. A meat grinder that young and aspiring people walk into willingly, only to come out without a will to live. That isn't to say that this company isn't necessary. In fact, it has led to many revolutions in every field: medical advancements, technological breakthroughs, you name it. But behind closed doors and buried underneath paperwork and bureaucracy, things that shouldn't exist are contained in concrete and linoleum cells. Research on Rifts, Relics, and further anomalies are performed in the pursuit of progress, often citing it's "for the good of everyone." Once again, it isn't a faction, or even a singular entity. But if you want to find where all the weird is happening, the headquarters can be found right in the middle of Santa Cruz: a towering pure black monolith that no one can seem to see.

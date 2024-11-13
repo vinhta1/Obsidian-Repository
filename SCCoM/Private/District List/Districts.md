@@ -1,3 +1,4 @@
+#Districts
 - [[UCSC|University of California, Santa Cruz (UCSC)]]
 	- A public research university nestled in between mountains and redwood forests overlooking the coast, known for its unique combination of academic excellence, natural beauty, and a progressive and alternative culture that makes it distinct within the University of California system.
 	- Who knows what goes on in the forests, fields and buildings of this campus?
