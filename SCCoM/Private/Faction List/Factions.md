@@ -1,5 +1,5 @@
 #Factions
-# New Chinatown, Gatekeepers
+# [[New Chinatown]], Gatekeepers
 ### Goal: Maintain the Mist, Attend to the Ghosts
 They've been stretched thin since their founding, about a decade after they lost the Last Chinatown. Established underneath UCSC, they take the time to protect and assist the Mist and the natural order of things. Most rifts operate just fine, since their dealings look like everyday happenings at best. There's enough evil in the world to justify anything nowadays. But when things get a little too weird, they're there to uproot the weeds. Order and ordinary is everything to the Gatekeepers. They don't want a repeat of history. Thus, the Gatekeepers and Avatars have a mutual yet bitter and fragile agreement.
 

@@ -83,12 +83,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
+                "file": "Private/Faction List/Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vincent Ta, Real Estate and Law"
+              "title": "Factions"
+            }
+          },
+          {
+            "id": "5727d26421c6b8d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -112,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -143,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Jerri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,11 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Vincent Ta, Real Estate and Law"
+              "title": "Outline"
             }
           },
           {
@@ -267,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -284,37 +292,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94e3fee48b67380b",
+  "active": "5727d26421c6b8d1",
   "lastOpenFiles": [
-    "Private/Faction List/The Black Company/KP Entertainment.md",
-    "Private/Faction List/The Black Company/Sunborn Studios.md",
-    "Private/Faction List/The Black Company/The Black Company.md",
-    "Private/Faction List/The Black Company/Thornton Farms & Concepts.md",
-    "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
+    "Jukebox/Jukebox - General/Nine Inch Nails - Closer.md",
     "Private/Faction List/Factions.md",
-    "Private/Ideas.md",
-    "Private/Faction List/The Black Company/J4.md",
-    "Private/Faction List/The Black Company/Balanced Helix.md",
-    "Private/Faction List/The Black Company",
+    "Jukebox/Jukebox - General/COLDLOVE - House Is on Fire.md",
+    "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
+    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
+    "Jukebox/Jukebox - General/Zamilska - Duel 35 Chamber Orchestra.md",
+    "Jukebox/Jukebox - General/Nine Inch Nails - Into The Void.md",
+    "Jukebox/Jukebox - General/Idris Elba - Choke Hold.md",
+    "Jukebox/Jukebox - General/Franz Ferdinand - This fffire.md",
+    "Jukebox/Jukebox - General/Zamilska - Duel 35.md",
+    "Private/Cases and Episodes/Into the Fire.md",
+    "Private/Cases and Episodes/One Good Day.md",
+    "Private/Cases and Episodes/Ghost Festival.md",
+    "Private/Faction List/New Chinatown.md",
     "Private/District List/UCSC.md",
+    "Private/Faction List/The Black Company/Balanced Helix.md",
+    "Private/Faction List/The Black Company/The Black Company.md",
+    "Private/Faction List/The Black Company/Sunborn Studios.md",
+    "Private/Faction List/The Black Company/KP Entertainment.md",
+    "Private/Faction List/The Black Company/Thornton Farms & Concepts.md",
+    "Private/Faction List/The Black Company/J4.md",
+    "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
+    "Private/Ideas.md",
+    "Private/Faction List/The Black Company",
     "Private/District List/The Boardwalk.md",
     "Private/District List/Downtown.md",
     "Private/District List/Districts.md",
     "Private/Faction List",
     "Factions",
-    "Private/Cases and Episodes/Into the Fire.md",
-    "Private/Cases and Episodes/Blow The House Down.md",
-    "Jukebox/Jukebox Glossary.md",
-    "Jukebox/Jukebox - Jerri/Sacred Harp Singers - I'm Going Home.md",
-    "Jukebox/Jukebox - General/Zamilska - Duel 35 Chamber Orchestra.md",
-    "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
-    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
-    "Jukebox/Jukebox - General/Nine Inch Nails - Into The Void.md",
-    "Jukebox/Jukebox - General/Idris Elba - Choke Hold.md",
-    "Jukebox/Jukebox - General/Franz Ferdinand - This fffire.md",
-    "Jukebox/Jukebox - General/COLDLOVE - House Is on Fire.md",
-    "Jukebox/Jukebox - Jerri/Unlike Pluto - Oh Raven.md",
-    "Jukebox/Jukebox - Jerri/Ghost - Crucified.md",
     "Jukebox/Jukebox - Moonshadow",
     "Jukebox/Jukebox - General",
     "Jukebox",
