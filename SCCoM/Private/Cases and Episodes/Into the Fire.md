@@ -6,7 +6,7 @@ A group of arsonists, known as Fireside, are targeting small businesses, and it'
 
 A Fireside member's house was targeted. Fire, just like the other arsons. But this was someone's home. Jerri was there to save the woman and child trapped inside. But what if she wasn't?
 
-Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate. Armed with a list of locations and some gasoline, Fireside is going to burn.
+Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate after hearing that a Fireside member's house was the target of arson. Armed with a list of locations and some gasoline, Fireside is going to burn.
 # Cold Open
 
 # Investigation
