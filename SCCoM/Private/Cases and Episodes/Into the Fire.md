@@ -11,13 +11,16 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 
 
 # Investigation
-##### Fireside's List
-- It is a list of 5 addresses and numerous codes.
+##### The Picnic Basket: preplanning payback
+- Jerri's List
+	- It is a list of 4 addresses and numerous codes.
 	- The addresses are targeted buildings.
 	- The codes are passwords for authenticators, allowing access to hidden emails and messages.
-- 4 of the addresses are legit. 
-	- 2 are Fireside hideouts. 1 is a Black Company Front. 1 is a Fireside member's home.
-	- The fifth one is an innocent person's home.
+- Andrew Scott's Map
+	- There's a map with 5 locations circled.
+	- 3 of the addresses match up with Jerri's list.
+		- 2 are Fireside hideouts. 1 is a Fireside member's home.
+	- The other two are an innocent person's home and a building in construction. No clues can be found here, other than a lack of clues.
 
 # Showdown
 # Dangers
