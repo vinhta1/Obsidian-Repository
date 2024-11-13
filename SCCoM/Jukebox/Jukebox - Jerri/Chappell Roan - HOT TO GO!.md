@@ -1,2 +1,6 @@
 #Jukebox #Jerri #Energetic #Upbeat
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3oEkrIfXfSh9zGnE7eBzSV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV?si=45bb3a3e302b4038
+
+## Player Notes
+## MC Notes
