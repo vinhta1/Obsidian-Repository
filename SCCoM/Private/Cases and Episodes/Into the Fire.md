@@ -22,7 +22,10 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 		- 2 are Fireside hideouts. 1 is a Fireside member's home.
 	- The other two are an innocent person's home and a building in construction. No clues can be found here, other than a lack of clues.
 ##### Pacific Ave, The Unfinished Station
-
-##### A Local B
+##### A Local Business, Hideout
+##### A Fireside House
+##### The Innocent House
+##### The Unfinished Building
+##### The Front
 # Showdown
 # Dangers
