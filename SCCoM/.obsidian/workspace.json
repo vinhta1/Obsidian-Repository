@@ -106,6 +106,28 @@
             }
           },
           {
+            "id": "ab2f62394df6c7ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "c2d760812462dd51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "4e45ed917b64522e",
             "type": "leaf",
             "state": {
@@ -126,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -298,7 +320,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5727d26421c6b8d1",
+  "active": "ab2f62394df6c7ef",
   "lastOpenFiles": [
     "Private/Cases and Episodes/Untitled 1.md",
     "Private/Cases and Episodes/Yellow Roses.md",
