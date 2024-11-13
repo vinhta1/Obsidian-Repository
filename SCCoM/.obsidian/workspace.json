@@ -109,10 +109,14 @@
             "id": "ab2f62394df6c7ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chappell Roan - HOT TO GO!"
             }
           },
           {
@@ -177,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#General",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +202,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -320,6 +325,7 @@
   },
   "active": "ab2f62394df6c7ef",
   "lastOpenFiles": [
+    "Jukebox/Jukebox - Jerri/Vera Lynn - We'll Meet Again.md",
     "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
     "Jukebox/Jukebox - Jerri/Army of Lovers - Crucified.md",
     "Jukebox/Jukebox Glossary.md",
