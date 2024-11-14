@@ -13,7 +13,7 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 # Investigation
 ##### The Picnic Basket: preplanning payback
 - Jerri's List
-	- It is a list of 4 addresses and numerous codes.
+	- It is a list of 4 addresses and 4 codes.
 	- The addresses are targeted buildings.
 	- The codes are passwords for authenticators, allowing access to hidden emails and messages.
 		- The address corresponds with the person responsible for burning it. e.g. if Chris burnt the corner store, his password is next to the corner store's address.
