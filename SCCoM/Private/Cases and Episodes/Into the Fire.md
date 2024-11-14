@@ -19,8 +19,9 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 		- The address corresponds with the person responsible for burning it. e.g. if Chris burnt the corner store, his password is next to the corner store's address.
 - Andrew Scott's Map
 	- There's a map with 5 locations circled.
-	- 3 of the addresses match up with the POI's list.
-		- 2 are Fireside hideouts. 1 is a Fireside member's home.
+##### The New List:
+- 3 of the addresses match up with the POI's list. 
+	- 2 are Fireside hideouts. 1 is a Fireside member's home.
 	- The other two are an innocent person's home and a building in construction. No clues can be found here, other than a lack of clues.
 ##### Pacific Ave, The Unfinished Station
 ##### A Local Business, Hideout
