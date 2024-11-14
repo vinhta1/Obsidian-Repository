@@ -120,6 +120,16 @@
             }
           },
           {
+            "id": "8fc10de1d8bc12a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "c2d760812462dd51",
             "type": "leaf",
             "state": {
