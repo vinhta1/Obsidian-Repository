@@ -4,163 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "468535d0335f9b10",
+        "id": "9a1735c47fa23684",
         "type": "tabs",
         "children": [
           {
-            "id": "3818458ba4d71369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Black Company"
-            }
-          },
-          {
-            "id": "627d44c73dd4ca16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Black Company"
-            }
-          },
-          {
-            "id": "a62b73d4a0db215d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Black Company"
-            }
-          },
-          {
-            "id": "3ef8277c1989434e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Black Company"
-            }
-          },
-          {
-            "id": "c52bb13e2c61e9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Black Company"
-            }
-          },
-          {
-            "id": "94e3fee48b67380b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Faction List/Factions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Factions"
-            }
-          },
-          {
-            "id": "5727d26421c6b8d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Into the Fire"
-            }
-          },
-          {
-            "id": "ab2f62394df6c7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Into the Fire"
-            }
-          },
-          {
-            "id": "4e8eeef76bf61b7e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8fc10de1d8bc12a1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c2d760812462dd51",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4e45ed917b64522e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ad982b7ca571d443",
+            "id": "0ec7a85b8743e860",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,9 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab2f62394df6c7ef",
+  "active": "0ec7a85b8743e860",
   "lastOpenFiles": [
+    "Private/Faction List/The Black Company/The Black Company.md",
+    "Private/Faction List/Factions.md",
+    "Private/Cases and Episodes/Into the Fire.md",
     "Jukebox/Jukebox Brainstorm.md",
+    "Jukebox/Jukebox Glossary.md",
     "Jukebox/Jukebox - General/Franz Ferdinand - This fffire.md",
     "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
     "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
@@ -366,10 +217,6 @@
     "Jukebox/Jukebox - Jerri/Will Wood - Laplace's Angel.md",
     "Jukebox/Jukebox - Moonshadow/Blockhead - The Music Scene.md",
     "Jukebox/Jukebox - Moonshadow/Glass Animals - Gooey.md",
-    "Jukebox/Jukebox - Moonshadow/Glue Trip - Elbow Pain.md",
-    "Jukebox/Jukebox - Moonshadow/The Dead Pirates - Ugo.md",
-    "Jukebox/Jukebox - Jerri/COLDLOVE - House Is on Fire.md",
-    "Jukebox/Jukebox - Seung-Jin/Block B - 닐리리맘보.md",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
     "Private/Faction List",
