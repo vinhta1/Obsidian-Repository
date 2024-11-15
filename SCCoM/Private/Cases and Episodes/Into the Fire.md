@@ -13,19 +13,20 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 # Investigation
 ##### The Picnic Basket: preplanning payback
 - Jerri's List
-	- It is a list of 4 addresses and 4 codes.
-	- The addresses are targeted buildings.
+	- It is a list of 4 addresses of local businesses and 4 alphanumeric character sequences.
 	- The codes are passwords for authenticators, allowing access to hidden emails and messages.
 		- The address corresponds with the person responsible for burning it. e.g. if Chris burnt the corner store, his password is next to the corner store's address.
 - Andrew Scott's Map
-	- There's a map with 5 locations circled.
+	- There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
 ##### The New List:
-- 3 of the addresses match up with the POI's list. 
+- The New List contains the details and significance of 4 addresses.
+- 3 of the addresses from the Map match up with the New List. 
 	- 2 are Fireside hideouts. 1 is a Fireside member's home.
-	- The other two are an innocent person's home and a building in construction. No clues can be found here, other than a lack of clues.
+	- The other two from the Map are an innocent person's home and a building in construction. No clues can be found here.
+	- The 4th address from the New List is a Black Company Front.
 ##### Pacific Ave, The Unfinished Station
-##### A Local Business, Hideout
-##### A Fireside House
+##### 1111 Water Street. A Local Business, Hideout
+##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
 ##### The Front
