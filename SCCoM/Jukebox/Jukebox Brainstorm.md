@@ -15,5 +15,6 @@ WHIPPED CREAM, LICK - The Greatest
 Hozier - It Will Come Back
 Hozier - Angel of Small Death and the Codeine Scene
 for icarus
-Haikyuu Season 3 OST - The Battle of Concepts
-Haikyuu!! - Greed (Extended)
+- Haikyuu Season 3 OST - The Battle of Concepts
+- Haikyuu!! - Greed (Extended)
+Ark Patrol - Hex (VIP)
