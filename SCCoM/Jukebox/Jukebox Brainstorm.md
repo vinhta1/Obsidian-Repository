@@ -14,7 +14,12 @@ Panjabi MC - Mundian To Bach Ke
 WHIPPED CREAM, LICK - The Greatest
 Hozier - It Will Come Back
 Hozier - Angel of Small Death and the Codeine Scene
-for icarus
+for Icarus
 - Haikyuu Season 3 OST - The Battle of Concepts
 - Haikyuu!! - Greed (Extended)
 Ark Patrol - Hex (VIP)
+A Tribe Called Red - Electric Pow Wow Drum
+A Tribe Called Red - SILA
+Fall Out Boy - Fourth of July
+for Ewan
+- Metallica and Skrillex
