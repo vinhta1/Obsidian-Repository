@@ -8,3 +8,6 @@ Anna von Hausswolff - Ugly And Vengeful
 Orville Peck - No Glory in the West
 Orville Peck - Dead of Night
 Johnny Cash - Hurt
+The Shanghai Restoration - Paris of the East
+Hanumankind, Kalmi - Big Dawgs
+Panjabi MC - Mundian To Bach Ke

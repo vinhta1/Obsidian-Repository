@@ -11,10 +11,14 @@
             "id": "0ec7a85b8743e860",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Jukebox Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jukebox Brainstorm"
             }
           },
           {
