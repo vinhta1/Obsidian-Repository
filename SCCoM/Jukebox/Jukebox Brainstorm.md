@@ -5,3 +5,6 @@ AWOLNATION - This Kid's Not Alright
 Holy Fuck - Lost Cool (feat. Lucia Tacchetti)
 Thomas Kuratli - Fade Away
 Anna von Hausswolff - Ugly And Vengeful
+Orville Peck - No Glory in the West
+Orville Peck - Dead of Night
+Johnny Cash - Hurt
