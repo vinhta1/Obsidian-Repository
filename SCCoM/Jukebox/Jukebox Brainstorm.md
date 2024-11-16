@@ -11,3 +11,5 @@ Johnny Cash - Hurt
 The Shanghai Restoration - Paris of the East
 Hanumankind, Kalmi - Big Dawgs
 Panjabi MC - Mundian To Bach Ke
+WHIPPED CREAM, LICK - The Greatest
+Hozier - It Will Come Back
