@@ -31,5 +31,16 @@ When switching platforms, we plan on utilizing and launching on p5.js because it
 
 ## Outlook
 ### What do we hope to accomplish
+- We hope to make a game that exists
+- Something fun
+- Something to add to our individual portfolios
 ### What is the hardest/riskiest part of this
+- Working and coordinating with a team.
+- Finishing the project requirements on time.
+- Dealing with the random requirements.
+- Taking on bits that might be too difficult for current skill level within deadline.
 ### What are we hoping to learn from this
+- How to work on a game simultaneously and asynchronously so that we can work on our own and not have any bottlenecks.
+- How to format a game to be extendable and modular within its code
+- Version control and committing practices
+- Code formatting and refactoring practices
