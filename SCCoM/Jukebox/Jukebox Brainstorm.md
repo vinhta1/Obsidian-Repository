@@ -12,6 +12,12 @@ The Shanghai Restoration - Paris of the East
 for Apu
 - Hanumankind, Kalmi - Big Dawgs
 - Panjabi MC - Mundian To Bach Ke
+- Gur Sidhu - Ainka
+- Diljit Dosanjh - Kinni Kinni
+- Daniel Pemberton - Spider-Man India (Pavitr Prabhakar)
+- Daniel Pemberton - Indian Teamwork
+- Raja Kumari - Renegade (We Never Run)
+- Anirudh 
 WHIPPED CREAM, LICK - The Greatest
 Hozier - It Will Come Back
 Hozier - Angel of Small Death and the Codeine Scene
@@ -28,3 +34,4 @@ Prince La La - She Put the Hurt On You
 The Smiths - Heaven Knows I'm Miserable Now
 CAFUNÉ - Tek It
 Billy Idol - Eyes Without A Face
+Goose - Indian River
