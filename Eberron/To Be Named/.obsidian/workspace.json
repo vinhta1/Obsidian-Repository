@@ -16,7 +16,9 @@
                 "file": "NPC Randomizer/Randomizer.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Randomizer"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Brainstorming.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorming"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Brainstorming"
             }
           },
           {
@@ -118,7 +130,9 @@
                 "file": "Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Brainstorming"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,7 +155,9 @@
               "type": "outline",
               "state": {
                 "file": "Brainstorming.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Brainstorming"
             }
           },
           {
@@ -147,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -155,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -163,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Tray"
             }
           }
         ],
