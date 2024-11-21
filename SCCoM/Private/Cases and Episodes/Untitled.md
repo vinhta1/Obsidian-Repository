@@ -1,4 +1,1 @@
 #Case 
-
-reggie
-lightning mcqueen

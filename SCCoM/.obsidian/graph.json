@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#jukebox #story",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5255568449083907,
-  "close": false
+  "scale": 0.4296780914342554,
+  "close": true
 }
