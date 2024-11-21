@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Jukebox/Jukebox Brainstorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Jukebox Brainstorm"
+            }
+          },
+          {
+            "id": "45d9597539a750b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jukebox/Jukebox Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jukebox Brainstorm"
             }
           },
           {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,34 +262,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7da3be958f2e9f63",
+  "active": "45d9597539a750b5",
   "lastOpenFiles": [
-    "Public/Jukebox.md",
-    "Untitled.md",
-    "Jukebox/Jukebox Brainstorm.md",
     "Jukebox/Jukebox Glossary.md",
+    "Jukebox/Jukebox - Icarus/DEAN - DIE 4 YOU.md",
+    "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
+    "Jukebox/Jukebox - Jerri/Duran Duran - Danse Macabre.md",
+    "Jukebox/Jukebox - Jerri/Fleetwood Mac - The Chain.md",
+    "Jukebox/Jukebox - Jerri/Hozier - From Eden.md",
+    "Jukebox/Jukebox - Jerri/Ghost - Crucified.md",
+    "Jukebox/Jukebox - Jerri/Kate Bush - Running Up That Hill.md",
+    "Jukebox/Jukebox - Jerri/Miracle Musical - Labyrinth.md",
+    "Jukebox/Jukebox - Jerri/Rebecca Black - Do You.md",
+    "Jukebox/Jukebox - Jerri/Miracle Musical - The Mind Electric.md",
+    "Jukebox/Jukebox - Jerri/Emma Blackery - Icarus.md",
+    "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
+    "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
+    "Jukebox/Jukebox - Jerri/Depeche Mode - Blasphemous Rumors.md",
+    "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
+    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
+    "Jukebox/Jukebox Brainstorm.md",
+    "Jukebox/Jukebox - Icarus",
+    "Untitled.md",
+    "Public/Jukebox.md",
     "Jukebox/Jukebox - Jerri/Army of Lovers - Crucified.md",
     "Jukebox/Jukebox - Seung-Jin/Block B - 닐리리맘보.md",
     "Jukebox/Jukebox - Moonshadow/Blockhead - The Music Scene.md",
     "Jukebox/Jukebox - Moonshadow/Glass Animals - Gooey.md",
     "Jukebox/Jukebox - Moonshadow/Glue Trip - Elbow Pain.md",
     "Jukebox/Jukebox - Moonshadow/The Dead Pirates - Ugo.md",
-    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
-    "Jukebox/Jukebox - General/Zamilska - Duel 35.md",
-    "Jukebox/Jukebox - Jerri/Emma Blackery - Icarus.md",
-    "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
-    "Jukebox/Jukebox - Jerri/Ayokay - Don't Wanna Be Your Friend (feat. Katie Pearlman).md",
-    "Jukebox/Jukebox - Jerri/Emei - Trust Issues.md",
-    "Jukebox/Jukebox - General/Franz Ferdinand - This fffire.md",
-    "Jukebox/Jukebox - General/Idris Elba - Choke Hold.md",
-    "Jukebox/Jukebox - General/Nine Inch Nails - Into The Void.md",
-    "Jukebox/Jukebox - Jerri/Hozier - From Eden.md",
-    "Jukebox/Jukebox - General/Nine Inch Nails - Closer.md",
-    "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
-    "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
-    "Jukebox/Jukebox - General/Zamilska - Duel 35 Chamber Orchestra.md",
-    "Private/Faction List/The Black Company/The Black Company.md",
-    "Private/Faction List/Factions.md",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
     "Private/Faction List",
@@ -286,7 +301,6 @@
     "Jukebox/Jukebox - Jerri",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Private",
-    "Public"
+    "Private"
   ]
 }

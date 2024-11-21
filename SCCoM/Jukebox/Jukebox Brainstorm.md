@@ -9,8 +9,9 @@ Orville Peck - No Glory in the West
 Orville Peck - Dead of Night
 Johnny Cash - Hurt
 The Shanghai Restoration - Paris of the East
-Hanumankind, Kalmi - Big Dawgs
-Panjabi MC - Mundian To Bach Ke
+for Apu
+- Hanumankind, Kalmi - Big Dawgs
+- Panjabi MC - Mundian To Bach Ke
 WHIPPED CREAM, LICK - The Greatest
 Hozier - It Will Come Back
 Hozier - Angel of Small Death and the Codeine Scene
@@ -23,3 +24,7 @@ A Tribe Called Red - SILA
 Fall Out Boy - Fourth of July
 for Ewan
 - Metallica and Skrillex
+Prince La La - She Put the Hurt On You
+The Smiths - Heaven Knows I'm Miserable Now
+CAFUNÉ - Tek It
+Billy Idol - Eyes Without A Face
