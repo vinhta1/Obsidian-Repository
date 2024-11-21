@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainstorming.md",
+                "file": "Old/Session 02/Scene 3 - All Roads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstorming"
+              "title": "Scene 3 - All Roads"
+            }
+          },
+          {
+            "id": "08bef995d8e7dc14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainstorming.md",
+                "file": "Old/Session 02/Scene 3 - All Roads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brainstorming"
+              "title": "Backlinks for Scene 3 - All Roads"
             }
           },
           {
@@ -127,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brainstorming.md",
+                "file": "Old/Session 02/Scene 3 - All Roads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brainstorming"
+              "title": "Outgoing links from Scene 3 - All Roads"
             }
           },
           {
@@ -154,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brainstorming.md"
+                "file": "Old/Session 02/Scene 3 - All Roads.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorming"
+              "title": "Outline of Scene 3 - All Roads"
             }
           },
           {
@@ -209,17 +221,17 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "5af39a12aebc1f57",
+  "active": "08bef995d8e7dc14",
   "lastOpenFiles": [
-    "NPC Randomizer/Lookup Tables.md",
-    "NPC Randomizer/Randomizer.md",
-    "Brainstorming.md",
-    "Old/Appendix - Eberron.md",
-    "Old",
-    "Old/Session 01/Scene 1 - The Chase.md",
-    "Old/Session 03/Scene 4 - The Offering.md",
     "Old/Session 02/Scene 2 - A Call for Help.md",
     "Old/Session 02/Scene 3 - All Roads.md",
+    "Old/Session 01/Scene 1 - The Chase.md",
+    "Brainstorming.md",
+    "NPC Randomizer/Lookup Tables.md",
+    "NPC Randomizer/Randomizer.md",
+    "Old/Appendix - Eberron.md",
+    "Old",
+    "Old/Session 03/Scene 4 - The Offering.md",
     "Spells - Ultimate.csv",
     "Old/Secrets/Pasted image 20231128143015.png",
     "Old/Secrets/Pasted image 20231127233311.png",
