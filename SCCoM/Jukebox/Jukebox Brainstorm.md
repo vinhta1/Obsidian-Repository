@@ -41,6 +41,7 @@ for Ewan
 - Metallica and Skrillex
 - Airhorn
 - Pinball Machine Noises
+- Fancy by Iggy Azelea
 Prince La La - She Put the Hurt On You
 The Smiths - Heaven Knows I'm Miserable Now
 CAFUNÉ - Tek It
