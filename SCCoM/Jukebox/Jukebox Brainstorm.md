@@ -17,7 +17,7 @@ for Apu
 - Daniel Pemberton - Spider-Man India (Pavitr Prabhakar)
 - Daniel Pemberton - Indian Teamwork
 - Raja Kumari - Renegade (We Never Run)
-- Anirudh 
+- Anirudh Ravichander - Jawan Prevue Theme
 WHIPPED CREAM, LICK - The Greatest
 Hozier - It Will Come Back
 Hozier - Angel of Small Death and the Codeine Scene
