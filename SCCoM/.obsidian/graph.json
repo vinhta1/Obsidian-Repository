@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#jukebox #energetic #jerri",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4296780914342554,
-  "close": true
+  "scale": 1.0000000000000087,
+  "close": false
 }

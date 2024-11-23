@@ -1,3 +1,12 @@
+A discord bot that can take the "mood" of the game as tags and create a dynamic playlist based on tags
+- not a music bot, a bot that inputs music commands to a bot based on metatags. Effectively a dynamic playlist
+- Music bot has play, pause, skip, etc
+- Moodbox has
+	- add song (song name, link for !play link, moodlist for every mood)
+	- add mood - removes all the songs from the dynamic playlist that don't have that mood
+	- remove mood - adds all the songs to the dynamic playlist that have that mood
+	- change mood - set the mood from scratch
+
 Tim Legend - Soda City Funk
 Daft Punk - Something About Us
 Jane Pop - Pulp Fiction
