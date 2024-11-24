@@ -67,14 +67,20 @@
             "id": "b675ed16a61be2f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jukebox/Jukebox Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Jukebox Brainstorm"
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "e54f8fc277577c8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -126,9 +132,31 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "cae45849a6d5fc23",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 1,
+                "mapCenter": {
+                  "lat": 40.44694705960048,
+                  "lng": -180.70312500000003
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
+              },
+              "icon": "map-pin",
+              "title": "Interactive Map View"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -180,7 +208,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -297,13 +326,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "b675ed16a61be2f0",
+  "active": "cae45849a6d5fc23",
   "lastOpenFiles": [
-    "Jukebox/Jukebox Glossary.md",
     "Jukebox/Jukebox Brainstorm.md",
+    "Jukebox/Jukebox Glossary.md",
     "Public/Jukebox.md",
     "Casino Arcade.md",
     "Private/Cases and Episodes/Untitled.md",
