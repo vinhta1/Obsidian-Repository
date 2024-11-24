@@ -11,22 +11,14 @@
             "id": "69702ba10a8ce5b7",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Private/Locations/Area List/Santa Cruz City Schools.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Santa Cruz City Schools"
             }
           }
         ]
@@ -120,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Private/Locations/Area List/Santa Cruz City Schools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Santa Cruz City Schools"
             }
           },
           {
@@ -204,9 +197,9 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Locations/Area List/Boardwalk.md",
     "Private/Locations/Area List/Metro Plaza.md",
-    "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Cases and Episodes/Untitled.md",
     "Jukebox/Jukebox Brainstorm.md",
     "Public/Jukebox.md",
