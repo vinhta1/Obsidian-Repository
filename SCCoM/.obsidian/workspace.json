@@ -11,22 +11,14 @@
             "id": "69702ba10a8ce5b7",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Private/Locations/Area List/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -120,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Private/Locations/Area List/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -202,12 +195,14 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "69702ba10a8ce5b7",
+  "active": "c0f8a0e412cd28d9",
   "lastOpenFiles": [
+    "Private/Locations/Area List/Neary Residential.md",
+    "Private/Locations/Area List/The Boardwalk.md",
+    "Private/Locations/Area List/Untitled.md",
+    "Private/Locations/Area List/Metro Plaza.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
-    "Private/Locations/Area List/Metro Plaza.md",
-    "Private/Locations/Area List/Boardwalk.md",
     "Private/Cases and Episodes/Untitled.md",
     "Jukebox/Jukebox Brainstorm.md",
     "Public/Jukebox.md",
@@ -230,8 +225,6 @@
     "Jukebox/Jukebox - Jerri/Hozier - From Eden.md",
     "Jukebox/Jukebox - Jerri/Ghost - Crucified.md",
     "Jukebox/Jukebox - Jerri/Kate Bush - Running Up That Hill.md",
-    "Jukebox/Jukebox - Jerri/Miracle Musical - Labyrinth.md",
-    "Jukebox/Jukebox - Jerri/Rebecca Black - Do You.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
