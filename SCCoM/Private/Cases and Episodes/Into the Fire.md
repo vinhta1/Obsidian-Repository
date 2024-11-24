@@ -26,10 +26,10 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- The 4th address from the New List is a Black Company Front.
 	- The 5th is the burned down home from earlier.
 ##### Pacific Ave, The Unfinished Station
-##### 1111 Water Street. A Local Business, Hideout
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
+##### 1111 Water Street. A Local Business, Hideout
 ##### The Front
 # Showdown
 # Dangers
