@@ -16,8 +16,8 @@
                 "name": "Default",
                 "mapZoom": 16,
                 "mapCenter": {
-                  "lat": 36.98852540189976,
-                  "lng": -122.05994653806559
+                  "lat": 36.97243313460997,
+                  "lng": -122.0258245475998
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -204,12 +204,12 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Locations/Area List/Boardwalk.md",
+    "Private/Locations/Area List/Metro Plaza.md",
+    "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Cases and Episodes/Untitled.md",
     "Jukebox/Jukebox Brainstorm.md",
     "Public/Jukebox.md",
-    "Private/Locations/Area List/Boardwalk.md",
-    "Private/Locations/Area List/Metro Plaza.md",
-    "Private/Locations/Area List/Santa Cruz High School District.md",
     "Private/Locations/Area List",
     "Private/Locations",
     "Untitled.md",
