@@ -130,10 +130,10 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 15,
+                "mapZoom": 16,
                 "mapCenter": {
-                  "lat": 36.97432190182076,
-                  "lng": -122.03621626479551
+                  "lat": 36.97243313460997,
+                  "lng": -122.0258245475998
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -321,9 +321,11 @@
   },
   "active": "a1ced233fa4de1d1",
   "lastOpenFiles": [
-    "Santa Cruz High School District.md",
-    "Metro Plaza.md",
-    "Boardwalk.md",
+    "Private/Locations/Area List/Santa Cruz High School District.md",
+    "Private/Locations/Area List/Metro Plaza.md",
+    "Private/Locations/Area List/Boardwalk.md",
+    "Private/Locations/Area List",
+    "Private/Locations",
     "Untitled.md",
     "Location added on 2024-11-23T21-52.md",
     "Location added on 2024-11-23T21-41.md",
@@ -346,7 +348,6 @@
     "Jukebox/Jukebox - Jerri/Kate Bush - Running Up That Hill.md",
     "Jukebox/Jukebox - Jerri/Miracle Musical - Labyrinth.md",
     "Jukebox/Jukebox - Jerri/Rebecca Black - Do You.md",
-    "Jukebox/Jukebox - Jerri/Miracle Musical - The Mind Electric.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
@@ -355,9 +356,7 @@
     "Jukebox/Jukebox - Moonshadow",
     "Jukebox/Jukebox - General",
     "Jukebox",
-    "Jukebox/Jukebox - Jerri",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Private"
+    "Untitled.canvas"
   ]
 }
