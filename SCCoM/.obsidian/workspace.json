@@ -132,8 +132,8 @@
                 "name": "Default",
                 "mapZoom": 15,
                 "mapCenter": {
-                  "lat": 36.96386664735039,
-                  "lng": -122.0200376808316
+                  "lat": 36.97432190182076,
+                  "lng": -122.03621626479551
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -198,8 +198,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -322,8 +321,9 @@
   },
   "active": "a1ced233fa4de1d1",
   "lastOpenFiles": [
-    "Boardwalk.md",
+    "Santa Cruz High School District.md",
     "Metro Plaza.md",
+    "Boardwalk.md",
     "Untitled.md",
     "Location added on 2024-11-23T21-52.md",
     "Location added on 2024-11-23T21-41.md",
@@ -347,7 +347,6 @@
     "Jukebox/Jukebox - Jerri/Miracle Musical - Labyrinth.md",
     "Jukebox/Jukebox - Jerri/Rebecca Black - Do You.md",
     "Jukebox/Jukebox - Jerri/Miracle Musical - The Mind Electric.md",
-    "Jukebox/Jukebox - Jerri/Emma Blackery - Icarus.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
