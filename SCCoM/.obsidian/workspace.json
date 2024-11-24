@@ -127,22 +127,14 @@
             "id": "a1ced233fa4de1d1",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "The Temp Metro Station.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "The Temp Metro Station"
             }
           }
         ],
@@ -237,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jukebox/Jukebox - General/Zamilska - Duel 35 Chamber Orchestra.md",
+                "file": "The Temp Metro Station.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zamilska - Duel 35 Chamber Orchestra"
+              "title": "Outgoing links from The Temp Metro Station"
             }
           },
           {
@@ -301,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -320,7 +312,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "a1ced233fa4de1d1",
+  "active": "1d3bbd6fc860b0ba",
   "lastOpenFiles": [
     "The Temp Metro Station.md",
     "Casino Arcade.md",

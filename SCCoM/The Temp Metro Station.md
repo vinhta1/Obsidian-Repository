@@ -3,7 +3,9 @@ locations:
 ---
 # [VibesUP](geo:36.9743096,-122.0245284)
 
-
+```mapview
+{"name":"Default","mapZoom":16,"centerLat":36.9743096,"centerLng":-122.0245284,"query":"","chosenMapSource":0,"showLinks":false,"linkColor":"red"}
+```
 
 
 
