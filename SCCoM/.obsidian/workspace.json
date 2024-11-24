@@ -64,16 +64,6 @@
             }
           },
           {
-            "id": "b675ed16a61be2f0",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
             "id": "e54f8fc277577c8b",
             "type": "leaf",
             "state": {
@@ -134,21 +124,29 @@
             }
           },
           {
-            "id": "cae45849a6d5fc23",
+            "id": "a1ced233fa4de1d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Location added on 2024-11-23T21-43.md",
-                "mode": "source",
-                "source": false
+                "name": "Default",
+                "mapZoom": 16,
+                "mapCenter": {
+                  "lat": 36.97243313460997,
+                  "lng": -122.0258245475998
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
               },
-              "icon": "lucide-file",
-              "title": "Location added on 2024-11-23T21-43"
+              "icon": "map-pin",
+              "title": "Interactive Map View"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -322,9 +320,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "cae45849a6d5fc23",
+  "active": "a1ced233fa4de1d1",
   "lastOpenFiles": [
-    "Location added on 2024-11-23T21-43.md",
+    "The Temp Metro Station.md",
+    "Casino Arcade.md",
+    "Untitled.md",
+    "Location added on 2024-11-23T21-52.md",
     "Location added on 2024-11-23T21-41.md",
     "Location added on 2024-11-23T21-42.md",
     "Location added on 2024-11-23T21-33.md",
@@ -333,7 +334,6 @@
     "Jukebox/Jukebox Brainstorm.md",
     "Jukebox/Jukebox Glossary.md",
     "Public/Jukebox.md",
-    "Casino Arcade.md",
     "Private/Cases and Episodes/Untitled.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Jukebox/Jukebox - Jerri/Emei - Trust Issues.md",
@@ -348,8 +348,6 @@
     "Jukebox/Jukebox - Jerri/Rebecca Black - Do You.md",
     "Jukebox/Jukebox - Jerri/Miracle Musical - The Mind Electric.md",
     "Jukebox/Jukebox - Jerri/Emma Blackery - Icarus.md",
-    "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
-    "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",

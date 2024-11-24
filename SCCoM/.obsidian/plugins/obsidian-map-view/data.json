@@ -134,7 +134,7 @@
   "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
   "showNoteNamePopup": true,
   "showLinkNameInPopup": "always",
-  "showNotePreview": true,
+  "showNotePreview": false,
   "showClusterPreview": true,
   "debug": false,
   "openIn": [
