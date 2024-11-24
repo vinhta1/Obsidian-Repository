@@ -1,17 +1,91 @@
 {
   "defaultState": {
     "name": "Default",
-    "mapZoom": 1,
+    "mapZoom": 16,
     "mapCenter": {
-      "lat": 40.44694705960048,
-      "lng": -180.70312500000003
+      "lat": 36.97243313460997,
+      "lng": -122.0258245475998
     },
     "query": "",
     "chosenMapSource": 0,
     "showLinks": false,
-    "linkColor": "red"
+    "linkColor": "red",
+    "queryError": false
   },
-  "savedStates": [],
+  "savedStates": [
+    {
+      "name": "Boardwalk",
+      "mapZoom": 16,
+      "mapCenter": {
+        "lat": 36.962619756532604,
+        "lng": -122.01969194386041
+      },
+      "query": "",
+      "showLinks": false,
+      "linkColor": "red",
+      "queryError": false
+    },
+    {
+      "name": "Westside",
+      "mapZoom": 15,
+      "mapCenter": {
+        "lat": 36.960409595325444,
+        "lng": -122.04523086809789
+      },
+      "query": "",
+      "showLinks": false,
+      "linkColor": "red",
+      "queryError": false
+    },
+    {
+      "name": "University",
+      "mapZoom": 15,
+      "mapCenter": {
+        "lat": 36.990264964054205,
+        "lng": -122.06037998199464
+      },
+      "query": "",
+      "showLinks": false,
+      "linkColor": "red",
+      "queryError": false
+    },
+    {
+      "name": "Downtown",
+      "mapZoom": 16,
+      "mapCenter": {
+        "lat": 36.97243313460997,
+        "lng": -122.0258245475998
+      },
+      "query": "",
+      "showLinks": false,
+      "linkColor": "red",
+      "queryError": false
+    },
+    {
+      "name": "Eastside",
+      "mapZoom": 15,
+      "mapCenter": {
+        "lat": 36.984115056462834,
+        "lng": -122.00513076939387
+      },
+      "query": "",
+      "showLinks": false,
+      "linkColor": "red",
+      "queryError": false
+    },
+    {
+      "name": "Seabright",
+      "mapZoom": 16,
+      "mapCenter": {
+        "lat": 36.968898185454414,
+        "lng": -122.00813484349058
+      },
+      "query": "",
+      "showLinks": false,
+      "linkColor": "red",
+      "queryError": false
+    }
+  ],
   "markerIconRules": [
     {
       "ruleName": "default",
@@ -19,7 +93,8 @@
       "iconDetails": {
         "prefix": "fas",
         "icon": "fa-circle",
-        "markerColor": "blue"
+        "markerColor": "blue",
+        "innerHTML": "<svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" class=\"svg-inline--fa fa-circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" style=\"color: white;\"><path fill=\"currentColor\" d=\"M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z\"></path></svg>"
       }
     },
     {
@@ -89,9 +164,9 @@
     }
   ],
   "mapControls": {
-    "filtersDisplayed": true,
-    "viewDisplayed": true,
-    "linksDisplayed": true,
+    "filtersDisplayed": false,
+    "viewDisplayed": false,
+    "linksDisplayed": false,
     "presetsDisplayed": true
   },
   "maxClusterRadiusPixels": 20,
