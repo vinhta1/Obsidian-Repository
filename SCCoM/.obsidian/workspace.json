@@ -14,10 +14,10 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 15,
+                "mapZoom": 16,
                 "mapCenter": {
-                  "lat": 36.97432190182076,
-                  "lng": -122.03621626479551
+                  "lat": 36.97243313460997,
+                  "lng": -122.0258245475998
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -204,8 +204,8 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
-    "Private/Locations/Area List/River Street.md",
     "Private/Locations/Area List/Metro Plaza.md",
     "Private/Locations/Area List/Boardwalk.md",
     "Private/Cases and Episodes/Untitled.md",
