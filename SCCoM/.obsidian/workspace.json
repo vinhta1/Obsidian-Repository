@@ -14,10 +14,10 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 16,
+                "mapZoom": 15,
                 "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
+                  "lat": 37.004699732278816,
+                  "lng": -122.06005538752943
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#downtown",
+                "query": "tag:#area",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,12 +204,16 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
-    "Private/Locations/Area List/Metro Plaza.md",
-    "Private/Locations/Area List/Mission Santa Cruz.md",
-    "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Santa Cruz Boardwalk.md",
-    "Private/Locations/Area List/Untitled.md",
+    "Private/Locations/Area List/Other Locations.md",
+    "Private/Locations/Area List/Neary Residential.md",
+    "Private/Locations/Area List/Mission Santa Cruz.md",
+    "Private/Locations/Area List/Metro Plaza.md",
+    "Private/Locations/Area List/Areas.md",
+    "Private/Locations/District List/Districts.md",
+    "Private/Locations/District List/UCSC.md",
     "Private/Cases and Episodes/Untitled.md",
     "Jukebox/Jukebox Brainstorm.md",
     "Public/Jukebox.md",
@@ -228,10 +232,6 @@
     "Jukebox/Jukebox - Icarus/DEAN - DIE 4 YOU.md",
     "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
     "Jukebox/Jukebox - Jerri/Duran Duran - Danse Macabre.md",
-    "Jukebox/Jukebox - Jerri/Fleetwood Mac - The Chain.md",
-    "Jukebox/Jukebox - Jerri/Hozier - From Eden.md",
-    "Jukebox/Jukebox - Jerri/Ghost - Crucified.md",
-    "Jukebox/Jukebox - Jerri/Kate Bush - Running Up That Hill.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",

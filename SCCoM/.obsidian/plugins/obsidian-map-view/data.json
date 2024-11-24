@@ -167,7 +167,7 @@
     "filtersDisplayed": false,
     "viewDisplayed": false,
     "linksDisplayed": false,
-    "presetsDisplayed": false
+    "presetsDisplayed": true
   },
   "maxClusterRadiusPixels": 20,
   "searchProvider": "osm",
