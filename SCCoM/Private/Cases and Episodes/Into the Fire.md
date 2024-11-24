@@ -19,11 +19,12 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 - Andrew Scott's Map
 	- There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
 ##### The New List:
-- The New List contains the details and significance of 4 addresses.
-- 3 of the addresses from the Map match up with the New List. 
+- The New List contains the details and significance of 5 addresses.
+- 4 of the addresses from the Map match up with the New List. 
 	- 2 are Fireside hideouts. 1 is a Fireside member's home.
 	- The other two from the Map are an innocent person's home and a building in construction. No clues can be found here.
 	- The 4th address from the New List is a Black Company Front.
+	- The 5th is the burned down home from earlier.
 ##### Pacific Ave, The Unfinished Station
 ##### 1111 Water Street. A Local Business, Hideout
 ##### 319 Berkeley Way. A Fireside House
