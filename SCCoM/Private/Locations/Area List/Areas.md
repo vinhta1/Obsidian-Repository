@@ -1,3 +1,3 @@
 #Areas
-- [[Metro Plaza]]
+- [[Metro Area]]
 	- 

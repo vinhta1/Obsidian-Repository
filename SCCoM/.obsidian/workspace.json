@@ -11,22 +11,14 @@
             "id": "69702ba10a8ce5b7",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 15,
-                "mapCenter": {
-                  "lat": 37.004699732278816,
-                  "lng": -122.06005538752943
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Into the Fire"
             }
           }
         ]
@@ -120,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Private/Cases and Episodes/Into the Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Into the Fire"
             }
           },
           {
@@ -183,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,14 +197,14 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Locations/Area List/Areas.md",
+    "Private/Locations/Area List/Metro Area.md",
+    "Private/Locations/Area List/Other Locations.md",
+    "Private/Locations/Area List/Mission Santa Cruz.md",
+    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
+    "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
-    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
-    "Private/Locations/Area List/Other Locations.md",
-    "Private/Locations/Area List/Neary Residential.md",
-    "Private/Locations/Area List/Mission Santa Cruz.md",
-    "Private/Locations/Area List/Metro Plaza.md",
-    "Private/Locations/Area List/Areas.md",
     "Private/Locations/District List/Districts.md",
     "Private/Locations/District List/UCSC.md",
     "Private/Cases and Episodes/Untitled.md",
