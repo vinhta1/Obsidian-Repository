@@ -137,22 +137,14 @@
             "id": "cae45849a6d5fc23",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 1,
-                "mapCenter": {
-                  "lat": 40.44694705960048,
-                  "lng": -180.70312500000003
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Location added on 2024-11-23T21-43.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Location added on 2024-11-23T21-43"
             }
           }
         ],
@@ -208,8 +200,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -333,6 +324,9 @@
   },
   "active": "cae45849a6d5fc23",
   "lastOpenFiles": [
+    "Location added on 2024-11-23T21-43.md",
+    "Location added on 2024-11-23T21-41.md",
+    "Location added on 2024-11-23T21-42.md",
     "Location added on 2024-11-23T21-33.md",
     "Location added on 2024-11-23T21-34.md",
     "Location added on 2024-11-23T21-26.md",
@@ -356,9 +350,6 @@
     "Jukebox/Jukebox - Jerri/Emma Blackery - Icarus.md",
     "Jukebox/Jukebox - Jerri/David Bowie - Lazarus.md",
     "Jukebox/Jukebox - Jerri/AuRa - Panic Room.md",
-    "Jukebox/Jukebox - Jerri/Depeche Mode - Blasphemous Rumors.md",
-    "Jukebox/Jukebox - Jerri/Chappell Roan - HOT TO GO!.md",
-    "Jukebox/Jukebox - Jerri/ABBA - The Winner Takes It All.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
