@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Private/PCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "PCs"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#area",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Private/PCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Into the Fire"
+              "title": "Outgoing links from PCs"
             }
           },
           {
@@ -197,15 +197,25 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/CoM Weekly.md",
+    "Private/PCs.md",
+    "Private/Rules of this Santa Cruz.md",
+    "Private/The Overarching Story.md",
+    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Locations/Area List/Areas.md",
     "Private/Locations/Area List/Metro Area.md",
-    "Private/Locations/Area List/Other Locations.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
-    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
     "Private/Locations/Area List/Neary Residential.md",
-    "Private/Locations/Area List/UC Santa Clara Campus.md",
+    "Private/Locations/Area List/Other Locations.md",
+    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
+    "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/Locations/District List/Districts.md",
+    "Private/Locations/District List/Downtown.md",
+    "Private/Locations/District List/The Boardwalk.md",
+    "Private/Ideas.md",
+    "Private/MC's Jukebox.md",
+    "Private/Notes.md",
     "Private/Locations/District List/UCSC.md",
     "Private/Cases and Episodes/Untitled.md",
     "Jukebox/Jukebox Brainstorm.md",
@@ -215,16 +225,6 @@
     "Untitled.md",
     "Location added on 2024-11-23T21-52.md",
     "Location added on 2024-11-23T21-41.md",
-    "Location added on 2024-11-23T21-42.md",
-    "Location added on 2024-11-23T21-33.md",
-    "Location added on 2024-11-23T21-34.md",
-    "Location added on 2024-11-23T21-26.md",
-    "Jukebox/Jukebox Glossary.md",
-    "Private/Cases and Episodes/CoM Weekly.md",
-    "Jukebox/Jukebox - Jerri/Emei - Trust Issues.md",
-    "Jukebox/Jukebox - Icarus/DEAN - DIE 4 YOU.md",
-    "Jukebox/Jukebox - Jerri/Beyoncé - DAUGHTER.md",
-    "Jukebox/Jukebox - Jerri/Duran Duran - Danse Macabre.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",

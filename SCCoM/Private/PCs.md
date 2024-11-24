@@ -14,6 +14,8 @@ Tyche is now in hiding.
 Phil
 
 Bhil
+
+Bus mom and bus dad, Darcy and Emilio
 ### Charlie
 "Charlie, the nice lady I met in the game room, lets me sleep behind the arcade counter sometimes."
 A young woman that works at the Arcade, usually staffed behind the prize counter. Has the keys to the arcade.
