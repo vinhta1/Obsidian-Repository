@@ -26,7 +26,10 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- The 4th address from the New List is a Black Company Front.
 	- The 5th is the burned down home from earlier.
 ##### Pacific Ave, The Unfinished Station
-Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. The shadows run deep enough to hide whatever, or whoever, mig
+Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
+- **As you approach closer into the site**:
+	- If *Fireside isn't alerted*, you hear a quartet of voices
+	- Your footsteps start to echo. 
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
