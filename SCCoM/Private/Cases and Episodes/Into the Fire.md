@@ -32,12 +32,10 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 	- You hear your footsteps start to echo. They don't seem to hear it. Yet.
 - **If you get even closer without alerting them**:
 	- Someone is paying them to do this.
-```
-"We need to stop while we're ahead. Angel's family almost got razed with his house."
-"If we finish this job, we get the original pay split among just us four. That's four times the original cut, fellas."
-"C'mon, Ezra-"
-"ONE. HUNDRED. THOUSAND. EACH. I can't do this without you guys. I'm not going to force you to. But get REAL. We need this money."
-```
+		- "We need to stop while we're ahead. Angel's family almost got razed with his house."
+		- "If we finish this job, we get the original pay split among just us four. That's four times the original cut, fellas."
+		- "C'mon, Ezra-"
+		- "ONE. HUNDRED. THOUSAND. EACH. I can't do this without you guys. I'm not going to force you to. But get REAL. We need this money."
 	- Phones are important. They contain hideout sites.
 		- "Everyone know where the next 'hot spot' is?"
 		- "Hey, uhh... about that."
