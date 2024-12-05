@@ -31,10 +31,17 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 	- If *Fireside isn't alerted*, you hear a smattering of voices conversing. The space makes it hard to comprehend what they are saying from this distance. You can't see them at all.
 	- You hear your footsteps start to echo. They don't seem to hear it. Yet.
 - **If you get even closer without alerting them**:
->"We need to stop while we're ahead. Angel's family almost got razed with his house."
+>- "We need to stop while we're ahead. Angel's family almost got razed with his house."
 "If we finish this job, we get the original pay split among just us four. That's four times the original cut, fellas."
 "C'mon, Ezra-"
 "ONE. HUNDRED. THOUSAND. EACH. I can't do this without you guys. I'm not going to force you to. But get REAL. We need this money."
+> - "Everyone have their targets?"
+> "Hey, uhh... about that."
+> "What Joe. Do you not know where your target is?"
+> "No, I do. But I..."
+> "I think I left my phone at the other hideout."
+> "Don't worry about it. We can find it after tomorrow night."
+> "That... that works. Thanks, Luca."
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
