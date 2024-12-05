@@ -26,6 +26,7 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- The 4th address from the New List is a Black Company Front.
 	- The 5th is the burned down home from earlier.
 ##### Pacific Ave, The Unfinished Station
+Pillars and ramps of concrete 
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
@@ -36,13 +37,7 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 - **Inside the store**:
 	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. This alerts Fireside (*Fireside-alerted-1*).
 	- Joe’s phone was left behind on a counter.
-		- Can be unlocked via passcode or FaceID.
-
-
-
-
-
-**
+		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-3*)
 ##### The Front
 # Showdown
 # Dangers
