@@ -29,7 +29,20 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
-##### 1111 Water Street. A Local Business, Hideout
+##### 1111 Water Street. Santa Cruz Fireplace and Hot Tubs
+You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. You quickly notice that no one is inside.
+- **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
+- **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firefood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
+- **Inside the store**:
+	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. This alerts Fireside (*Fireside-alerted-1*).
+	- Joe’s phone was left behind on a counter.
+		- Can be unlocked via passcode or FaceID.
+
+
+
+
+
+**
 ##### The Front
 # Showdown
 # Dangers

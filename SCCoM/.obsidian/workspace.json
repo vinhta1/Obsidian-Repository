@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jukebox/Jukebox Brainstorm.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jukebox Brainstorm"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +214,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "69702ba10a8ce5b7",
+  "active": "5ea9a49c9abe8d4b",
   "lastOpenFiles": [
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/CoM Weekly.md",
