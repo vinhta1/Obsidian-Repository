@@ -26,12 +26,12 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- The 4th address from the New List is a Black Company Front.
 	- The 5th is the burned down home from earlier.
 ##### Pacific Ave, The Unfinished Station
-Pillars and ramps of concrete 
+Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. The shadows run deep enough to hide whatever, or whoever, mig
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
 ##### 1111 Water Street. Santa Cruz Fireplace and Hot Tubs
-You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. You quickly notice that no one is inside.
+You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
 - **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
 - **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firefood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
 - **Inside the store**:
