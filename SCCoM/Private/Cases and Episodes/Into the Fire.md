@@ -28,9 +28,11 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 ##### Pacific Ave, The Unfinished Station
 Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
 - **As you approach closer into the site**: you hear two things. (*Echoes - 2*)
-	- If *Fireside isn't alerted*, you hear a quartet of voices conversing. The space makes it hard to comprehend them from this distance.
+	- If *Fireside isn't alerted*, you hear a smattering of voices conversing. The space makes it hard to comprehend what they are saying from this distance. You can't see them at all.
 	- You hear your footsteps start to echo. They don't seem to hear it. Yet.
-- 
+- **If you get even closer without alerting them**:
+	- "We need to stop while we're ahead. Angel's family almost got razed with his house."
+		- "If we finish this job, we get the pay split among just us 4. That's quadruple the original pay fellas."
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
