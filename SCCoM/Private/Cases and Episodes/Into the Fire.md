@@ -31,7 +31,8 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 	- If *Fireside isn't alerted*, you hear a smattering of voices conversing. The space makes it hard to comprehend what they are saying from this distance. You can't see them at all.
 	- You hear your footsteps start to echo. They don't seem to hear it. Yet.
 - **If you get even closer without alerting them**:
-	- Someone is paying them to do this.
+	> [!quote] Intro
+	> - Someone is paying them to do this.
 		- "We need to stop while we're ahead. Angel's family almost got razed with his house."
 		- "If we finish this job, we get the original pay split among just us four. That's four times the original cut, fellas."
 		- "C'mon, Ezra-"
