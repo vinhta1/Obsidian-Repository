@@ -27,21 +27,21 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- The 5th is the burned down home from earlier.
 ##### Pacific Ave, The Unfinished Station
 Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
-- **As you approach closer into the site**: (*Echoes - 2*)
+- **As you approach closer into the site**: you hear two things. (*Echoes - 2*)
 	- If *Fireside isn't alerted*, you hear a quartet of voices conversing. The space makes it hard to comprehend them from this distance.
-	- Your footsteps start to echo. They don't seem to hear it. Yet.
-	- 
+	- You hear your footsteps start to echo. They don't seem to hear it. Yet.
+- 
 ##### 319 Berkeley Way. A Fireside House
 ##### The Innocent House
 ##### The Unfinished Building
 ##### 1111 Water Street. Santa Cruz Fireplace and Hot Tubs
 You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
 - **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
-- **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firefood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
+- **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
 - **Inside the store**:
 	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. This alerts Fireside (*Fireside-alerted-1*).
 	- Joe’s phone was left behind on a counter.
-		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-3*)
+		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
 ##### The Front
 # Showdown
 # Dangers
