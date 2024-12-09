@@ -11,14 +11,22 @@
             "id": "69702ba10a8ce5b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Private/NPCS/Sarah Lauder.md",
-                "mode": "source",
-                "source": false
+                "name": "Default",
+                "mapZoom": 16,
+                "mapCenter": {
+                  "lat": 36.97243313460997,
+                  "lng": -122.0258245475998
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
               },
-              "icon": "lucide-file",
-              "title": "Sarah Lauder"
+              "icon": "map-pin",
+              "title": "Interactive Map View"
             }
           },
           {
@@ -168,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Private/NPCS/Sarah Lauder.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Sarah Lauder"
+              "title": "Outline"
             }
           },
           {
@@ -226,34 +232,34 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Locations/Area List/Neary Residential.md",
+    "Private/Locations/Area List/Other Locations.md",
+    "Private/Locations/Area List/Metro Area.md",
+    "Private/Cases and Episodes/Siren's Sonata.md",
+    "Private/PCs.md",
+    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
+    "Private/Locations/Area List/Santa Cruz City Schools.md",
+    "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/NPCS/Renée Campos.md",
-    "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Sarah Lauder.md",
     "Private/NPCS/Susan.md",
-    "Private/Locations/Area List/UC Santa Clara Campus.md",
+    "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Untitled",
-    "Private/Locations/Area List/Metro Area.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Untitled.md",
     "Private/NPCS",
-    "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Areas.md",
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Ghost Festival.md",
-    "Private/PCs.md",
     "Private/Rules of this Santa Cruz.md",
     "Private/The Overarching Story.md",
-    "Private/Locations/Area List/Other Locations.md",
-    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
-    "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Locations/District List/Districts.md",
     "Private/Locations/District List/Downtown.md",
     "Private/Locations/District List/The Boardwalk.md",
     "Private/Ideas.md",
     "Private/MC's Jukebox.md",
-    "Private/Notes.md",
     "Private/Locations/Area List",
     "Private/Locations",
     "Jukebox/Jukebox - Icarus",
