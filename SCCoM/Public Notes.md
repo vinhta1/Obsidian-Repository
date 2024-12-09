@@ -1,8 +1,9 @@
 # 12/08
 Maru Mart Diary from "What about the old Lucifer?"
-- Blue, written in Chinese, shoplifted.
+- Blue, worn-down, written in Chinese, shoplifted.
 - Only the first page has writing. It is in Chinese.
-	- 
+	- "You are my fire. You are my light. You are the reason I'm awake at night."
 - The rest of the pages are blank.
+- There is no way to tell how old this book is. It's just, "old"?.
 
 Jerri visits a Chinese professor.
