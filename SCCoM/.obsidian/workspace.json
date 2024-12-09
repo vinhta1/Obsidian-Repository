@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norma.md",
+                "file": "Private/NPCS/Sarah Lauder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Norma"
+              "title": "Sarah Lauder"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#downtown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Norma.md"
+                "file": "Private/NPCS/Sarah Lauder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Norma"
+              "title": "Outline of Sarah Lauder"
             }
           },
           {
@@ -226,12 +226,16 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/NPCS/Renée Campos.md",
+    "Private/NPCS/Darcy and Emilio.md",
+    "Private/NPCS/Sarah Lauder.md",
+    "Private/NPCS/Susan.md",
+    "Private/Locations/Area List/UC Santa Clara Campus.md",
+    "Private/NPCS/Untitled",
     "Private/Locations/Area List/Metro Area.md",
-    "Norma.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Untitled.md",
     "Private/NPCS",
-    "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Areas.md",
     "Private/Cases and Episodes/Into the Fire.md",
@@ -250,9 +254,6 @@
     "Private/Ideas.md",
     "Private/MC's Jukebox.md",
     "Private/Notes.md",
-    "Private/Locations/District List/UCSC.md",
-    "Private/Cases and Episodes/Untitled.md",
-    "Jukebox/Jukebox Brainstorm.md",
     "Private/Locations/Area List",
     "Private/Locations",
     "Jukebox/Jukebox - Icarus",
@@ -261,7 +262,6 @@
     "Private/Faction List",
     "Factions",
     "Jukebox/Jukebox - Moonshadow",
-    "Jukebox/Jukebox - General",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
