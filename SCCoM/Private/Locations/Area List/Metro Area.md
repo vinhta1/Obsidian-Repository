@@ -16,3 +16,4 @@ Thursday	5 PM–2 AM
 Friday	5 PM–2 AM
 Saturday	5 PM–2 AM
 
+[[Norma|Jerri's manager]] is chill, but will put the hammer down if she has to. Jerri's attendance has been suspect

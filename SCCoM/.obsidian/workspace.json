@@ -11,22 +11,14 @@
             "id": "69702ba10a8ce5b7",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Norma.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Norma"
             }
           },
           {
@@ -176,9 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Norma.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Norma"
             }
           },
           {
@@ -232,8 +226,12 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
-    "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/Locations/Area List/Metro Area.md",
+    "Norma.md",
+    "Private/Locations/Area List/Mission Santa Cruz.md",
+    "Untitled.md",
+    "Private/NPCS",
+    "Private/Locations/Area List/UC Santa Clara Campus.md",
     "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Areas.md",
     "Private/Cases and Episodes/Into the Fire.md",
@@ -243,7 +241,6 @@
     "Private/PCs.md",
     "Private/Rules of this Santa Cruz.md",
     "Private/The Overarching Story.md",
-    "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Other Locations.md",
     "Private/Locations/Area List/Santa Cruz Boardwalk.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
@@ -256,10 +253,8 @@
     "Private/Locations/District List/UCSC.md",
     "Private/Cases and Episodes/Untitled.md",
     "Jukebox/Jukebox Brainstorm.md",
-    "Public/Jukebox.md",
     "Private/Locations/Area List",
     "Private/Locations",
-    "Untitled.md",
     "Jukebox/Jukebox - Icarus",
     "Jukebox/Jukebox - Seung-Jin",
     "Private/Faction List/The Black Company",
@@ -267,7 +262,6 @@
     "Factions",
     "Jukebox/Jukebox - Moonshadow",
     "Jukebox/Jukebox - General",
-    "Jukebox",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
