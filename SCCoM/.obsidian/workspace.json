@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "8a84ea2d268f2c93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "f2658aa1a74e675c",
             "type": "leaf",
             "state": {
