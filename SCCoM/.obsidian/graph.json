@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "#area",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#BlackCompany",
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 10588338
       }
+    },
+    {
+      "query": "tag:#Ally",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "tag:#Enemy",
+      "color": {
+        "a": 1,
+        "rgb": 14223368
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000093,
+  "scale": 0.28165328146789625,
   "close": false
 }

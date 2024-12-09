@@ -11,22 +11,14 @@
             "id": "69702ba10a8ce5b7",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Private/NPCS/Kenneth Helm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Kenneth Helm"
             }
           },
           {
@@ -176,9 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Private/NPCS/Kenneth Helm.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kenneth Helm"
             }
           },
           {
@@ -232,18 +226,21 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/NPCS/Renée Campos.md",
+    "Private/NPCS/Kenneth Helm.md",
+    "Private/NPCS/Susan.md",
+    "Private/NPCS/Sarah Lauder.md",
+    "Private/NPCS/Darcy and Emilio.md",
     "Private/Locations/Area List/Metro Area.md",
-    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
+    "Private/Cases and Episodes/Snow in the Summer.md",
+    "Jukebox/Jukebox - Jerri/COLDLOVE - House Is on Fire.md",
     "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Other Locations.md",
+    "Private/Locations/Area List/UC Santa Clara Campus.md",
+    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
+    "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
     "Private/PCs.md",
-    "Private/Locations/Area List/Santa Cruz City Schools.md",
-    "Private/Locations/Area List/UC Santa Clara Campus.md",
-    "Private/NPCS/Renée Campos.md",
-    "Private/NPCS/Sarah Lauder.md",
-    "Private/NPCS/Susan.md",
-    "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Untitled",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Untitled.md",
@@ -257,9 +254,6 @@
     "Private/The Overarching Story.md",
     "Private/Locations/District List/Districts.md",
     "Private/Locations/District List/Downtown.md",
-    "Private/Locations/District List/The Boardwalk.md",
-    "Private/Ideas.md",
-    "Private/MC's Jukebox.md",
     "Private/Locations/Area List",
     "Private/Locations",
     "Jukebox/Jukebox - Icarus",
