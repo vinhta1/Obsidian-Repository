@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/NPCS/Kenneth Helm.md",
+                "file": "Public Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kenneth Helm"
+              "title": "Public Notes"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/NPCS/Kenneth Helm.md"
+                "file": "Public Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kenneth Helm"
+              "title": "Outline of Public Notes"
             }
           },
           {
@@ -226,8 +226,9 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
-    "Private/NPCS/Renée Campos.md",
+    "Private/Notes.md",
     "Private/NPCS/Kenneth Helm.md",
+    "Private/NPCS/Renée Campos.md",
     "Private/NPCS/Susan.md",
     "Private/NPCS/Sarah Lauder.md",
     "Private/NPCS/Darcy and Emilio.md",
@@ -243,7 +244,7 @@
     "Private/PCs.md",
     "Private/NPCS/Untitled",
     "Private/Locations/Area List/Mission Santa Cruz.md",
-    "Untitled.md",
+    "Public Notes.md",
     "Private/NPCS",
     "Private/Locations/Area List/Areas.md",
     "Private/Cases and Episodes/Into the Fire.md",
@@ -253,7 +254,6 @@
     "Private/Rules of this Santa Cruz.md",
     "Private/The Overarching Story.md",
     "Private/Locations/District List/Districts.md",
-    "Private/Locations/District List/Downtown.md",
     "Private/Locations/Area List",
     "Private/Locations",
     "Jukebox/Jukebox - Icarus",
