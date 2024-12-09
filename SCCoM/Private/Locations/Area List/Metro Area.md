@@ -17,3 +17,6 @@ Friday	5 PM–2 AM
 Saturday	5 PM–2 AM
 
 [[Renée Campos|Jerri's manager]] is chill, but will put the hammer down if she has to. Jerri's attendance has been suspect
+
+
+# [Verve Coffee Roasters](geo:36.97628604372694,-122.02669465469502)
