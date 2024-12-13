@@ -20,5 +20,5 @@ Saturday	5 PM–2 AM
 
 # [Danny's Apartment (1010 Pacific)](geo:36.97155345550617,-122.02509189814754)
 # [Susan's Apartment (Anton Pacific)](geo:36.96945168124223,-122.02458616009602)
-A view of the river from the balcony
+A small studio apartment with a view of the San Lorenzo river from the balcony. She often sleeps in the hospital where she works.
 # [Verve Coffee Roasters](geo:36.97628604372694,-122.02669465469502)
