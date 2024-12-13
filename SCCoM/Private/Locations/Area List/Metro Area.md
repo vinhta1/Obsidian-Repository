@@ -19,4 +19,6 @@ Saturday	5 PM–2 AM
 [[Renée Campos|Jerri's manager]] is chill, but will put the hammer down if she has to. Jerri's attendance has been suspect
 
 # [Danny's Apartment (1010 Pacific)](geo:36.97155345550617,-122.02509189814754)
+# [Susan's Apartment (Anton Pacific)](geo:36.96945168124223,-122.02458616009602)
+A view of the river from the balcony
 # [Verve Coffee Roasters](geo:36.97628604372694,-122.02669465469502)
