@@ -10,4 +10,4 @@ Seung-Jin lives with parents and a housekeeper (once a week), used to have a nan
 
 # [The Picnic Basket](geo:36.96318472750872,-122.02315199381702)
 # [Beach Street Cafe](geo:36.964231384897396,-122.02040240355996)
-A place where Jerry hangs out
+A place where Jerry hangs out, across the Casino Arcade.
