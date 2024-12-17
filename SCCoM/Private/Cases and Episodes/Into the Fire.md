@@ -51,7 +51,7 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 - **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
 - **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
 - **Inside the store**:
-	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. This alerts Fireside (*Fireside-alerted-1*).
+	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. If Joe has his phone, this alerts Fireside (*Fireside-alerted-1*).
 	- Joe’s phone was left behind on a counter.
 		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
 ##### The Front
