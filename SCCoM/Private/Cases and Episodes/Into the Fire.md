@@ -54,7 +54,8 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. **If Joe has his phone**, this alerts Fireside (*Fireside-alerted-1*).
 	- Joe’s phone was left behind on a counter.
 		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
-		- This phone, and every member of Fireside's phone, has an unfamiliar messaging app. It has one notification. It needs authentication to 
+		- This phone, and every member of Fireside's phone, has an unfamiliar app: Blackjack. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
+			- These codes align with Jerri's list. If you know the person's target, you will have their code.
 ##### The Front
 # Showdown
 # Dangers
