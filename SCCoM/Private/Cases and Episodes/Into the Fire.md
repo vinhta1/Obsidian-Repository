@@ -21,10 +21,10 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 ##### The New List:
 - The New List contains the details and significance of 5 addresses.
 - 3 of the addresses from the Map match up with the New List. 
-	- 2 are Fireside hideouts. 1 is a Fireside member's home.
+	- 2 are Fireside hideouts (Fireplace and Hot Tubs, The Unfinished Station). 1 is a Fireside member's home (Berkeley Way).
 	- The other two from the Map are an innocent person's home and a building in construction. No clues can be found here.
 	- The 4th address from the New List is a Black Company Front.
-	- The 5th is the burned down home from earlier.
+	- The 5th is the burned down home from earlier (Angel's home).
 ##### Pacific Ave, The Unfinished Station
 Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
 - **As you approach closer into the site**: you hear two things. (*Echoes - 2*)
@@ -36,7 +36,7 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 		- "If we finish this job, we get the original pay split among just us four. That's four times the original cut, fellas."
 		- "C'mon, Ezra-"
 		- "ONE. HUNDRED. THOUSAND. EACH. I can't do this without you guys. I'm not going to force you to. But get REAL. We need this money."
-	- Phones are important. They contain hideout sites.
+	- Phones are important. They contain hideout sites (The New List).
 		- "Everyone know where the next 'hot spot' is?"
 		- "Hey, uhh... about that."
 		- "What Joe? Do you not know where to meet up?"
