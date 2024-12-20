@@ -9,4 +9,4 @@ locations:
 # [Sarah's Apartment](geo:36.98900480039999,-122.06290850046572)
 
 # [Icarus's Dorm](geo:36.9918006015532,-122.06454893943375)
-Icarus is a second-year at UCSC. Affords college through an inheritance. Icarus' parents were NOT rich, but received enough from them to afford living.
+Icarus is a second-year at UCSC. Affords college through an inheritance. Icarus' parents were NOT rich, but received enough from them to afford living. Casual, class friends and floormates.
