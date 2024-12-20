@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Faction List/Factions.md",
+                "file": "Private/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Notes"
             }
           },
           {
@@ -204,6 +204,7 @@
   },
   "active": "69702ba10a8ce5b7",
   "lastOpenFiles": [
+    "Private/Faction List/Factions.md",
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/One Good Day.md",
@@ -229,7 +230,6 @@
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Other Locations.md",
     "Private/Locations/Area List/Neary Residential.md",
-    "Untitled.md",
     "Private/NPCS/Untitled",
     "Private/NPCS",
     "Private/Locations/Area List",
