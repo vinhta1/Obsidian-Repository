@@ -22,4 +22,4 @@ Saturday	5 PM–2 AM
 A luxurious apartment with a private balcony.
 # [Susan's Apartment (Anton Pacific)](geo:36.96945168124223,-122.02458616009602)
 A small studio apartment with a view of the San Lorenzo river from the balcony. She often sleeps in the hospital where she works instead of the apartment.
-# [Verve Coffee Roasters](geo:36.97628604372694,-122.02669465469502)
+# [Verve Coffee Roasters](geo:36.976187359198185,-122.0266190171242)
