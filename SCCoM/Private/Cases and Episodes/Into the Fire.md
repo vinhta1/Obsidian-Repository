@@ -24,7 +24,7 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- [Andrew: Santa Cruz Fireplace and Hot Tub](geo:36.98152437780372,-122.0097640156746)
 	- [Andrew: A House on Berkeley Way](geo:36.98273955989971,-122.01645921539763)
 	- [Andrew: A House on Chestnut Street](geo:36.96764369998521,-122.02925783946897)
-	- [Andrew: A Restaurant being Remodeled](geo:36.971328467650416,-122.02702103939023)
+	- [Andrew: An Unfinished Restaurant](geo:36.971328467650416,-122.02702103939023)
 	- [Andrew: Pacific Metro Building Site](geo:36.970939944280566,-122.02390784012097)
 ##### The New List:
 - The New List contains the details and significance of 5 addresses.
@@ -33,6 +33,20 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- The other two from the Map are an innocent person's home and a building in construction. No clues can be found here.
 	- The 4th address from the New List is a Black Company Front.
 	- The 5th is the burned down home from earlier (Angel's home).
+
+##### 1111 Water Street, Santa Cruz Fireplace and Hot Tubs
+You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
+- **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
+- **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
+- **Inside the store**:
+	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. **If Joe has his phone**, this alerts Fireside (*Fireside-alerted-1*).
+	- Joe’s phone was left behind on a counter.
+		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
+		- This phone, and every member of Fireside's phone, has an unfamiliar app: Blackjack. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
+			- These codes align with Jerri's list. If you know the person's target, you will have their code.
+##### 319 Berkeley Way, The Fireside House
+##### 143 Chestnut St, The Innocent Apartment
+##### 515 Cedar Street, The Unfinished Restaurant
 ##### Pacific Ave, The Unfinished Station
 Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
 - **As you approach closer into the site**: you hear two things. (*Echoes - 2*)
@@ -51,19 +65,6 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 		- "No, I do. But I... I think I left my phone at the other hideout."
 		- "...Don't worry about it. We can find it after tomorrow night."
 		- "That... that works. Thanks, Luca."
-##### 319 Berkeley Way. A Fireside House
-##### The Innocent House
-##### The Unfinished Building
-##### 1111 Water Street. Santa Cruz Fireplace and Hot Tubs
-You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
-- **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
-- **As you move towards the back**: it is fenced. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
-- **Inside the store**:
-	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. **If Joe has his phone**, this alerts Fireside (*Fireside-alerted-1*).
-	- Joe’s phone was left behind on a counter.
-		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
-		- This phone, and every member of Fireside's phone, has an unfamiliar app: Blackjack. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
-			- These codes align with Jerri's list. If you know the person's target, you will have their code.
 ##### The Front
 # Showdown
 # Dangers
