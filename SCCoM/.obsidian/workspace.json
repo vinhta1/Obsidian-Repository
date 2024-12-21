@@ -11,22 +11,14 @@
             "id": "83ef9a95f6f8031f",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Into the Fire"
             }
           }
         ]
@@ -202,8 +194,11 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Private/Locations/Area List/Areas.md",
+    "Private/Locations/Area List/Eastside.md",
+    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Locations/Area List/Metro Area.md",
+    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
+    "Private/Locations/Area List/Areas.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Santa Cruz Boardwalk.md",
@@ -215,7 +210,6 @@
     "Private/Locations/District List/UCSC.md",
     "Private/Locations/District List/Westside.md",
     "Private/Locations/District List/The Boardwalk.md",
-    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Locations/Area List/Other Locations.md",
     "Private/Locations/Area List/Case Specific/Into The Fire Area List.md",
     "Untitled 3.canvas",
@@ -232,8 +226,6 @@
     "Private/Faction List/Factions.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/One Good Day.md",
-    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
-    "Private/Cases and Episodes/Blow The House Down.md",
     "Private/NPCS/Untitled",
     "Private/NPCS",
     "Private/Locations/Area List",

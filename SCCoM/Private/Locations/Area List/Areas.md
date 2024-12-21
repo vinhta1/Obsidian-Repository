@@ -7,5 +7,3 @@
 - [[Santa Cruz City Schools]]
 - [[UC Santa Cruz Campus]]
 - [[Other Locations]]
-# Case Specific Locations
-- [[Into the Fire Area List]]
