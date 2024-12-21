@@ -28,10 +28,10 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 16,
+                "mapZoom": 15,
                 "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
+                  "lat": 36.971328467650416,
+                  "lng": -122.02702103939023
                 },
                 "query": "",
                 "chosenMapSource": 0,

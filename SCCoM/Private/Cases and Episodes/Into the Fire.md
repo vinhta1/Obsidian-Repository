@@ -23,7 +23,8 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 	- There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
 	- [Andrew: Santa Cruz Fireplace and Hot Tub](geo:36.98152437780372,-122.0097640156746)
 	- [Andrew: A House on Berkeley Way](geo:36.98273955989971,-122.01645921539763)
-	- 
+	- [Andrew: A House on Chestnut Street](geo:36.96764369998521,-122.02925783946897)
+	- [Andrew: A Restaurant being Remodeled](geo:36.971328467650416,-122.02702103939023)
 	- [Andrew: Pacific Metro Building Site](geo:36.970939944280566,-122.02390784012097)
 ##### The New List:
 - The New List contains the details and significance of 5 addresses.
