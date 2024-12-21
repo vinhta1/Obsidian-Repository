@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1735c47fa23684",
+        "id": "cb91bdcbd4b411d7",
         "type": "tabs",
         "children": [
           {
-            "id": "69702ba10a8ce5b7",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
-            }
-          },
-          {
-            "id": "c77a6920dc84689e",
+            "id": "5e6892a08a3bd230",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -210,7 +188,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "69702ba10a8ce5b7",
+  "active": "5e6892a08a3bd230",
   "lastOpenFiles": [
     "Private/Locations/Area List/Metro Area.md",
     "Private/Locations/Area List/UC Santa Clara Campus.md",
