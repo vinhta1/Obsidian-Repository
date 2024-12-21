@@ -5,7 +5,7 @@ locations: ""
 # Background
 Corporations and franchises are thriving. Across the street from a chain store or restaurant lies an ashen corpse of a building: a mom and pop shop slumps in the blackened ruins of it former self. Periodically, an amber hue outshines the stars. The civilians remark the dark smoke that comes from Midtown and fills the blue sky. Local businesses are burning, and no one knows why. But everyone knows how.
 
-A group of arsonists, known as Fireside, are targeting small businesses, and it's not at random. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. Someone must've wanted to remind them.
+A group of arsonists, known as Fireside, are targeting small businesses, and it's not at random. Ezra, Luca, Damon, Joe, Angel. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. Someone must've wanted to remind them.
 
 A Fireside member's house was targeted. Fire, just like the other arsons. But this was someone's home. Jerri was there to save the woman and child trapped inside. But what if she wasn't?
 
@@ -18,14 +18,9 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 - Jerri's List
 	- It is a list of 4 addresses of local businesses and 4 alphanumeric character sequences.
 	- The codes are passwords for authenticators, allowing access to hidden emails and messages.
-		- The address corresponds with the person responsible for burning it. e.g. if Chris burnt the corner store, his password is next to the corner store's address.
-- Andrew Scott's Map (name:"andrew" AND linkedfrom:"Private/Cases and Episodes/Into the Fire.md")
+		- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address.
+- Andrew Scott's Map
 	- There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
-	- [Andrew: Santa Cruz Fireplace and Hot Tub](geo:36.98152437780372,-122.0097640156746)
-	- [Andrew: A House on Berkeley Way](geo:36.98273955989971,-122.01645921539763)
-	- [Andrew: A House on Chestnut Street](geo:36.96764369998521,-122.02925783946897)
-	- [Andrew: An Unfinished Restaurant](geo:36.971328467650416,-122.02702103939023)
-	- [Andrew: Pacific Metro Building Site](geo:36.970939944280566,-122.02390784012097)
 ##### The New List:
 - The New List contains the details and significance of 5 addresses.
 - 3 of the addresses from the Map match up with the New List. 
@@ -45,7 +40,9 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 		- This phone, and every member of Fireside's phone, has an unfamiliar app: Blackjack. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
 			- These codes align with Jerri's list. If you know the person's target, you will have their code.
 ##### 319 Berkeley Way, The Fireside House
+- Ezra's family lives here. They're oblivious.
 ##### 143 Chestnut St, The Innocent Apartment
+- There's a neighbor who knew Angel. They 
 ##### 515 Cedar Street, The Unfinished Restaurant
 ##### Pacific Ave, The Unfinished Station
 Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
@@ -63,7 +60,7 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 		- "Hey, uhh... about that."
 		- "What Joe? Do you not know where to meet up?"
 		- "No, I do. But I... I think I left my phone at the other hideout."
-		- "...Don't worry about it. We can find it after tomorrow night."
+		- "...Don't worry about it. We can grab it tonight after we burn our target."
 		- "That... that works. Thanks, Luca."
 ##### The Front
 # Showdown
