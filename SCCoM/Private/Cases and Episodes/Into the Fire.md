@@ -1,3 +1,6 @@
+---
+locations: ""
+---
 #Case 
 # Background
 Corporations and franchises are thriving. Across the street from a chain store or restaurant lies an ashen corpse of a building: a mom and pop shop slumps in the blackened ruins of it former self. Periodically, an amber hue outshines the stars. The civilians remark the dark smoke that comes from Midtown and fills the blue sky. Local businesses are burning, and no one knows why. But everyone knows how.
@@ -9,6 +12,11 @@ A Fireside member's house was targeted. Fire, just like the other arsons. But th
 Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate after hearing that a Fireside member's house was the target of arson. Armed with a list of locations and some gasoline, Fireside is going to burn.
 # Cold Open
 
+
+# Locations
+[The House on Berkeley Way](geo:36.98280139529737,-122.01569008833759)
+[Santa Cruz Fireplace and Hot Tub](geo:36.981551831114274,-122.00977689040886)
+[[Metro Area#[Pacific Metro Construction Site](geo 36.97201470214359,-122.02403032539428)]]
 
 # Investigation
 ##### The Picnic Basket: preplanning payback
