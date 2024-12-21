@@ -12,21 +12,19 @@ A Fireside member's house was targeted. Fire, just like the other arsons. But th
 Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate after hearing that a Fireside member's house was the target of arson. Armed with a list of locations and some gasoline, Fireside is going to burn.
 # Cold Open
 
-
-# Locations
-[[Eastside#[The House on Berkeley Way](geo 36.98280139529737,-122.01569008833759)|The House on Berkeley Way]]
-- 
-[[Eastside#[Santa Cruz Fireplace and Hot Tub](geo 36.981551831114274,-122.00977689040886)|Santa Cruz Fireplace and Hot Tub]]
-[[Metro Area#[Pacific Metro Construction Site](geo 36.97201470214359,-122.02403032539428)|Pacific Metro Construction Site]]
-
 # Investigation
+
 ##### The Picnic Basket: preplanning payback
 - Jerri's List
 	- It is a list of 4 addresses of local businesses and 4 alphanumeric character sequences.
 	- The codes are passwords for authenticators, allowing access to hidden emails and messages.
 		- The address corresponds with the person responsible for burning it. e.g. if Chris burnt the corner store, his password is next to the corner store's address.
-- Andrew Scott's Map
+- Andrew Scott's Map (name:"andrew" AND linkedfrom:"Private/Cases and Episodes/Into the Fire.md")
 	- There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
+	- [Andrew: Santa Cruz Fireplace and Hot Tub](geo:36.98152437780372,-122.0097640156746)
+	- [Andrew: A House on Berkeley Way](geo:36.98273955989971,-122.01645921539763)
+	- 
+	- [Andrew: Pacific Metro Building Site](geo:36.970939944280566,-122.02390784012097)
 ##### The New List:
 - The New List contains the details and significance of 5 addresses.
 - 3 of the addresses from the Map match up with the New List. 
