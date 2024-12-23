@@ -23,13 +23,13 @@ Ezra owes The Black Company money. He has to burn these places down *or else*.
 
 
 # Cold Open
-"Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a undetonated firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
+"Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
-The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs. The captions read: 'I wish I could tell you directly. Thank you. Thank you so much.'
+The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the ashes of her former home. The captions read: 'I wish I could tell you directly. Thank you. Thank you so much.'
 
-The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly on the couch. The room is now dark, it's former light extinguished by the click of a remote. He slowly picks up the one leaning on him, so as to not wake her up, and takes her to her bed. He comes back down and lifts the other girl into his arms.
+The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up, and takes her to her room. He comes back down and lifts the other girl into his arms.
 
-He closes the door to her room. It couldn't be any more different from the other. He walks down the hallway, missing the slightly first girl's slightly ajar door. A light emanates, and a chain quietly tugs the door, until it clicks.
+He closes the door to the other bedroom. It couldn't be any more different from her sister's. He walks down the hallway, missing the slightly first girl's slightly ajar door. A light emanates, and a chain quietly tugs the door, until it clicks.
 # Investigation
 
 ##### The Picnic Basket: preplanning payback
