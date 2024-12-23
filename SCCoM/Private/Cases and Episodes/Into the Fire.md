@@ -23,6 +23,7 @@ Ezra owes The Black Company money. He has to burn these places down *or else*.
 
 
 # Cold Open
+"We mourn the loss of two police officers"
 
 # Investigation
 
