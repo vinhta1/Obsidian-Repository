@@ -31,8 +31,10 @@ The TV turns off. A man is sitting laidback on a couch. There are two young girl
 
 He closes the door to the other bedroom. It couldn't be any more different from her sister's. He walks down the hallway, missing the slightly first girl's slightly ajar door. A light emanates, and a chain quietly tugs the door, until it clicks.
 # Investigation
-Thr
-
+There are three groups of addresses.
+Jerri's List: found from Angel's house.
+Andrew's Map: contains potential hideouts. None of the addresses match up with Jerri's List.
+Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### The Picnic Basket: preplanning payback
 - Jerri's List
 	- It is a list of 4 addresses of local businesses and 4 alphanumeric character sequences.
@@ -40,11 +42,11 @@ Thr
 		- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address.
 - Andrew Scott's Map
 	- There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
+	- Two from the Map are an innocent person's home and a building in construction. No clues can be found here. Andrew and crew don't know this to start.
 ##### The New List:
 - The New List contains the details and significance of 5 addresses.
 - 3 of the addresses from the Map match up with the New List. 
 	- 2 are Fireside hideouts (Fireplace and Hot Tubs, The Unfinished Station). 1 is a Fireside member's home (Berkeley Way).
-	- The other two from the Map are an innocent person's home and a building in construction. No clues can be found here.
 	- The 4th address from the New List is a Black Company Front.
 	- The 5th is the burned down home from earlier (Angel's home).
 
