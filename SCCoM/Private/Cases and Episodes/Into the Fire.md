@@ -23,10 +23,11 @@ Ezra owes The Black Company money. He has to burn these places down *or else*.
 
 
 # Cold Open
-"Today, we mourn the loss of two police officers." You see their faces from a group photo of the precinct.  "Detective Daz Lemon and Steven Lace lost their lives six days ago to a undetonated firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
+"Today, we mourn the loss of two police officers." You see their faces from an image of a group photo of the precinct. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a undetonated firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
-The news transitions to 'I wish I could tell you directly. Thank you. Thank you so much.'
+The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs. The captions read: 'I wish I could tell you directly. Thank you. Thank you so much.'
 
+This arson seems to be the last in a string of arsons targeting many families. 
 # Investigation
 
 ##### The Picnic Basket: preplanning payback
