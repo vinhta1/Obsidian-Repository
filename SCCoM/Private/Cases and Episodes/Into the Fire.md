@@ -31,6 +31,7 @@ The TV turns off. A man is sitting laidback on a couch. There are two young girl
 
 He closes the door to the other bedroom. It couldn't be any more different from her sister's. He walks down the hallway, missing the slightly first girl's slightly ajar door. A light emanates, and a chain quietly tugs the door, until it clicks.
 # Investigation
+Thr
 
 ##### The Picnic Basket: preplanning payback
 - Jerri's List
