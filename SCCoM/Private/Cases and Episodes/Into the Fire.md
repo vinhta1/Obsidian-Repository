@@ -27,7 +27,9 @@ Ezra owes The Black Company money. He has to burn these places down *or else*.
 
 The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs. The captions read: 'I wish I could tell you directly. Thank you. Thank you so much.'
 
-This arson seems to be the last in a string of arsons targeting many families. 
+The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly on the couch. The room is now dark, it's former light extinguished by the click of a remote. He slowly picks up the one leaning on him, so as to not wake her up, and takes her to her bed. He comes back down and lifts the other girl into his arms.
+
+He closes the door to her room. It couldn't be any more different from the other. He walks down the hallway, missing the slightly first girl's slightly ajar door. A light emanates, and a chain quietly tugs the door, until it clicks.
 # Investigation
 
 ##### The Picnic Basket: preplanning payback
