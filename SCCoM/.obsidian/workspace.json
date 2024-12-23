@@ -173,9 +173,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Private/Cases and Episodes/Into the Fire.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -209,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,7 +229,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "23863b98b4a8bd2d",
+  "active": "5ea9a49c9abe8d4b",
   "lastOpenFiles": [
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Ghost Festival.md",
