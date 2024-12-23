@@ -39,18 +39,21 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### Jerri's List
 - It is a list of 4 addresses of local businesses and 4 alphanumeric character sequences.
 - The codes are passwords for authenticators, allowing access to hidden emails and messages.
-	- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address.
+	- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address. Thus, the codes are also a way to confirm a target's been hit.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled. They believe that these places are where Fireside meets up and stores their equipment.
+	- Only three of them are correct. Chains can lead them to one of them, if asked or even if he feels like he should.
 - Two from the Map are an innocent person's home and a building in construction. No clues can be found here. Andrew and crew don't know this to start.
+	- Letting them burn these places down will be heavy.
 ##### The New List
 - The New List contains the details and significance of 5 addresses.
 - 3 of the addresses from the Map match up with the New List. 
 	- 2 are Fireside hideouts (Fireplace and Hot Tubs, The Unfinished Station). 1 is a Fireside member's home (Berkeley Way).
-	- The 4th address from the New List is a Black Company Front.
-	- The 5th is the burned down home from earlier (Angel's home).
-#### S
+	- The 4th is the burned down home from earlier (Angel's home).
+	-  The 5th address from the New List is a Black Company Front.
+#### Scenes
 ##### The Picnic Basket
+
 ##### 1111 Water Street, Santa Cruz Fireplace and Hot Tubs
 You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
 - **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
