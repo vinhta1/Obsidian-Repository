@@ -23,7 +23,7 @@ Ezra owes The Black Company money. He has to burn these places down *or else*.
 
 
 # Cold Open
-"We mourn the loss of two police officers"
+"Today, we mourn the loss of two police officers." You see their faces from a group photo of the precinct.  "Detective Daz Lemon and Steven Lace lost their lives six days ago to a undetonated firebomb, left behind from yet another attack from the notorious Fireside group." The camera cuts to a framed picture. The same one on the television screen.
 
 # Investigation
 
