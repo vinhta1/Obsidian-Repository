@@ -54,6 +54,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 #### Scenes
 ##### The Picnic Basket
 
+
 ##### 1111 Water Street, Santa Cruz Fireplace and Hot Tubs
 You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
 - **As you approach the door/windows**: you notice a smoothly plastered sticker. It is alarmed.
