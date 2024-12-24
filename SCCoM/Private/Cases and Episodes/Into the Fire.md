@@ -14,7 +14,7 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 
 Fireside has a local business owner captive, after catching them burning down one of their hideouts.
 ## Fireside
-Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company.
+Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each 
 ### Ezra
 Ezra owes The Black Company money. He has to burn these places down *or else*.
 ### Luca
