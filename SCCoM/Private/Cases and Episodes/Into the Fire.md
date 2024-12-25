@@ -31,7 +31,7 @@ The news transitions to footage of that night. A woman is sobbing, trying to mus
 
 The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up, and takes her to her room. He comes back down and lifts the other girl into his arms.
 
-He closes the door to the other bedroom. It couldn't be any more different from her sister's. He walks down the hallway, missing the slightly first girl's slightly ajar door. A light emanates, and the sounds of chains can be heard.
+He closes the door to the other bedroom. It couldn't be any more different from her sister's. He walks down the hallway, missing the slightly first girl's slightly ajar door. You hear the sound of chains.
 # Investigation
 There are three groups of addresses.
 Jerri's List: found from Angel's house.
