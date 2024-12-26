@@ -23,7 +23,7 @@ Andrew Scott, owner of The Picnic Basket, along with some other business owners 
 
 Fireside has a local business owner captive, after catching them burning down one of their hideouts.
 
-Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. Ezra used to light fires, and the boys would watch. It wasn't the safest hobby, but they were never out to harm anyone.
+Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. Ezra used to light fires, and the boys would watch. As they became closer, but grew older. Their lives went on different routes. Ezra and Damon became contract criminals, while Luca and Joe lived ordinary lives.
 ## Fireside
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
 Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol. Currently, a star (pentagram).
