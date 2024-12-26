@@ -12,7 +12,7 @@ A heart of anger. Hates bullies.
 
 
 # Background
-Ezra, Luca, Damon, and Joe are some guys that grew up together in the same neighborhood.
+Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. When
 
 Fireside has a local business owner captive, after catching them burning down one of their hideouts.
 ## Fireside
