@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Public Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "Public Notes"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Public Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline of Public Notes"
             }
           },
           {
@@ -229,8 +229,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "5ea9a49c9abe8d4b",
+  "active": "23863b98b4a8bd2d",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Public Notes.md",
+    "Untitled.md",
+    "Untitled 1.canvas",
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Locations/Area List/Metro Area.md",
@@ -255,14 +259,9 @@
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
     "Private/Faction List/The Black Company/Sunborn Studios.md",
-    "Untitled 1.canvas",
     "Private/Locations/Area List/General Areas",
     "Private/Locations/Area List/Case Specific",
-    "Untitled.canvas",
     "Private/Notes.md",
-    "Private/Faction List/Factions.md",
-    "Private/Cases and Episodes/Phil and Connor.md",
-    "Private/Cases and Episodes/One Good Day.md",
     "Private/NPCS/Untitled",
     "Private/NPCS",
     "Private/Locations/Area List",
