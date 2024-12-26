@@ -3,7 +3,7 @@ locations: ""
 ---
 #Case 
 # Notes
-Andrew is *fired-up-2* because of Nemesis. Andrew is not typically this angry or vengeful. There's someone that's trying to burn down a target as the Crew meets up at The Picnic Basket. If Andrew calls off the firestrike, the person's phone alerts Fireside and gets them discovered. Otherwise, the fire starts. Either way, they are caught.
+Andrew is *fired-up-2* because of Nemesis. Andrew is not typically this angry or vengeful. There's someone that's trying to burn down a target as the Crew meets up at The Picnic Basket. If Andrew calls off the fire attack, the person's phone alerts Fireside and gets them discovered. Otherwise, the fire starts. Either way, they are caught.
 
 What can Nemesis do?
 "I just work at the boardwalk dude." -> Normal, discreet
@@ -12,14 +12,7 @@ A heart of anger. Hates bullies.
 
 
 # Background
-Ezra owes The Black Company money. He has to burn these places down *or else*.
-Corporations and franchises are thriving. Across the street from a chain store or restaurant lies an ashen corpse of a building: a mom and pop shop slumps in the blackened ruins of it former self. Periodically, an amber hue outshines the stars. The civilians remark the dark smoke that comes from Midtown and fills the blue sky. Local businesses are burning, and no one knows why. But everyone knows how.
-
-A group of arsonists, known as Fireside, are targeting small businesses, and it's not at random. Ezra, Luca, Damon, Joe, Angel. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. Someone must've wanted to remind them.
-
-A Fireside member's house was targeted. Fire, just like the other arsons. But this was someone's home. Jerri was there to save the woman and child trapped inside. But what if she wasn't?
-
-Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate after hearing that a Fireside member's house was the target of arson. Armed with a list of locations and some gasoline, Fireside is going to burn.
+Ezra, Luca, Damon, and Joe are some guys that grew up together in the same neighborhood.
 
 Fireside has a local business owner captive, after catching them burning down one of their hideouts.
 ## Fireside
