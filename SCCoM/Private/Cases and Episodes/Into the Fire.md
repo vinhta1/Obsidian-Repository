@@ -6,7 +6,10 @@ locations: ""
 Andrew is *fired-up-2* because of Nemesis. Andrew is not typically this angry or vengeful. There's someone that's trying to burn down a target as the Crew meets up at The Picnic Basket. If Andrew calls off the firestrike, the person's phone alerts Fireside and gets them discovered. Otherwise, the fire starts. Either way, they are caught.
 
 What can Nemesis do?
-"I just work at the boardwalk dude." -> Protect the weak, humble the 
+"I just work at the boardwalk dude." -> Normal, discreet
+A heart of anger. Hates bullies.
+"Doesn't that piss you off?" -> A power to enrage people
+
 
 # Background
 Ezra owes The Black Company money. He has to burn these places down *or else*.
