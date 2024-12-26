@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public Notes.md",
+                "file": "Private/Cases and Episodes/Into the Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public Notes"
+              "title": "Into the Fire"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public Notes.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Public Notes"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -231,13 +231,25 @@
   },
   "active": "23863b98b4a8bd2d",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Private/NPCS/Renée Campos.md",
+    "Private/Locations/Area List/Metro Area.md",
+    "Private/NPCS/Kenneth Helm.md",
     "Public Notes.md",
+    "Private/PCs In Depth/Jerri Braun.md",
+    "Private/NPCS/Sarah Lauder.md",
+    "Private/Faction List/The Black Company/The Black Company.md",
+    "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
+    "Private/Faction List/The Black Company/Sunborn Studios.md",
+    "Private/Faction List/The Black Company/KP Entertainment.md",
+    "Private/Faction List/The Black Company/JJJJ (J4).md",
+    "Private/Faction List/The Black Company/Thornton Farms & Concepts.md",
+    "Private/Faction List/The Black Company/Balanced Helix.md",
+    "Private/Private Notes.md",
+    "Untitled.canvas",
     "Untitled.md",
     "Untitled 1.canvas",
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Ghost Festival.md",
-    "Private/Locations/Area List/Metro Area.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Eastside.md",
@@ -247,21 +259,10 @@
     "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Locations/Area List/UC Santa Cruz Campus.md",
     "Private/Locations/District List/Districts.md",
-    "Private/Locations/District List/Eastside.md",
-    "Private/Locations/District List/Downtown.md",
-    "Private/Locations/District List/UCSC.md",
-    "Private/Locations/District List/Westside.md",
-    "Private/Locations/District List/The Boardwalk.md",
-    "Private/Locations/Area List/Other Locations.md",
-    "Private/Locations/Area List/Case Specific/Into The Fire Area List.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Private/Cases and Episodes/CoM Weekly.md",
-    "Private/Cases and Episodes/Siren's Sonata.md",
-    "Private/Faction List/The Black Company/Sunborn Studios.md",
     "Private/Locations/Area List/General Areas",
     "Private/Locations/Area List/Case Specific",
-    "Private/Notes.md",
     "Private/NPCS/Untitled",
     "Private/NPCS",
     "Private/Locations/Area List",
