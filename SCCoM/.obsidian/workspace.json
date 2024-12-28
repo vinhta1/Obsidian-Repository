@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Private/Private Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "Private Notes"
             }
           },
           {
-            "id": "05445dbcd4109af6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "228d3a923a0e3b94",
+            "id": "55b26de020a55d0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Private/Private Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline of Private Notes"
             }
           },
           {
@@ -232,11 +222,13 @@
   "active": "23863b98b4a8bd2d",
   "lastOpenFiles": [
     "Private/NPCS/Renée Campos.md",
+    "Private/NPCS/Sarah Lauder.md",
+    "Private/NPCS/Susan Rashad.md",
+    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Locations/Area List/Metro Area.md",
     "Private/NPCS/Kenneth Helm.md",
     "Public Notes.md",
     "Private/PCs In Depth/Jerri Braun.md",
-    "Private/NPCS/Sarah Lauder.md",
     "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
     "Private/Faction List/The Black Company/Sunborn Studios.md",
@@ -248,7 +240,6 @@
     "Untitled.canvas",
     "Untitled.md",
     "Untitled 1.canvas",
-    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
     "Private/Locations/Area List/Neary Residential.md",
@@ -258,7 +249,6 @@
     "Private/Locations/Area List/Santa Cruz Boardwalk.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Locations/Area List/UC Santa Cruz Campus.md",
-    "Private/Locations/District List/Districts.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Private/Locations/Area List/General Areas",
