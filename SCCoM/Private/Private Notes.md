@@ -95,8 +95,8 @@ Kayley's reference for Ewan is Phineas from Phineas and Ferb.
 Kayley thinks we, as players, need to start shifting our language towards asking for permission versus explaining ourselves out of character. Doing the latter starts to create assumptions. It becomes rationalizing and abstracting the story beat instead of giving time for the story to change. Play more, talk less, and be more trusting. "Play to find out." Peter and ADHD would benefit to just absorb what is going on. Have the capable wherewithal to recognize story beats while ALSO reaching those beats organically. The characters make the choices, not the player. Asking for permission ooc is like DMing a player and asking them to trust them mid-game.
 Kayley as a player likes watching the players play and see where they end up as a result of their actions and trains of thought.
 
-I personally like the idea of asking for permission at the table too. Kayley agrees. Play to find out.
-When you say something and no one responses, you have this strange and sudden urge to defend yourself.
+**I personally like the idea of asking for permission at the table too. Kayley agrees. Play to find out.
+When you say something and no one responses, you have this strange and sudden urge to defend yourself.**
 
 Cases have to hit a mark at the end of a session. Checkpoints. The ability to do things on the side between big cases. Don't rush a case, don't set limits. Let it feel natural. Let players figure it out. Let players hit whatever beats they want to and run with it.
 
