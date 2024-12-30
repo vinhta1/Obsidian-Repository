@@ -88,3 +88,4 @@ The last thing Ewan and Ashley talked about is what's going on, like media and t
 
 Ewan and Phil still play games at the arcade. Phil gets close to beating Ewan's PB, but never does.
 Kayley's mental model of Phil was around Ewan's age. Two years older isn't too bad, kinda likes the dynamic.
+
