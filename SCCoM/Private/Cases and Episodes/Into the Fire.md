@@ -29,7 +29,9 @@ Ezra's first arson was, coincidentally, an important Black Company property. Tha
 
 Ezra's last assignment is to burn buildings in the shape of a pentagram. The Company is trying to experiment. Trying to create rifts. A buyer and investor (Reginald) wants a piece of that pie. "God or Satan, either will do." So, The Company is pulling a Hail Mary from the playbook. Ezra hires others to help him. He needs others to help him. The Company gave him an impossible task.
 
-Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional. Still, they managed on their own. Five buildings left, only one night to do it.
+Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional. Still, they managed on their own. Five buildings left, only one night to do it. Except, for one hitch. Someone just tried to burn down Ezra's house.
+
+
 ## Fireside
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
 Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol: a pentagram.
