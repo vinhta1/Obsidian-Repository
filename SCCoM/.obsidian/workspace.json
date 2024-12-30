@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md",
+                "file": "Private/NPCS/Darcy and Emilio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Black Company"
+              "title": "Darcy and Emilio"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Faction List/The Black Company/The Black Company.md"
+                "file": "Private/NPCS/Darcy and Emilio.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Black Company"
+              "title": "Outline of Darcy and Emilio"
             }
           },
           {
@@ -231,20 +231,22 @@
   },
   "active": "23863b98b4a8bd2d",
   "lastOpenFiles": [
+    "Private/NPCS/Kenneth Helm.md",
+    "Private/Locations/Area List/Santa Cruz City Schools.md",
+    "Private/PCs.md",
+    "Private/Cases and Episodes/Into the Fire.md",
+    "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/The Black Company/KP Entertainment.md",
     "Private/Faction List/The Black Company/Sunborn Studios.md",
-    "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/The Black Company/Thornton Farms & Concepts.md",
     "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
     "Private/Faction List/The Black Company/JJJJ (J4).md",
     "Private/Faction List/The Black Company/Balanced Helix.md",
-    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Private Notes.md",
     "Private/NPCS/Renée Campos.md",
     "Private/NPCS/Sarah Lauder.md",
     "Private/NPCS/Susan Rashad.md",
     "Private/Locations/Area List/Metro Area.md",
-    "Private/NPCS/Kenneth Helm.md",
     "Public Notes.md",
     "Private/PCs In Depth/Jerri Braun.md",
     "Untitled.canvas",
@@ -257,8 +259,6 @@
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/Locations/Area List/Areas.md",
     "Private/Locations/Area List/Santa Cruz Boardwalk.md",
-    "Private/Locations/Area List/Santa Cruz City Schools.md",
-    "Private/Locations/Area List/UC Santa Cruz Campus.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Private/Locations/Area List/General Areas",
