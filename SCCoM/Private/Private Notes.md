@@ -84,3 +84,7 @@ Before Ewan met Kenneth and the Crew, Ewan kinda just picked up moms and dads. H
 Ewan met Kenneth lastly when getting boy loft. Coin = tap to pay, no tap to pay = fucked. Ewan could always walk up to an ATM and withdraw cash... in theory. The painting is somewhere else.
 
 Ewan would only want to be adopted if absolutely had to. Whether or not Ewan knows that is a different question.
+The last thing Ewan and Ashley talked about is what's going on, like media and things. Pop culture. Ewan talks, Ashley listens and asks questions.
+
+Ewan and Phil still play games at the arcade. Phil gets close to beating Ewan's PB, but never does.
+Kayley's mental model of Phil was around Ewan's age. Two years older isn't too bad, kinda likes the dynamic.
