@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/NPCS/Darcy and Emilio.md",
+                "file": "Private/Private Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darcy and Emilio"
+              "title": "Private Notes"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/NPCS/Darcy and Emilio.md"
+                "file": "Private/Private Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Darcy and Emilio"
+              "title": "Outline of Private Notes"
             }
           },
           {
@@ -231,6 +231,8 @@
   },
   "active": "23863b98b4a8bd2d",
   "lastOpenFiles": [
+    "Private/Ideas.md",
+    "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Kenneth Helm.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/PCs.md",
@@ -257,8 +259,6 @@
     "Private/Locations/Area List/Neary Residential.md",
     "Private/Locations/Area List/Eastside.md",
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
-    "Private/Locations/Area List/Areas.md",
-    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Private/Locations/Area List/General Areas",

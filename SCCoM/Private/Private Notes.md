@@ -78,4 +78,9 @@ The Bullies
 
 The Gangs
 - Danny (Increasing Conflict, Citizens are in Danger)
-- 
+
+
+Before Ewan met Kenneth and the Crew, Ewan kinda just picked up moms and dads. Has a bus mom and dad, train mom and dad, gym mom and dad. Barbie and Ken type parents. Ewan recently made school parents.
+Ewan met Kenneth lastly when getting boy loft. Coin = tap to pay, no tap to pay = fucked. Ewan could always walk up to an ATM and withdraw cash... in theory. The painting is somewhere else.
+
+Ewan would only want to be adopted if absolutely had to. Whether or not Ewan knows that is a different question.
