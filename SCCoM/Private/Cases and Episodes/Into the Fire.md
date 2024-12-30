@@ -12,9 +12,9 @@ A heart of anger. Hates bullies.
 
 
 # Background
-Corporations and franchises are thriving. Across the street from a chain store or restaurant lies an ashen corpse of a building: a mom and pop shop slumps in the blackened ruins of it former self. Periodically within the last month, an amber hue outshines the stars. The civilians remark the dark smoke that comes from Midtown and fills the blue sky. Local businesses are burning, and no one knows why. But everyone knows how.
+Corporations and franchises are thriving. Across the street from a chain store or restaurant lies an ashen corpse of a building: a mom and pop shop slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
 
-A group of arsonists, known as Fireside, are targeting small businesses, and it's not at random. Ezra, Luca, Damon, Joe, Angel. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. Someone must've wanted to remind them.
+A group of arsonists known as Fireside are targeting small businesses, and it's not at random. Ezra, Luca, Damon, Joe, Angel. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. They ought to remember now.
 
 A Fireside member's house was targeted. Fire, just like the other arsons. But this was someone's home. Jerri was there to save the woman and child trapped inside. But what if she wasn't?
 
