@@ -97,3 +97,7 @@ Kayley as a player likes watching the players play and see where they end up as 
 
 I personally like the idea of asking for permission at the table too. Kayley agrees. Play to find out.
 When you say something and no one responses, you have this strange and sudden urge to defend yourself.
+
+Cases have to hit a mark at the end of a session. Checkpoints. The ability to do things on the side between big cases. Don't rush a case, don't set limits. Let it feel natural. Let players figure it out. Let players hit whatever beats they want to and run with it.
+
+Peter: On the topic of Matt Mercer. There are 4 hours sessions of shopping simulator. Players want to fuck around. That's okay!
