@@ -32,7 +32,7 @@ Ezra's last assignment is to burn buildings in the shape of a pentagram. The Com
 Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional. Still, they managed on their own. Five buildings left, only one night to do it.
 ## Fireside
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
-Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol. Currently, a star (pentagram).
+Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol: a pentagram.
 ### Ezra
 Ezra owes The Black Company money. He has to burn these places down *or else*.
 ### Luca
