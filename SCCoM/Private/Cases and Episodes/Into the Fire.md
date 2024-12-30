@@ -25,7 +25,9 @@ Fireside has a local business owner captive, after catching them burning down on
 
 Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. Ezra used to light fires, and the boys would watch. As they became closer, but grew older. Their lives went on different routes. Ezra and Damon became criminals, while Luca and Joe lived ordinary lives.
 
-Ezra's first arson was a BC base. That got him in a lot of trouble, but instead of draining him and his family of his life's earning and assets, they hired him so that he could repay his debt.
+Ezra's first arson was a BC base. That got him in a lot of trouble, but instead of draining him and his family of his life's earning and assets, they hired him so that he could repay his debt. Fireside started with one man who dug a hole he couldn't get himself out of and desperate to get out, dragged his friends inside.
+
+BC hires Ezra to burn buildings in the shape of a pentagram. Ezra hires others to help him. 
 ## Fireside
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
 Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol. Currently, a star (pentagram).
