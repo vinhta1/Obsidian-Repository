@@ -89,4 +89,6 @@ The last thing Ewan and Ashley talked about is what's going on, like media and t
 Ewan and Phil still play games at the arcade. Phil gets close to beating Ewan's PB, but never does.
 Kayley's mental model of Phil was around Ewan's age. Two years older isn't too bad, kinda likes the dynamic.
 
-Kayley thinks the crew and the reason why they work together is disjointed.
+Kayley thinks the crew and the reason why they work together is disjointed. Would like more cohesion.
+Ewan is a child, Kayley didn't make it clear to other players that Kayley is not and would like to be respected. Icarus and Jerri is college mom and college dad. There's Seung-Jin if there's more interactions. Player-wise, it was Jimmy. Ewan in the boy loft will have a TV screen constantly playing VODs of Asmodeus. Always on.
+Kayley's reference for Ewan is Phineas from Phineas and Ferb.
