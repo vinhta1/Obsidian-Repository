@@ -25,10 +25,11 @@ Fireside has a local business owner captive, after catching them burning down on
 
 Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. Ezra used to light fires, and the boys would watch. They became closer, but they grew older too. Their lives went on different routes. Ezra and Damon became criminals, while Luca and Joe lived ordinary lives.
 
-Ezra's first arson was, coincidentally, an important Black Company property. That got him in a lot of trouble, but instead of draining him and his family of his life's earning and assets, they hired him so that he could repay his debt. Fireside started with one man who dug a hole he couldn't get himself out of and desperate to get out, dragged his friends inside.
+Ezra's first arson was, coincidentally, an important Black Company property. That got him in a lot of trouble, but instead of draining him and his family of his life's earning and assets, they hired him so that he could repay his debt. Fireside started with one man who dug a hole he couldn't get himself out of, and desperate to get out, dragged his friends inside.
 
-Ezra's last assignment is to burn buildings in the shape of a pentagram. Ezra hires others to help him. BC is trying to experiment. Trying to create rifts. Trying to make their own FogTech. A buyer and investor (Reginald) wants to be a rift. "God or Satan, either will do."
-Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional.
+Ezra's last assignment is to burn buildings in the shape of a pentagram. The Company is trying to experiment. Trying to create rifts. A buyer and investor (Reginald) wants a piece of that pie. "God or Satan, either will do." So, The Company is pulling a Hail Mary from the playbook. Ezra hires others to help him. He needs others to help him. The Company gave him an impossible task.
+
+Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional. Still, they managed on their own. Five buildings left, only one night to do it.
 ## Fireside
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
 Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol. Currently, a star (pentagram).
@@ -55,7 +56,7 @@ Andrew's Map: contains potential hideouts. None of the addresses match up with J
 Fireside's Operations: matches with some of the addresses from Andrew's Map.
 #### The Lists
 ##### Jerri's List
-- It is a list of 4 addresses of local businesses and 4 alphanumeric character sequences.
+- It is a list of 5 addresses of local businesses and 5 alphanumeric character sequences.
 - The codes are passwords for authenticators, allowing access to hidden emails and messages.
 	- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address. Thus, the codes are also a way to confirm a target's been hit.
 ##### Andrew Scott's Map
