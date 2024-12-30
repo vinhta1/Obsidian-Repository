@@ -27,7 +27,7 @@ Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the sam
 
 Ezra's first arson was, coincidentally, an important Black Company property. That got him in a lot of trouble, but instead of draining him and his family of his life's earning and assets, they hired him so that he could repay his debt. Fireside started with one man who dug a hole he couldn't get himself out of and desperate to get out, dragged his friends inside.
 
-BC hires Ezra to burn buildings in the shape of a pentagram. Ezra hires others to help him. BC is trying to experiment. Trying to create rifts. Trying to make their own FogTech. A buyer and investor (Reginald) wants to be a rift. "God or Satan, either will do."
+Ezra's last assignment is to burn buildings in the shape of a pentagram. Ezra hires others to help him. BC is trying to experiment. Trying to create rifts. Trying to make their own FogTech. A buyer and investor (Reginald) wants to be a rift. "God or Satan, either will do."
 Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional.
 ## Fireside
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
