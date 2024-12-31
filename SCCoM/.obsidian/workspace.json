@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Public Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "Public Notes"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,11 +239,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "23863b98b4a8bd2d",
+  "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Private/Private Notes.md",
     "Public Notes.md",
     "Private/Cases and Episodes/Into the Fire.md",
+    "Private/Private Notes.md",
     "Private/Ideas.md",
     "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Kenneth Helm.md",

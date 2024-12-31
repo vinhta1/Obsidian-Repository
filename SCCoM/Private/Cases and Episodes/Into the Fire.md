@@ -20,7 +20,7 @@ A Fireside member's house was targeted. Fire, just like the other arsons. But th
 
 Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate after hearing that a Fireside member's house was the target of arson. Armed with a list of locations and some gasoline, Fireside is going to burn.
 
-The Company ordered the arsons. Fireside carried out the arsons. Nemesis burned down the Fireside house. Local businesses are attacking back. 
+The Company ordered the arsons. Fireside carried out the arsons. Nemesis burned down the Fireside house. Local businesses are attacking back. Stop the fires, or this city will burn.
 ## Fireside
 Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. Ezra used to light fires, and the boys would watch. They became closer, but they grew older too. Their lives went on different routes. Ezra and Damon became criminals, while Luca and Joe lived ordinary lives.
 
@@ -29,7 +29,6 @@ Ezra's first arson was, coincidentally, an important Black Company property. Tha
 Ezra's last assignment is to burn buildings. Not one, not two, Ezra hires others to help him. He needs others to help him. The Company gave him an impossible task.
 
 Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional. Still, they managed on their own. Five buildings left, only one night to do it. Except, for one hitch. Someone just tried to burn down Ezra's house.
-
 
  in the shape of a pentagram. The Company is trying to experiment. Trying to create rifts. A buyer and investor (Reginald) wants a piece of that pie. "God or Satan, either will do." So, The Company is pulling a Hail Mary from the playbook.
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
