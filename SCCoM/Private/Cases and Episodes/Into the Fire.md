@@ -12,19 +12,14 @@ A heart of anger. Hates bullies.
 
 Kenneth might want to talk to Ezra.
 # Background
+## Local Businesses Targeted
 Corporations and franchises are thriving. Across the street from a chain or a restaurant lies an ashen corpse of a building: a mom and pop shop by Bay Street, or maybe a hobby store just outside of downtown, slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
 
 A group of arsonists known as Fireside are targeting small businesses, and it's not at random. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. They ought to remember now.
 
 These aren't ghosts or monsters hiding in the closet. They're just people. They have lives, they have jobs, they even have homes and families. They have something to lose. Ever since that house fire, the arsons have been slowing down. Maybe we burn a few more houses down, it'll stop for good.
 
-We have a handful of places that we suspect are housing Fireside. Maybe hideouts, meeting places. There's a few pla
-
-A Fireside member's house was targeted. Fire, just like the other arsons. But this was someone's home. Jerri was there to save the woman and child trapped inside. But what if she wasn't?
-
-Andrew Scott, owner of The Picnic Basket, along with some other business owners have decided to retaliate after hearing that a Fireside member's house was the target of arson. Armed with a list of locations and some gasoline, Fireside is going to burn.
-
-The Company ordered the arsons. Fireside carried out the arsons. Nemesis burned down the Fireside house. Local businesses are attacking back. Stop the fires, or this city will burn.
+We have a handful of places that we suspect are housing Fireside. Maybe hideouts, meeting places. There's a few places in residential areas too. Some of the guys are keen against lighting those up but, I won't watch my friends' livelihoods go up in flames just for some sickos' entertainment. They want to play with fire? We can play with fire.
 ## Fireside
 Ezra, Luca, Damon, and Joe are a couple of guys that grew up together in the same neighborhood. Ezra used to light fires, and the boys would watch. They became closer, but they grew older too. Their lives went on different routes. Ezra and Damon became criminals, while Luca and Joe lived ordinary lives.
 
@@ -34,17 +29,12 @@ Ezra's last assignment is to burn buildings. Not one, not two, Ezra hires others
 
 Fireside almost completed their mission, until one of them lost their house in a fire. Most of them left after convincing themselves that it was targeted and intentional. Still, they managed on their own. Five buildings left, only one night to do it. Except, for one hitch. Someone just tried to burn down Ezra's house.
 
- in the shape of a pentagram. The Company is trying to experiment. Trying to create rifts. A buyer and investor (Reginald) wants a piece of that pie. "God or Satan, either will do." So, The Company is pulling a Hail Mary from the playbook.
+## The Black Company
+Burn down buildings in the shape of a pentagram. The Company is trying to experiment. Trying to create rifts. A buyer and investor (Reginald) wants a piece of that pie. "God or Satan, either will do." So, The Company is pulling a Hail Mary from the playbook.
 The Black Company's trying to do something *big*. But first, they need their actors and props in place.
 Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol: a pentagram.
-### Ezra
-Ezra owes The Black Company money. He has to burn these places down *or else*.
-### Luca
-### Damon
-### Joe
-### Angel
 
-
+## Nemesis
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
@@ -115,4 +105,6 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 		- "That... that works. Thanks, Luca."
 ##### The Front
 # Showdown
+# Case End
+
 # Dangers
