@@ -16,7 +16,9 @@ Corporations and franchises are thriving. Across the street from a chain or a re
 
 A group of arsonists known as Fireside are targeting small businesses, and it's not at random. Select locations are chosen to make more room for bigger, more profitable, and more prolific storefronts and services. They love playing with fire, but they've forgotten what it's like to be burnt. They ought to remember now.
 
+These aren't ghosts or monsters hiding in the closet. They're just people. They have lives, they have jobs, they even have homes and families. They have something to lose. Ever since that house fire, the arsons have been slowing down. Maybe we burn a few more houses down, it'll stop for good.
 
+We have a handful of places that we suspect are housing Fireside. Maybe hideouts, meeting places. There's a few pla
 
 A Fireside member's house was targeted. Fire, just like the other arsons. But this was someone's home. Jerri was there to save the woman and child trapped inside. But what if she wasn't?
 
