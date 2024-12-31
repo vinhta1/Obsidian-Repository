@@ -10,7 +10,7 @@ What can Nemesis do?
 A heart of anger. Hates bullies.
 "Doesn't that piss you off?" -> A power to enrage people
 
-
+Kenneth might want to talk to Ezra.
 # Background
 Corporations and franchises are thriving. Across the street from a chain store or restaurant lies an ashen corpse of a building: a mom and pop shop slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
 

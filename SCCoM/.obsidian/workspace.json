@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Private Notes.md",
+                "file": "Private/Cases and Episodes/Into the Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Private Notes"
+              "title": "Into the Fire"
             }
           },
           {
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Private Notes.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Private Notes"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -241,6 +241,7 @@
   },
   "active": "23863b98b4a8bd2d",
   "lastOpenFiles": [
+    "Private/Private Notes.md",
     "Private/Ideas.md",
     "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Kenneth Helm.md",
@@ -254,7 +255,6 @@
     "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
     "Private/Faction List/The Black Company/JJJJ (J4).md",
     "Private/Faction List/The Black Company/Balanced Helix.md",
-    "Private/Private Notes.md",
     "Private/NPCS/Renée Campos.md",
     "Private/NPCS/Sarah Lauder.md",
     "Private/NPCS/Susan Rashad.md",
