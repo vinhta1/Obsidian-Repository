@@ -108,4 +108,6 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 # Case End
 
 # Dangers
-## Fireside
+### Fireside
+#### Spectrums
+Outpay: 2 | Convince: 4 | Threaten: 5 | Beat-or-Subdue: 3

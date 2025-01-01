@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/One Good Day.md",
+                "file": "Private/Cases and Episodes/Into the Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One Good Day"
+              "title": "Into the Fire"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/One Good Day.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of One Good Day"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -196,9 +196,9 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/Into the Fire.md",
+    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Private/Locations/Area List/Santa Cruz Boardwalk.md",
     "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Locations/Area List/UC Santa Cruz Campus.md",
