@@ -11,14 +11,22 @@
             "id": "83ef9a95f6f8031f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
-                "mode": "source",
-                "source": false
+                "name": "Default",
+                "mapZoom": 16,
+                "mapCenter": {
+                  "lat": 36.97243313460997,
+                  "lng": -122.0258245475998
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
               },
-              "icon": "lucide-file",
-              "title": "Into the Fire"
+              "icon": "map-pin",
+              "title": "Interactive Map View"
             }
           }
         ]
@@ -73,8 +81,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,11 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline"
             }
           },
           {
@@ -197,13 +202,16 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Public Notes.md",
+    "Private/Locations/Area List/Santa Cruz Boardwalk.md",
+    "Private/Locations/Area List/Santa Cruz City Schools.md",
+    "Private/Locations/Area List/UC Santa Cruz Campus.md",
+    "Private/Locations/Area List/Other Locations.md",
     "Private/Cases and Episodes/Into the Fire.md",
+    "Public Notes.md",
     "Private/Private Notes.md",
     "Private/Ideas.md",
     "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Kenneth Helm.md",
-    "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/PCs.md",
     "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/The Black Company/KP Entertainment.md",
@@ -222,9 +230,6 @@
     "Untitled 1.canvas",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Locations/Area List/Mission Santa Cruz.md",
-    "Private/Locations/Area List/Neary Residential.md",
-    "Private/Locations/Area List/Eastside.md",
-    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Private/Locations/Area List/General Areas",
