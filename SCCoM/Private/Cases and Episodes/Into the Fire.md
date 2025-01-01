@@ -78,6 +78,7 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 		- This phone, and every member of Fireside's phone, has an app: Blackjack. It looks like a common game app. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
 			- These codes align with Jerri's list. If you know the person's target, you will have their code. Joe's Blackjack needs Joe's code.
 ##### 319 Berkeley Way, The Fireside House
+
 - Ezra's family lives here. They're oblivious.
 - Ezra wants to take his family out of Santa Cruz. But first, he has to pay some debts. He owes the very people that put him on the job. Simply put, he can't say no.
 ##### 143 Chestnut St, The Innocent Apartment
