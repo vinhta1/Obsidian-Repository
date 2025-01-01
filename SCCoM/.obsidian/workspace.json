@@ -11,22 +11,14 @@
             "id": "83ef9a95f6f8031f",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.97243313460997,
-                  "lng": -122.0258245475998
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
+                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Into the Fire"
             }
           }
         ]
@@ -146,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Private/Cases and Episodes/Into the Fire.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Into the Fire"
             }
           },
           {

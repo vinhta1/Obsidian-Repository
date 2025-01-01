@@ -70,13 +70,13 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### 1111 Water Street, Santa Cruz Fireplace and Hot Tubs
 You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
 - **As you approach the doors and windows**: you notice a smoothly plastered sticker. It is alarmed.
-- **As you move towards the back**: There is a fence gate with a latch. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a ladder, resting on the ground.
+- **As you move towards the back**: There is a fence gate with a latch. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a *ladder*, resting on the ground.
 - **Inside the store**:
 	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. **If Joe has his phone**, this alerts Fireside (*Fireside-alerted-1*).
 	- Joe’s phone was left behind on a counter.
 		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
-		- This phone, and every member of Fireside's phone, has an unfamiliar app: Blackjack. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
-			- These codes align with Jerri's list. If you know the person's target, you will have their code.
+		- This phone, and every member of Fireside's phone, has an app: Blackjack. It looks like a common game app. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
+			- These codes align with Jerri's list. If you know the person's target, you will have their code. Joe's Blackjack needs Joe's code.
 ##### 319 Berkeley Way, The Fireside House
 - Ezra's family lives here. They're oblivious.
 - Ezra wants to take his family out of Santa Cruz. But first, he has to pay some debts. He owes the very people that put him on the job. Simply put, he can't say no.
