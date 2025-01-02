@@ -117,7 +117,7 @@ Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 - **Morals**: Status towards social spectrums using *morals* gain an extra tier against Luca and Joe.
 - **Make it Personal**: Statuses towards social spectrums against Ezra, Luca, or Joe's mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain a tier-2 status reflecting their reaction.
 ---
-- **Ezra**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. As a soft move, they can prepare a molotov (*firebomb*). As an intrusion, they can **throw a molotov**.
+- **Ezra**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. As a hard move, they can prepare a molotov (*firebomb*). As an intrusion, they can **throw a molotov**.
 - **Damon**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. They have combat training: physical statuses they take are reduced by 1, while physical statuses they give are increased by 1.
 - **Luca**: When Fireside is *Convinced*, gain *second-thoughts-1*. Luca tries to talk it out whenever they can (remove up to two tiers of *alertness* statuses or give *distracted-2*).
 - **Joe**: When Fireside is *Convinced*, gain *second-thoughts-1*. Once per scene, give up a **clue** when asked before being stopped from saying anything else.
@@ -128,4 +128,5 @@ Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 ---
 - Brandish a gun and make a threat.
 - Run at someone and yell.
+- Ezra pulls out a bottle from a bag. You hear a lighter click.
 - Reveal their nature: Ezra is desperate and panicked. Damon is cold and dangerous. Luca is rational and friendly. Joe is a klutz, but loyal.
