@@ -113,4 +113,4 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 #### Moves
 - **Payday**: Statuses towards social spectrums using *money* gain an extra tier against Damon.
-- **Make it Personal**: Statuses towards social spectrums against Ezra, Luca, or Joe's mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain *Hostile-2* if threatened or *Guilty-1* if convinced.
+- **Make it Personal**: Statuses towards social spectrums against their mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain *Hostile-2* if threatened or *Guilty-1* if convinced.
