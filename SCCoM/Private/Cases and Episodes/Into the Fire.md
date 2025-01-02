@@ -118,8 +118,12 @@ Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 - **Make it Personal**: Statuses towards social spectrums against Ezra, Luca, or Joe's mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain a tier-2 status reflecting their reaction.
 ---
 - **Ezra**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. As a soft move, they can prepare a molotov (*firebomb*). As an intrusion, they can **throw a molotov**.
-- **Damon**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. They have combat training: physical statuses they take are reduced by 1, while physical statuses they inflict are increased by 1.
-- **Luca**: When Fireside is *Convinced*, gain *second-thoughts-1*. Luca tries to talk it out whenever they can (remove up to two tiers of alertnessgive distracted-2)
+- **Damon**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. They have combat training: physical statuses they take are reduced by 1, while physical statuses they give are increased by 1.
+- **Luca**: When Fireside is *Convinced*, gain *second-thoughts-1*. Luca tries to talk it out whenever they can (remove up to two tiers of *alertness* statuses or give *distracted-2*).
 - **Joe**: When Fireside is *Convinced*, gain *second-thoughts-1*. Once per scene, give up a **clue** when asked before being stopped from saying anything else.
 - Fire their handgun (*shot-in-the-dark-2* or *clean-shot-3*).
 - Throw a molotov (Burn a *firebomb* tag to *light-em-up-4* and create a *fire patch* tag).
+- Crowbars and fists (*bruised-2* or *subdue-2*).
+---
+- Brandish a gun and make a threat.
+- A wild yell erupts, as they run at someone.
