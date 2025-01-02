@@ -13,6 +13,7 @@ A heart of anger. Hates bullies.
 Kenneth might want to talk to Ezra.
 
 Andrew wants the crew to burn these five places down.
+Phone has messages that clue into what might be Joe's code.
 # Background
 ### Local Businesses Targeted
 Corporations and franchises are thriving. Across the street from a chain or a restaurant lies an ashen corpse of a building: a mom and pop shop by Bay Street, or maybe a hobby store just outside of downtown, slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
@@ -57,7 +58,6 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Chestnut St Apartment, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Only three of them are correct. Chains can lead them to one of them, if asked or even if he feels like he should.
-- Two from the Map are an innocent person's home and a building in construction. No clues can be found here. Andrew and crew don't know this to start.
 	- Letting them burn these places down will be heavy.
 ##### The New List
 - The New List contains the details and significance of 5 addresses.
@@ -76,7 +76,6 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 - **Inside the store**:
 	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. **If Joe has his phone**, this alerts Fireside (*Fireside-alerted-1*).
 	- Joe’s phone was left behind on a counter.
-		- Can be unlocked via passcode or FaceID. After three failed passcode attempts, the phone is locked out. (*Lockout-5*)
 		- This phone, and every member of Fireside's phone, has an app: Blackjack. It looks like a common game app. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
 			- These codes align with Jerri's list. If you know the person's target, you will have their code. Joe's Blackjack needs Joe's code.
 ##### 319 Berkeley Way, The Fireside House
