@@ -11,6 +11,8 @@ A heart of anger. Hates bullies.
 "Doesn't that piss you off?" -> A power to enrage people
 
 Kenneth might want to talk to Ezra.
+
+Andrew wants the crew to burn these five places down.
 # Background
 ### Local Businesses Targeted
 Corporations and franchises are thriving. Across the street from a chain or a restaurant lies an ashen corpse of a building: a mom and pop shop by Bay Street, or maybe a hobby store just outside of downtown, slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
@@ -53,7 +55,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - The codes are passwords for authenticators, allowing access to hidden emails and messages.
 	- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address. Thus, the codes are also a way to confirm a target's been hit.
 ##### Andrew Scott's Map
-- There's a map with 5 locations circled. (Water Street, Berkeley Home, Chestnut Apt, Cedar Restaurant, Pacific Station)They believe that these places are where Fireside meets up and stores their equipment.
+- There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Chestnut St Apartment, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Only three of them are correct. Chains can lead them to one of them, if asked or even if he feels like he should.
 - Two from the Map are an innocent person's home and a building in construction. No clues can be found here. Andrew and crew don't know this to start.
 	- Letting them burn these places down will be heavy.
