@@ -112,7 +112,7 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 #### Spectrums
 Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 #### Moves
-- **Friends Until the End**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
+- **Four-Piece**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
 - **Payday**: Statuses towards social spectrums using *money* gain an extra tier against Damon.
 - **Morals**: Status towards social spectrums using *morals* gain an extra tier against Luca and Joe.
 - **Make it Personal**: Statuses towards social spectrums against Ezra, Luca, or Joe's mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain a tier-2 status reflecting their reaction.
@@ -125,6 +125,7 @@ Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 - Fire their handgun (*shot-in-the-dark-2* or *clean-shot-3*).
 - Throw a molotov (Burn a *firebomb* tag to *light-em-up-3 and create a *fire patch* tag).
 - Crowbars and fists (*bruised-2* or *subdue-2*).
+- Run like hell.
 ---
 - Brandish a gun and make a threat.
 - Run at someone and yell.
