@@ -112,4 +112,4 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 #### Spectrums
 Convince: 4 | Threaten: 5 | Beat-or-Subdue: 3
 #### Moves
-**Payday**: Using money to reach 
+**Payday**: Statuses towards social spectrums using *money* gain an extra tier. 
