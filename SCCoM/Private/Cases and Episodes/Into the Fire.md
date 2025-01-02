@@ -119,13 +119,14 @@ Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 ---
 - **Ezra**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. As a hard move, they can prepare a molotov (*firebomb*). As an intrusion, they can **throw a molotov**.
 - **Damon**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. They have combat training: physical statuses they take are reduced by 1, while physical statuses they give are increased by 1.
-- **Luca**: When Fireside is *Convinced*, gain *second-thoughts-1*. Luca tries to talk it out whenever they can (remove up to two tiers of *alertness* statuses or give *distracted-2*).
+- **Luca**: When Fireside is *Convinced*, gain *second-thoughts-1*. Luca tries to talk it out whenever they can (remove up to two tiers of *alertness* statuses or give *distracted-2*). Social statuses they give and take are increased by 1.
 - **Joe**: When Fireside is *Convinced*, gain *second-thoughts-1*. Once per scene, give up a **clue** when asked before being stopped from saying anything else.
 - Call out a person (*targeted-1*).
 - Fire their handgun (*shot-in-the-dark-2* or *clean-shot-3*).
 - Throw a molotov (Burn a *firebomb* tag to *light-em-up-3 and create a *fire patch* tag).
 - Crowbars and fists (*bruised-2* or *subdue-2*).
-- Run like hell.
+- Run like hell (*Deny Them Something They Want)*.
+- Talk it out (*compromise-2* or *sympathy-2*).
 ---
 - Brandish a gun and make a threat.
 - Run at someone and yell.
