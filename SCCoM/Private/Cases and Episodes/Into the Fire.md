@@ -112,10 +112,11 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 #### Spectrums
 Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 #### Moves
-- **Four-Piece**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
+- **Friends Until the End**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
 - **Payday**: Statuses towards social spectrums using *money* gain an extra tier against Damon.
 - **Morals**: Status towards social spectrums using *morals* gain an extra tier against Luca and Joe.
 - **Make it Personal**: Statuses towards social spectrums against Ezra, Luca, or Joe's mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain a tier-2 status reflecting their reaction.
 ---
-- Damon: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a handgun (*clean-shot-3* or *point-blank-4*). They have combat training. Physical statuses they take are reduced by 1, while physical statuses they inflict are increased by 1.
-- Ezra: When Fireside is *Threatened*, retaliate with a hard move. They are also 
+- Ezra: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a handgun (*clean-shot-3* or *point-blank-4*). As a soft move, they can prepare a molotov (*firebomb-ready*).
+- Damon: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a handgun. They have combat training: physical statuses they take are reduced by 1, while physical statuses they inflict are increased by 1.
+- Luca: 
