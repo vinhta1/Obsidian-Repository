@@ -112,8 +112,9 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 #### Spectrums
 Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 #### Moves
-- **Four-Piece**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. Choose a member to be out of the fight. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
+- **Four-Piece**: Fireside consists of four different distinct members and has a size factor of 1. Create a story tag for each member: Ezra, Damon, Luca, and Joe. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
 - **Payday**: Statuses towards social spectrums using *money* gain an extra tier against Damon.
 - **Morals**: Status towards social spectrums using *morals* gain an extra tier against Luca and Joe.
 - **Make it Personal**: Statuses towards social spectrums against Ezra, Luca, or Joe's mundane lives gain an extra tier. Jeopardizing their relationships gain another extra two tiers. The first time this is invoked, they immediately gain a tier-2 status reflecting their reaction.
 ---
+- If Ezra and Damon are active max out their *Threaten* spectrum
