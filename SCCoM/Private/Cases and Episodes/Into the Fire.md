@@ -14,6 +14,7 @@ Kenneth might want to talk to Ezra.
 
 Andrew wants the crew to burn these five places down.
 Phone has messages that clue into what might be Joe's code.
+Local business member is torturing a auxiliary fireside member by splashing water on someone trapped in a walk-in cooler.
 # Background
 ### Local Businesses Targeted
 Corporations and franchises are thriving. Across the street from a chain or a restaurant lies an ashen corpse of a building: a mom and pop shop by Bay Street, or maybe a hobby store just outside of downtown, slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
@@ -114,21 +115,17 @@ Pillars and ramps of concrete and rebar create an echo chamber for deals in the 
 Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
 #### Moves
 - **Four-Piece**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
+	- **Ezra and Damon** have (*guns*). Ezra can light a (*firebomb*) as a soft move and Damon takes 1 less from physical statuses and gives 1 more to physical statuses.
+	- **Luca and Joe** have (*morals*). Luca can give (*distracted-2*) and Joe can accidentally give a *clue*.
 - **Make it Personal**: When mentioning their real lives, they immediately gain a tier-2 status reflecting their reaction.
 ---
-- **Ezra**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. As a hard move, they can prepare a molotov (*firebomb*). As an intrusion, they can **throw a molotov**.
-- **Damon**: When Fireside is *Threatened*, retaliate with a hard move. They are also armed with a **handgun**. They have combat training: physical statuses they take are reduced by 1, while physical statuses they give are increased by 1.
-- **Luca**: When Fireside is *Convinced*, gain *second-thoughts-1*. Luca tries to talk it out whenever they can (remove up to two tiers of *alertness* statuses or give *distracted-2*). Social statuses they give and take are increased by 1.
-- **Joe**: When Fireside is *Convinced*, gain *second-thoughts-1*. Once per scene, give up a **clue** when asked before being stopped from saying anything else. Social statuses they take are increased by 1.
-- Fire their handgun (*shot-in-the-dark-2* or *clean-shot-3*).
-- Throw a molotov (Burn a *firebomb* tag to *light-em-up-3 and create a *fire patch* tag).
-- Crowbars and fists (*bruised-2* or *subdue-2*).
-- Run like hell (*Deny Them Something They Want*).
+- Light it up (Burn a *firebomb* tag to *light-em-up-3* and create a *fire patch* tag OR **Make Something Terrible Happen**).
+- Fists and whatever else (*bruised-2*, *subdue-2*, or *shot-3*).
+- Run like hell (**Deny Them Something They Want**).
 - Talk it out (*compromise-2* or *sympathy-2*).
 ---
-- Brandish a gun.
+- Brandish a gun or threaten harm.
 - Rush someone.
-- Call out a target or threaten someone.
-- Ezra pulls out a bottle from a bag. You hear a lighter click.
-- "Let's get out of here."
-- Reveal their nature: Ezra is desperate and tense. Damon is greedy and dangerous. Luca is rational and friendly. Joe is a klutz, but loyal.
+- Call out a target.
+- "Let's get out of here, now!"
+- Reveal their nature: Ezra is desperate and is the leader. Damon is greedy and dangerous. Luca is rational and friendly. Joe is a klutz, but loyal.
