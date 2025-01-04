@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Private Notes.md",
+                "file": "Private/Cases and Episodes/Into the Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Private Notes"
+              "title": "Into the Fire"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Private Notes.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Private Notes"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -224,10 +224,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c0f8a0e412cd28d9",
+  "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Public Notes.md",
     "Private/Private Notes.md",
+    "Public Notes.md",
     "Private/MC's Jukebox.md",
     "Private/PCs.md",
     "Private/NPCS/Sarah Lauder.md",

@@ -15,6 +15,10 @@ Kenneth might want to talk to Ezra.
 Andrew wants the crew to burn these five places down.
 Phone has messages that clue into what might be Joe's code.
 Local business member is torturing a auxiliary fireside member by splashing water on someone trapped in a walk-in cooler.
+
+Jerri's List
+Codes authenification codes for tasks in Job
+Addresses make a star
 # Background
 ### Local Businesses Targeted
 Corporations and franchises are thriving. Across the street from a chain or a restaurant lies an ashen corpse of a building: a mom and pop shop by Bay Street, or maybe a hobby store just outside of downtown, slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
