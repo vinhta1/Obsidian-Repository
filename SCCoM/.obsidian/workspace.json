@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/NPCS/Sarah Lauder.md",
+                "file": "Private/Private Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sarah Lauder"
+              "title": "Private Notes"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/NPCS/Sarah Lauder.md"
+                "file": "Private/Private Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sarah Lauder"
+              "title": "Outline of Private Notes"
             }
           },
           {
@@ -226,6 +227,11 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
+    "Public Notes.md",
+    "Private/Private Notes.md",
+    "Private/MC's Jukebox.md",
+    "Private/PCs.md",
+    "Private/NPCS/Sarah Lauder.md",
     "Private/Cases and Episodes/Into the Fire.md",
     "1111 Water Street, Santa Cruz Fireplace and Hot Tubs.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
@@ -237,12 +243,9 @@
     "Private/Locations/Area List/Santa Cruz City Schools.md",
     "Private/Locations/Area List/UC Santa Cruz Campus.md",
     "Private/Locations/Area List/Other Locations.md",
-    "Public Notes.md",
-    "Private/Private Notes.md",
     "Private/Ideas.md",
     "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Kenneth Helm.md",
-    "Private/PCs.md",
     "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/The Black Company/KP Entertainment.md",
     "Private/Faction List/The Black Company/Sunborn Studios.md",
@@ -250,8 +253,6 @@
     "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
     "Private/Faction List/The Black Company/JJJJ (J4).md",
     "Private/Faction List/The Black Company/Balanced Helix.md",
-    "Private/NPCS/Renée Campos.md",
-    "Private/NPCS/Sarah Lauder.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
