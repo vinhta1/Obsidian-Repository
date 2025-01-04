@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Private/NPCS/Sarah Lauder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "Sarah Lauder"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Private/NPCS/Sarah Lauder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline of Sarah Lauder"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "1111 Water Street, Santa Cruz Fireplace and Hot Tubs.md",
     "Private/Cases and Episodes/Into the Fire.md",
+    "1111 Water Street, Santa Cruz Fireplace and Hot Tubs.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Cases and Episodes/One Good Day.md",
