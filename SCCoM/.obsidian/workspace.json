@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "83ef9a95f6f8031f",
+  "active": "c0f8a0e412cd28d9",
   "lastOpenFiles": [
     "Public Notes.md",
     "Private/Private Notes.md",
