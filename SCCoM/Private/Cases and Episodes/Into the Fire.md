@@ -17,7 +17,7 @@ Phone has messages that clue into what might be Joe's code.
 Local business member is torturing a auxiliary fireside member by splashing water on someone trapped in a walk-in cooler.
 
 Jerri's List
-Codes authentification codes for tasks in Job
+Codes authentication codes for tasks in Job
 Addresses make a star
 
 Plan pre-episode player talk.
