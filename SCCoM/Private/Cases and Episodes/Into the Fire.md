@@ -20,10 +20,12 @@ Jerri's List
 Codes authenification codes for tasks in Job
 Addresses make a star
 
+Plan pre-episode player talk.
+
 Fireside (Not Angel) being tortured in The Picnic Basket
 - The target list
 - Possible hideouts (the map)
-- Possible weaknesses and plans
+- Possible weaknesses and plans (where are they, who's who? what's up?)
 - 
 # Background
 ### Local Businesses Targeted
@@ -48,6 +50,10 @@ The Black Company's trying to do something *big*. But first, they need their act
 Fireside is a group of arsonists tasked to burn down multiple local businesses by The Black Company. That way, The Company can install their own storefronts there, or maybe even reimburse and rebuild the old stores. Each target is a point that when connected together on a map, it reveals a symbol: a pentagram.
 
 ### Nemesis
+
+## Timeline
+
+
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
