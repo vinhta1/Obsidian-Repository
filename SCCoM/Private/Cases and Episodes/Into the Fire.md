@@ -20,7 +20,7 @@ Jerri's List
 Codes authenification codes for tasks in Job
 Addresses make a star
 
-Fireside (Angel) being tortured in The Picnic Basket
+Fireside (Not Angel) being tortured in The Picnic Basket
 - The target list
 - Possible hideouts (the map)
 - Possible weaknesses and plans
@@ -53,9 +53,7 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 
 The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the ashes of her former home. The captions read: 'I wish I could tell you directly. Thank you. Thank you so much.'
 
-The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up, and takes her to her room. He comes back down and lifts the other girl into his arms.
-
-He closes the door to the other bedroom. It couldn't be any more different from her sister's. He walks down the hallway, missing the slightly first girl's slightly ajar door. You hear the sound of chains.
+The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up. You hear the sound of chains.
 # Investigation
 There are three groups of addresses.
 Jerri's List: found from Angel's house.
