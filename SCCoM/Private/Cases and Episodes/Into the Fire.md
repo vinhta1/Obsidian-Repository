@@ -61,7 +61,10 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 **A year ago**: Ezra is half way through paying off his debt.
 **A couple months ago**: The Company gives him an impossible job: burn down dozens of buildings within a single month. Ezra calls his old friends.
 **A month ago**: Fireside debuts, and the arsons begin.
-**A couple of weeks ago**: The cornerstore 
+**A couple of weeks ago**: The cornerstore by the laundromat in midtown is burned down. The Fireside calling card is found, same as the other arsons on the news. That night, a Fireside member's home is burned down. His family was inside, but is saved.
+**The days after that**: Two police detectives die investigating the Fireside house after a firetrap kills them. With the police effort heavily increased and the threat of their personal lives being targeted, much of Fireside is caught or disbanded.
+**Two days ago** Inspired by the person who burnt down the Fireside house, local business owners plan on burning down more locations, believing that they are Fireside supply depots. 
+**Tonight**: Ezra has two more nights to burn down four last buildings before his family is executed.
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
