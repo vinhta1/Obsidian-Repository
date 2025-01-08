@@ -56,8 +56,8 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 
 ## Timeline
 **Decades ago**: Ezra, Damon, Luca, and Joe become friends. The boys become enticed by fire, but Ezra becomes enamored.
-**Years after**: They all grow older. Ezra and Damon become career criminals while Luca and Joe stay in civilian life. They leave behind their love for fire, for the most part. Ezra clings on.
-**2 years ago**: 
+**Years after**: They all grow older. Ezra and Damon become career criminals while Luca and Joe stay in civilian life. They leave behind their love for fire, for the most part. Ezra is reluctant to give it up.
+**2 years ago**: Ezra gets a job that excites him: his first arson job. 
 **A month ago**: The arsons begin. A month to burn down several buildings.
 
 # Cold Open
