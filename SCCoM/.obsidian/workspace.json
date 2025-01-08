@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Into the Fire"
             }
+          },
+          {
+            "id": "8e1e2d57c5f69a13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
