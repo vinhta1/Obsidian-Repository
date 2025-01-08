@@ -55,7 +55,10 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 ### Nemesis
 
 ## Timeline
-
+**Decades ago**: Ezra, Damon, Luca, and Joe become friends. The boys become enticed by fire.
+**Years after**: They all grow older. They move apart
+**2 years ago**: 
+**A month ago**: The arsons begin. A month to burn down several buildings.
 
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
