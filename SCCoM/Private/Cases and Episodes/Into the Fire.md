@@ -58,8 +58,9 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 **Decades ago**: Ezra, Damon, Luca, and Joe become friends. The boys become enticed by fire, but Ezra becomes enamored.
 **Years after**: They all grow older. Ezra and Damon become career criminals while Luca and Joe stay in civilian life. They leave behind their love for fire, for the most part. Ezra is reluctant to give it up.
 **2 years ago**: Ezra gets a job that excites him: burn down a random store. It stood alone amongst its neighboring husks within a deserted plaza. A dark, uneventful night- a perfect night to just watch for a while. The morning after, he learned that The Black Company owned that store. 
-**1 year ago**: 
-**A month ago**: The arsons begin. A month to burn down several buildings.
+**1 year ago**: Ezra is half way through paying off his debt. This city is a cage. He can't leave. But his family is has a roof over their heads, clothes on their back, and food on their plate. They're alive.
+**
+**A month ago**: The arsons begin. A month to burn down dozens of buildings.
 
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."

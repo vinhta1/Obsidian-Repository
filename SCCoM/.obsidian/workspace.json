@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "The Weight of Our Hearts"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Private/Cases and Episodes/The Weight of Our Hearts.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline of The Weight of Our Hearts"
             }
           },
           {
@@ -206,10 +206,10 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
+    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/The Witch in the Woods.md",
-    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/Phil and Connor.md",
     "Private/Private Notes.md",
     "Public Notes.md",
