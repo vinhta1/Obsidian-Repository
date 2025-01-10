@@ -30,6 +30,7 @@ Fireside (Not Angel) being tortured in The Picnic Basket
 - Possible weaknesses and plans (where are they, who's who? what's up?)
 Shorten the list a bit, make it faster to find all the clues and locations
 
+
 # Background
 ### Local Businesses Targeted
 Across the street lies an ashen corpse of a building: a mom and pop shop by Bay Street, or maybe a hobby store just outside of downtown, slumps in the blackened ruins of it former self. Periodically, frequently, within the last month an amber hue would outshine the stars, or onlookers would remark the dark smoke that came from Midtown and filled the blue sky. Local businesses were burning. Local businesses are still burning.
