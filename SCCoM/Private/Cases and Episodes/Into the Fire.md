@@ -80,7 +80,7 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 
 The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the home, blazing red in the dark night. "This home was the last arson "
 
-The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up. He walks up the stairs. You hear a soft grunt from outside, and the shattering of A light flickers from outside.
+The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up. He walks up the stairs. You hear a soft grunt from outside and the shattering of glass, followed by a warm light.
 # Investigation
 There are three groups of addresses.
 Jerri's List: found from Angel's house.
@@ -89,8 +89,8 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 #### The Lists
 ##### Jerri's List
 - It is a list of 5 addresses of local businesses and 5 alphanumeric character sequences.
-- The codes are passwords for authenticators, allowing access to hidden emails and messages.
-	- The address corresponds with the person responsible for burning it. e.g. Angel burnt the corner store, his password is next to the corner store's address. Thus, the codes are also a way to confirm a target's been hit.
+	- One of them is the cornerstore. The other is the Picnic Basket
+	- You can trace a star with the 5 locations.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Chestnut St Apartment, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Only three of them are correct. Chains can lead them to one of them, if asked or even if he feels like he should.
