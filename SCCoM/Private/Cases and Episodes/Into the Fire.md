@@ -78,9 +78,9 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
-The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the ashes of her former home. The captions read: 'I wish I could tell you directly. Thank you. Thank you so much.'
+The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the home, blazing red in the dark night. "This home was the last arson "
 
-The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up. You hear the sound of chains.
+The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up. He walks up the stairs. You hear a soft grunt from outside, and the shattering of A light flickers from outside.
 # Investigation
 There are three groups of addresses.
 Jerri's List: found from Angel's house.
