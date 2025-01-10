@@ -89,7 +89,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 #### The Lists
 ##### Jerri's List
 - It is a list of 5 addresses of local businesses and 5 alphanumeric character sequences.
-	- One of them is the cornerstore. The other is the Picnic Basket
+	- Cornerstore in ea (TR), Wellness with Gillie (BR), Verve Coffee (TL), Picnic Basket (BL), Ferrell's Donut House (T)
 	- You can trace a star with the 5 locations.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Chestnut St Apartment, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
