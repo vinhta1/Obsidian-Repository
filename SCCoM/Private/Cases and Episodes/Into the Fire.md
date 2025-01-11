@@ -94,28 +94,30 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 	- The code is a password. Using the code will send someone out to confirm.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave House, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
-	- Cleveland Ave House is crossed out. Someone (Vince) has already gone to burn it.
+	- Cleveland Ave House is crossed out. Someone (Vince) has already been chosen and sent to burn it.
 #### Scenes
 ##### The Picnic Basket
-- Andrew has a map of Santa Cruz with 5 locations circled.
-	
+- Andrew has a map of Santa Cruz with 5 locations circled: Cleveland Ave, Pacific Ave, Cedar St, Water St,  and Berkeley Way
+	- "We're burning these down tonight."
 - There is a suspicious van parked in front of the picnic basket. It is rigged with explosives. It will blow up when Damon chooses.
 - Andrew is torturing someone in the cooler. It's a Fireside member.
 	- He's the one that gave the locations.
 	- Fireside's doing it for money. He knows about the main members and a little bit about what their deals are.
-
-##### **Water St Shop, Hideout 2**
-Joe has left his phone here. He and Luca will show up AFTER burning Cedar ##### St Restaurant. Expect a talk.
-###### **Berkeley Way House, Ezra's Home**
-This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
-A card that reads: DEADLINE - 11:59PM \[Date of Tomorrow Night].
-##### **Cleveland Ave House, Chains' Home**
-Vince just tried to light this place on fire. He is caught. Expect a talk.
-#####  
-**Cedar St Restaurant, Hideout 3**
-This place has been burned down, unless is the first location visited. Then they will find Luca and Joe preparing to burn it down. Expect a talk.
-##### **Pacific Ave Construction Site, Hideout 1**
-Damon is violently interrogating Vince. Expect a fight.
+##### At the House on Cleveland Ave, Chains' Home
+- Vince just tried to light this place on fire a little too early. He is caught.
+- Chains is the only one awake. His kids are asleep. Expect a talk.
+##### Pacific Ave Construction Site, Hideout 1
+- Damon is violently interrogating Vince. Expect a fight.
+- Damon will use Vince or The Picnic Basket as leverage.
+##### At the Renovating Restaurant on Cedar St, Hideout 3
+- If they visit this place first, they will find Luca and Joe preparing to burn it down. Expect a talk.
+- Otherwise, it is too late and the place is ablaze. No clues.
+##### At the Shop on Water St, Hideout 2
+- Joe has left his phone here. He and Luca will show up AFTER burning Cedar St Restaurant. Expect a talk.
+- The phone, or any Fireside phone, can be used with the codes from Jerri's list start an inspection. If all 5 sites are cleared, Ezra's family is released and **The Front** is revealed.
+##### At the House on Berkeley Way, Ezra's Home
+- This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
+- A card that reads: DEADLINE - \[Date of Tonight] 11:59PM .
 # Case End
 
 # Dangers
