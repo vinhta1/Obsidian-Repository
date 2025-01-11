@@ -73,7 +73,7 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 **A month ago**: Fireside debuts, and the arsons begin.
 **A couple of weeks ago**: The cornerstore by the laundromat in midtown is burned down. The Fireside calling card is found, same as the other arsons on the news. That night, a Fireside member's home is burned down. His family was inside, but is saved.
 **The days after that**: Two police detectives die investigating the Fireside house after a firetrap kills them. Furthermore, inspired by the person who burnt down the Fireside house, local business owners retaliate, finding and identifying Fireside members and attacking them. With the police effort heavily increased and the threat of their personal lives being targeted, much of Fireside is either caught or disbanded. 
-**Yesterday**: Andrew Scott, owner of The Picnic Basket, kidnaps a Fireside member. He interrogates them for information, and gets five addresses.
+**Yesterday**: Ezra's family is kidnapped while he tries to get gas and bottles. A small business card, much like the Fireside cards, is left behind. Andrew Scott, owner of The Picnic Basket, kidnaps a Fireside member. He interrogates them for information, and gets five addresses.
 **Tonight**: Ezra has one last night to burn down four more buildings before his family disappears. The local businesses plan on delivering a final act of payback: burning down five fireside hideouts and homes in one night.
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
@@ -114,10 +114,9 @@ You can see the store lights are fully lit from a mile away. Every jacuzzi and s
 	- Joe’s phone was left behind on a counter.
 		- This phone, and every member of Fireside's phone, has an app: Blackjack. It looks like a common game app. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
 			- These codes align with Jerri's list. If you know the person's target, you will have their code. Joe's Blackjack needs Joe's code.
-##### 319 Berkeley Way, The Fireside House
-
-- Ezra's family lives here. They're oblivious.
-- Ezra wants to take his family out of Santa Cruz. But first, he has to pay some debts. He owes the very people that put him on the job. Simply put, he can't say no.
+##### 319 Berkeley Way, Ezra's House
+- This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
+- A card that reads: DEADLINE - 11:59PM \[Date of Tomorrow Night].
 ##### 143 Chestnut St, The Innocent Apartment
 - There's a neighbor who knew Angel. They visit each other from time to time.
 ##### 515 Cedar Street, The Unfinished Restaurant
