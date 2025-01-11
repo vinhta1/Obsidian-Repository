@@ -78,7 +78,7 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
-The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the home, blazing red in the dark night. "This home was the last arson "
+The news transitions to footage of that night. A woman is sobbing, trying to muster Spanish past a waterfall of tears and smoked lungs in front of the home, blazing red in the dark night. "This home was the latest target of Fireside, but will it be their last?"
 
 The TV turns off. A man is sitting laidback on a couch. There are two young girls sleeping soundly next to him. The room is now dark, it's former light extinguished by the push of a remote. He slowly picks up the one leaning on him, so as to not wake her up. He walks up the stairs. You hear a soft grunt from outside and the shattering of glass, followed by a warm light.
 # Investigation
@@ -90,11 +90,15 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### Jerri's List
 - It is a list of 5 addresses of local businesses and 5 alphanumeric character sequences.
 	- Cornerstore in Eastside (TR), Wellness with Gillie at the bottom of Seabright (BR), 515 Kitchen and Cocktails (TL), Picnic Basket at the Boardwalk (BL), Marianne's Ice Cream (T)
-	- You can trace a star with the 5 locations.
+	- You can trace a star with the 5 locations. If tracing all the arson locations, it creates a pentagram.
 	- The code is a password. Using the code will send someone out to confirm.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave House, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Cleveland Ave House is crossed out. Someone (Vince) has already been chosen and sent to burn it.
+
+##### Blackjack
+- These 5 addresses on Jerri's List are the LAST 5 addresses.
+
 #### Scenes
 ##### The Picnic Basket
 - Andrew has a map of Santa Cruz with 5 locations circled: Cleveland Ave, Pacific Ave, Cedar St, Water St,  and Berkeley Way
@@ -115,9 +119,22 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### At the Shop on Water St, Hideout 2
 - Joe has left his phone here. He and Luca will show up AFTER burning Cedar St Restaurant. Expect a talk.
 - The phone, or any Fireside phone, can be used with the codes from Jerri's list start an inspection. If all 5 sites are cleared, Ezra's family is released and **The Front** is revealed.
-##### At the House on Berkeley Way, Ezra's Home
+##### At the House on Berkeley Way, Ezra's Home/Hideout 3
 - This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
 - A card that reads: DEADLINE - \[Date of Tonight] 11:59PM .
+
+#### The Targets
+- After all targets are burnt, return to hideout. If hideout is compromised, go to next hideout.
+- If these aren't burnt by tonight, Ezra and his family is gone.
+##### Wellness with Gillie
+- Ezra's target. First burnt via molotov before heading to Marianne's Ice Cream.
+##### 515 Kitchen and Cocktails
+- Joe's target. First burnt before heading to Marianne's Ice Cream
+##### Picnic Basket
+- Damon's target. Burnt via rigged van parked in front, remote detonated.
+##### Marianne's Ice Cream
+- Luca's target. Burnt via jerry cans after Joe's target is burnt. Might be burnt by Ezra instead.
+
 # Case End
 
 # Dangers
