@@ -134,8 +134,14 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - Damon's target. Burnt via rigged van parked in front, remote detonated.
 ##### Marianne's Ice Cream
 - Luca's target. Burnt via jerry cans after Joe's target is burnt. Might be burnt by Ezra instead.
+# Checkpoints
+Whenever an NPC is caught or a Fireside member is found/defeated, basically a transition between scenes, that can be a good stopping point. There's also some dramatic points. e.g. Picnic Basket blows up, Vince is caught, Ezra's extortion is found, etc.
 # Case End
-
+- Did you find the man in the cooler?
+- Did you find out who Ezra was hired by?
+- Did Ezra's family survive? Did Fireside suffer any (more) casualties?
+- What happened with Chains?
+- Were you able to save any of the local businesses?
 # Dangers
 ### Fireside
 #### Spectrums
@@ -144,17 +150,19 @@ Disband 3 | Turn: - | Convince or-Threaten: 3 | Beat-or-Subdue: 3
 - **Team**: Fireside consists of four different distinct members and takes statuses separately. When a team member is overcome, or captured, give the team a disband status with a tier greater by one than it has now. When a team member is retrieved, decrease the disband tier by one.
 - Targeting a specific member may have different results.
 	- **Ezra and Damon** have (*guns*). When they take a physical harm or subdue status, reduce it by 1. Ezra can light a (*firebomb*) as a soft move.
-	- **Luca and Joe** have (*morals*). Luca can give (*distracted-2*) as a hard move and Joe can give a *clue* once as an intrusion.
+	- **Luca and Joe** have (*morals*). Luca can give (*distracted-2*) as a hard move and Joe can give a *clue* once as an intrusion. Joe has a bomb vest underneath his coat, provided by Damon. No one else knows or approves at ALL.
 - **Make it Personal**: When mentioning their real lives, they immediately gain a tier-2 status reflecting their reaction.
 ---
 - Light it up (Burn a *firebomb* tag to *light-em-up-3* and create a *fire patch* tag OR **Make Something Terrible Happen**).
 - Damon: "I do this for a living" (*Execute-5*, *Clean-Shot-4* OR **Make Something Terrible Happen**)
+- Joe: "I just want to do something right" (*Fatal-explosion-5*)
 - Fists and whatever else (*bruised-2*, *subdue-2*, or *shot-3*).
 - One of them gets away (**Deny Them Something They Want**).
 - Talk it out (*compromise-2* or *sympathy-2*).
 ---
 - Brandish/aim a gun or threaten someone/to burn something.
-- Damon: threaten to kill Vince or blow up The Picnic Basket.
+- Damon: Threaten to kill Vince or blow up The Picnic Basket.
+- Joe: Reveal the bomb vest.
 - Rush someone.
 - Call out a target.
 - "Let's get out of here, now!"
