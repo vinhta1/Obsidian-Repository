@@ -134,7 +134,6 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - Damon's target. Burnt via rigged van parked in front, remote detonated.
 ##### Marianne's Ice Cream
 - Luca's target. Burnt via jerry cans after Joe's target is burnt. Might be burnt by Ezra instead.
-
 # Case End
 
 # Dangers
@@ -149,11 +148,13 @@ Disband 3 | Turn: - | Convince or-Threaten: 3 | Beat-or-Subdue: 3
 - **Make it Personal**: When mentioning their real lives, they immediately gain a tier-2 status reflecting their reaction.
 ---
 - Light it up (Burn a *firebomb* tag to *light-em-up-3* and create a *fire patch* tag OR **Make Something Terrible Happen**).
+- Damon: "I do this for a living" (*Execute-5*, *Clean-Shot-4* OR **Make Something Terrible Happen**)
 - Fists and whatever else (*bruised-2*, *subdue-2*, or *shot-3*).
 - One of them gets away (**Deny Them Something They Want**).
 - Talk it out (*compromise-2* or *sympathy-2*).
 ---
-- Brandish a gun or threaten someone/to burn something.
+- Brandish/aim a gun or threaten someone/to burn something.
+- Damon: threaten to kill Vince or blow up The Picnic Basket.
 - Rush someone.
 - Call out a target.
 - "Let's get out of here, now!"
