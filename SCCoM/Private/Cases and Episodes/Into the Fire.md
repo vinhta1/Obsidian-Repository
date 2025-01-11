@@ -94,44 +94,28 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 	- The code is a password. Using the code will send someone out to confirm.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave House, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
-	- Cleveland Ave House is crossed out. Someone (Lance) has already gone to burn it.
+	- Cleveland Ave House is crossed out. Someone (Vince) has already gone to burn it.
 #### Scenes
 ##### The Picnic Basket
 - Andrew has a map of Santa Cruz with 5 locations circled.
-	- Water St Shop, Hideout 2
-		- Joe has left his phone here. He and Luca will show up AFTER burning Cedar St Restaurant.
-	- Berkeley Way House, Ezra's Home
-		- This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
-		- A card that reads: DEADLINE - 11:59PM \[Date of Tomorrow Night].
-	- Cleveland Ave House, Chains' Home
-		- Lance just tried to light this place on fire. He is caught.
-	- Cedar St Restaurant, the Temp Hideout
-		- Luca and Joe will burn this place if not stopped.
-		- 
-##### 143 Chestnut St, The Innocent Apartment
-- There's a neighbor who knew Angel. They visit each other from time to time.
-##### 515 Cedar Street, The Unfinished Restaurant
-- There is nothing here.
-##### Pacific Ave, The Unfinished Station
-Pillars and ramps of concrete and rebar create an echo chamber for deals in the dark. Not hidden in the slightest, except for how inconspicuous it is. No one cares to inspect yet another construction site in Santa Cruz. The shadows run deep enough to hide whatever, or whoever, might be waiting inside.
-- **As you approach closer into the site**: you hear two things. (*Echoes - 2*)
-	- If *Fireside isn't alerted*, you hear a smattering of voices conversing. The space makes it hard to comprehend what they are saying from this distance. You can't see them at all.
-	- You hear your footsteps start to echo. They don't seem to hear it. Yet.
-- **If you get even closer without alerting them**:
-	- Someone is paying them to do this.
-		- "We need to stop while we're ahead. Angel's family (Stephanie and Giselle) almost got razed with his house."
-		- "If we finish this job, we get the original pay split among just us four. That's four times the original cut, fellas."
-		- "C'mon, Ezra-"
-		- "ONE. HUNDRED. THOUSAND. EACH. I can't do this without you guys. I'm not going to force you to. But get REAL. We need this money."
-	- Phones are important. They contain hideout sites (The New List).
-		- "Everyone know where the next 'hot spot' is?"
-		- "Hey, uhh... about that."
-		- "What Joe? Do you not know where to meet up?"
-		- "No, I do. But I... I think I left my phone at the other hideout."
-		- "...Don't worry about it. We can grab it tonight after we burn our target."
-		- "That... that works. Thanks, Luca."
-##### The Front
-# Showdown
+	
+- There is a suspicious van parked in front of the picnic basket. It is rigged with explosives. It will blow up when Damon chooses.
+- Andrew is torturing someone in the cooler. It's a Fireside member.
+	- He's the one that gave the locations.
+	- Fireside's doing it for money. He knows about the main members and a little bit about what their deals are.
+
+##### **Water St Shop, Hideout 2**
+Joe has left his phone here. He and Luca will show up AFTER burning Cedar ##### St Restaurant. Expect a talk.
+###### **Berkeley Way House, Ezra's Home**
+This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
+A card that reads: DEADLINE - 11:59PM \[Date of Tomorrow Night].
+##### **Cleveland Ave House, Chains' Home**
+Vince just tried to light this place on fire. He is caught. Expect a talk.
+#####  
+**Cedar St Restaurant, Hideout 3**
+This place has been burned down, unless is the first location visited. Then they will find Luca and Joe preparing to burn it down. Expect a talk.
+##### **Pacific Ave Construction Site, Hideout 1**
+Damon is violently interrogating Vince. Expect a fight.
 # Case End
 
 # Dangers
