@@ -95,10 +95,10 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave House, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Cleveland Ave House is crossed out. Someone (Vince) has already been chosen and sent to burn it.
-
 ##### Blackjack
 - These 5 addresses on Jerri's List are the LAST 5 addresses.
-
+- Once a code has been entered, an auditor will be sent to check if the target was properly burned.
+- Once all targets are burnt, money will be sent to whoever was on the payroll.
 #### Scenes
 ##### The Picnic Basket
 - Andrew has a map of Santa Cruz with 5 locations circled: Cleveland Ave, Pacific Ave, Cedar St, Water St,  and Berkeley Way
@@ -118,7 +118,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - Otherwise, it is too late and the place is ablaze. No clues.
 ##### At the Shop on Water St, Hideout 2
 - Joe has left his phone here. He and Luca will show up AFTER burning Cedar St Restaurant. Expect a talk.
-- The phone, or any Fireside phone, can be used with the codes from Jerri's list start an inspection. If all 5 sites are cleared, Ezra's family is released and **The Front** is revealed.
+- The phone, or any Fireside phone, can be used with the codes from Jerri's list start an inspection. If all 5 sites are cleared, Ezra's family is released and Ezra's debt is settled.
 ##### At the House on Berkeley Way, Ezra's Home/Hideout 3
 - This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
 - A card that reads: DEADLINE - \[Date of Tonight] 11:59PM .
@@ -140,11 +140,12 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 # Dangers
 ### Fireside
 #### Spectrums
-Turn: - | Convince: 4 | Threaten: 4 | Beat-or-Subdue: 3
+Disband 3 | Turn: - | Convince or-Threaten: 3 | Beat-or-Subdue: 3
 #### Moves
-- **Four-Piece**: Fireside consists of four different distinct members and has a size factor of 1. Each time a spectrum is maxed out, clear it and reduce each spectrum by 1. When a spectrum's maximum reaches 0, Fireside is defeated. Targeting a specific member may have different results.
-	- **Ezra and Damon** have (*guns*). Ezra can light a (*firebomb*) as a soft move and Damon takes 1 less from physical statuses and gives 1 more to physical statuses.
-	- **Luca and Joe** have (*morals*). Luca can give (*distracted-2*) and Joe can accidentally give a *clue*.
+- **Team**: Fireside consists of four different distinct members and takes statuses separately. When a team member is overcome, or captured, give the team a disband status with a tier greater by one than it has now. When a team member is retrieved, decrease the disband tier by one.
+- Targeting a specific member may have different results.
+	- **Ezra and Damon** have (*guns*). When they take a physical harm or subdue status, reduce it by 1. Ezra can light a (*firebomb*) as a soft move.
+	- **Luca and Joe** have (*morals*). Luca can give (*distracted-2*) as a hard move and Joe can give a *clue* once as an intrusion.
 - **Make it Personal**: When mentioning their real lives, they immediately gain a tier-2 status reflecting their reaction.
 ---
 - Light it up (Burn a *firebomb* tag to *light-em-up-3* and create a *fire patch* tag OR **Make Something Terrible Happen**).
