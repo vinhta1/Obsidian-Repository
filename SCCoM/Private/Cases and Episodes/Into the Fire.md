@@ -91,15 +91,10 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - It is a list of 5 addresses of local businesses and 5 alphanumeric character sequences.
 	- Cornerstore in Eastside (TR), Wellness with Gillie at the bottom of Seabright (BR), 515 Kitchen and Cocktails (TL), Picnic Basket at the Boardwalk (BL), Marianne's Ice Cream (T)
 	- You can trace a star with the 5 locations.
+	- The code is a password. Using the code will send someone out to confirm.
 ##### Andrew Scott's Map
 - There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Chestnut St Apartment, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Only three of them are correct: Chains can lead them to one of them, if asked or even if he feels like he should.
-##### The New List
-- The New List contains the details and significance of 5 addresses.
-- 3 of the addresses from the Map match up with the New List. 
-	- 2 are Fireside hideouts (Fireplace and Hot Tubs, The Unfinished Station). 1 is a Fireside member's home (Berkeley Way).
-	- The 4th is the burned down home from earlier (Angel's home).
-	-  The 5th address from the New List is a Black Company Front.
 #### Scenes
 ##### The Picnic Basket
 
