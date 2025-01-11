@@ -93,24 +93,21 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 	- You can trace a star with the 5 locations.
 	- The code is a password. Using the code will send someone out to confirm.
 ##### Andrew Scott's Map
-- There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
-	- Only three of them are correct: Chains can lead them to one of them, if asked or even if he feels like he should.
+- There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave House, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
+	- Cleveland Ave House is crossed out. Someone (Lance) has already gone to burn it.
 #### Scenes
 ##### The Picnic Basket
-
-
-##### 1111 Water Street, Santa Cruz Fireplace and Hot Tubs
-You can see the store lights are fully lit from a mile away. Every jacuzzi and stone hearth beyond the showroom windows is on opulent display. From a quick glance, you can't see anyone inside.
-- **As you approach the doors and windows**: you notice a smoothly plastered sticker. It is alarmed.
-- **As you move towards the back**: There is a fence gate with a latch. Once inside, you see that it is a mostly empty yard. You see firewood, chopped and placed into a stack that lines a wall. You also see a *ladder*, resting on the ground.
-- **Inside the store**:
-	- There is an active alarm system. If any of the stickered doors or windows were breached, the alarm is activated. It is sending a notification somewhere. **If Joe has his phone**, this alerts Fireside (*Fireside-alerted-1*).
-	- Joe’s phone was left behind on a counter.
-		- This phone, and every member of Fireside's phone, has an app: Blackjack. It looks like a common game app. It has one notification. Each member has their own unique authentication code that is used to unlock this app.
-			- These codes align with Jerri's list. If you know the person's target, you will have their code. Joe's Blackjack needs Joe's code.
-##### 319 Berkeley Way, Ezra's House
-- This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
-- A card that reads: DEADLINE - 11:59PM \[Date of Tomorrow Night].
+- Andrew has a map of Santa Cruz with 5 locations circled.
+	- Water St Shop, Hideout 2
+		- Joe has left his phone here. He and Luca will show up AFTER burning Cedar St Restaurant.
+	- Berkeley Way House, Ezra's Home
+		- This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
+		- A card that reads: DEADLINE - 11:59PM \[Date of Tomorrow Night].
+	- Cleveland Ave House, Chains' Home
+		- Lance just tried to light this place on fire. He is caught.
+	- Cedar St Restaurant, the Temp Hideout
+		- Luca and Joe will burn this place if not stopped.
+		- 
 ##### 143 Chestnut St, The Innocent Apartment
 - There's a neighbor who knew Angel. They visit each other from time to time.
 ##### 515 Cedar Street, The Unfinished Restaurant
