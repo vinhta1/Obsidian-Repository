@@ -86,7 +86,7 @@ There are three groups of addresses.
 Jerri's List: found from Angel's house.
 Andrew's Map: contains potential hideouts. None of the addresses match up with Jerri's List.
 Fireside's Operations: matches with some of the addresses from Andrew's Map.
-#### The Lists
+### The Lists
 ##### Jerri's List
 - It is a list of 5 addresses of local businesses and 5 alphanumeric character sequences.
 	- Cornerstore in Eastside (TR), Wellness with Gillie at the bottom of Seabright (BR), 515 Kitchen and Cocktails (TL), Picnic Basket at the Boardwalk (BL), Marianne's Ice Cream (T)
@@ -99,7 +99,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - These 5 addresses on Jerri's List are the LAST 5 addresses.
 - Once a code has been entered, an auditor will be sent to check if the target was properly burned.
 - Once all targets are burnt, money will be sent to whoever was on the payroll.
-#### Scenes
+### Scenes
 ##### The Picnic Basket
 - Andrew has a map of Santa Cruz with 5 locations circled: Cleveland Ave, Pacific Ave, Cedar St, Water St,  and Berkeley Way
 	- "We're burning these down tonight."
@@ -107,6 +107,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - Andrew is torturing someone in the cooler. It's a Fireside member.
 	- He's the one that gave the locations.
 	- Fireside's doing it for money. He knows about the main members and a little bit about what their deals are.
+#### Possible Fireside Hideouts
 ##### At the House on Cleveland Ave, Chains' Home
 - Vince just tried to light this place on fire a little too early. He is caught.
 - Chains is the only one awake. His kids are asleep. Expect a talk.
@@ -122,15 +123,14 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 ##### At the House on Berkeley Way, Ezra's Home/Hideout 3
 - This home has been broken into an ransacked. Ezra's family lives here. They are no where to be found.
 - A card that reads: DEADLINE - \[Date of Tonight] 11:59PM .
-
-#### The Targets
+#### The Last Four Targets
 - After all targets are burnt, return to hideout. If hideout is compromised, go to next hideout.
 - If these aren't burnt by tonight, Ezra and his family is gone.
 ##### Wellness with Gillie
 - Ezra's target. First burnt via molotov before heading to Marianne's Ice Cream.
 ##### 515 Kitchen and Cocktails
 - Joe's target. First burnt before heading to Marianne's Ice Cream
-##### Picnic Basket
+##### The Picnic Basket
 - Damon's target. Burnt via rigged van parked in front, remote detonated.
 ##### Marianne's Ice Cream
 - Luca's target. Burnt via jerry cans after Joe's target is burnt. Might be burnt by Ezra instead.
@@ -150,10 +150,10 @@ Disband 3 | Turn: - | Convince or-Threaten: 3 | Beat-or-Subdue: 3
 ---
 - Light it up (Burn a *firebomb* tag to *light-em-up-3* and create a *fire patch* tag OR **Make Something Terrible Happen**).
 - Fists and whatever else (*bruised-2*, *subdue-2*, or *shot-3*).
-- Run like hell (**Deny Them Something They Want**).
+- One of them gets away (**Deny Them Something They Want**).
 - Talk it out (*compromise-2* or *sympathy-2*).
 ---
-- Brandish a gun or threaten harm.
+- Brandish a gun or threaten someone/to burn something.
 - Rush someone.
 - Call out a target.
 - "Let's get out of here, now!"
