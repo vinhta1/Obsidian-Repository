@@ -74,7 +74,7 @@ Fireside is a group of arsonists tasked to burn down multiple local businesses b
 **A couple of weeks ago**: The cornerstore by the laundromat in midtown is burned down. The Fireside calling card is found, same as the other arsons on the news. That night, a Fireside member's home is burned down. His family was inside, but is saved.
 **The days after that**: Two police detectives die investigating the Fireside house after a firetrap kills them. Furthermore, inspired by the person who burnt down the Fireside house, local business owners retaliate, finding and identifying Fireside members and attacking them. With the police effort heavily increased and the threat of their personal lives being targeted, much of Fireside is either caught or disbanded. 
 **Yesterday**: Ezra's family is kidnapped while he tries to get gas and bottles. A small business card, much like the Fireside cards, is left behind. Andrew Scott, owner of The Picnic Basket, kidnaps a Fireside member. He interrogates them for information, and gets five addresses.
-**Tonight**: Ezra has one last night to burn down four more buildings before his family disappears. The local businesses plan on delivering a final act of payback: burning down five fireside hideouts and homes in one night.
+**Tonight**: Ezra has one last night to burn down four more buildings before his family disappears. The local businesses plan on delivering a final act of payback: burning down five fireside hideouts and homes in one night. Someone gets caught.
 # Cold Open
 "Today, we mourn the loss of two police officers." You see two men standing next to each other from an image of a group photo. One grins brightly, with dark hair swept to the side, hanging past their temple. The other man beside him, bald with even darker skin, smirks with an arm around his shoulder. "Detective Daz Lemon and Steven Lace lost their lives six days ago to a firebomb, left behind from yet another attack from the notorious Fireside group-" The camera cuts to a framed picture, the same one on the television screen, standing proudly on a living room cabinet. "-which took the home and nearly the lives of the Quijada family."
 
@@ -93,7 +93,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 	- You can trace a star with the 5 locations.
 	- The code is a password. Using the code will send someone out to confirm.
 ##### Andrew Scott's Map
-- There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Chestnut St Apartment, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
+- There's a map with 5 locations circled (Water St Shop, Berkeley Way House, Cleveland Ave, Cedar St Restaurant, Pacific Ave Station). They believe that these places are where Fireside meets up and stores their equipment.
 	- Only three of them are correct: Chains can lead them to one of them, if asked or even if he feels like he should.
 #### Scenes
 ##### The Picnic Basket
