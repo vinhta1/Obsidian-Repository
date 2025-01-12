@@ -21,8 +21,8 @@ Codes authentication codes for tasks in Job
 Addresses make a star
 
 Plan pre-episode player talk.
-- When did the arsons happen?
 
+- When did the arsons happen?
 
 Fireside (Not Angel) being tortured in The Picnic Basket
 - The target list

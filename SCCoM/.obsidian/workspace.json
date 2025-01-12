@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jukebox/Jukebox Glossary.md",
+                "file": "Private/Private Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jukebox Glossary"
+              "title": "Private Notes"
             }
           },
           {
@@ -113,8 +113,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jukebox/Jukebox Glossary.md"
+                "file": "Private/Private Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jukebox Glossary"
+              "title": "Outline of Private Notes"
             }
           },
           {
@@ -235,10 +234,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "a403458ca7b4879d",
+  "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Jukebox/Jukebox Brainstorm.md",
     "Private/Cases and Episodes/Into the Fire.md",
+    "Jukebox/Jukebox Glossary.md",
+    "Jukebox/Jukebox Brainstorm.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
@@ -262,7 +262,6 @@
     "Private/NPCS/Darcy and Emilio.md",
     "Private/NPCS/Kenneth Helm.md",
     "Private/Faction List/The Black Company/The Black Company.md",
-    "Private/Faction List/The Black Company/KP Entertainment.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
