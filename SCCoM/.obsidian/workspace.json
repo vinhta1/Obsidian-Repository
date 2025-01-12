@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Private Notes.md",
+                "file": "Private/Cases and Episodes/Into the Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Private Notes"
+              "title": "Into the Fire"
             }
           },
           {
@@ -179,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Private Notes.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Private Notes"
+              "title": "Outline of Into the Fire"
             }
           },
           {
@@ -236,13 +236,13 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
+    "Private/Private Notes.md",
     "Private/Cases and Episodes/Into the Fire.md",
     "Jukebox/Jukebox Glossary.md",
     "Jukebox/Jukebox Brainstorm.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Ghost Festival.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
-    "Private/Private Notes.md",
     "Private/PCs.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/One Good Day.md",
