@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "file": "Jukebox/Jukebox - Jerri/Duran Duran - Danse Macabre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Into the Fire"
+              "title": "Duran Duran - Danse Macabre"
             }
           },
           {
@@ -189,10 +189,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Jukebox/Jukebox - Jerri/Duran Duran - Danse Macabre.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Into the Fire"
+              "title": "Outline of Duran Duran - Danse Macabre"
             }
           },
           {
@@ -246,8 +246,8 @@
   },
   "active": "83ef9a95f6f8031f",
   "lastOpenFiles": [
-    "Private/Private Notes.md",
     "Private/Cases and Episodes/Into the Fire.md",
+    "Private/Private Notes.md",
     "Jukebox/Jukebox Glossary.md",
     "Jukebox/Jukebox Brainstorm.md",
     "Private/Cases and Episodes/CoM Weekly.md",
