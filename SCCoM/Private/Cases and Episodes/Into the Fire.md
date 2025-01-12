@@ -100,7 +100,7 @@ Fireside's Operations: matches with some of the addresses from Andrew's Map.
 - Once all targets are burnt, money will be sent to whoever was on the payroll.
 ### Scenes
 ##### The Picnic Basket
-- Andrew has a map of Santa Cruz with 5 locations circled: Cleveland Ave, Pacific Ave, Cedar St, Water St,  and Berkeley Way
+- Andrew has a map of Santa Cruz with 5 locations circled: Cleveland Ave, Pacific Ave, Cedar St, Water St, and Berkeley Way
 	- "We're burning these down tonight."
 - There is a suspicious van parked in front of the picnic basket. It is rigged with explosives. It will blow up when Damon chooses.
 - Andrew is torturing someone in the cooler. It's a Fireside member.
