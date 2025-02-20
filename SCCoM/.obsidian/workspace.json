@@ -22,6 +22,28 @@
             }
           },
           {
+            "id": "52743d751648dca4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "14ac3d805e8b0f7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "c047f789e0369396",
             "type": "leaf",
             "state": {
@@ -81,7 +103,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +123,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -199,7 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Into the Fire.md"
+                "file": "Private/Cases and Episodes/Into the Fire.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Into the Fire"
@@ -254,7 +281,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "83ef9a95f6f8031f",
+  "active": "14ac3d805e8b0f7f",
   "lastOpenFiles": [
     "Private/Cases and Episodes/CoM Weekly.md",
     "Private/Cases and Episodes/Into the Fire.md",
