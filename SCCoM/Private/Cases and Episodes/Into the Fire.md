@@ -3,6 +3,8 @@ locations: ""
 ---
 #Case 
 # Notes
+Ash Wilmont
+
 Andrew is *fired-up-2* because of Nemesis. Andrew is not typically this angry or vengeful. There's someone that's trying to burn down a target as the Crew meets up at The Picnic Basket. If Andrew calls off the fire attack, the person's phone alerts Fireside and gets them discovered. Otherwise, the fire starts. Either way, they are caught.
 
 What can Nemesis do?
