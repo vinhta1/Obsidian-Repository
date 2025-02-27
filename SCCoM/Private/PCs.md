@@ -84,4 +84,4 @@ Just Apu and a teenage employee on days they can't make it
 Teenager employee gone
 
 # Victor
-Florist girlfriend
+Florist girlfriend - Rose
