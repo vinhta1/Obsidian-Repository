@@ -157,3 +157,8 @@ Caricature of Jerri, Icarus, and Ewen
 Justin the artist
 
 # 02/26/25
+Ollie
+
+Mr. Anson
+
+Hood
