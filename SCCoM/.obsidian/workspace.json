@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "PCs"
             }
+          },
+          {
+            "id": "7b3925a9cf59e761",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/PCs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PCs"
+              "title": "Outline"
             }
           },
           {
@@ -233,10 +242,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "cdf7ef12346f7bab",
+  "active": "7b3925a9cf59e761",
   "lastOpenFiles": [
-    "Private/Private Notes.md",
     "Private/PCs.md",
+    "Private/Private Notes.md",
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/CoM Weekly.md",
     "Location added on 2025-02-19T21-29.md",
