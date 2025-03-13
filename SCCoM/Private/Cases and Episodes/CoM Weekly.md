@@ -170,3 +170,9 @@ Ewan beats the Cowboy and saves him and gets rent money!
 Danny sells more organs to Vik, and gets rent money! Looking to non-criminal jobs. Putting around flyers: "PI for hire."
 Victor calls Danny to investigate Mr. Ansen
 250 up front, 200 then 150
+
+Ewan deposits the money and goes to school
+Rodrick Ant - Bully
+Phil knows that Ewan has a boy loft
+Texts to Kenneth - Two months of rent yippee
+I
