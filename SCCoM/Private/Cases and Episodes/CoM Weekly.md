@@ -162,3 +162,7 @@ Ollie
 Mr. Anson
 
 Hood
+
+03/12/25
+Ewan pays for his boy loft by underground gambling (ARCADE) Underneath metro construction site
+He cons people into underestimating him, then winning against grown adults
