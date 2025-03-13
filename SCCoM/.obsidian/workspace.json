@@ -68,9 +68,31 @@
               "icon": "lucide-file",
               "title": "CoM Weekly"
             }
+          },
+          {
+            "id": "ba7aa9e85ca7f66b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "c0269acd4377f398",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -247,7 +269,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "7b3925a9cf59e761",
+  "active": "c0269acd4377f398",
   "lastOpenFiles": [
     "Private/PCs.md",
     "Private/Private Notes.md",
