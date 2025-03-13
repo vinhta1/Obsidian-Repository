@@ -175,4 +175,7 @@ Ewan deposits the money and goes to school
 Rodrick Ant - Bully
 Phil knows that Ewan has a boy loft
 Texts to Kenneth - Two months of rent yippee
-I
+Keep gambling den secret
+
+Victor and Rose watch THE SUBSTANCE
+Sinister Minister
