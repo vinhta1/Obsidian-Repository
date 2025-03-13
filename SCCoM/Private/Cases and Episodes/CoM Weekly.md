@@ -166,3 +166,7 @@ Hood
 03/12/25
 Ewan pays for his boy loft by underground gambling (ARCADE) Underneath metro construction site
 He cons people into underestimating him, then winning against grown adults
+Ewan beats the Cowboy and saves him and gets rent money!
+Danny sells more organs to Vik, and gets rent money! Looking to non-criminal jobs. Putting around flyers: "PI for hire."
+Victor calls Danny to investigate Mr. Ansen
+250 up front, 200 then 150
