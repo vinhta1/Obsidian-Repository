@@ -163,7 +163,7 @@ Mr. Anson
 
 Hood
 
-03/12/25
+# 03/12/25
 Ewan pays for his boy loft by underground gambling (ARCADE) Underneath metro construction site
 He cons people into underestimating him, then winning against grown adults
 Ewan beats the Cowboy and saves him and gets rent money!
@@ -179,3 +179,6 @@ Keep gambling den secret
 
 Victor and Rose watch THE SUBSTANCE
 Sinister Minister
+
+# 03/19/25
+What has Icarus been up to?
