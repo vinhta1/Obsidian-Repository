@@ -94,9 +94,19 @@
               "icon": "lucide-file",
               "title": "CoM Weekly"
             }
+          },
+          {
+            "id": "37368823ae4764d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -216,13 +226,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/CoM Weekly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CoM Weekly"
+              "title": "Outline"
             }
           },
           {
@@ -274,10 +283,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "a403458ca7b4879d",
+  "active": "37368823ae4764d4",
   "lastOpenFiles": [
-    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/CoM Weekly.md",
+    "Private/Cases and Episodes/Into the Fire.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/The Witch in the Woods.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
