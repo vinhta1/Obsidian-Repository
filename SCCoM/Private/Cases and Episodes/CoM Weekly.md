@@ -176,9 +176,14 @@ Rodrick Ant - Bully
 Phil knows that Ewan has a boy loft
 Texts to Kenneth - Two months of rent yippee
 Keep gambling den secret
+Cowboy Hat Old Man
 
 Victor and Rose watch THE SUBSTANCE
 Sinister Minister
 
 # 03/19/25
 What has Icarus been up to?
+
+Ewan wants to go talk to Frank
+Ewan is both Dwight and Jim from the office
+Frank picks up Ewan after he tries to walk into oncoming traffic
