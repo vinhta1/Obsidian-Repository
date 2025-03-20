@@ -187,3 +187,6 @@ What has Icarus been up to?
 Ewan wants to go talk to Frank
 Ewan is both Dwight and Jim from the office
 Frank picks up Ewan after he tries to walk into oncoming traffic
+
+Frank and Ewan run some of Frank's errands
+Icarus goes to hell for the last two-four weeks
