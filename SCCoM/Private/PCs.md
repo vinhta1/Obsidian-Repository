@@ -23,6 +23,7 @@ The rift of Nemesis.
 Vigilante, a bit brutal, but a bit silly for the most part.
 # Icarus
 Age: 19
+Oleander/Nerium
 ### Nero(s)
 Has dreams, nightmares, and fantasies of Nero.
 Is this just the Mist messing with him?

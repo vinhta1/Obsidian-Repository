@@ -101,12 +101,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Cases and Episodes/CoM Weekly.md",
+                "file": "Private/PCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CoM Weekly"
+              "title": "PCs"
             }
           }
         ],
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/CoM Weekly.md",
+                "file": "Private/PCs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CoM Weekly"
+              "title": "Outline of PCs"
             }
           },
           {
@@ -289,8 +289,8 @@
   },
   "active": "37368823ae4764d4",
   "lastOpenFiles": [
-    "Private/PCs.md",
     "Private/Cases and Episodes/CoM Weekly.md",
+    "Private/PCs.md",
     "Reverend.md",
     "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
     "Private/NPCS/Ewan's Parents.md",
