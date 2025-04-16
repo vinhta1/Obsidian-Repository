@@ -12,6 +12,6 @@ Collect them all to create the devil's diadem.
 
 # The Hierarchy of Hell
 There is no Satan. Chaos is the rule of the land. Most people try to escape, until they warp, and then they hunt others.
-The land itself is evil. It turns people, melts them down into their base selves. And then eventually just their souls. 
+The land itself is evil. It turns people into demons. It warps their mind. It twists their being.
 Archangels are exempt from turning
 Nero (fakes) are not.
