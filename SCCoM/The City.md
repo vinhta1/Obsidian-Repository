@@ -13,3 +13,9 @@ The Bazaar
 Tomb Raider
 Wildstar
 
+Ewan's dad - Alno (All Know)
+- Big Corpo Station AI + voice
+- Trapped
+Ewan's mom - The Architect
+- The person who designed The Bazaar, but does not run it
+- Trapped
