@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3da9145f797ea0a4",
+        "id": "211cbf0fd7f203ed",
         "type": "tabs",
         "children": [
           {
-            "id": "83ef9a95f6f8031f",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 16,
-                "mapCenter": {
-                  "lat": 36.972421117637644,
-                  "lng": -122.02583312988283
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
-            }
-          },
-          {
-            "id": "631ed5a722822059",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "cdf7ef12346f7bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/PCs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PCs"
-            }
-          },
-          {
-            "id": "7b3925a9cf59e761",
+            "id": "8270d525a58f3439",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,47 +22,7 @@
             }
           },
           {
-            "id": "ba7aa9e85ca7f66b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "c0269acd4377f398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Cases and Episodes/CoM Weekly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CoM Weekly"
-            }
-          },
-          {
-            "id": "37368823ae4764d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/PCs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PCs"
-            }
-          },
-          {
-            "id": "b3e490e68966b58e",
+            "id": "065089d6df2704c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,10 +208,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "b3e490e68966b58e",
+  "active": "065089d6df2704c0",
   "lastOpenFiles": [
-    "Private/PCs.md",
     "Private/Cases and Episodes/CoM Weekly.md",
+    "Private/Cases and Episodes/Ghost Festival.md",
+    "Private/Cases and Episodes/Blow The House Down.md",
+    "Private/PCs.md",
     "Reverend.md",
     "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
     "Private/NPCS/Ewan's Parents.md",
@@ -310,9 +224,7 @@
     "Private/Cases and Episodes/The Witch in the Woods.md",
     "Private/Cases and Episodes/The Weight of Our Hearts.md",
     "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
-    "Private/Cases and Episodes/Blow The House Down.md",
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
-    "Private/Cases and Episodes/Ghost Festival.md",
     "Private/MC's Jukebox.md",
     "Private/Ideas.md",
     "Public/Jukebox.md",
