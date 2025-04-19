@@ -36,4 +36,5 @@ At the end of the day, it is subjectively bad. It makes good people do bad thing
 It has to be something beyond the Mist. It has to be a force that exists on its own.
 Like a virus that infects. It damns them to this place. But what good comes from it? There must be some subjective good.
 It opens people up to see beyond the mist. It lets people choose for themselves, to act outside of the control of Avatars. To see what others cannot. To do what others would not.
-Sin is a way to wake the sleeping, without turning them into rifts.
+Sin overrides mythos. Sleepers can see into the mist without awakening. Their legend is not realized, instead they become a sinner.
+Once a sinner, always a sinner. They cannot go back to sleep. When they die, they go to hell. They lose their sense of good, and give into selfishness and evil.
