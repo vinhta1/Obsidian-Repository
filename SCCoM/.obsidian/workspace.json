@@ -25,10 +25,14 @@
             "id": "426b19755eca5e92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "What Does Icarus See In Hell.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "What Does Icarus See In Hell"
             }
           }
         ],
@@ -151,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "What Does Icarus See In Hell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of What Does Icarus See In Hell"
             }
           },
           {
