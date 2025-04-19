@@ -17,5 +17,17 @@ Is Nero even in hell? The fake Neros would be in New Chinatown wouldn't they?
 
 # What Does Hell Look Like
 
+Crystalline Yellow, Soot and Ash Fields and Paths
+A Realm on Fire, Burning Blue, Smoking Grey
+Red Suns Like Eyes, Watching, Smiling? Tormenting All
+Pockets of Pitch Black Darkness, Safe From Pain
+
+Day/Night Cycle?
+
 https://www.bbc.com/news/av/world-us-canada-40576266
 https://www.youtube.com/watch?v=nBjlyZsW1z4
+
+![[Pasted image 20250418231952.png]]![[Pasted image 20250418232005.png]]
+![[Pasted image 20250418232025.png]]![[Pasted image 20250418232221.png]]
+
+# What Is Sin?
