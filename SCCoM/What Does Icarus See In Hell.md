@@ -31,3 +31,9 @@ https://www.youtube.com/watch?v=nBjlyZsW1z4
 ![[Pasted image 20250418232025.png]]![[Pasted image 20250418232221.png]]
 
 # What Is Sin?
+Humanity? We can just call it humanity. Could be free choice.
+At the end of the day, it is subjectively bad. It makes good people do bad things.
+It has to be something beyond the Mist. It has to be a force that exists on its own.
+Like a virus that infects. It damns them to this place. But what good comes from it? There must be some subjective good.
+It opens people up to see beyond the mist. It lets people choose for themselves, to act outside of the control of Avatars. To see what others cannot. To do what others would not.
+Sin is a way to wake the sleeping, without turning them into rifts.
