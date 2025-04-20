@@ -31,12 +31,17 @@ Life is simpler when you are asleep. Life is simpler when you focus on "what is"
 Black Rock Sulfur Key can get into and out of portals. Collect more to gain hell powers. Grantable to others (like the feathers). Collect them all to create the devil's diadem. Maybe each one defended by an Archangel?
 
 ## Day Night Cycle
-### The Red Sun
-A fire that burns all impurities. Distilling from every being, sin and spirit from flesh. The land takes their remains, not physical, but spiritual, and turns them into demons.
-Staying in the Sun will HURT. Hit a status-6 and turn into a demon
+Not so much a day and night, so much as it is a blink of blinding and a blink of darkness. Every move threatens to change from day to night and vice versa. Don't move during the day. Move during the night. See enemies during the day. Lose them during the night.
+### The Red Suns
+A light that burns all impurities. Distilling from every being, sin and spirit from flesh. The land takes their remains, not physical, but spiritual, and turns them into demons.
+Staying in the light will HURT. Hit a status-6 and turn into a demon.
 ### Flaming Sulfur
-The fire itself is barely visible in light. It can be noticed wherever there is smoke. However, in the dark, you can see a luscious blue flame that covers the ground like an ocean. This fire hurts.
+The fire itself is barely visible in light. It can be noticed wherever there is smoke. However, in the dark, you can see a luscious blue flame that covers the ground like an ocean. This fire burns and slows you down.
+Use smoke and darkness to watch your step.
 
+## Demons and Devils
+There are no Devils. Not yet.
+Demons are people fully burned away. They exist only to torment and to hurt people not fully turned. They like to drag people into the light.
 # The Hierarchy of Hell
 There is no Satan. Chaos is the rule of the land. Most people try to escape, until they warp, and then they hunt others.
 The land itself is evil. It turns people into demons. It warps their mind. It twists their being.
