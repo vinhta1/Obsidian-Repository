@@ -37,22 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What Does Icarus See In Hell.md",
+                "file": "Hell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Does Icarus See In Hell"
+              "title": "Hell"
             }
           },
           {
             "id": "f102f45dbcc45073",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hell.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hell"
             }
           }
         ],
@@ -175,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Hell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hell"
             }
           },
           {
@@ -234,7 +239,7 @@
   },
   "active": "f102f45dbcc45073",
   "lastOpenFiles": [
-    "What Does Icarus See In Hell.md",
+    "Hell.md",
     "Pasted image 20250418232005.png",
     "Pasted image 20250418232019.png",
     "Pasted image 20250418232221.png",

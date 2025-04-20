@@ -1,11 +1,37 @@
+# What Does Icarus See or Want?
 Murder vacation for Icarus. He's OP AS HELL, in Hell as well!
 Souls of the damned, demons.
 He doesn't see any of old Chinatown
 He does, however, see the old archangels, if more than just one
 
-Black Rock Sulfur Key can get into and out of portals.
-Collect more to gain hell powers. Grantable to others (like the feathers)
-Collect them all to create the devil's diadem.
+# What Does Jerri See or Want?
+For Jerri, something she could want/ need to see are previous users- when Lucifer takes control of you and your soul, where do you go? Is hell accessible physically or only spiritually (can Jerri only connect to hell through her soul)?
+Ummm
+I feel like there’s more I can ask here but I gotta figure out what
+Can you visit hell? Can you visit hell with others? (These questions relate to how one accesses hell)
+Are Lucifer’s power from hell, or is hell from Lucifer?
+If hell is a place, is heaven a place? Is there a required balance between the two?
+In close relation to this, if Lucifer stops existing will hell stop existing or the other way around?
+Honestly, I feel like “hell of your own making” as an idea could be really interesting, like in hell you’re haunted by your past/fears etc
+But there’s a lot of creative directions hell can go
+
+# What Does Reggie See or Want?
+He wants to expand his influence. If he can't be God, he'll settle with Satan.
+There's a distinction between Lucifer and Satan. One is a name, the other is a title.
+He doesn't care about ruling Hell, so much as he does ruling his inhabitants. Thus, he seeks to cause Hell on Earth.
+Power over all Sinners. Father of all sinners.
+
+# What Does Nero See or Want?
+Nero wants to close the rifts related to Hell, because of its self-propagating nature.
+Sinners cause more sinners. She doesn't know what "sin" is anymore.
+Life is simpler when you are asleep. Life is simpler when you focus on "what is" and not on "what can be."
+
+# The Mechanics of Hell
+Black Rock Sulfur Key can get into and out of portals. Collect more to gain hell powers. Grantable to others (like the feathers). Collect them all to create the devil's diadem. Maybe each one defended by an Archangel?
+
+## Day Night Cycle
+
+
 
 # The Hierarchy of Hell
 There is no Satan. Chaos is the rule of the land. Most people try to escape, until they warp, and then they hunt others.
@@ -40,3 +66,5 @@ Sin overrides mythos. Sleepers can see into the mist without awakening. Their le
 Once a sinner, always a sinner. They cannot go back to sleep. When they die, they go to hell. They slowly lose their sense of good and give into selfishness and evil. This is often a product of realizing there is more to the world to experience, as well as their newfound knowledge and power.
 Some people use Sin to do good. Despite knowing that the world is shitty and that nothing is real, their loss of inhibitions leads to a greater good than what would have existed otherwise.
 Sin leads to more sin. The same way rifts might awaken sleepers, sinners may infect others with sin.
+
+Or maybe, sin is sleeping? Sin is ignorance? The original sin is forgetting?
