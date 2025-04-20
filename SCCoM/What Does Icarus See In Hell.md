@@ -37,4 +37,6 @@ It has to be something beyond the Mist. It has to be a force that exists on its 
 Like a virus that infects. It damns them to this place. But what good comes from it? There must be some subjective good.
 It opens people up to see beyond the mist. It lets people choose for themselves, to act outside of the control of Avatars. To see what others cannot. To do what others would not.
 Sin overrides mythos. Sleepers can see into the mist without awakening. Their legend is not realized, instead they become a sinner.
-Once a sinner, always a sinner. They cannot go back to sleep. When they die, they go to hell. They lose their sense of good, and give into selfishness and evil.
+Once a sinner, always a sinner. They cannot go back to sleep. When they die, they go to hell. They slowly lose their sense of good and give into selfishness and evil. This is often a product of realizing there is more to the world to experience, as well as their newfound knowledge and power.
+Some people use Sin to do good. Despite knowing that the world is shitty and that nothing is real, their loss of inhibitions leads to a greater good than what would have existed otherwise.
+Sin leads to more sin. The same way rifts might awaken sleepers, sinners may infect others with sin.
