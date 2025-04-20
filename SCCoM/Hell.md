@@ -27,11 +27,15 @@ Sinners cause more sinners. She doesn't know what "sin" is anymore.
 Life is simpler when you are asleep. Life is simpler when you focus on "what is" and not on "what can be."
 
 # The Mechanics of Hell
+## Keys to The Kingdom
 Black Rock Sulfur Key can get into and out of portals. Collect more to gain hell powers. Grantable to others (like the feathers). Collect them all to create the devil's diadem. Maybe each one defended by an Archangel?
 
 ## Day Night Cycle
-
-
+### The Red Sun
+A fire that burns all impurities. Distilling from every being, sin and spirit from flesh. The land takes their remains, not physical, but spiritual, and turns them into demons.
+Staying in the Sun will HURT. Hit a status-6 and turn into a demon
+### Flaming Sulfur
+The fire itself is barely visible in light. It can be noticed wherever there is smoke. However, in the dark, you can see a luscious blue flame that covers the ground like an ocean. This fire hurts.
 
 # The Hierarchy of Hell
 There is no Satan. Chaos is the rule of the land. Most people try to escape, until they warp, and then they hunt others.
