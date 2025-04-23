@@ -41,7 +41,7 @@ Use smoke and darkness to watch your step.
 
 ## Demons and Devils
 There are no Devils. Not yet.
-Demons are people fully burned away. They exist only to torment and to hurt people not fully turned. They like to drag people into the light.
+Demons are people fully burned away. They exist only to torment and to hurt people not fully turned. They like to drag people into the light. Basically zombies.
 # The Hierarchy of Hell
 There is no Satan. Chaos is the rule of the land. Most people try to escape, until they warp, and then they hunt others.
 The land itself is evil. It turns people into demons. It warps their mind. It twists their being.
@@ -77,3 +77,5 @@ Some people use Sin to do good. Despite knowing that the world is shitty and tha
 Sin leads to more sin. The same way rifts might awaken sleepers, sinners may infect others with sin.
 
 Or maybe, sin is sleeping? Sin is ignorance? The original sin is forgetting?
+
+Demonic Virus that wakes people up.

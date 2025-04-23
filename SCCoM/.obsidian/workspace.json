@@ -58,9 +58,37 @@
               "icon": "lucide-file",
               "title": "Hell"
             }
+          },
+          {
+            "id": "a5ac7c98769036bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hell"
+            }
+          },
+          {
+            "id": "1af810d7a4cfdff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finding Jina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finding Jina"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hell.md",
+                "file": "Finding Jina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hell"
+              "title": "Outline of Finding Jina"
             }
           },
           {
@@ -237,9 +265,14 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "f102f45dbcc45073",
+  "active": "1af810d7a4cfdff7",
   "lastOpenFiles": [
     "Hell.md",
+    "Finding Jina.md",
+    "Project Nero.md",
+    "Public Notes.md",
+    "The City.md",
+    "Reverend.md",
     "Pasted image 20250418232005.png",
     "Pasted image 20250418232019.png",
     "Pasted image 20250418232221.png",
@@ -247,9 +280,6 @@
     "Pasted image 20250418231947.png",
     "Pasted image 20250418232025.png",
     "Private/Cases and Episodes/Untitled.md",
-    "The City.md",
-    "Project Nero.md",
-    "Reverend.md",
     "Private/Faction List/The Black Company/The Black Company.md",
     "Private/Faction List/Factions.md",
     "Private/Cases and Episodes/Untitled 1.md",
@@ -269,7 +299,6 @@
     "Private/Cases and Episodes/Bodies and the Beanstalk.md",
     "Private/MC's Jukebox.md",
     "Private/Ideas.md",
-    "Public/Jukebox.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
