@@ -10,4 +10,4 @@ One might think the armor slows her down, but she is surprisingly and dangerousl
 # The Sounds of Combat
 First you hear a concentrated point of screaming and yelling. As you get closer, you hear the gnashing of bones and meat. The slumps of body after body. Then, the distinct sound of metal armor.
 
-You see a 
+You see a person, standing 6-7 feet tall. They are fighting their way 
