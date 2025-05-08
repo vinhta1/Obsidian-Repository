@@ -86,9 +86,31 @@
               "icon": "lucide-file",
               "title": "Finding Jina"
             }
+          },
+          {
+            "id": "3cc9264c86edbfdb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "1914cae10a2c54d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -207,13 +229,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finding Jina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Finding Jina"
+              "title": "Outline"
             }
           },
           {
@@ -265,7 +286,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "1af810d7a4cfdff7",
+  "active": "1914cae10a2c54d4",
   "lastOpenFiles": [
     "Hell.md",
     "Finding Jina.md",
