@@ -81,8 +81,8 @@ Or maybe, sin is sleeping? Sin is ignorance? The original sin is forgetting?
 Demonic Virus that wakes people up.
 
 # The Roguelike
-Dante's Inferno, 9 Circles of Hell
-Diyu, Chinese hell, 10 courts of yanluo or 18 levels of hell.
-Hades, greek underworld
+Dante's Inferno, 9 Circles of Hell https://en.wikipedia.org/wiki/Inferno_(Dante)
+Diyu, Chinese hell, 10 courts of yanluo or 18 levels of hell. https://en.wikipedia.org/wiki/Diyu
+Hades, greek underworld https://en.wikipedia.org/wiki/Greek_underworld
 
 Hell in flux, there is no set "Hell" yet. Yet, there are tellings of multiple circles, multiple levels, multiple hells. So 
