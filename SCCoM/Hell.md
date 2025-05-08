@@ -84,3 +84,5 @@ Demonic Virus that wakes people up.
 Dante's Inferno, 9 Circles of Hell
 Diyu, Chinese hell, 10 courts of yanluo or 18 levels of hell.
 Hades, greek underworld
+
+Hell in flux, there is no set "Hell" yet. Yet, there are tellings of multiple circles, multiple levels, multiple hells. So 
