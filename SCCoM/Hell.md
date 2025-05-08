@@ -79,3 +79,6 @@ Sin leads to more sin. The same way rifts might awaken sleepers, sinners may inf
 Or maybe, sin is sleeping? Sin is ignorance? The original sin is forgetting?
 
 Demonic Virus that wakes people up.
+
+# The Roguelike
+Dante's Inferno

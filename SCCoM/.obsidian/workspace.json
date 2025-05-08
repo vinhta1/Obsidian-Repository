@@ -103,10 +103,14 @@
             "id": "1914cae10a2c54d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hell.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hell"
             }
           }
         ],
@@ -229,12 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Hell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hell"
             }
           },
           {
