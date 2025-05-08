@@ -81,4 +81,6 @@ Or maybe, sin is sleeping? Sin is ignorance? The original sin is forgetting?
 Demonic Virus that wakes people up.
 
 # The Roguelike
-Dante's Inferno
+Dante's Inferno, 9 Circles of Hell
+Diyu, Chinese hell, 10 courts of yanluo or 18 levels of hell.
+Hades, greek underworld
