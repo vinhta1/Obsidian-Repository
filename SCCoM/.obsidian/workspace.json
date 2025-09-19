@@ -112,9 +112,19 @@
               "icon": "lucide-file",
               "title": "Hell"
             }
+          },
+          {
+            "id": "4b1847201bf280d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -233,13 +243,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hell"
+              "title": "Outline"
             }
           },
           {
@@ -291,7 +300,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "1914cae10a2c54d4",
+  "active": "4b1847201bf280d3",
   "lastOpenFiles": [
     "Hell.md",
     "Finding Jina.md",
