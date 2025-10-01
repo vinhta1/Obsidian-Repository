@@ -48,3 +48,9 @@ Jerri - Reginald is here
 Danny - Her old gang is back and wants revenge.
 Ewan - his parents have been possessed and forced to labor.
 Moonshadow - his community is being taken advantage of
+
+Where are the main areas? The main places? The spots to come back to? Why? There needs to be concrete locations. Think of games like Persona, Yakuza, or even GTA, where there is always a place to come back to, and a new place everyone once in a while.
+
+Motiv backroom, hidden basement office.
+
+Baskin Engineering 0
