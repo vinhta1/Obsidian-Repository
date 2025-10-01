@@ -117,6 +117,32 @@
             "id": "4b1847201bf280d3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/NPCS/Susan Rashad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Susan Rashad"
+            }
+          },
+          {
+            "id": "5a67efdd50a72d91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "e9d926b67a7ecfa2",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
@@ -124,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -290,6 +316,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -300,40 +327,40 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "4b1847201bf280d3",
+  "active": "e9d926b67a7ecfa2",
   "lastOpenFiles": [
-    "Hell.md",
+    "Private/NPCS/Sarah Lauder.md",
+    "Private/NPCS/Renée Campos.md",
+    "Private/NPCS/Kenneth Helm.md",
+    "Private/NPCS/Ewan's Parents.md",
+    "Private/MC's Jukebox.md",
+    "Private/PCs.md",
+    "Private/Private Notes.md",
+    "Private/Rules of this Santa Cruz.md",
+    "Private/The Overarching Story.md",
+    "Public/Jukebox.md",
     "Finding Jina.md",
+    "Hell.md",
+    "Location added on 2025-02-19T21-29.md",
     "Project Nero.md",
-    "Public Notes.md",
     "The City.md",
     "Reverend.md",
+    "Public Notes.md",
+    "Pasted image 20250418231947.png",
+    "Pasted image 20250418231952.png",
     "Pasted image 20250418232005.png",
     "Pasted image 20250418232019.png",
-    "Pasted image 20250418232221.png",
-    "Pasted image 20250418231952.png",
-    "Pasted image 20250418231947.png",
     "Pasted image 20250418232025.png",
+    "Pasted image 20250418232221.png",
+    "Private/Ideas.md",
+    "Private/Cases and Episodes/One Good Day.md",
+    "Private/Cases and Episodes/Into the Fire.md",
+    "Private/Faction List/Factions.md",
+    "Private/Faction List/New Chinatown.md",
     "Private/Cases and Episodes/Untitled.md",
     "Private/Faction List/The Black Company/The Black Company.md",
-    "Private/Faction List/Factions.md",
     "Private/Cases and Episodes/Untitled 1.md",
     "Private/Cases and Episodes/CoM Weekly.md",
-    "Private/Cases and Episodes/Ghost Festival.md",
-    "Private/Cases and Episodes/Blow The House Down.md",
-    "Private/PCs.md",
-    "Private/Faction List/The Black Company/Vincent Ta, Real Estate and Law.md",
-    "Private/NPCS/Ewan's Parents.md",
-    "Private/NPCS/Renée Campos.md",
-    "Private/Private Notes.md",
-    "Private/Cases and Episodes/Into the Fire.md",
-    "Private/Cases and Episodes/One Good Day.md",
-    "Private/Cases and Episodes/The Witch in the Woods.md",
-    "Private/Cases and Episodes/The Weight of Our Hearts.md",
-    "Private/Cases and Episodes/Old Man Marini and the Perilous Candy Island.md",
-    "Private/Cases and Episodes/Bodies and the Beanstalk.md",
-    "Private/MC's Jukebox.md",
-    "Private/Ideas.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
