@@ -143,10 +143,14 @@
             "id": "e9d926b67a7ecfa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Private/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ideas"
             }
           }
         ],
@@ -269,12 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Private/Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ideas"
             }
           },
           {
