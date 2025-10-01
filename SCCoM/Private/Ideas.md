@@ -51,7 +51,7 @@ Moonshadow - his community is being taken advantage of
 
 Where are the main areas? The main places? The spots to come back to? Why? There needs to be concrete locations. Think of games like Persona, Yakuza, or even GTA, where there is always a place to come back to, and a new place everyone once in a while.
 
-Motiv backroom, hidden basement hideout.
+Crew selected hideout (Motiv backroom, secret basement office)
 
 Baskin Engineering 0
 
@@ -60,6 +60,8 @@ The *Office*
 The Boardwalk
 
 The Groves (Lighthouse Point/Walton Lighthouse, UCSC Forest, The Mystery Spot)
+
+Atlantis
 
 Maraket (Mara's Market, Mara Mart)
 
