@@ -61,10 +61,12 @@ The Boardwalk
 
 The Groves (Lighthouse Point/Walton Lighthouse, UCSC Forest, The Mystery Spot)
 
-Lemuria vs Atlantis? Some underwater realm
+Lemuria vs Atlantis? Lemuria and Atlantis? Some underwater realm
 Lemuria, advanced humans. Tech-heavy and adapting the environment to sustain themselves and their society.
-Extremes:
-
+Swings:
+- We must lead the world to a new evolution (Guide Humanity) vs. The people are undeserving of the technology they possess (Conquer Humanity)
+- We can live among them, gently guiding them to something better (Return to the Surface) vs. Humans are a lost cause. Our world exists here, not there. (Deny the Surface)
 Atlantis, merpeople. Coexisting with the environment and being one with the ocean.
+Atlantis and Lemuria has had a long lasting, yet fragile truce. As the ocean heats up, Atlantis has found themselves needing more and more help from their Lemurian neighbors. Some Lemurians are welcoming. Most are fatigued and unsympathetic. However, deep below the waters lies an insidious plot to siege the City.
 
 Maraket (Mara's Market, Mara Mart)
