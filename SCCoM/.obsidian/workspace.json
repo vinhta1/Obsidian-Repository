@@ -169,10 +169,14 @@
             "id": "64ce326a0eab4c73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Private/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ideas"
             }
           }
         ],
@@ -295,12 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Private/Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ideas"
             }
           },
           {
@@ -355,12 +360,6 @@
   },
   "active": "64ce326a0eab4c73",
   "lastOpenFiles": [
-    "Private/NPCS/Sarah Lauder.md",
-    "Private/NPCS/Renée Campos.md",
-    "Private/NPCS/Kenneth Helm.md",
-    "Private/NPCS/Ewan's Parents.md",
-    "Private/MC's Jukebox.md",
-    "Private/PCs.md",
     "Private/Private Notes.md",
     "Private/Rules of this Santa Cruz.md",
     "Private/The Overarching Story.md",
@@ -370,6 +369,12 @@
     "Location added on 2025-02-19T21-29.md",
     "Project Nero.md",
     "The City.md",
+    "Private/NPCS/Sarah Lauder.md",
+    "Private/NPCS/Renée Campos.md",
+    "Private/NPCS/Kenneth Helm.md",
+    "Private/NPCS/Ewan's Parents.md",
+    "Private/MC's Jukebox.md",
+    "Private/PCs.md",
     "Reverend.md",
     "Public Notes.md",
     "Pasted image 20250418231947.png",

@@ -61,7 +61,10 @@ The Boardwalk
 
 The Groves (Lighthouse Point/Walton Lighthouse, UCSC Forest, The Mystery Spot)
 
-Atlantis? Some underwater realm
+Lemuria vs Atlantis? Some underwater realm
+Lemuria, advanced humans. Tech-heavy and adapting the environment to sustain themselves and their society.
+Extremes:
+
+Atlantis, merpeople. Coexisting with the environment and being one with the ocean.
 
 Maraket (Mara's Market, Mara Mart)
-
