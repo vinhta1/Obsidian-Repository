@@ -152,9 +152,31 @@
               "icon": "lucide-file",
               "title": "Ideas"
             }
+          },
+          {
+            "id": "75a79abe93329088",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "64ce326a0eab4c73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -273,13 +295,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ideas"
+              "title": "Outline"
             }
           },
           {
@@ -332,7 +353,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "e9d926b67a7ecfa2",
+  "active": "64ce326a0eab4c73",
   "lastOpenFiles": [
     "Private/NPCS/Sarah Lauder.md",
     "Private/NPCS/Renée Campos.md",
