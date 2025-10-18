@@ -178,9 +178,19 @@
               "icon": "lucide-file",
               "title": "Ideas"
             }
+          },
+          {
+            "id": "9dd95ded9a60c972",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -299,13 +309,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ideas"
+              "title": "Outline"
             }
           },
           {
@@ -358,8 +367,9 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "64ce326a0eab4c73",
+  "active": "9dd95ded9a60c972",
   "lastOpenFiles": [
+    "Private/Ideas.md",
     "Private/Private Notes.md",
     "Private/Rules of this Santa Cruz.md",
     "Private/The Overarching Story.md",
@@ -383,7 +393,6 @@
     "Pasted image 20250418232019.png",
     "Pasted image 20250418232025.png",
     "Pasted image 20250418232221.png",
-    "Private/Ideas.md",
     "Private/Cases and Episodes/One Good Day.md",
     "Private/Cases and Episodes/Into the Fire.md",
     "Private/Faction List/Factions.md",
