@@ -54,12 +54,18 @@ Where are the main areas? The main places? The spots to come back to? Why? There
 Crew selected hideout (Motiv backroom, secret basement office)
 
 Baskin Engineering 0
+Chinese traditionalism and occultism. Brutalist and bureaucratic. Their goal is to monitor and limit rift activity without starting a war between the mythical and the mundane.
+A weaker force that relies on their powerful resources to make themselves look stronger and bigger than they actually are.
 
 The *Office*
+Brutalism, Art Deco, Liminal, Infinite Cubicle
+The meat grinder of the job market. Their goal is to put people into a job they can't leave.
 
 The Boardwalk
+Moonshadow's Tent. Ewan's Arcade. A casual place of gathering where the crew can find some solace, but also a hotspot or jumping pad for activity.
 
 The Groves (Lighthouse Point/Walton Lighthouse, UCSC Forest, The Mystery Spot)
+Places of greenery, thick forests, and the like are all hubs for the druidic circles inside Santa Cruz. They are the forces that hold back hostile forces from the ocean.
 
 Lemuria vs Atlantis? Lemuria and Atlantis? Some underwater realm
 Lemuria, advanced humans. Tech-heavy and adapting the environment to sustain themselves and their society.
@@ -73,3 +79,6 @@ Maraket (Mara's Market, Mara Mart)
 A night market that sprawls forever. Every time you look back the entrance and exit is just as close as you left it.
 An infinite mall with sprawling and spiraling escalators.
 Ads, ads everywhere.
+
+Mara, a person elected to be the manager of Mara Mart. Their objective is to determine and agree a price for each item brought to them. They must make a sale each time, lest they be replaced by a new Mara.
+Temptation, Illusion, Bargains, Contracts, Consumerism and Capitalism.
