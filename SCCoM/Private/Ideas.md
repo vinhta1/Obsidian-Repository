@@ -59,13 +59,14 @@ A weaker force that relies on their powerful resources to make themselves look s
 
 The *Office*
 Brutalism, Art Deco, Liminal, Infinite Cubicle
-The meat grinder of the job market. Their goal is to put people into a job they can't leave.
+The meat grinder of the job market. Their goal is to put people into a job they can't leave. As such, there is always work to do. They seek to purchase and expand within Santa Cruz, eventually even going through the forest.
+They control a lot of private businesses and have facets in most industries present in Santa Cruz. Whether it's entertainment, environmental, scientific, etc.
 
 The Boardwalk
-Moonshadow's Tent. Ewan's Arcade. A casual place of gathering where the crew can find some solace, but also a hotspot or jumping pad for activity.
+Moonshadow's Tent. Ewan's Arcade. A casual place of gathering where the crew can find some solace, but also a hotspot or jumping pad for activity. Not so much a faction than a place.
 
 The Groves (Lighthouse Point/Walton Lighthouse, UCSC Forest, The Mystery Spot)
-Places of greenery, thick forests, and the like are all hubs for the druidic circles inside Santa Cruz. They are the forces that hold back hostile forces from the ocean.
+Places of greenery, thick forests, and the like are all hubs for the druidic circles inside Santa Cruz. They are the forces that hold back hostile forces from the ocean and the forest. They try to protect the environment the best they can. Sometimes the people feel like the forest is a better place for them.
 
 Lemuria vs Atlantis? Lemuria and Atlantis? Some underwater realm
 Lemuria, advanced humans. Tech-heavy and adapting the environment to sustain themselves and their society.
@@ -79,6 +80,7 @@ Maraket (Mara's Market, Mara Mart)
 A night market that sprawls forever. Every time you look back the entrance and exit is just as close as you left it.
 An infinite mall with sprawling and spiraling escalators.
 Ads, ads everywhere.
-
 Mara, a person elected to be the manager of Mara Mart. Their objective is to determine and agree a price for each item brought to them. They must make a sale each time, lest they be replaced by a new Mara.
-Temptation, Illusion, Bargains, Contracts, Consumerism and Capitalism.
+Temptation, Illusion, Bargains, Contracts, Consumerism and Capitalism.\
+
+Vampires, Werewolves, Zombies, Fish People, Eldritch, etc
