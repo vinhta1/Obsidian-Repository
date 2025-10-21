@@ -70,3 +70,6 @@ Atlantis, merpeople. Coexisting with the environment and being one with the ocea
 Atlantis and Lemuria has had a long lasting, yet fragile truce. As the ocean heats up, Atlantis has found themselves needing more and more help from their Lemurian neighbors. Some Lemurians are welcoming. Most are fatigued and unsympathetic. However, deep below the waters lies an insidious plot to siege the City.
 
 Maraket (Mara's Market, Mara Mart)
+A night market that sprawls forever. Every time you look back the entrance and exit is just as close as you left it.
+An infinite mall with sprawling and spiraling escalators.
+Ads, ads everywhere.
