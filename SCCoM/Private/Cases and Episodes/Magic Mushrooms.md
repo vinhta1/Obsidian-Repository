@@ -1,3 +1,6 @@
 #Case 
+# Notes
+IRON, HE'S WEARING IRON
 # Background
-The sky was still dark by the time the Forager woke up. A cold fog brushed the walls of every building and the leaf of every tree. When the clouds left the forest to laze around with the sun, 
+A cold fog kisses the walls of every building and caresses the leaves of every brush. A man sits by his window, watching the black outdoors blend into blue. The condensation of his window matches his glass, empty if not for the ice left behind. When the dawn arrived, the clouds left the forest to laze around with the sun. Light peered through the trees, illuminating the forest floor. This is the moment the Forager was waiting for.
+
