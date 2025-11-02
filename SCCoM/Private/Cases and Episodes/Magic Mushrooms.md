@@ -11,4 +11,4 @@ In the few moments of respite between days and nights of early shifts and overti
 
 The scene cuts to Wesson sitting in a cubicle. It is one of many, equal if not for the people inside them and the way they have decided to decorate them. A fluorescent white fills the hall, illuminated the grey walls and green carpet walkways. There are no windows: only concrete with chalk and paint landscapes with a clock somewhere for people to watch from time to time. Some employees go their entire shift without looking.
 
-Wesson is antsy. His leg bounces as a sea of keys click-clack through documents and data, filing and compiling information into spreadsheets and graphs for endless presentations.
+Wesson is antsy. His leg bounces as a sea of keys click-clack through pipelines of spreadsheets, presentations, and design documents. This place is a hive of chittering insects, antennas listening for Slack notifications. 
