@@ -53,10 +53,14 @@
             "id": "523de57b00a2dd26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Private/Cases and Episodes/Magic Mushrooms.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Magic Mushrooms"
             }
           }
         ],
@@ -179,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Private/Cases and Episodes/Magic Mushrooms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Magic Mushrooms"
             }
           },
           {
