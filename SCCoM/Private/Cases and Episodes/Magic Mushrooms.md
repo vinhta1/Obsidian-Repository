@@ -17,7 +17,12 @@ Wesson is antsy. His leg bounces as a sea of keys click-clack through pipelines 
 ### Magic Mushrooms
 *Psilocybin-containing mushrooms. The specific species featured in this case is the **psilocybe semilanceata**, commonly known as the **liberty cap**. Long. brown, with a conical cap, anyone can tell they're different than the ones you find in the supermarket. However, only people who are interested in mushrooms, magic or otherwise, would be able to identify these particular ones. Furthermore, only rifts would be able to sense the distortion in space around these fungi. In your hands, you feel a pull. You can follow it if you want.*
 #### Spectrums
-Crush: 1
+Destroy: 1
 #### Moves
 Ingesting a mushroom inflicts *Tripping-3*. Depending on who you are, it may have further effects:
-- Rifts, rift-touched
+- Anyone wearing or possessing something made of iron or some iron composite (like steel) aren't affected any further.
+- Rifts, rift-touched, and other people susceptible to things beyond the mist are teleported to *The Feywild*.
+- Anyone else loses control of their body and starts to dance. Their *Tripping* status is replaced with an *Entranced* status with the same tier. Until this status is removed or until they die or are stopped, they will dance. Every hour they dance, they are afflicted with *Tired-1*.
+---
+- Light seems to bend around these mushrooms. Sleepers don't notice this fact.
+- When holding the mushroom, there's a slight tug. It's barely notic
