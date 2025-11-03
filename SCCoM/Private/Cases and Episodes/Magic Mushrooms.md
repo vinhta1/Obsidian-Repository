@@ -24,5 +24,5 @@ Ingesting a mushroom inflicts *Tripping-3*. Depending on who you are, it may hav
 - Rifts, rift-touched, and other people susceptible to things beyond the mist are teleported to *The Feywild*.
 - Anyone else loses control of their body and starts to dance. Their *Tripping* status is replaced with an *Entranced* status with the same tier. Until this status is removed or until they die or are stopped, they will dance. Every hour they dance, they are afflicted with *Tired-1*.
 ---
-- Light seems to bend around these mushrooms. Sleepers don't notice this fact.
-- When holding the mushroom, there's a slight tug. It's barely notic
+- Light seems to bend around these mushrooms. Sleepers don't notice this fact. It bends further the closer you are to the *Feywild* or something from the *Feywild*.
+- When holding the mushroom, there's a slight tug. It's barely noticeable, and sleepers don't notice it at all. It leads to the nearest *Feywild Portal*, probably manifesting as another fairy ring of magic mushrooms.
