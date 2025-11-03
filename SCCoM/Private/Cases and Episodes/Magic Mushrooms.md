@@ -15,4 +15,4 @@ Wesson is antsy. His leg bounces as a sea of keys click-clack through pipelines 
 
 # Dangers
 ### Magic Mushrooms
-*Psilocybin-containing mushrooms.*
+*Psilocybin-containing mushrooms. The specific species featured in this case is the **psilocybe semilanceata**, commonly known as the **liberty cap**. Long. brown, with a conical cap, anyone can tell they're different than the ones you find in the supermarket. However, only people who are interested in mushrooms, magic or otherwise, would be able to identify these particular ones. Furthermore, only rifts would be able to sense the distortion in space around these fungi.*
