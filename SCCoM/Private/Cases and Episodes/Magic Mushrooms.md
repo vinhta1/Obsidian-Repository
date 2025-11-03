@@ -15,7 +15,7 @@ Wesson is antsy. His leg bounces as a sea of keys click-clack through pipelines 
 
 # Dangers
 ### Magic Mushrooms
-*Psilocybin-containing mushrooms. The specific species featured in this case is the **psilocybe semilanceata**, commonly known as the **liberty cap**. Long. brown, with a conical cap, anyone can tell they're different than the ones you find in the supermarket. However, only people who are interested in mushrooms, magic or otherwise, would be able to identify these particular ones. Furthermore, only rifts would be able to sense the distortion in space around these fungi. In your hands, you feel a pull. You can follow it if you want.*
+*Psilocybin-containing mushrooms. The specific species featured in this case is the **psilocybe semilanceata**, commonly known as the **liberty cap**. Long. brown, with a conical cap, anyone can tell they're different than the ones you find in the supermarket. However, only people who are interested in mushrooms, magic or otherwise, would be able to identify these particular ones. Furthermore, these specific mushrooms are rift-touched. Only rifts would be able to sense the distortion in space around these fungi. In your hands, you might be able to feel a pull. You can follow it if you want.*
 #### Spectrums
 Destroy: 1
 #### Moves
@@ -26,3 +26,4 @@ Ingesting a mushroom inflicts *Tripping-3*. Depending on who you are, it may hav
 ---
 - Light seems to bend around these mushrooms. Sleepers don't notice this fact. It bends further the closer you are to the *Feywild* or something from the *Feywild*.
 - When holding the mushroom, there's a slight tug. It's barely noticeable, and sleepers don't notice it at all. It leads to the nearest *Feywild Portal*, probably manifesting as another fairy ring of magic mushrooms.
+- Iron or things containing iron diminish these phenomenon based on their proximity to it. It can be completely negated this way, reducing them to ordinary magic mushrooms.
