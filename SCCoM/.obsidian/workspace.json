@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Magic Mushrooms"
             }
+          },
+          {
+            "id": "8dbc7c19386d7487",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Cases and Episodes/Magic Mushrooms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Magic Mushrooms"
+              "title": "Outline"
             }
           },
           {
@@ -242,7 +251,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "523de57b00a2dd26",
+  "active": "8dbc7c19386d7487",
   "lastOpenFiles": [
     "Private/Cases and Episodes/Magic Mushrooms.md",
     "Private/Cases and Episodes/Siren's Sonata.md",
